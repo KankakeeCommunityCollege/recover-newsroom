@@ -1,6 +1,6 @@
 ---
 title: Honor society students earn multiple awards
-date: 2019-10-09 04:58:00 -0500
+date: 2019-06-13 04:58:00 -0500
 expire_date: 2019-11-15 00:00:00 -0600
 image: /uploads/sarahdoris-brittany-lafond.jpg
 news_image_alt: Sarah Doris and Brittany LaFond
