@@ -4,12 +4,16 @@ date: 2019-06-19 04:58:00 -0500
 expire_date: 2019-06-20 00:00:00 -0500
 image: /uploads/library-temp-closed.jpg
 news_image_alt: Library closed words
-article_lead: Library scheduled to re-open June 20
+article_lead: Remediation efforts are underway
 video_content: false
 video_link:
 press_release: false
 ---
 
-The KCC Miner Memorial Library will be closed for the remainder of today (June 19). The library is scheduled to reopen Thursday, June 20 at 7 a.m.
+Earlier today, KCC closed the Miner Memorial Library after a student reported seeing what he suspected were bed bugs.
 
-Any changes will be posted here, through social media and at&nbsp;[kcc.edu](http://www.kcc.edu).&nbsp;
+KCC takes this issue seriously. The college’s Physical Plant Department immediately contacted a licensed exterminator service.
+
+Following confirmation by the pest control specialist, measures to remove the bugs have begun. As they continue, the library will remain closed until further notice.
+
+<div><p>Other areas of the college were also inspected. The bugs have not traveled beyond the area where they were found. The exterminator will return after an appropriate amount of time to monitor the situation and be sure that the bugs are no longer present.</p><p>If you have any questions regarding our response efforts, please feel free to contact Brian Yeoman, assistant director of Physical Plant Operations, <a href="mailto:byeoman@kcc.edu">byeoman@kcc.edu</a>; or Rob Kenney, coordinator of Facility Construction &amp; Building Maintenance, <a href="mailto:rkenney@kcc.edu">rkenney@kcc.edu</a>.</p><p>Detailed information on bed bugs and appropriate control measures can be obtained on the <a href="http://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bed-bugs#resources">Illinois Department of Public Health</a> and <a href="https://www.epa.gov/managing-pests-schools/bed-bugs-and-schools#steps">U.S. Environmental Protection Agency</a> web sites.</p></div>
