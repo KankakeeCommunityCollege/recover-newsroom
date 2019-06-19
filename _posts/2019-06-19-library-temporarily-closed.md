@@ -2,7 +2,7 @@
 title: Library temporarily closed
 date: 2019-06-19 04:58:00 -0500
 expire_date: 2019-06-20 00:00:00 -0500
-image: /uploads/library-temp-closed1.jpg
+image: /uploads/library-temp-closed.jpg
 news_image_alt: Library closed words
 article_lead: Library scheduled to re-open June 20
 video_content: false
