@@ -2,7 +2,7 @@
 title: KCC Library will re-open June 24
 date: 2019-06-20 04:58:00 -0500
 expire_date: 2019-07-04 00:00:00 -0500
-image: /uploads/library-re-open-1.jpg
+image: /uploads/library-reopen.jpg
 news_image_alt: Library reopening June 24
 article_lead: Several safety measures have been utilized
 video_content: false
