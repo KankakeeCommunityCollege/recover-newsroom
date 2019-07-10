@@ -4,7 +4,7 @@ date: 2019-07-12 04:58:00 -0500
 expire_date: 2019-10-14 00:00:00 -0500
 image:
 news_image_alt:
-article_lead: SEC offering classes for fall semester.
+article_lead: Classes for fall semester at SEC.
 video_content: false
 video_link:
 press_release: false
