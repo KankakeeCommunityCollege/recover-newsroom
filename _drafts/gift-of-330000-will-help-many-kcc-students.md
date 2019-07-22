@@ -12,7 +12,7 @@ press_release: false
 
 With a bequest of more than $330,000, a long-time teacher has made it possible for Kankakee Community College students to pursue their dreams.
 
-Through her estate, Frances Cooper Wertz arranged for a total of $332,662 for Kankakee Community College students. Of the gift, $255,894 will support [scholarships](www.kcc.edu/scholarships) and $76,768 will go toward a new Student Success Center.
+![](/uploads/harley-rudish-2018scholarshipbreakfast.JPG){: .float-image-right width="203" height="183"}Through her estate, Frances Cooper Wertz arranged for a total of $332,662 for Kankakee Community College students. Of the gift, $255,894 will support [scholarships](www.kcc.edu/scholarships) and $76,768 will go toward a new Student Success Center.
 
 Though Wertz never attended KCC, she appreciated the value of the educational foundation offered at the college, said Kelly Myers, executive director of the KCC Foundation.
 
