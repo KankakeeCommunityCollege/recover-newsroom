@@ -5,6 +5,24 @@ theme: "kcc-gem-theme"
 google-tag_key: Google Tag Manager key goes here
 url: "https://news.kcc.edu"
 google_analytics_key: UA-4328282-19
+nav_links:
+  - link_text: Home
+    link_href: ''
+    button: false
+  - link_text: Landing Page
+    link_href: 'landing-page'
+    button: false
+  - link_text: News
+    link_href: 'news'
+    button: false
+  - link_text: Events
+    link_href: 'events'
+    button: false
+  - link_text: Videos
+    link_href: 'vidoes'
+  - link_text: Contact
+    link_href: '#contact'
+    button: false
 collections:
   announcements:
     output: false
