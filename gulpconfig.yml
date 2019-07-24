@@ -73,12 +73,6 @@ jekyll:
 
 watch: # 'Watch' for changes in all the following:
   images: "assets/img/**/*"
-  javascript:
-    - "assets/js/all.min.js"
-    - "assets/js/*.js"
-  playlistScript:
-    - "assets/js/playlist.min.js"
-    - "assets/js/*.js"
   sass: "assets/scss/**/*.scss"
   contentSass: "assets/scss/**/*.scss"
   pages:
@@ -88,5 +82,3 @@ watch: # 'Watch' for changes in all the following:
     # !exlclusions:
     - "!_site/**/*.*"
     - "!assets/**/*.*"
-  copyrss:
-    - "_site/rss.xml"

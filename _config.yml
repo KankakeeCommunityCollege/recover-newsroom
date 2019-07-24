@@ -1,6 +1,8 @@
 title: "Kankakee Community College"
 name: "KCC Newsroom"
 timezone: America/Chicago
+theme: "kcc-gem-theme"
+google-tag_key: Google Tag Manager key goes here
 url: "https://news.kcc.edu"
 google_analytics_key: UA-4328282-19
 collections:
