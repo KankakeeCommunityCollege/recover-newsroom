@@ -5,3 +5,6 @@
     <META HTTP-EQUIV="Expires" CONTENT="-1"> -->
   </head>
   <body>
+  {% if page.title == "Newsroom" or page.layout == "post" %}
+    {% include scripts/facebook-sdk.html %}
+  {% endif %}

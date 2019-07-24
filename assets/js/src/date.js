@@ -1,6 +1,8 @@
 // SETS THE CURRENT DATE IN THE "LATEST-NEWS-WIDGET"
-$(document).ready(function () {
-  var dt = new Date();
-  var time = dt.getMonth()+1 + '.' + dt.getDate();
-  $('#todaysDate').html(time);
-});
+function setDate() {
+  let dt = new Date();
+  const time = dt.getMonth()+1 + '.' + dt.getDate();
+  document.getElementById('todaysDate').innerHTML = time;
+}
+
+export default setDate;

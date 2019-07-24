@@ -7,4 +7,4 @@ function checkForPound() {
       }, 1000);
   }
 }
-checkForPound();
+export default checkForPound;
