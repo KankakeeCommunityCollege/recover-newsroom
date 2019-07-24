@@ -2,7 +2,7 @@
 title: Gift of 330K dollars will help many KCC students
 date: 2019-07-22 04:58:00 -0500
 expire_date: 2019-08-09 00:00:00 -0500
-image: /uploads/harley-rudish-dsc-6521.JPG
+image: /uploads/harley-rudish-dsc-6521_lowercase-jpg.jpg
 news_image_alt: Harley Rudish
 article_lead: Funds marked for scholarships and Student Success Center
 video_content: false
