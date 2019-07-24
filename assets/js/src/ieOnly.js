@@ -1,28 +1,42 @@
+// Adds special helper classes when the user is using Internet Exploder
 function GetIEVersion() {
-  var sAgent = window.navigator.userAgent;
-  var Idx = sAgent.indexOf('MSIE');
+  const sAgent = window.navigator.userAgent;
+  const Idx = sAgent.indexOf('MSIE');
 
-  // If IE, return version number.
-  if (Idx > 0) {
+  if (Idx > 0) {  // If IE, return version number.
     return parseInt(sAgent.substring(Idx+ 5, sAgent.indexOf('.', Idx)));
   }
-  // If IE 11 then look for Updated user agent string.
-  else if (!!navigator.userAgent.match(/Trident\/7\./)) {
+  else if (!!navigator.userAgent.match(/Trident\/7\./)) {  // If IE 11 then look for Updated user agent string.
     return 11;
   }
-  else {
-    // console.log('Not IE. Im proud of you for not using IE!');
-    return 0; //It is not IE
+  else {  // It is not IE
+    return 0;  // console.log('Not IE. Im proud of you for not using IE!');
+  }
+}
+
+function addIeClasses(querySelector, ieClass) {
+  let thisQuerySelector = document.querySelectorAll(querySelector);
+  for (var i = 0; i < thisQuerySelector.length; i++) {
+    let thisSelection = thisQuerySelector[i];
+    thisSelection.classList.add(ieClass);
   }
 }
 
 function ieOnly() {
+  //const simulatedIeTrue = false;
   if (GetIEVersion() > 10) {
-    // console.log('CONGRATULATIONS! Your using the worst internet browser possible!');
-    // console.log('This is IE ' + GetIEVersion());
-    $('[id*="jsTeaseLink"]').addClass('ie-only__no-flex');
-    $('.latest-news-widget__latest__tease__img-mod--default').addClass('ie-only__float-right');
-    $('.latest-news-widget__latest__tease__hgroup').addClass('ie-only__hgroup');
+  //if (simulatedIeTrue === true) {
+    const selectorClassObject = {
+      '.js-hp-latest-tease-link': 'ie-only__no-flex',
+      '.latest-news-widget__latest__tease__img-mod--default': 'ie-only__float-right',
+      '.latest-news-widget__latest__tease__hgroup': 'ie-only__hgroup'
+    }
+
+    for (var key in selectorClassObject) {
+      if (selectorClassObject.hasOwnProperty(key)) {
+        addIeClasses(key, selectorClassObject[key]);
+      }
+    }
   }
 }
 
