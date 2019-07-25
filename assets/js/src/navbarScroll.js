@@ -1,21 +1,25 @@
 // Shrink the local navbar when you scroll down
 // (navbar scroll effects)
 function navbarScroll() {
+
+  const mainNav = document.getElementById('mainNav');
+  let content = document.querySelector('html');
+
+  function shrinkNavbar() {
+    mainNav.classList.add('navbar-shrink');
+  }
+
+  function unshrinkNavbar() {
+    mainNav.classList.remove('navbar-shrink');
+  }
+
   window.addEventListener('scroll', function() {
-    const mainNav = document.getElementById('mainNav');
-    
+    let contentDistanceFromTop = content.scrollTop;
+    console.log(contentDistanceFromTop);
+    contentDistanceFromTop > 100 ?
+    shrinkNavbar()
+  : unshrinkNavbar();
   });
-  var navbarCollapse = function() {
-    if ($('#mainNav').offset().top > 100) {
-      $('#mainNav').addClass('navbar-shrink');
-    } else {
-      $('#mainNav').removeClass('navbar-shrink');
-    }
-  };
-  // Collapse now if page is not at top
-  navbarCollapse();
-  // Collapse the navbar when page is scrolled
-  $(window).scroll(navbarCollapse);
 }
 
 export default navbarScroll;

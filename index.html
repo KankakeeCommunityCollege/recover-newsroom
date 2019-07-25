@@ -3,17 +3,25 @@ layout: default
 baseurl: ''
 title: Newsroom
 description: ''
+display_announcement: false
+announcements:
+  - title: Baked Potato Bar Canceled
+    content: 'The baked potato bar scheduled for June 31st has been canceled.'
 ---
 
 <section class="position__offset-fixed-nav">
-  {% for announcement in site.announcements %}
-    {% if announcement.display_announcement == true %}
-      {% include announcement.html %}
-    {% endif %}
-  {% endfor %}
+  {% if page.display_announcement == true %}
+    {% for announcement in page.announcements %}
+      {% if forloop.first == true %}
+        {% include announcement.html %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 </section>
-{% include latest-news-widget.html %}
-{% include latest-news-modal.html %}
+<section>
+  {% include latest-news-widget.html %}
+  {% include latest-news-modal.html %}
+</section>
 {% include events.html %}
 <div class="container">
   <div class="row">
