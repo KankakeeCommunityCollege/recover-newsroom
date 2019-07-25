@@ -1,6 +1,6 @@
 ---
 title: Professor nominated for civic engagement award
-date: 2019-07-25 04:58:00 -0500
+date: 2019-07-24 04:58:00 -0500
 expire_date: 2019-08-05 00:00:00 -0500
 image: /uploads/kris-condon-dsc-8313---copy.jpg
 news_image_alt: Dr. Kristine Condon
