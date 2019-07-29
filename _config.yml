@@ -22,9 +22,6 @@ nav_links:
   - link_text: Contact
     link_href: '#contact'
     button: false
-collections:
-  announcements:
-    output: false
 defaults:
 - scope:
     type: ''
