@@ -1,6 +1,6 @@
 ---
 title: Post Title
-date:
+date: now
 expire_date:
 image: 'assets/img/kcc_default_post-placeholder.png'
 news_image_alt: Descriptive text for article's image
