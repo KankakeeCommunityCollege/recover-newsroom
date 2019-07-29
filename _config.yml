@@ -94,6 +94,10 @@ _comments:
   press_release: Check this box to display the press-release info at the bottom of the post.
 
 _options:
+  layout: # We don't want users changing these!!
+    hidden: true
+  baseurl: # We don't want users changing these!!
+    hidden: true
   content:
     format: p h2 h3 h4 h5 h6 pre address div
     bold: true
