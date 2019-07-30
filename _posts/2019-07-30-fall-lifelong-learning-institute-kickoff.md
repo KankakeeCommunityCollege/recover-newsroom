@@ -1,9 +1,9 @@
 ---
 title: Fall Lifelong Learning Institute Kickoff
-date: 2019-07-30 04:58:00 -0500
+date: 2019-07-30 14:00:00 -0500
 expire_date: 2019-08-30 00:00:00 -0500
 image: /uploads/llisquare.jpg
-news_image_alt: Hurricane
+news_image_alt: Lifelong Learning Institute
 article_lead: Fall classes for those 50 and over.
 video_content: false
 video_link:
