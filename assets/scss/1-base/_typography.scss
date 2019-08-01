@@ -1,8 +1,133 @@
+
+.typography__news-header {
+  border-bottom-color: $primary-red;
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+  color: $primary-blue;
+  text-transform: uppercase;
+  &--gray {
+    color: $grey-6;
+  }
+}
+
+.typography__news-header--list-heading {
+  color: $primary-blue;
+  font-family: $font-family-headings;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: .075em;
+  font-style: normal;
+  text-transform: uppercase;
+  &:hover {
+    color: $primary-red;
+  }
+}
+
+@media (max-width:1069px) {
+  .typography__news-header--list-heading {
+    font-size: 14px;
+  }
+}
+
+.typography__news-header--title {
+  background-color: $black;
+  border-color: $white;
+  border-width: thin;
+  border-style: solid;
+  color: $white;
+  display: inline-block;
+  font-family: $font-family-sans;
+  font-size: .9rem;
+  font-weight: $font-weight-bolder;
+  letter-spacing: .1rem;
+  line-height: 1;
+  padding: 5px 7px 3px;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+  top: -.75rem;
+  width: 90%;
+  margin-bottom: 5px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .typography__news-header--title {
+    background-color: $white;
+    color: $black;
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 18px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .typography__news-header--title {
+    background-color: $white;
+    color: $black;
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 18px;
+  }
+}
+
+.typography__news-header--lead {
+  color: $white;
+  font-size: 1.8rem;
+  font-family: $font-family-oswald;
+  letter-spacing: .1rem;
+  line-height: 1;
+  text-transform: uppercase;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: .5rem;
+  padding-bottom: 1.5rem;
+}
+
+@media screen and (min-width: 360px) {
+  .typography__news-header--lead {
+    font-size: 2rem;
+    padding-bottom: 2rem;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .typography__news-header--lead {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .typography__news-header--lead {
+    font-size: 2.6rem;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: .5rem;
+    padding-bottom: 2rem;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .typography__news-header--lead {
+    font-size: 2.6rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+// =================================================
+// Verified to be in the site ^ above this line ^
+// =================================================
+
+
 .page-heading { // This class is applied to h1 level headings
   color: $sub-nav-heading;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.1em;
-  font-weight: $secondaryfont-weight-bold;
+  font-weight: $font-weight-bold;
   letter-spacing: .06em;
   text-transform: uppercase;
 }
@@ -15,24 +140,24 @@
 
 p {
   color: $grey-1;
-  font-family: $basefont-stack;
-  font-size: $base-font-size;
+  font-family: $font-family-paragraph;
+  font-size: $font-size-base;
 }
 
 .menu-heading {
   color: $primary-red;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.2em;
-  font-weight: $secondaryfont-weight-bold;
+  font-weight: $font-weight-bold;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
 
 .nav-link-main { //styles for Main links in mega-nav
   color: $nav-link !important;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1em;
-  font-weight: $secondaryfont-weight-regular;
+  font-weight: $font-weight-regular;
   letter-spacing: .06em;
   text-transform: uppercase;
 }
@@ -45,9 +170,9 @@ p {
 
 .sub-nav-link {
   color: $sub-nav-heading;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: .8em;
-  font-weight: $secondaryfont-weight-regular;
+  font-weight: $font-weight-regular;
   letter-spacing: .06em;
 }
 
@@ -58,16 +183,16 @@ p {
 }
 
 .footer-heading {
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 2.6em;
-  font-weight: $secondaryfont-weight-black;
+  font-weight: $font-weight-black;
 }
 
 .sub-heading {
   color: $white;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: .7em;
-  font-weight: $secondaryfont-weight-regular;
+  font-weight: $font-weight-regular;
   letter-spacing: .01em;
   margin-bottom: 2px;
   padding-top: 5px;
@@ -94,9 +219,9 @@ p {
 
 .slide-heading {
   color: $white;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1em;
-  font-weight: $secondaryfont-weight-bold;
+  font-weight: $font-weight-bold;
   letter-spacing: .02em;
   text-transform: uppercase;
 }
@@ -126,14 +251,14 @@ p {
 }
 
 p {
-  font-family: $basefont-stack;
+  font-family: $font-family-paragraph;
 }
 
 .blue-heading {
   color: $primary-blue;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.4em;
-  font-weight: $secondaryfont-weight-bold;
+  font-weight: $font-weight-bold;
 }
 
 .f-color {
@@ -142,57 +267,57 @@ p {
 
 .main-heading {
   color: $grey-heading;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.4em;
-  font-weight: $secondaryfont-weight-regular;
+  font-weight: $font-weight-regular;
 }
 
 // Typography for Coaches sections on pages
 // ===========================================
 .coaches-heading {
   color: $grey-heading;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.4em;
-  font-weight: $secondaryfont-weight-regular;
+  font-weight: $font-weight-regular;
   margin-left: 15px;
 }
 
 .coach-name {
   color: $primary-red;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.5em;
-  font-weight: $secondaryfont-weight-bold;
+  font-weight: $font-weight-bold;
 }
 
 .coach-title {
   color: $grey-heading;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.2em;
-  font-weight: $secondaryfont-weight-black;
+  font-weight: $font-weight-black;
 }
 
 p.general-p {
-  font-family: $basefont-stack;
+  font-family: $font-family-paragraph;
   font-size: 1rem;
 }
 
 .news__heading {
   color: $primary-red;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.2em;
 }
 
 .news__sub-heading {
   color: #666;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: .9em;
-  font-weight: $secondaryfont-weight-boldish;
+  font-weight: $font-weight-boldish;
   text-transform: uppercase;
 }
 
 .news__paragraph {
   color: #666;
-  font-family: $basefont-stack;
+  font-family: $font-family-paragraph;
   font-size: 1rem;
 }
 
@@ -200,17 +325,10 @@ p.general-p {
 // ==========================
 .alert__title {
   color: $primary-red;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.2em;
 }
 
-.typography__latest-news-widget__h2 {
-  border-bottom-color: $primary-red;
-  border-bottom-style: solid;
-  border-bottom-width: thick;
-  color: $primary-blue;
-  text-transform: uppercase;
-}
 
 .typography__newsroom-main-heading {
   align-self: center;
@@ -279,8 +397,8 @@ p.general-p {
 
 .typography__upcoming-events {
   color: $primary-blue;
-  font-family: $basefont-stack;
-  font-weight: $base-font-weigth-bold;
+  font-family: $font-family-paragraph;
+  font-weight: $font-weight-bolder;
   text-transform: uppercase;
 }
 
@@ -289,5 +407,5 @@ p.general-p {
 }
 
 .typography__newsroom-heading {
-  font-family: $secondaryfont-weight-bold;
+  font-family: $font-weight-bold;
 }

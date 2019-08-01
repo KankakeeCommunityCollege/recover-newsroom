@@ -4,6 +4,7 @@ import newsWidget from './newsWidget.js';
 import navbarScroll from './navbarScroll.js';
 import playModal from './playModal.js';
 import checkForPound from './jumpLink.js';
+import newsHeader from './newsHeader.js';
 
 checkForPound();
 navbarScroll();
@@ -13,4 +14,5 @@ document.addEventListener('DOMContentLoaded', function() {
   setDate();
   newsWidget();
   playModal();
+  newsHeader();
 });

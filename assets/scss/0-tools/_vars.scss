@@ -1,16 +1,21 @@
-//  TO USE GOOGLE FONTS FOR SITE:
-//==============================================
-//fall back font stack for site
-$basefont-stack: 'Open Sans', sans-serif;
-$base-font-size: 1em;
-$base-font-weight: 400;
-$base-font-weigth-bold: 600;
-//secondary font stack for site
-$secondaryfont-stack: 'Roboto', sans-serif;
-$secondaryfont-weight-regular: 400;
-$secondaryfont-weight-boldish: 500;
-$secondaryfont-weight-bold: 700;
-$secondaryfont-weight-black: 900;
+//  VARIABLES
+// =============================
+
+// Fonts
+$font-family-paragraph: 'Open Sans', sans-serif;
+$font-family-headings: 'Roboto', sans-serif;
+$font-family-kcc: 'Eurostile', sans-serif;
+$font-family-oswald: 'Oswald', sans-serif;
+$font-family-sans: sans-serif;
+
+$font-size-base: 1rem;
+
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-boldish: 500;
+$font-weight-bolder: 600;
+$font-weight-bold: 700;
+$font-weight-black: 900;
 
 //Image path for most of global style sheet
 $imagedir:'/assets/img/';
@@ -26,6 +31,7 @@ $grey-2: #e5e8ed;
 $grey-3: #f1f2f7;            //  Background color for slick tracks
 $grey-4: #f8f9fa;            // Background color for footer (and Bootstrap 4 light navbar)
 $grey-5: #b1b1b1;            // Border-bottom for local-nav navigation bar
+$grey-6: #ddd;
 
 $white: #fff;
 

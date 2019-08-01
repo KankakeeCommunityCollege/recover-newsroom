@@ -1,11 +1,9 @@
 ---
 title: Microsoft Office Certificate available
-date: 2019-07-30 04:58:00 -0500
+post_approved: true
 expire_date: 2019-10-14 00:00:00 -0500
 image: /uploads/officecertificate1---copy.jpg
-news_image_alt: Office Certificate in Watseka
-article_lead: Watseka location offers certificatioin
-video_content: false
+article_lead: Watseka location offers certification
 video_link:
 press_release: false
 ---

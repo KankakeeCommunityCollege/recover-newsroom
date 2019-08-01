@@ -116,6 +116,3 @@ _options:
     undo: true
     redo: true
     styles: /assets/css/content.css
-
-_defaults:
-  image: "/uploads/kcc_default_post-placeholder.png"

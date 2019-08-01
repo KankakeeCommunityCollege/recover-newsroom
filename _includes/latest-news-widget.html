@@ -9,7 +9,8 @@
           <div class="latest-news-widget__feature-mod--inner">
 
             {% for post in site.posts %}
-              {% assign current_date = site.time | date: "%Y-%m-%d %H:%M" %}
+              {% assign approved_posts = site.posts | where: "post_approved", true %}
+              {% if post.expire_date %}
               {% assign post_expiration = post.expire_date | date: "%Y-%m-%d %H:%M" %}
               {% assign current_posts = site.posts | where_exp: "item", "item.expire_date >  site.time" %}
             {% endfor %}

@@ -1,11 +1,9 @@
 ---
 title: KCC South Extension Hours between semesters
-date: 2019-07-29 04:58:00 -0500
+post_approved: true
 expire_date: 2019-08-19 00:00:00 -0500
 image: /uploads/crowseriessec.jpg
-news_image_alt: SEC
 article_lead: Regular hours return Aug. 19
-video_content: false
 video_link:
 press_release: false
 ---

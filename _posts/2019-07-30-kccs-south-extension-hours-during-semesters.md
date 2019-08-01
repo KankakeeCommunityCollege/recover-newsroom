@@ -1,11 +1,9 @@
 ---
 title: KCC's South Extension Hours during semesters
-date: 2019-07-30 04:58:00 -0500
+post_approved: true
 expire_date: 2019-08-19 00:00:00 -0500
 image: /uploads/crowseriessec.jpg
-news_image_alt: SEC
 article_lead: SEC hours between semesters
-video_content: false
 video_link:
 press_release: false
 ---

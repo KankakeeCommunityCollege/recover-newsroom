@@ -1,8 +1,8 @@
 .blue-link {
   color: $primary-blue;
-  font-family: $secondaryfont-stack;
+  font-family: $font-family-headings;
   font-size: 1.1em;
-  font-weight: $secondaryfont-weight-bold;
+  font-weight: $font-weight-bold;
 }
 
 .blue-link:hover {
@@ -83,4 +83,16 @@
 
 .links__darker-link {
   color: $darker-link;
+}
+
+.links__news-header--hover:hover .typography__news-header--title {
+  background-color: $black;
+  color: $white;
+}
+
+.links__no-underline {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
 }
