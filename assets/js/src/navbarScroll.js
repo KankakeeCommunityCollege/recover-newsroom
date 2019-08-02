@@ -15,7 +15,6 @@ function navbarScroll() {
 
   window.addEventListener('scroll', function() {
     let contentDistanceFromTop = content.scrollTop;
-    console.log(contentDistanceFromTop);
     contentDistanceFromTop > 100 ?
     shrinkNavbar()
   : unshrinkNavbar();

@@ -1,0 +1,129 @@
+// Animation Style Rules for
+// news.kcc.edu's news-header widget
+// =============================================
+
+.news-header__img.news-header__img--animate-in {
+  opacity: 0;
+  animation: news-header-in 1s ease forwards .2s;
+}
+
+.news-header__img.news-header__img--animate-out {
+  opacity: 1;
+  animation: news-header-out .5s ease forwards;
+}
+
+.news-header__title.news-header__title--animate-in {
+  opacity: 0;
+  animation: news-header-title-in .5s ease forwards;
+}
+
+.news-header__lead.news-header__lead--animate-in {
+  opacity: 0;
+  animation: news-header-title-in .5s ease .1s forwards;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes news-header-in {
+  0% {
+    transform: scale(1.05);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes news-header-out {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(.95);
+    opacity: 0;
+  }
+}
+
+@keyframes news-header-title-out {
+  from {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    opacity: 0;
+    transform: translate3d(0, -35px, 0);
+  }
+}
+
+@keyframes news-header-title-in {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 35px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes play-icon-in {
+  0% {
+    transform: scale(1.08);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.02);
+    opacity: .8;
+  }
+}
+
+@keyframes play-icon-out {
+  0% {
+    transform: scale(1.02);
+    opacity: .8;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+
+@keyframes play-zoom-in {
+  0% {
+    transform: scale(1.02);
+    opacity: .8;
+  }
+  100% {
+    transform: scale(1.2);
+    opacity: .95;
+  }
+}
+
+@keyframes play-zoom-out {
+  0% {
+    transform: scale(1.2);
+    opacity: .95;
+  }
+  100% {
+    transform: scale(1.02);
+    opacity: .8;
+  }
+}

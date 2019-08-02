@@ -1,5 +1,6 @@
 // Header styles
 // ==========================================
+@import './news-header-animations';
 
 .news-header {
   margin-bottom: 2rem;
@@ -8,6 +9,10 @@
 
 .news-header__img-col {
   overflow: hidden;
+}
+
+.news-header__img-wrapper {
+  background-color: $black;
 }
 
 

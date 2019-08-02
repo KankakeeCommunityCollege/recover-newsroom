@@ -1,9 +1,8 @@
 ---
-post_title: Post Title
+title:
 post_apporved: false
 expire_date:
-post_image: 'assets/img/kcc_default_post-placeholder.png'
-post_image_alt: Descriptive text for article's image
+image: 'assets/img/kcc_default_post-placeholder.png'
 video_link:
 press_release: false
 ---
