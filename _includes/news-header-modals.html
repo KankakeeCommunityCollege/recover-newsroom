@@ -1,0 +1,43 @@
+<!-- Latest News Widget Modal Section -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      {% for post in site.posts %}
+        {% assign approved_posts = site.posts | where: "post_approved", true %}
+      {% endfor %}
+
+      {% for post in approved_posts limit: 4 %}
+        {% if post.expire_date == nil or post.expire_date > site.time %}
+          <!--  Video content news item modal{{ forloop.index }}  -->
+          <div class="modal fade" id="modal{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="postTitle{{ forloop.index }}" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  {% if post.video_link != nil %}
+                  <div class="positioning__iframe-wrapper">
+                    <iframe class="js-yt-frame" id="iframe{{ forloop.index }}" data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" width="720" height="405" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  </div><br>
+                  {% endif %}
+                  <h4 id="postTitle{{ forloop.index }}" class="news__heading">{{ post.title }}</h4>
+                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
+                  <p class="news__paragraph">{{ post.content }}</p>
+                </div>
+                <div class="bootstrap-overrides__modal-footer flex-wrap">
+                  <!-- Face book like share html -->
+                  <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+                  <a class="twitter-share-button" data-text="Newsroom - KCC {{ post.url }} via @KCCedu" data-url="{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
+                  <a data-iframetarget="#iframe{{ forloop.index }}" id="fullPageVideo{{ forloop.index }}" href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ml-md-auto">View Full Page</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

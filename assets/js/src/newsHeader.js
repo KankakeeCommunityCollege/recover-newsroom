@@ -2,9 +2,13 @@ function initialAnimation() {
   const firstImage = document.querySelector('.news-header__img--first');
   const firstTitle = document.querySelector('.news-header__title--first');
   const firstLead = document.querySelector('.news-header__lead--first');
+
   firstImage.classList.add('news-header__animate-in');
   firstTitle.classList.add('news-header__animate-in');
   firstLead.classList.add('news-header__animate-in');
+  document.querySelector('.news-header__play-icon--first') ?
+    document.querySelector('.news-header__play-icon--first').classList.add('news-header__animate-in')
+  : null;
 }
 
 function makePreviewActive(id) {
@@ -76,8 +80,8 @@ function newsHeader() {
     let thisLink = linkList[i];
 
     thisLink.addEventListener('mouseenter', function(e) {
-      let previewTarget = e.target.dataset.preview;
-      const linkIsVideoPost = e.target.dataset.video !== undefined;
+      let previewTarget = e.target.dataset.preview;  // data-preview="" attribute that points to the correct id
+      const linkIsVideoPost = e.target.dataset.video !== undefined;  // data-video="" attribute is only one video-post links
       removeActivePreview();
       makePreviewActive(previewTarget);
       animateImageIn(previewTarget);

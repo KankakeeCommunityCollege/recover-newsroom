@@ -37,13 +37,14 @@
   left: 50%;
   margin-left: -28px;  // half the width of this icon (to center it)
   margin-top: -28px;  // half the width of this icon (to center it)
+  opacity: 0;
   position: absolute;
   top: 50%;
+  transition-duration: .5s;
+  transition-property: transform, opacity;
+  transition-timing-function: ease-in-out;
   width: 56px;
   z-index: 1;
-  transition-property: transform, opacity;
-  transition-duration: .5s;
-  transition-timing-function: ease-in-out;
 }
 
 @media screen and (min-width: 768px) {
