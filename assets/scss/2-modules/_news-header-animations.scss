@@ -2,42 +2,34 @@
 // news.kcc.edu's news-header widget
 // =============================================
 
-.news-header__img.news-header__img--animate-in {
+.news-header__img.news-header__animate-in {
   opacity: 0;
   animation: news-header-in 1s ease forwards .2s;
 }
 
-.news-header__img.news-header__img--animate-out {
+.news-header__img.news-header__animate-out {
   opacity: 1;
   animation: news-header-out .5s ease forwards;
 }
 
-.news-header__title.news-header__title--animate-in {
+.news-header__title.news-header__animate-in {
   opacity: 0;
   animation: news-header-title-in .5s ease forwards;
 }
 
-.news-header__lead.news-header__lead--animate-in {
+.news-header__lead.news-header__animate-in {
   opacity: 0;
   animation: news-header-title-in .5s ease .1s forwards;
 }
 
-@keyframes fade-in {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
+.news-header__play-icon.news-header__animate-in {
+  opacity: 0;
+  animation: play-icon-in .65s ease forwards .4s;
 }
 
-@keyframes fade-out {
-  from {
-    opacity: 1;
-  }
-  to {
-    opacity: 0;
-  }
+.news-header__play-icon.news-header__animate-out {
+  opacity: .8;
+  animation: play-icon-out .65s ease-in-out forwards .4s;
 }
 
 @keyframes news-header-in {

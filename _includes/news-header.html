@@ -3,36 +3,35 @@
     {% for post in site.posts %}
       {% assign approved_posts = site.posts | where: "post_approved", true %}
     {% endfor %}
-    <div id="newsHeaderPreviewCol" class="col-lg-7 col-xl-8 news-header__preview-col">
+    <div id="newsHeaderPreviewCol" class="col-xl-8 news-header__preview-col">
     {% for post in approved_posts limit: 4 %}
       {% if post.expire_date == nil or post.expire_date > site.time %}
-      <a id="preview{{ forloop.index }}" data-toggle="modal" {% if post.video_link != nil %}data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}"{% endif %}class="news-header__preview--link links__news-header--hover newsHeader-preview-link{% if forloop.first == true %} newsHeader-link-active{% endif %}" href="#modal{{ forloop.index }}" tabindex="-1" aria-hidden="{% if forloop.first == true %}false{% else %}true{% endif %}">
-      <div class="row">
-        <div class="col-12 col-md-7 col-lg-12 col-xl-7 col-xxl-8 order-1 order-md-2 order-lg-1 order-xl-2 news-header__img-col">
-        {% if post.video_link != nil %}
-          <img id="playIcon{{ forloop.index }}" src="{{ page.baseurl }}assets/img/play.svg" alt="" class="latest-news-widget__play-icon js-play-icon">
-          <img class="latest-news-widget__feature__img js-latest-news-widget-img" src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="">
-        {% else %}
-        <div class="news-header__img-wrapper">
-          <img class="img__full-width news-header__img{% if forloop.first == true %} news-header__img--first{% endif %}" {% if forloop.first == false %}src="{{ page.baseurl }}assets/img/kcc-placeholder.png" data-{% endif %}src="{{ page.baseurl }}{{ post.image }}" alt="">
-        </div>
-        {% endif %}
-        </div>
-        <div class="col-12 col-md-5 col-lg-12 col-xl-5 col-xxl-4 order-2 order-md-1 order-lg-2 order-xl-1 news-header__info-col">
-        {% if post.video_link != nil %}
-        {% else %}
+      <a id="preview{{ forloop.index }}" data-toggle="modal" {% if post.video_link != nil %}data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" {% endif %}class="news-header__preview--link links__news-header--hover newsHeader-preview-link{% if forloop.first == true %} newsHeader-link-active{% endif %}" href="#modal{{ forloop.index }}" tabindex="-1" aria-hidden="{% if forloop.first == true %}false{% else %}true{% endif %}">
+        <div class="row">
+          <div class="col-md-7 col-xxl-8 order-1 order-md-2 news-header__img-col">
+          {% if post.video_link != nil %}
+            <div class="news-header__img-wrapper text-right">
+              <img src="{{ page.baseurl }}assets/img/play.svg" alt="" class="news-header__play-icon">
+              <img class="img__full-width news-header__img{% if forloop.first == true %} news-header__img--first{% endif %}" {% if forloop.first == false %}src="{{ page.baseurl }}assets/img/kcc-placeholder.png" data-{% endif %}src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="">
+            </div>
+          {% else %}
+            <div class="news-header__img-wrapper text-right">
+              <img class="img__full-width news-header__img{% if forloop.first == true %} news-header__img--first{% endif %}" {% if forloop.first == false %}src="{{ page.baseurl }}assets/img/kcc-placeholder.png" data-{% endif %}src="{{ page.baseurl }}{{ post.image }}" alt="">
+            </div>
+          {% endif %}
+          </div>
+          <div class="col-md-5 col-xxl-4 order-2 order-md-1 news-header__info-col">
           <div class="news-header__info--wrapper">
             <span class="news-header__title typography__news-header--title{% if forloop.first == true %} news-header__title--first{% endif %}">{{ post.title }}</span>
             <h4 class="typography__news-header--lead news-header__lead{% if forloop.first == true %} news-header__lead--first{% endif %}">{{ post.article_lead }}</h4>
           </div>
-        {% endif %}
         </div>
       </div>
       </a>
       {% endif %}
     {% endfor %}
     </div>
-    <div class="col-lg-5 col-xl-4">
+    <div class="col-xl-4">
       <h2 class="news-header__heading typography__news-header">
         <span class="news-header__red-underline">Latest News
           <span id="todaysDate" class="typography__news-header--gray"></span>
@@ -44,7 +43,7 @@
               {% if post.video_link != nil %}
               <!-- If it has a video link in the post -->
               <li class="news-header__list--item">
-                <a data-frame="iframe" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-toggle="modal" class="news-header__list--link links__no-underline{% if forloop.first == true %} news-header__active{% endif %}" data-target="#videoModal{{ forloop.index }}" href="#" data-image="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" data-index="{{ forloop.index0 }}">
+                <a data-toggle="modal" {% if post.video_link != nil %}data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" {% endif %}class="news-header__list--link links__no-underline{% if forloop.first == true %} news-header__active{% endif %} newsHeader-list-link" href="#modal{{ forloop.index }}" data-preview="preview{{ forloop.index }}">
                   <div class="news-header__list--heading-div">
                     <h3 class="news-header__list--heading typography__news-header--list-heading">
                     <span class="news-header__list--number">{{ forloop.index }}</span>{{ post.title }}</h3>

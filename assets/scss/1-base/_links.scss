@@ -96,3 +96,8 @@
     text-decoration: none;
   }
 }
+
+.links__news-header--hover:hover .news-header__play-icon {
+  transform: scale(1.2);
+  opacity: .95;
+}
