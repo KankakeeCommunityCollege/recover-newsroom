@@ -11,8 +11,10 @@ announcements:
 
 <section class="position__offset-fixed-nav">
   {% if page.display_announcement == true %}
-    {% for announcement in page.announcements limit: 1 %}
-      {% include announcement.html %}
+    {% for announcement in page.announcements %}
+      {% if forloop.first == true %}
+        {% include announcement.html %}
+      {% endif %}
     {% endfor %}
   {% endif %}
 </section>
