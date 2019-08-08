@@ -5,6 +5,7 @@ import navbarScroll from './navbarScroll.js';
 import playModal from './playModal.js';
 import checkForPound from './jumpLink.js';
 import newsHeader from './newsHeader.js';
+import jumpLinkFix from './jumpLinkFix.js';
 
 checkForPound();
 navbarScroll();
@@ -15,4 +16,5 @@ document.addEventListener('DOMContentLoaded', function() {
   newsWidget();
   playModal();
   newsHeader();
+  jumpLinkFix();
 });
