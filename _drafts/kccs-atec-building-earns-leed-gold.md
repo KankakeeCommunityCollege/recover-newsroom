@@ -51,3 +51,5 @@ In 2014, KCC’s North Extension Center at 450 N. Kinzie Ave. in Bradley became 
 * All furniture and carpets were manufactured with recycled content.
 
 * The white roof reflects the sun to reduce heat gain on the building.
+
+ATEC exterior photo provided by BLDD Architects.
