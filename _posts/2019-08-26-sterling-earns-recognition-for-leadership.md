@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-John Edit Test A KCC professor has been honored for his leadership in advancing renewable energy.
+A KCC professor has been honored for his leadership in advancing renewable energy.
 
 ![](/uploads/clay-sterling-kcc-tower-safety-dsc-5506---copy.jpg){: .float-image-left width="353" height="251"}Clay Sterling, who teaches electrical engineering technology courses related to renewable energy at KCC, was recognized by the [Midwest Renewable Energy Association’s Avenue of Advocates](https://www.midwestrenew.org/awards/). The Avenue of Advocates recognizes people or organizations who have shown great leadership in advancing renewable energy and sustainable living.
 
