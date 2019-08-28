@@ -2,7 +2,7 @@
 title: On-campus counseling offered
 date: 2019-08-28 04:58:00 -0500
 expire_date: 2019-09-27 00:00:00 -0500
-image: /uploads/andre-a-xavier-tabati6qko4-unsplash.jpg
+image: /uploads/bridge-andre-xavier-unsplash.jpg
 news_image_alt: Bridge
 article_lead: 5 sessions are free for enrolled students
 video_content: false
