@@ -1,0 +1,161 @@
+.infographic {
+  height: auto;
+  position: relative;
+  width: 100%;
+}
+
+.infographic__bg {
+  height: auto;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+.infographic__logo {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.infographic__zippia {
+  width: 50%;
+  margin-left: 25%;
+  margin-right:  25%;
+  position: relative;
+  top: -2rem;
+}
+
+.infographic__row--stats {
+  position: relative;
+  top: -3rem;
+}
+
+.infographic__row--divider::after {
+  background-color: #b5def1;
+  content: " ";
+  display: block;
+  height: 3px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.infographic__left {
+  max-width: 420px;
+}
+
+.infographic__stat {
+  color: $primary-blue;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  letter-spacing: .025rem;
+  line-height: 1.2;
+}
+
+.infographic__stat--left {
+  position: relative;
+  left: -1.5rem;
+}
+
+@media screen and (min-width: 400px) {
+  .infographic__stat--left {
+    left: 0;
+  }
+}
+
+.infographic__stat--large {
+  color: $primary-red;
+  font-size: 3.5rem;
+  letter-spacing: .05rem;
+}
+
+.infographic__stat--red {
+  color: $primary-red;
+  font-size: 1.8rem;
+  letter-spacing: .025rem;
+  line-height: 1.1;
+}
+
+.infographic__thumbs-up {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  right: -10px;
+}
+
+@media screen and (min-width: 350px) {
+  .infographic__thumbs-up {
+    right: 0;
+  }
+}
+
+.infographic__icon--col {
+  position: absolute;
+  right: 1rem;
+  top: 0;
+}
+
+.infographic__heading--red {
+  font-family: 'Roboto', sans-serif;
+  color: $primary-red;
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+
+.infographic__badge {
+  width: 75%;
+}
+
+@media screen and (min-width: 768px) {
+  .infographic__badge {
+    width: auto;
+  }
+}
+
+.infographic__trophy {
+  position: relative;
+  transform: scale(1.25);
+  top: -20px;
+}
+
+@media screen and (min-width: 768px) {
+  .infographic__trophy {
+    transform: scale(1);
+    top: -40px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .infographic__trophy {
+    top: -60px;
+  }
+}
+
+.infographic__typography--italic-heading {
+  color: $primary-blue;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  font-style: italic;
+}
+
+@media screen and (min-width: 768px) {
+  .infographic__typography--italic-heading {
+    font-size: 2.5rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .infographic__typography--italic-heading {
+    font-size: 3rem;
+    position: relative;
+    top: -2rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .infographic__typography--italic-heading {
+    font-size: 4rem;
+  }
+}
