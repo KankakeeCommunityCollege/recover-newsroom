@@ -2,7 +2,7 @@
 title: Grad shows Power of Community
 date: 2019-09-03 04:58:00 -0500
 expire_date: 2019-09-27 00:00:00 -0500
-image: /uploads/light-up-left-sept-2018.jpg
+image: /uploads/light-up-left-sept-2018-compressed-1.jpg
 news_image_alt: Light Up Left Field
 article_lead: Fundraising efforts get noticed by MLB team
 video_content: false
