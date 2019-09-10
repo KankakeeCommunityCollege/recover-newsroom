@@ -159,3 +159,52 @@
     font-size: 4rem;
   }
 }
+
+.infographic__btn {
+  border-radius: .85rem;
+  padding-bottom: .0125rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: .0125rem;
+  min-width: 280px;
+  &--blue {
+    background-color: $primary-blue;
+    &:hover {
+      background-color: #0a1b2e;
+    }
+    &:focus {
+      background-color: #0a1b2e;
+    }
+  }
+  &--red {
+    background-color: $primary-red;
+    &:hover {
+      background-color: #911735;
+    }
+    &:focus {
+      background-color: #911735;
+    }
+  }
+  &--orange {
+    background-color: #f99e1b;
+    &:hover {
+      background-color: #966011;
+    }
+    &:focus {
+      background-color: #966011;
+    }
+  }
+  &--typography {
+    font-size: 1.25rem;
+    letter-spacing: .75px;
+  }
+}
+
+.infographic__list {
+  list-style-type: none;
+  padding-inline-start: 0;
+  &--item {
+    padding-bottom: .25rem;
+    padding-top: .25rem;
+  }
+}
