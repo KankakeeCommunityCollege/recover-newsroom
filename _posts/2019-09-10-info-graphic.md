@@ -10,4 +10,5 @@ video_link:
 press_release: false
 ---
 
+{% include infographic-styles.html %}
 {% include infographic-post.html %}
