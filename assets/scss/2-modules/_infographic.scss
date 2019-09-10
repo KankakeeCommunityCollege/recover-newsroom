@@ -41,7 +41,7 @@
 }
 
 .infographic__stat {
-  color: $primary-blue;
+  color: #0f3b63;
   font-family: 'Oswald', sans-serif;
   font-size: 1.25rem;
   font-weight: 600;
@@ -50,13 +50,13 @@
 }
 
 .infographic__stat--large {
-  color: $primary-red;
+  color: #c61f48;
   font-size: 3.5rem;
   letter-spacing: .05rem;
 }
 
 .infographic__stat--red {
-  color: $primary-red;
+  color: #c61f48;
   font-size: 1.5rem;
   //font-size: 1.8rem;
   font-weight: 600;
@@ -73,7 +73,7 @@
 }
 
 .infographic__stat--black {
-  color: $black;
+  color: #000000;
   font-weight: 400;
 }
 
@@ -96,7 +96,7 @@
 
 .infographic__heading--red {
   font-family: 'Roboto', sans-serif;
-  color: $primary-red;
+  color: #c61f48;
   font-weight: 600;
   font-size: 1.4rem;
 }
@@ -131,7 +131,7 @@
 }
 
 .infographic__typography--italic-heading {
-  color: $primary-blue;
+  color: #0f3b63;
   font-family: 'Roboto', sans-serif;
   font-size: 2rem;
   font-style: italic;
@@ -165,7 +165,7 @@
   padding-top: .0125rem;
   min-width: 280px;
   &--blue {
-    background-color: $primary-blue;
+    background-color: #0f3b63;
     &:hover {
       background-color: #0a1b2e;
     }
@@ -174,7 +174,7 @@
     }
   }
   &--red {
-    background-color: $primary-red;
+    background-color: #c61f48;
     &:hover {
       background-color: #911735;
     }
