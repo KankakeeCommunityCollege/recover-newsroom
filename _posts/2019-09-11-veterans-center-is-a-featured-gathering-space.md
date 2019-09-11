@@ -1,6 +1,6 @@
 ---
 title: Veterans Center is a featured gathering space
-date: 2019-09-14 04:58:00 -0500
+date: 2019-09-11 04:58:00 -0500
 expire_date: 2019-09-27 00:00:00 -0500
 image: /uploads/dustin-blaylockdsc-0172.JPG
 news_image_alt: Veteran Dustin Blaylock
