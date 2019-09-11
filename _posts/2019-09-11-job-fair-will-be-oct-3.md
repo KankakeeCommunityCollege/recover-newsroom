@@ -1,6 +1,6 @@
 ---
 title: Job Fair will be Oct 3
-date: 2019-09-14 04:58:00 -0500
+date: 2019-09-11 04:58:00 -0500
 expire_date: 2019-10-03 00:00:00 -0500
 image: /uploads/fall2018-kccjob-fair-dsc-0913---copy.jpg
 news_image_alt: Participants in Fall 2018 job fair
