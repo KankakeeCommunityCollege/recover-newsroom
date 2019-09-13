@@ -1,5 +1,5 @@
 ---
-title: Fast Path Cohort 2 gets started
+title: Fast Path Cohort 2
 date: 2019-09-06 04:58:00 -0500
 expire_date: 2019-09-20 00:00:00 -0500
 image: /uploads/sadee-wuethrich---copy.JPG
