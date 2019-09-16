@@ -16,7 +16,7 @@ press_release: false
 
 Information and an updated list of employers planning to attend the Job Fair are at [http://bit.ly/kccjobfair](http://bit.ly/kccjobfair).&nbsp;
 
-**Employers** can reserve booths at the job fair for free at [http://bit.ly/2GAFvWC/](http://bit.ly/2GAFvWC/).
+**Employers** can reserve booths at the job fair for free at [http://bit.ly/2GAFvWC](http://bit.ly/2GAFvWC).
 
 ## Preparing for and attending the Job Fair
 
