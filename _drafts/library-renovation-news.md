@@ -1,6 +1,6 @@
 ---
 title: Library Renovation News
-date: 2019-09-16 04:58:00 -0500
+date: 2019-09-17 04:58:00 -0500
 expire_date: 2019-09-30 00:00:00 -0500
 image: /uploads/ssc-lower-level-copy.jpg
 news_image_alt: Artist rendering of Student Success Center
