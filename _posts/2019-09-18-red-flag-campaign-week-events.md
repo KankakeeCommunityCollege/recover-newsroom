@@ -2,7 +2,7 @@
 title: Red Flag Campaign Week events
 date: 2019-09-18 04:58:00 -0500
 expire_date: 2019-10-03 00:00:00 -0500
-image:
+image: /uploads/red-flag.jpg
 news_image_alt: Red Flag Campaign
 article_lead: Discussions about dating violence
 video_content: false
