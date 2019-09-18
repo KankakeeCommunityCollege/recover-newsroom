@@ -1,6 +1,6 @@
 ---
 title: Red Flag Campaign Week events
-date: 2019-09-21 04:58:00 -0500
+date: 2019-09-18 04:58:00 -0500
 expire_date: 2019-10-03 00:00:00 -0500
 image: /uploads/red-flag-jpeg-for-portal.JPG
 news_image_alt: Red Flag Campaign
