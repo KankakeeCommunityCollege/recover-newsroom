@@ -2,9 +2,9 @@
 title: Red Flag Campaign Week events
 date: 2019-09-18 04:58:00 -0500
 expire_date: 2019-10-03 00:00:00 -0500
-image: /uploads/red-flag-jpeg-for-portal.JPG
+image: /uploads/red-flag.jpg
 news_image_alt: Red Flag Campaign
-article_lead: Discussonos about dating violence
+article_lead: Discussions about dating violence
 video_content: false
 video_link:
 press_release: false
@@ -12,7 +12,7 @@ press_release: false
 
 Kankakee Community College is addressing dating violence through a “Red Flag” awareness campaign beginning the week of Sept. 30.&nbsp;
 
-A variety of events are scheduled to encourage friends and other community members to “say something” when they see warning signs of dating violence. The Red Flag Campaign events are open to the public.
+A variety of events are scheduled to encourage friends and other community ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}members to “say something” when they see warning signs of dating violence. The Red Flag Campaign events are open to the public.
 
 **Monday, Sept. 30**, noon - 1 p.m. in the KCC Iroquois Room (Room D152) – Harbor House Executive Director Jenny Schoenwetter will present “Dating Violence: How it Impacts you.” Learn about dating violence, red flags to watch for, how to help a friend in an abusive relationship, and more. Refreshments will be available.&nbsp;
 
