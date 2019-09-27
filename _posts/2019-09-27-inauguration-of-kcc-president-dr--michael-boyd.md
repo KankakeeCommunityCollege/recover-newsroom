@@ -1,6 +1,6 @@
 ---
 title: Inauguration of KCC President Dr. Michael Boyd
-date: 2019-10-01 04:58:00 -0500
+date: 2019-09-27 04:58:00 -0500
 expire_date: 2019-10-30 00:00:00 -0500
 image: /uploads/dr-michael-boyd.jpg
 news_image_alt: KCC's 7th president Dr. Michael Boyd
