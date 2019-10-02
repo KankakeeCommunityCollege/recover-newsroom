@@ -20,6 +20,8 @@ A variety of events are scheduled to encourage friends and other community ![](d
 
 **Wednesday, Oct. 2** is “Wear Red Day” staff & students are encouraged to wear red in support of Domestic Violence Awareness.
 
+**Wednesday, Oct. 2**&nbsp;noon - 1 p.m. in KCC Room D152, Kankakee County Center Against Sexual Assault (KC-CASA) presents "Bringing in the Bystander." This program emphasizes bystander intervention & the skills needed to play a role in ending dating violence.
+
 **Thursday, Oct. 3**, noon - 2 p.m. in the KCC Auditorium (Room L110) a movie showing of “A Better Man” and discussion to follow. “The film A Better Man offers a fresh and nuanced look at the healing and revelation that can happen for everyone involved when men take responsibility for their abuse,” according to the film’s website. “It also empowers audience members to play new roles in challenging domestic violence, whether it’s in their own relationships or as part of a broader movement for social change.” Harbor House and KC-CASA representatives will lead a discussion after the film. Refreshments will be available.&nbsp;
 
 For more information about the campaign phone Laura Gardner at 815-802-8513 or visit [http://bit.ly/kccredflag](http://bit.ly/kccredflag).
