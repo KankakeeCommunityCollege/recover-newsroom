@@ -1,10 +1,10 @@
 ---
 title: Retirement Planning Class
-date: 2019-10-07 04:58:00 -0500
+date: 2019-10-04 04:58:00 -0500
 expire_date: 2019-10-10 00:00:00 -0500
-image:
-news_image_alt:
-article_lead: Learn tax efficient planned giving in retirement.
+image: /uploads/money-bank-cash-piggy-bank.jpg
+news_image_alt: money-bank-cash-piggy-bank
+article_lead: Learn tax efficient planned giving.
 video_content: false
 video_link:
 press_release: false
