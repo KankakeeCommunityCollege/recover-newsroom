@@ -2,7 +2,7 @@
 title: LaKendrick Thompson presentation
 date: 2019-10-12 04:58:00 -0500
 expire_date: 2019-10-31 00:00:00 -0500
-image: /uploads/lakendrick-thompson---kcc-grad---copy.jpg
+image: /uploads/lakendrick-thompson-kcc-grad.jpg
 news_image_alt: LaKendrick Thompson
 article_lead: KCC grad lectures on overcoming hardships
 video_content: false
@@ -10,4 +10,24 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/lakendrick-thompson---kcc-grad---copy.jpg){: .float-image-left width="298" height="349"}Kankakee Community College graduate La’Kendrick Thompson will present a lecture on his books and experiences overcoming hardships from 9:30-10:30 a.m. Thursday, Oct. 31 in the KCC Iroquois Room, Room D152.<br>The event is free and the public is invited. Following the presentation, there will be time for questions. The event is also appropriate for those interested in a writing career.&nbsp;<br>“Having experienced many hardships in life, he is proof that anyone can overcome their circumstances and be successful at whatever path is chosen,” said KCC professor Penelope Stickney. “He will use his life and experiences as motivational examples toward success.”<br>Thompson’s first book was “Black in America: The Life and Times of Tank Thompson” (2016).&nbsp;<br>“(It) is a memoir that highlights various moments in my life I felt were pivotal in my growth process, but also it is written to help those within or outside of the African-American community identify with what it’s like to be black in America,” Thompson said.&nbsp;<br>He also wrote a “Vol. 2” follow-up the first book. “The general theme is of love or the lack thereof from within the black community,” Thompson said.<br>In 2018, Thompson wrote “The Truth About Candy,” a novel-length work of fiction. His newest book, “You Should Have Listened when I Told You the 1st Time,” is set in Kankakee County. It is scheduled to be released this month.&nbsp;<br>“It is a book about peer pressure and choices,” Thompson said. “It is written from the perspective of teens and young adults who are given directives from their parents or other elders but some choose to follow their own path. As a result, the outcome of their decision-making is harsh.”<br>As a KCC student, Thompson completed Stickney’s African-American Cultural Expression and Introduction to Poetry classes. “La’Kendrick frequently visited my office; his literary insights were visible and our visits enjoyable,” she said.<br>In addition to a transfer degree from KCC, Thompson earned a bachelor’s degree in English from Governors State University.&nbsp;<br>The presentation is sponsored by the KCC Global Awareness Club.<br>KCC is located south of downtown Kankakee near River Road, off U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are at [www.kcc.edu/directions](http://www.kcc.edu/Community/Collegeinfo/collegelocations/Pages/riverfront.aspx).<br>&nbsp;
+![](/uploads/lakendrick-thompson---kcc-grad---copy.jpg){: .float-image-left width="298" height="349"}Kankakee Community College graduate La’Kendrick Thompson will present a lecture on his books and experiences overcoming hardships from 9:30-10:30 a.m. Thursday, Oct. 31 in the KCC Iroquois Room, Room D152.
+
+The event is free and the public is invited. Following the presentation, there will be time for questions. The event is also appropriate for those interested in a writing career.&nbsp;
+
+“Having experienced many hardships in life, he is proof that anyone can overcome their circumstances and be successful at whatever path is chosen,” said KCC professor Penelope Stickney. “He will use his life and experiences as motivational examples toward success.”
+
+Thompson’s first book was “Black in America: The Life and Times of Tank Thompson” (2016).&nbsp;
+
+“(It) is a memoir that highlights various moments in my life I felt were pivotal in my growth process, but also it is written to help those within or outside of the African-American community identify with what it’s like to be black in America,” Thompson said.&nbsp;
+
+He also wrote a “Vol. 2” follow-up the first book. “The general theme is of love or the lack thereof from within the black community,” Thompson said.
+
+In 2018, Thompson wrote “The Truth About Candy,” a novel-length work of fiction. His newest book, “You Should Have Listened when I Told You the 1st Time,” is set in Kankakee County. It is scheduled to be released this month.&nbsp;
+
+“It is a book about peer pressure and choices,” Thompson said. “It is written from the perspective of teens and young adults who are given directives from their parents or other elders but some choose to follow their own path. As a result, the outcome of their decision-making is harsh.”
+
+As a KCC student, Thompson completed Stickney’s African-American Cultural Expression and Introduction to Poetry classes. “La’Kendrick frequently visited my office; his literary insights were visible and our visits enjoyable,” she said.<br>In addition to a transfer degree from KCC, Thompson earned a bachelor’s degree in English from Governors State University.&nbsp;
+
+The presentation is sponsored by the KCC Global Awareness Club.
+
+KCC is located south of downtown Kankakee near River Road, off U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. Directions are at [www.kcc.edu/directions](http://www.kcc.edu/Community/Collegeinfo/collegelocations/Pages/riverfront.aspx).<br>&nbsp;
