@@ -2,7 +2,7 @@
 title: LaKendrick Thompson presentation
 date: 2019-10-12 04:58:00 -0500
 expire_date: 2019-10-31 00:00:00 -0500
-image: /uploads/lakendrick-thompson-kcc-grad.jpg
+image: /uploads/lakendrick-thompson---kcc-grad.jpg
 news_image_alt: LaKendrick Thompson
 article_lead: KCC grad lectures on overcoming hardships
 video_content: false
