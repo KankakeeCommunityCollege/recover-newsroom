@@ -19,7 +19,7 @@
   },
   "browserslist": [
     "defaults",
-    "ie >=9",
+    "ie >=11",
     "not ie <= 8",
     "not ie_mob <= 8"
   ],
