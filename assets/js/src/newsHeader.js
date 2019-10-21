@@ -1,14 +1,43 @@
-function initialAnimation() {
-  const firstImage = document.querySelector('.news-header__img--first');
-  const firstTitle = document.querySelector('.news-header__title--first');
-  const firstLead = document.querySelector('.news-header__lead--first');
+function addAnimateInClass(el) {
+  return el.classList.add('news-header__animate-in');
+}
 
-  firstImage.classList.add('news-header__animate-in');
-  firstTitle.classList.add('news-header__animate-in');
-  firstLead.classList.add('news-header__animate-in');
-  document.querySelector('.news-header__play-icon--first') ?
-    document.querySelector('.news-header__play-icon--first').classList.add('news-header__animate-in')
-  : null;
+function initPageLoadAnimation() {
+  const FIRST_NEWS_ITEMS = { // points to classes built out in the site's html
+    FIRST_NEWS_IMAGE: document.querySelector('.news-header__img--first'),
+    FIRST_NEWS_TITLE: document.querySelector('.news-header__title--first'),
+    FIRST_NEWS_LEAD: document.querySelector('.news-header__lead--first'),
+    FIRST_NEWS_PLAY: document.querySelector('.news-header__play-icon--first')
+  }
+
+  for (var element in FIRST_NEWS_ITEMS) {
+    if (FIRST_NEWS_ITEMS.hasOwnProperty(element)) {
+      addAnimateInClass(FIRST_NEWS_ITEMS[element]);
+    }
+  }
+}
+
+function animateItemsOut() {
+  let visiblePreviewItems = document.querySelectorAll('.news-header__animate-in');
+  let len = visiblePreviewItems.length;
+
+  for (var i = 0; i < len; i++) {
+    let item = visiblePreviewItems[i];
+    item.classList.remove('news-header__animate-in');
+    item.classList.add('news-header__img--animate-out');
+  }
+}
+
+function removeActivePreview() {
+  const ACTIVE_PREVIEWS = document.querySelectorAll('.newsHeader-link-active');
+  let len = ACTIVE_PREVIEWS.length;
+
+  animateItemsOut();
+  for (var i = 0; i < len; i++) {
+    let thisPreview = ACTIVE_PREVIEWS[i];
+    thisPreview.classList.remove('newsHeader-link-active');
+    thisPreview.setAttribute('aria-hidden', 'true');
+  }
 }
 
 function makePreviewActive(id) {
@@ -43,56 +72,33 @@ function animateLeadIn(id) {
   thisPreviewLead.classList.add('news-header__animate-in');
 }
 
-function animateItemsOut() {
-  let visiblePreviewItems = document.querySelectorAll('.news-header__animate-in');
-  for (var i = 0; i < visiblePreviewItems.length; i++) {
-    let item = visiblePreviewItems[i];
-    item.classList.remove('news-header__animate-in');
-    item.classList.add('news-header__img--animate-out');
-  }
+function mouseEnterFunction(event) {
+  let TARGET_PREVIEW = event.target.dataset.preview;  // data-preview="" attribute that points to the correct id
+  removeActivePreview();
+  makePreviewActive(TARGET_PREVIEW);
+  animateImageIn(TARGET_PREVIEW);
+  event.target.dataset.video ?
+    animatePlayIn(TARGET_PREVIEW)
+  : null;
+  animateTitleIn(TARGET_PREVIEW);
+  animateLeadIn(TARGET_PREVIEW);
 }
 
-function removeActivePreview() {
-  animateItemsOut();
-  const previews = document.querySelectorAll('.newsHeader-link-active');
-  for (var i = 0; i < previews.length; i++) {
-    let thisPreview = previews[i];
-    thisPreview.classList.remove('newsHeader-link-active');
-    thisPreview.setAttribute('aria-hidden', 'true');
+function addMouseEnterListener(listItem) {
+  listItem.addEventListener('mouseenter', mouseEnterFunction);
+}
+
+function loopOverListLinks(list, listLength) {
+  for (var i = 0; i < listLength; i++) {
+    addMouseEnterListener(list[i]);
   }
 }
 
 function newsHeader() {
-  const initialAnimationCall = (function() {
-    let executed = false;
-    return function() {
-      if (!executed) {
-        executed = true;
-        initialAnimation();
-      }
-    };
-  })();
-  const linkList = document.querySelectorAll('.newsHeader-list-link');
-  let linkListLength = linkList.length;
+  const LIST_LINKS = document.querySelectorAll('.newsHeader-list-link');
 
-  initialAnimationCall();
-  for (var i = 0; i < linkListLength; i++) {
-    let thisLink = linkList[i];
-
-    thisLink.addEventListener('mouseenter', function(e) {
-      let previewTarget = e.target.dataset.preview;  // data-preview="" attribute that points to the correct id
-      const linkIsVideoPost = e.target.dataset.video !== undefined;  // data-video="" attribute is only one video-post links
-      removeActivePreview();
-      makePreviewActive(previewTarget);
-      animateImageIn(previewTarget);
-      linkIsVideoPost ?
-        animatePlayIn(previewTarget)
-      : null;
-      animateTitleIn(previewTarget);
-      animateLeadIn(previewTarget);
-    });
-    //console.log(linkPreview);
-  }
+  initPageLoadAnimation();
+  loopOverListLinks(LIST_LINKS, LIST_LINKS.length);
 }
 
 export default newsHeader;

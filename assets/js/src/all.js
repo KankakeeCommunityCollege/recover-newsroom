@@ -1,20 +1,17 @@
 import ieOnly from './ieOnly.js';
 import setDate from './date.js';
-import newsWidget from './newsWidget.js';
-import navbarScroll from './navbarScroll.js';
 import playModal from './playModal.js';
 import checkForPound from './jumpLink.js';
 import newsHeader from './newsHeader.js';
-import jumpLinkFix from './jumpLinkFix.js';
+import checkForContactsLink from './jumpLinkFix.js';
 
 checkForPound();
-navbarScroll();
 
 document.addEventListener('DOMContentLoaded', function() {
   ieOnly();
+  checkForContactsLink();
   setDate();
-  newsWidget();
+  //newsWidget();
   playModal();
   newsHeader();
-  jumpLinkFix();
 });
