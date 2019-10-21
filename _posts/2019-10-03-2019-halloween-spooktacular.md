@@ -1,6 +1,6 @@
 ---
 title: 2019 Halloween Spooktacular
-date: 2019-10-03 04:58:00 -0500
+post_approved: true
 expire_date: 2019-10-23 00:00:00 -0500
 image: /uploads/dave-rudolfhalloween.jpg
 news_image_alt: Halloween poster graphic

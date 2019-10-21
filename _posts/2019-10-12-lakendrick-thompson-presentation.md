@@ -1,6 +1,6 @@
 ---
 title: LaKendrick Thompson presentation
-date: 2019-10-12 04:58:00 -0500
+post_approved: true
 expire_date: 2019-10-31 00:00:00 -0500
 image: /uploads/lakendrick-thompson---kcc-grad.jpg
 news_image_alt: LaKendrick Thompson

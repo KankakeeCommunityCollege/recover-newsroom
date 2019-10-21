@@ -1,9 +1,9 @@
 ---
 title: Apply now for 2020-21 Financial Aid
-date: 2019-10-09 04:58:00 -0500
+post_approved: true
 expire_date: 2019-11-15 00:00:00 -0600
 image: /uploads/piggy-bank.jpg
-news_image_alt: Bunco dice
+news_image_alt: ''
 article_lead: FAFSA is available
 video_content: false
 video_link:

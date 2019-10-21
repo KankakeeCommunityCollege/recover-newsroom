@@ -1,9 +1,9 @@
 ---
 title: FAFSA application for 2020-2021 school year now available.
-date: 2019-10-11 04:58:00 -0500
+post_approved: true
 expire_date: 2019-11-15 00:00:00 -0600
 image: /uploads/piggy-bank.jpg
-news_image_alt: Bunco dice
+news_image_alt: ''
 article_lead: Apply now for financial aid.
 video_content: false
 video_link:

@@ -1,6 +1,6 @@
 ---
 title: Alumni invited to beer tasting event
-date: 2019-10-04 04:58:00 -0500
+post_approved: true
 expire_date: 2019-10-10 00:00:00 -0500
 image: /uploads/steam-hollow-brewing-company-logo---copy.png
 news_image_alt: Steam Hollow logo

@@ -1,6 +1,6 @@
 ---
 title: Ghost Hunting workshop offered
-date: 2019-10-03 04:58:00 -0500
+post_approved: true
 expire_date: 2019-10-30 00:00:00 -0500
 image: /uploads/ghost-hunt-nightshot2---copy.jpg
 news_image_alt: Ghost hunting

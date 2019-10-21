@@ -1,6 +1,6 @@
 ---
 title: Event recognizes veterans
-date: 2019-10-17 04:58:00 -0500
+post_approved: true
 expire_date: 2019-11-06 00:00:00 -0600
 image: /uploads/denoyers-dsc-0117---copy.jpg
 news_image_alt: 'Raymond Denoyer, Marine Vet and wife Judy at 2018 ceremony'

@@ -1,6 +1,6 @@
 ---
 title: Video lectures for Fall 2019
-date: 2019-10-03 04:58:00 -0500
+post_approved: true
 expire_date: 2019-12-04 00:00:00 -0600
 image: /uploads/peace-sign---copy.jpg
 news_image_alt: Peace sign
