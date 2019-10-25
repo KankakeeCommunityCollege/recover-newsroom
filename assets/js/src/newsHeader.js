@@ -94,11 +94,23 @@ function loopOverListLinks(list, listLength) {
   }
 }
 
+
 function newsHeader() {
   const LIST_LINKS = document.querySelectorAll('.newsHeader-list-link');
+  const targetWidth = 1200;
+  let viewWidth = document.documentElement.clientWidth || document.body.clientWidth || window.innerWidth;
 
   initPageLoadAnimation();
-  loopOverListLinks(LIST_LINKS, LIST_LINKS.length);
+  if ( viewWidth >= targetWidth ) {
+    loopOverListLinks(LIST_LINKS, LIST_LINKS.length);
+  }
+  window.addEventListener('resize', function() {
+    if ( viewWidth >= targetWidth ) {
+      loopOverListLinks(LIST_LINKS, LIST_LINKS.length);
+    } else {
+      
+    }
+  });
 }
 
 export default newsHeader;

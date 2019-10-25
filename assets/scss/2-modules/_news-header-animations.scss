@@ -12,6 +12,16 @@
   animation: news-header-out .5s ease forwards;
 }
 
+.news-header__img--video.news-header__animate-in {
+  opacity: 0;
+  animation: news-header-video-in 1s ease forwards .2s;
+}
+
+.news-header__img.news-header__animate-out {
+  opacity: 1;
+  animation: news-header-video-out .5s ease forwards;
+}
+
 .news-header__title.news-header__animate-in {
   opacity: 0;
   animation: news-header-title-in .5s ease forwards;
@@ -34,22 +44,44 @@
 
 @keyframes news-header-in {
   0% {
-    transform: scale(1.05);
+    transform: translate3d(0, 0, 0) scale(1.2);
     opacity: 0;
   }
   100% {
-    transform: scale(1);
+    transform: translate3d(0, 45px, 0) scale(1.25);
     opacity: 1;
   }
 }
 
 @keyframes news-header-out {
   0% {
-    transform: scale(1);
+    transform: translate3d(0, 45px, 0) scale(1.25);
     opacity: 1;
   }
   100% {
-    transform: scale(.95);
+    transform: translate3d(0, 0, 0) scale(1.2);
+    opacity: 0;
+  }
+}
+
+@keyframes news-header-video-in {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1.2);
+    opacity: 0;
+  }
+  100% {
+    transform: translate3d(0, 95px, 0) scale(1.25);
+    opacity: 1;
+  }
+}
+
+@keyframes news-header-video-out {
+  0% {
+    transform: translate3d(0, 95px, 0) scale(1.25);
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1.2);
     opacity: 0;
   }
 }

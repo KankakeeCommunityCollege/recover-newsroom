@@ -8,16 +8,12 @@
       {% if post.expire_date == nil or post.expire_date > site.time %}
       <a id="preview{{ forloop.index }}" data-toggle="modal" {% if post.video_link != nil %}data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" {% endif %}class="news-header__preview--link links__news-header--hover newsHeader-preview-link height__100{% if post.video_link != nil %} newsHeader-video-link{% endif %}{% if forloop.first == true %} newsHeader-link-active{% endif %}" data-target="#modal{{ forloop.index }}" href="#" tabindex="-1" aria-hidden="{% if forloop.first == true %}false{% else %}true{% endif %}">
         <div class="row height__100">
-          <div class="col-md-7 col-xxl-8 order-1 order-md-2 news-header__img-col">
+          <div class="col-md-7 col-xxl-8 order-1 order-md-2 news-header__img-col news-header__background--black">
           {% if post.video_link != nil %}
-            <div class="news-header__img-wrapper height__100 text-right">
-              <img src="{{ page.baseurl }}assets/img/play.svg" alt="" class="news-header__play-icon{% if forloop.first == true %} news-header__play-icon--first{% endif %}">
-              <img class="img__full-width news-header__img{% if forloop.first == true %} news-header__img--first{% endif %}" {% if forloop.first == false %}src="{{ page.baseurl }}assets/img/kcc-placeholder.png" data-{% endif %}src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="">
-            </div>
+            <img src="{{ page.baseurl }}assets/img/play.svg" alt="" class="news-header__play-icon{% if forloop.first == true %} news-header__play-icon--first{% endif %}">
+            <img class="img__full-width news-header__img news-header__img--video{% if forloop.first == true %} news-header__img--first{% endif %}" {% if forloop.first == false %}src="{{ page.baseurl }}assets/img/kcc-placeholder.png" data-{% endif %}src="https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg" alt="">
           {% else %}
-            <div class="news-header__img-wrapper height__100 text-right">
-              <img class="img__full-width news-header__img{% if forloop.first == true %} news-header__img--first{% endif %}" {% if forloop.first == false %}src="{{ page.baseurl }}assets/img/kcc-placeholder.png" data-{% endif %}src="{{ page.baseurl }}{{ post.image }}" alt="">
-            </div>
+            <img class="img__full-width news-header__img{% if forloop.first == true %} news-header__img--first{% endif %}" {% if forloop.first == false %}src="{{ page.baseurl }}assets/img/kcc-placeholder.png" data-{% endif %}src="{{ page.baseurl }}{{ post.image }}" alt="">
           {% endif %}
           </div>
           <div class="col-md-5 col-xxl-4 order-2 order-md-1 news-header__info-col">

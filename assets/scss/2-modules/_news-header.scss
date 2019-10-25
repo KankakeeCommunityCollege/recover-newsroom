@@ -35,6 +35,10 @@
   max-width: 1400px;
 }
 
+.news-header__background--black {
+  background-color: $black;
+}
+
 .news-header__img-col {
   overflow: hidden;
 }
@@ -48,7 +52,7 @@
 @media screen and (min-width: 768px) {
   .news-header__img-col {
     padding-left: 0;
-    padding-right: 10px;
+    padding-right: 0;
   }
   .news-header__info-col {
     padding-left: 0;
@@ -57,8 +61,18 @@
 }
 
 .news-header__img {
-  max-width: 600px;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
 }
+
+@media screen and (min-width: 1200px) {
+  .news-header__img {
+    position: absolute;
+  }
+}
+
 
 .news-header__play-icon {
   height: 56px;
