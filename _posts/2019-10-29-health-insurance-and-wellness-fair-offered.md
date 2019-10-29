@@ -1,7 +1,7 @@
 ---
 title: Health Insurance and Wellness Fair offered
 date: 2019-10-29 04:58:00 -0500
-expire_date: 2019-11-18 00:00:00 -0600
+expire_date: 2019-11-09 00:00:00 -0600
 image: /uploads/health-care.jpg
 news_image_alt: Health Care sign
 article_lead: Free event is Saturday Nov. 9
