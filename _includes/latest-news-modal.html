@@ -25,7 +25,7 @@
                     <iframe class="js-yt-frame" id="iframe{{ forloop.index }}" data-theVideo="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" width="720" height="405" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                   </div><br>
                   <h4 class="news__heading">{{ post.title }}</h4>
-                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
+                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date">Posted On: {{ post.date | date: "%m/%d/%y" }} </span></h5>
                   <p class="news__paragraph">{{ post.content }}</p>
                 </div>
                 <div class="bootstrap-overrides__modal-footer flex-wrap">
@@ -49,7 +49,7 @@
                 </div>
                 <div class="modal-body">
                   <h4 class="news__heading">{{ post.title }}</h4>
-                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date"> {{ post.date | date: "%B %-d, %Y" }} </span></h5>
+                  <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date">Posted On: {{ post.date | date: "%m/%d/%y" }} </span></h5>
                   <p class="news__paragraph">{{ post.content }}</p>
 
                 </div>
