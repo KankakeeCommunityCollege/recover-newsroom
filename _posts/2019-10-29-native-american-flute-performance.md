@@ -4,7 +4,7 @@ date: 2019-10-29 04:58:00 -0500
 expire_date: 2019-11-18 00:00:00 -0600
 image: /uploads/bill-miller-flute---copy.jpg
 news_image_alt: Bill Miller
-article_lead: Enjoy music by Bill MIller
+article_lead: Enjoy music by Bill Miller
 video_content: false
 video_link:
 press_release: false
