@@ -1,8 +1,27 @@
 title: "Kankakee Community College"
 name: "KCC Newsroom"
+site_name: Newsroom
 timezone: America/Chicago
+google-tag_key: GTM-KKZRJB5
 url: "https://news.kcc.edu"
-google_analytics_key: UA-4328282-19
+public-url: "https://news.kcc.edu"
+theme: "kcc-gem-theme"
+nav_links:
+  - link_text: Home
+    link_href: ''
+    button: false
+  - link_text: News
+    link_href: 'news'
+    button: false
+  - link_text: Events
+    link_href: 'events'
+    button: false
+  - link_text: Videos
+    link_href: 'videos'
+    button: false
+  - link_text: Contact
+    link_href: '#contact'
+    button: false
 collections:
   announcements:
     output: false
