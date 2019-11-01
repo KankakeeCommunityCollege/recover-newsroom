@@ -1,10 +1,9 @@
 function checkForPound() {
   if (window.location.href.indexOf("#contact") > -1) {
       setTimeout(function () {
-        var scrollBottom = $(document).height();
-        //console.log(scrollBottom);
+        let scrollBottom = window.innerHeight + 3000;
         window.scroll('0', scrollBottom);
-      }, 1000);
+      }, 2000);
   }
 }
-checkForPound();
+export default checkForPound;
