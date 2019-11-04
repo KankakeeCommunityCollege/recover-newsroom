@@ -29,9 +29,9 @@
                   <p class="news__paragraph">{{ post.content }}</p>
                 </div>
                 <div class="bootstrap-overrides__modal-footer flex-wrap">
-                  <!-- Face book like share html -->
+                  <!-- Facebook like share html -->
                   <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-                  <a class="twitter-share-button" data-text="Newsroom - KCC {{ post.url }} via @KCCedu" data-url="{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
+                  <a class="twitter-share-button" data-text="Newsroom - KCC | {{ post.title }} via @KCCedu" data-url="{{ site.url }}{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
                   <a data-iframetarget="#iframe{{ forloop.index }}" id="fullPageVideo{{ forloop.index }}" href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ml-md-auto">View Full Page</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-dismiss="modal">Close</button>
                 </div>
               </div>
@@ -54,9 +54,9 @@
 
                 </div>
                 <div class="bootstrap-overrides__modal-footer flex-wrap">
-                  <!-- Face book like share html -->
+                  <!-- Face booklike share html -->
                   <div class="fb-like" data-href="{{ post.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-                  <a class="twitter-share-button" data-text="Newsroom - KCC {{ post.url }} via @KCCedu" data-url="{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
+                  <a class="twitter-share-button" data-text="Newsroom - KCC | {{ post.title }} via @KCCedu" data-url="{{ site.url }}{{ post.url }}" data-size="large" href="https://twitter.com/intent/tweet">Tweet</a>
                   <a href="{{ post.url }}" class="btn buttons__btn-margin-top--sm btn-primary btn-sm ml-md-auto">View Full Screen</a>&nbsp;<button type="button" class="btn buttons__btn-margin-top--sm btn-secondary btn-sm" data-dismiss="modal">Close</button>
                 </div>
               </div>
