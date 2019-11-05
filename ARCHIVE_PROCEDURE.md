@@ -1,11 +1,17 @@
 # Newsroom Archiving Process
+
 #### *Documentation for the process of archiving newsroom posts.*
+
 ---
+
 ## Part 1
+
 #### *Copying the static html post pages into the `archive/` directory.*
+
 ---
 
 In a typical jekyll site, the jekyll project's site is built into the `_site/` directory
+
 ```
 .
 ├── _drafts/
@@ -25,7 +31,9 @@ In a typical jekyll site, the jekyll project's site is built into the `_site/` d
 ```
 
 ---
+
 Inside the `_site/` dir, posts are built out into a `year/month/day/post.md` folder structure:
+
 ```
 ./_site/
 |   |── 2018/
@@ -47,8 +55,11 @@ First copy the entire `year/month/day/post.md` folder structure into newsroom's 
 Instead of jekyll processing and iterating over all the old posts, it can instead copy it like any other asset.  Grabbing the posts out of the `_site/` dir gives us the built-out static html pages, ready for web-display, in a "pretty permalink" directory style.
 
 ---
+
 ## Part 2
+
 #### *Copy the generated archive list*
+
 ---
 
 ```html
