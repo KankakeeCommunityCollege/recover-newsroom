@@ -1,34 +1,37 @@
-// Play a YouTube embed when you click it's modal link that opens it
-function stopVideoOnClose(id) {
-  $(id).on('hidden.bs.modal', function () {
-    let targetModal = document.getElementById(id.replace(/#/g, ''));
-    let playingIframe = targetModal.querySelector('iframe');
-    playingIframe.setAttribute('allow', '');
-    playingIframe.setAttribute('src', '');
+// Play a YouTube embed when its modal is opened.
+// Stop it when its closed, too.
+
+
+function stopPlayingOnVideoClose(target) {
+  $(target).on('hide.bs.modal', function(e) {
+    let targetModal = e.target;
+    let iframe = targetModal.querySelector('iframe');
+
+    iframe.setAttribute('allow', '');
+    iframe.setAttribute('src', '');
   });
 }
 
-function playVideo(id, video) {
-  let targetModal = document.getElementById(id.replace(/#/g, ''));
-  let iframe = targetModal.querySelector('iframe');
-  iframe.setAttribute('allow', 'autoplay; encrypted-media');
-  iframe.setAttribute('src', video + '?rel=0&autoplay=1');
-  stopVideoOnClose(id);
+
+
+function playVideo() {
+  $('.modal').on('shown.bs.modal', function (e) {
+    //console.log(e);
+    if ( e.target.dataset.video ) {
+      let target = e.target;
+      let video = e.target.dataset.video;
+      let embed = video.replace(/^https:\/\/youtu.be\//g, 'https://www.youtube.com/embed/');
+      let iframe = target.querySelector('iframe');
+
+      iframe.setAttribute('allow', 'autoplay; encrypted-media');
+      iframe.setAttribute('src', embed + '?rel=0&autoplay=1');
+      stopPlayingOnVideoClose(target);
+    }
+  });
 }
 
 function playModal() {
-  if (document.querySelectorAll('.newsHeader-video-link')) {
-    const videoLinks = document.querySelectorAll('.newsHeader-video-link');
-    for (var i = 0; i < videoLinks.length; i++) {
-      let link = videoLinks[i];
-      link.addEventListener('click', function(e) {
-        console.log(e);
-        let video = e.target.dataset.video;
-        let modalId = e.target.dataset.target;
-        playVideo(modalId, video);
-      }, false);
-    }
-  }
+  playVideo();
 }
 
 export default playModal;
