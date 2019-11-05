@@ -25,6 +25,8 @@ nav_links:
 collections:
   announcements:
     output: false
+  contacts:
+    output: false
 defaults:
 - scope:
     type: ''
@@ -81,6 +83,9 @@ exclude:
   - "gulp-tasks/"
   - "install.sh"
   - "siteicon.png"
+  - "ARCHIVE_PROCEDURE.md"
+  - "TODO.md"
+  - "webpack.config.js"
 
 uploads_dir: # specifies the default uploads directory for CloudCannon
   - "uploads/"
