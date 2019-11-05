@@ -3,7 +3,9 @@
 
 
 function stopPlayingOnVideoClose(target) {
-  $(target).on('hide.bs.modal', function(e) {
+  const BOOTSTRAP_MODAL_HIDE = 'hide.bs.modal';
+
+  $(target).on(BOOTSTRAP_MODAL_HIDE, function(e) {
     let targetModal = e.target;
     let iframe = targetModal.querySelector('iframe');
 
@@ -15,16 +17,22 @@ function stopPlayingOnVideoClose(target) {
 
 
 function playVideo() {
-  $('.modal').on('shown.bs.modal', function (e) {
+  const BOOTSTRAP_MODAL_SHOWN = 'shown.bs.modal'; // BOOTSTRAP 4 modal JS stuff
+  const MODAL_CLASS = '.modal'; // BOOTSTRAP `.modal` class from `bootstrap.min.css`
+  const ALLOW = 'allow'; // YOUTUBE ATTRIBUTE
+  const AUTOPLAY = 'autoplay; encrypted-media'; // YOUTUBE SETTINGS
+  const AUTOPLAY_URL = '?rel=0&autoplay=1'; // APPEND THIS TO THE END OF A YOUTUBE EMBED TO MALE IT AUTOPLAY
+
+  $(MODAL_CLASS).on(BOOTSTRAP_MODAL_SHOWN, function (e) {
     //console.log(e);
-    if ( e.target.dataset.video ) {
+    if ( e.target.dataset.video ) { // DATA ATTRIBUTES FROM THE HTML // Filters out posts that don't have a video
       let target = e.target;
-      let video = e.target.dataset.video;
-      let embed = video.replace(/^https:\/\/youtu.be\//g, 'https://www.youtube.com/embed/');
+      let VIDEO = e.target.dataset.video; // DATA ATTRIBUTES FROM THE HTML
+      let EMBED = VIDEO.replace(/^https:\/\/youtu.be\//g, 'https://www.youtube.com/embed/'); // LINKS COME IN AS YOUTUBE SHARE LINK `https://youtu.be/<string>`
       let iframe = target.querySelector('iframe');
 
-      iframe.setAttribute('allow', 'autoplay; encrypted-media');
-      iframe.setAttribute('src', embed + '?rel=0&autoplay=1');
+      iframe.setAttribute(ALLOW, AUTOPLAY);
+      iframe.setAttribute('src', EMBED + AUTOPLAY_URL);
       stopPlayingOnVideoClose(target);
     }
   });
