@@ -17,12 +17,12 @@
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/b-yeoman-recognition---copy.jpg" />
     </entry>
     <entry>
-      <title type="html">Video \& Post \&</title>
-      <link href="https://news.kcc.edu/2019/11/05/test.html" rel="alternate" type="text/html" title="Video \& Post \&" />
+      <title type="html">Video \&amp; Post \&amp;</title>
+      <link href="https://news.kcc.edu/2019/11/05/test.html" rel="alternate" type="text/html" title="Video \&amp; Post \&amp;" />
       <published>11/5/2019</published>
       <updated>11/5/2019</updated>
       <id>https://news.kcc.edu/2019/11/05/test</id>
-        <summary type="html">Check \& YouTube \& video</summary>
+        <summary type="html">Check \&amp; YouTube \&amp; video</summary>
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://news.kcc.edu/uploads/d51-1690.jpg" />
     </entry>
     <entry>
