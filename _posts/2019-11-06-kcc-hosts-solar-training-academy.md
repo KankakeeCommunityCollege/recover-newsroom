@@ -1,6 +1,6 @@
 ---
 title: KCC hosts Solar Training Academy
-date: 2019-11-09 04:58:00 -0600
+date: 2019-11-06 04:58:00 -0600
 expire_date: 2019-11-22 00:00:00 -0600
 image: /uploads/clay-sterling-d85-0038.jpg
 news_image_alt: Clay Sterling
