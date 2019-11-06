@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/bill-miller-flute---copy.jpg){: .float-image-left width="266" height="349"}Music from the Native American culture will be performed by [Bill Miller](https://billmiller.co/){: target="_blank"}, award-winning flute player on Monday, Nov. 18 from noon - 1 p.m. in the College Center at Kankakee Community College.
+![](/uploads/bill-miller-flute---copy.jpg){: .float-image-left width="266" height="349"}Music from the Native American culture will be performed by [Bill Miller](https://billmiller.co/){: target="_blank"}, award-winning flute player on Monday, Nov. 18 from noon - 1 p.m. in the College Center at KCC.
 
 This event is free and open to the community.
 
