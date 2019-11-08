@@ -32,7 +32,8 @@ A classroom with an adjacent solar panel assembly lab will be the primary locati
 
 The training at KCC is one of two Illinois sites where MREA is offering the course. The early bird registration period ends Dec. 1. Registration continues until Jan. 21. More information is at [www.midwestrenew.org/sta/](https://www.midwestrenew.org/sta/).
 
-## Lead Instructor Clay Sterling
+#### Lead Instructor Clay Sterling
+{: .typography__h4 }
 
 Sterling worked for the MREA in Wisconsin for 16 years, including 14 as an instructor. He moved to Illinois to teach at KCC. He said:&nbsp;
 
