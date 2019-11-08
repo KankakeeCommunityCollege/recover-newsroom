@@ -43,8 +43,9 @@ layout: null
   {% assign posts = current_posts | where_exp: "post", "post.draft != true" %}
   {% for post in posts limit: 5 %}
     <entry{% if post.lang %}{{" "}}xml:lang="{{ post.lang }}"{% endif %}>
-      <title type="html">{{ post.title | strip_html | normalize_whitespace | xml_escape }}</title>
-      <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% assign post_title = post.title | replace: "&", "and" %}
+      <title type="html">{{ post_title | strip_html | normalize_whitespace | xml_escape }}</title>
+      <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post_title | strip_html | normalize_whitespace | xml_escape }}" />
       <published>{{ post.date | date: "%-m/%-d/%Y" }}</published>
       <updated>{{ post.date | date: "%-m/%-d/%Y" }}</updated>
       <id>{{ post.id | absolute_url | xml_escape }}</id>
@@ -76,9 +77,9 @@ layout: null
 
       {% assign lead = post.article_lead %}
       {% if lead contains "&" %}
-        {% assign lead_no_amp = lead | replace: "&", "NO_AMP" %}
+        {% assign lead_no_amp = lead | replace: "&", "and" %}
         {% assign lead_escape = lead_no_amp | strip_html | normalize_whitespace | xml_escape %}
-        <summary type="html">{{ lead_escape | replace: "NO_AMP", "&amp;" }}</summary>
+        <summary type="html">{{ lead_escape }}</summary>
         {% else %}
         <summary type="html">{{ post.article_lead | strip_html | normalize_whitespace | xml_escape }}</summary>
       {% endif %}
