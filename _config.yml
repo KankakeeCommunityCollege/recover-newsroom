@@ -7,9 +7,6 @@ url: "https://news.kcc.edu"
 public-url: "https://news.kcc.edu"
 theme: "kcc-gem-theme"
 nav_links:
-  - link_text: Home
-    link_href: ''
-    button: false
   - link_text: News
     link_href: 'news'
     button: false
