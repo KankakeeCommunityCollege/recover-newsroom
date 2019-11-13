@@ -1,6 +1,6 @@
 ---
 title: Library renovation starts soon
-date: 2019-11-12 04:58:00 -0600
+date: 2019-11-15 04:58:00 -0600
 expire_date: 2019-12-06 00:00:00 -0600
 image:
 news_image_alt: Stuff the Squad
