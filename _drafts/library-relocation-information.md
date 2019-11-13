@@ -1,7 +1,7 @@
 ---
 title: Library relocation information
-date: 2019-11-13 04:58:00 -0600
-expire_date: 2019-12-01 00:00:00 -0600
+date: 2019-12-02 04:58:00 -0600
+expire_date: 2020-01-31 00:00:00 -0600
 image: /uploads/library-moves.jpg
 news_image_alt: Library Construction image
 article_lead: Temporary service hub is Room D212
