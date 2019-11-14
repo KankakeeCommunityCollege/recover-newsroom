@@ -1,10 +1,10 @@
 ---
-title: Foundation Scholarship Application
+title: Foundation Scholarship Application now available
 date: 2019-11-15 04:58:00 -0600
 expire_date: 2020-03-01 00:00:00 -0600
-image:
-news_image_alt: Scholarship application
-article_lead: Apply now for scholarships
+image: /uploads/scholar--apply.png
+news_image_alt: Scholarship application information
+article_lead: Apply now
 video_content: false
 video_link:
 press_release: false
