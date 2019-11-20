@@ -10,9 +10,9 @@ video_link:
 press_release: false
 ---
 
-Beginning in January, Kankakee Community College is hosting a course that provides skills in the emerging field of solar installation.&nbsp;
+Beginning in January, Kankakee Community College will host a course that provides skills in the emerging field of solar installation.&nbsp;
 
-The Solar Training Academy meets on four weekends between Jan. 25 and March 28. The weekend format is designed so most students can attend without missing school or work.&nbsp;
+The [Solar Training Academy](http://www.kcc.edu/future/choosing/occupational/electech/Documents/STA-2020-flyer.pdf) meets on four weekends between Jan. 25 and March 28. The weekend format is designed so most students can attend without missing school or work.&nbsp;
 
 Students start with Basic Photovoltaics and by the end of the series of courses, are qualified to take the NABCEP (North American Board of Certified Energy Practitioners&reg;) Associate Level Exam. The certification “recognizes individuals who have demonstrated knowledge of the fundamental principles of the application, design, installation, and operation of Photovoltaic systems,” according to the NABCEP website.
 
