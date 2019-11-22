@@ -14,7 +14,7 @@ KCC is part of the annual [Gallery of Trees exhibit](http://www.kankakeecountymu
 
 From Dec. 1-30, the tree will be on display with others from community organizations. The public is invited to the event and can vote for a favorite tree (hopefully it’ll be KCC’s).&nbsp;
 
-With a theme of “It’s a Magical Christmas,” the trees have Disney themes. KCC’s tree has a&nbsp; “Cars” theme. It includes ornaments with graphics and sayings from—and inspired by—the movie such as
+![](/uploads/cars-tree-compressed-2019.jpg){: .float-image-left width="254" height="269"}With a theme of “It’s a Magical Christmas,” the trees have Disney themes. KCC’s tree has a&nbsp; “Cars” theme. It includes ornaments with graphics and sayings from—and inspired by—the movie such as
 
 * Tow-Tally Awesome
 * Race to a Great Future
