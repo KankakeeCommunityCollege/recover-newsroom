@@ -39,3 +39,6 @@ Gemfile.lock
 
 # Jekyll 4's caching dir
 .jekyll-cache/
+
+# ruby-version file for RVM. DO NOT PUSH TO A CLOUDCANNON PROJECT, IT WILL BREAK THE BUILD.
+.ruby-version
