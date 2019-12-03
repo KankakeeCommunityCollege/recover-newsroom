@@ -1,6 +1,6 @@
 ---
 title: Holiday sale in the Bookstore!
-date: 2019-12-04 04:58:00 -0600
+date: 2019-12-03 04:58:00 -0600
 expire_date: 2019-12-20 00:00:00 -0600
 image: /uploads/decoration---copy.jpg
 news_image_alt: holiday decoration
