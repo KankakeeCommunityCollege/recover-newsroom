@@ -26,7 +26,9 @@
                   </div><br>
                   <h4 id="title{{ forloop.index }}" class="news__heading">{{ post.title }}</h4>
                   <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date">Posted On: {{ post.date | date: "%m/%d/%y" }} </span></h5>
-                  <p class="news__paragraph">{{ post.content }}</p>
+                  <div class="post__content">
+                    {{ post.content }}
+                  </div>
                 </div>
                 <div class="bootstrap-overrides__modal-footer flex-wrap">
                   <!-- Facebook like share html -->
@@ -50,7 +52,9 @@
                 <div class="modal-body">
                   <h4 id="title{{ forloop.index }}" class="news__heading">{{ post.title }}</h4>
                   <h5 class="news__sub-heading news__sub-heading--spacing"> <span class="news__date">Posted On: {{ post.date | date: "%m/%d/%y" }} </span></h5>
-                  <p class="news__paragraph">{{ post.content }}</p>
+                <div class="post__content">
+                  {{ post.content }}
+                </div>
 
                 </div>
                 <div class="bootstrap-overrides__modal-footer flex-wrap">
