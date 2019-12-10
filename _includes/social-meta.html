@@ -1,0 +1,28 @@
+{% if page.layout == 'post' %}
+    <!-- if the page is a post, it gets OpenGraph meta tags to help out facebook shares -->
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.article_lead }}">
+  {% if page.video_content == false %}
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    <meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}">
+      {% if page.image contains '.JPG' or page.image contains '.jpg' or page.image contains '.jpeg' or page.image contains '.JPEG' %}
+    <meta property="og:image:type" content="image/jpeg">
+      {% elsif page.image contains '.PNG' or page.image contains '.png' %}
+    <meta property="og:image:type" content="image/png">
+      {% elsif page.image contains '.GIF' or page.image contains '.gif' %}
+    <meta property="og:image:type" content="image/gif">
+      {% endif %}
+    {% else %}
+    <meta property="og:image" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
+    <meta property="og:image:secure_url" content="https://news.kcc.edu/assets/img/kcc_default_post-placeholder.png">
+    <meta property="og:image:type" content="image/png">
+    {% endif %}
+  {% else %}
+    <meta property="og:image" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
+    <meta property="og:image:secure_url" content="https://img.youtube.com/vi/{{  page.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+  {% endif %}
+    <meta name="twitter:card" content="summary_large_image">
+{% endif %}

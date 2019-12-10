@@ -9,27 +9,22 @@
 
 // Modular components
 @import '2-modules/header';
-@import '2-modules/footer';
 @import '2-modules/sliders';
 @import '2-modules/latest-news-widget';
-@import '2-modules/local-nav';
 @import '2-modules/events';
 @import '2-modules/fb-widget';
 @import '2-modules/featured-videos';
 @import '2-modules/timeline';
-@import '2-modules/social-icons';
-@import '2-modules/footer';
-@import '2-modules/global-nav';
 @import '2-modules/playlist';
 @import '2-modules/archive';
-@import '2-modules/bios';
 @import '2-modules/error';
+@import '2-modules/twitter';
 //@import '2-modules/infographic'; // SOURCE FOR MINIFIED INFOGRAPHIC CSS - DON'T DELETE TILL INFOGRAPHIC POST IS DEAD.
 
 // Layout items
 // @import "3-layout/...";
 @import '3-layout/positioning';
-@import '3-layout/posts';
+@import '3-layout/post';
 
 // Page specific styling
 // @import "4-pages/...";

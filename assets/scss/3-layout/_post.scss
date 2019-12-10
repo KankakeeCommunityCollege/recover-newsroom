@@ -1,0 +1,19 @@
+.posts__post-img {
+  margin-bottom: 20px;
+}
+
+.post__content img {
+  height: auto;
+  max-width: 100%;
+  margin-top: .5rem;
+  margin-bottom: .75rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .post__content p img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
