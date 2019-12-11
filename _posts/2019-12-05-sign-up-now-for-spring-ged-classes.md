@@ -12,9 +12,11 @@ press_release: false
 
 ![](/uploads/ged-grad--samantha-childress-dsc-2000---copy.jpg){: .float-image-left width="349" height="279"}Orientation appointments are now being accepted for Spring 2020 high school equivalency classes offered through Kankakee Community College.
 
-Program orientations are required before enrollment. Classes begin in March, and there is no cost to the student.&nbsp;
+Program orientations are required before enrollment. The next classes in Kankakee begin in March, and the next classes in Watseka begin in January. There is no cost to the student.&nbsp;
 
-Classes are designed for students at least 16 years of age who have not completed high school and are not enrolled in the school system. KCC offers the classes as preparation for a high school equivalency exam including the GED and HiSET. The college also offers a GED practice test to current students.<br>Go to [https://adulted.kcc.edu/](https://adulted.kcc.edu/) and click the enroll button to take the first step to enrollment.&nbsp;
+Classes are designed for students at least 16 years of age who have not completed high school and are not enrolled in the school system. KCC offers the classes as preparation for a high school equivalency exam including the GED and HiSET. The college also offers a GED practice test to current students.
+
+Go to [https://adulted.kcc.edu/](https://adulted.kcc.edu/) and click the enroll button to take the first step to enrollment.&nbsp;
 
 ![](/uploads/ged-grads-gabriela-elvia-marie-cruz-and-santios-david-feliciano-dsc-2053---copy.jpg){: .float-image-right width="345" height="230"}“People can apply and sign up for an orientation electronically, or call our office and we’ll walk them through the process,” said Gregg Beglau,
 
