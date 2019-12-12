@@ -3,8 +3,8 @@ title: Cash Bash 2019
 date: 2019-12-07 04:58:00 -0600
 expire_date: 2020-02-15 00:00:00 -0600
 image: /uploads/cash-bash.JPG
-news_image_alt: Cavalier at Bradley Lighted Parade
-article_lead: Lights and cheer along packed route
+news_image_alt: Cash Bash
+article_lead: $5000 grand prize at Cash Bash
 video_content: false
 video_link:
 press_release: false
