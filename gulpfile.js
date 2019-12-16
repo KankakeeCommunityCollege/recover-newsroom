@@ -63,15 +63,12 @@ function mainScss() {
 }
 
 // compile 'content.css' which creates custom styles that are available to users the CloudCannon interface.
-function cmsScss() {
+function cmsScss() { // CloudCannon needs a plain CSS file, no minification, prefixing, nothing. Just plain.
   const PRODUCTION = !!(yargs.argv.production);
 
   return gulp.src(config.cmsScss.src)
     .pipe(sourcemaps.init())
-    .pipe(sass().on('error', sass.logError))
-    .pipe(autoprefixer(config.cmsScss.compatibility))
-    .pipe(gulpif(PRODUCTION, cssnano({ zindex: false }))) // {zindex:false} to prevent override of z-index values -- higher z-index's needed to bring objects above bootstrap's default z-index values
-    .pipe(gulpif(!PRODUCTION, sourcemaps.write()))
+    .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError))
     .pipe(gulp.dest(config.cmsScss.dest.jekyllRoot))
     .pipe(gulp.dest(config.cmsScss.dest.buildDir))
     .pipe(browserSync.stream());
