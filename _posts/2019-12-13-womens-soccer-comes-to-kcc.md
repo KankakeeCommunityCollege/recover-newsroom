@@ -28,7 +28,7 @@ The new women’s team will share a home field with KCC’s men’s soccer team.
 
 Mike Barclay has been the Head Men’s Soccer Coach for the KCC Cavaliers for six seasons. He was the assistant coach during the 2012 and 2013 seasons.&nbsp;<br>Coach Barclay was a three-time all-region, two-time all-sectional and two-time all-state goalie for Downers Grove South High School (1983-85). For three seasons, Coach Barclay played NCAA Division I collegiate soccer for Eastern Illinois University in Charleston.
 
-![](/uploads/kcc-soccer-coach-mike-barclay-with-team.jpg){: width="346" height="264"}
+![](/uploads/kcc-soccer-coach-mike-barclay-with-team.jpg){: .float-image-left width="346" height="264"}
 
 A goalkeeper, he still holds rankings as No. 1 in saves percentage, No. 2 in goals against average and No. 3 in total saves in EIU history. In 1989, Coach Barclay lead the Panthers to the NCAA Division I National Indoor Championship for the first time in school history. He also played for one season in the semi-pro Chicago Metro League.&nbsp;
 
