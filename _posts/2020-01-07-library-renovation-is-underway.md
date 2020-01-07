@@ -14,9 +14,9 @@ The renovation of the Miner Memorial Library into the KCC Student Success Center
 
 ![](/uploads/library-north-looking-east.jpg){: .float-image-left width="355" height="252"}&nbsp;During construction, all library services are operating out of KCC Room D212, on the second floor of the Workforce Development Center, next to the Foundation Office. &nbsp;
 
-![](/uploads/tutoring-looking-east.jpg){: width="395" height="251"}&nbsp;Quiet study for students is available in Room L369, a classroom next to the division offices on the third floor. Room L369 is reserved for the entire renovation project as a space where students can read and study without interruption or noise. &nbsp;
+![](/uploads/tutoring-looking-east.jpg){: .float-image-right width="395" height="251"}&nbsp;Quiet study for students is available in Room L369, a classroom next to the division offices on the third floor. Room L369 is reserved for the entire renovation project as a space where students can read and study without interruption or noise. &nbsp;
 
-![](/uploads/library-south-looking-east.jpg){: .center-image width="377" height="248"}&nbsp;Other spaces for group and individual study are listed on the[Library FAQ page](https://kcc.libanswers.com/library/faq/270883){: target="_blank"}.
+![](/uploads/library-south-looking-east.jpg){: .float-image-left width="377" height="248"}&nbsp;Other spaces for group and individual study are listed on the[Library FAQ page](https://kcc.libanswers.com/library/faq/270883){: target="_blank"}.
 
 &nbsp;There also are a couple of computers in Room D212 (the temporary library) for research assistance. Students who just need a computer to work on homework or other tasks can use the [guide to other computer/printer locations](https://kcc.libanswers.com/library/faq/270159){: target="_blank"}. Generally speaking, students may use any computer lab where a class is not currently being held - check the sign on the door for that room’s schedule.
 
