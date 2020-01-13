@@ -4,7 +4,7 @@ date: 2020-01-11 04:58:00 -0600
 expire_date: 2020-01-24 00:00:00 -0600
 image: /uploads/presidents-list---sarah-bowman-of-saint-anne-dsc-7473.jpg
 news_image_alt: Sara Bowman of St. Anne
-article_lead: KCC students make the Presidents List for Fall semester.
+article_lead: Congratulations to these students
 video_content: false
 video_link:
 press_release: false
