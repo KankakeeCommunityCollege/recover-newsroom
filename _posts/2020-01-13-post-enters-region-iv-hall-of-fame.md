@@ -1,10 +1,10 @@
 ---
-title: Post Region IV Hall of FAme
+title: Post enters Region IV Hall of Fame
 date: 2020-01-13 04:58:00 -0600
 expire_date: 2020-01-24 00:00:00 -0600
 image: /uploads/post-d4s-9686---copy.jpg
 news_image_alt: Coach Todd Post
-article_lead: Hall of Fame claims another KCC Coach
+article_lead: 11th from KCC to be honored
 video_content: false
 video_link:
 press_release: false
