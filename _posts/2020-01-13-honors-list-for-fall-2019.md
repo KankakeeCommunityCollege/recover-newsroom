@@ -10,6 +10,8 @@ video_link:
 press_release: false
 ---
 
+*Editor's note: On Jan. 14, 2020, some Chebanse names were corrected, and a heading for Clifton was added.*
+
 The following students have been named to the Honors List at Kankakee Community College for the Fall 2019 semester.
 
 To be named to the Honors List, a student must maintain a grade point average between 3.25 and 3.79 and be enrolled in six or more semester hours.
@@ -34,7 +36,9 @@ To be named to the Honors List, a student must maintain a grade point average be
 
 **Cabery:** Sierra Williams.
 
-**Chebanse:** Kaitlin Bowers, James Ferris, Kaitlyn Girard, Skylar Hamble, Jules Hartman, Cory Hoggins Adilene endoza Jakob Michl, Molly Saindon, Daniel Snyder, Illiana Stano, Zowie Trudeau and Alexis Waller, Andrew Boudreau, Austin Boudreau, Jefferson Caspary, Caden Chamness, Justin Coggins, Erica Cordes, Fallon Gray, Morgan Gulick, Karmyn Jensen, Leah Lemenager, Krystal Smith and Riley Thompson.
+**Chebanse:** Kaitlin Bowers, James Ferris, Kaitlyn Girard, Skylar Hamblen, Jules Hartman, Cory Hoggins, Adilene Mendoza, Jakob Michl, Molly Saindon, Daniel Snyder, Illiana Stano, Zowie Trudeau and Alexis Waller.
+
+**Clifton:** Andrew Boudreau, Austin Boudreau, Jefferson Caspary, Caden Chamness, Justin Coggins, Erica Cordes, Fallon Gray, Morgan Gulick, Karmyn Jensen, Leah Lemenager, Krystal Smith and Riley Thompson.
 
 **Crescent City:** Amanda Robinson and Chelsea Stanley.
 
