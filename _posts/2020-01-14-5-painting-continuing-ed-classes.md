@@ -1,7 +1,7 @@
 ---
 title: 5 painting continuing ed classes
-date: 2020-01-15 04:58:00 -0600
-expire_date: 2020-01-24 00:00:00 -0600
+date: 2020-01-14 04:58:00 -0600
+expire_date: 2020-02-25 00:00:00 -0600
 image: /uploads/project-photo---valentine-gnome---copy.jpg
 news_image_alt: Valentine Gnome painting
 article_lead: One night sessions. Keep your creation.
