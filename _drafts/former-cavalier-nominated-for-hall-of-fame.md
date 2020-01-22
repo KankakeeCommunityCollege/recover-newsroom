@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-For the third year in a row, former KCC basketball player LaMont Robinson has been nominated alongside a number of NBA legends for the Naismith Memorial Basketball Hall of Fame.
+For the third year in a row, former KCC basketball player LaMont Robinson has been nominated alongside a number of NBA legends for the [Naismith Memorial Basketball Hall of Fame](http://www.hoophall.com/).
 
 Robinson–sometimes called "The Comedy King of Basketball," and "Showboat"–already was inducted into the American Basketball Hall of Fame (2019).
 
