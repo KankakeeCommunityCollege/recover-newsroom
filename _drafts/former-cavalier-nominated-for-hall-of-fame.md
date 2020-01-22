@@ -1,6 +1,6 @@
 ---
 title: Former Cavalier nominated for Hall of Fame
-date: 2020-01-23 04:58:00 -0600
+date: 2020-01-22 04:58:00 -0600
 expire_date: 2020-02-07 00:00:00 -0600
 image: /uploads/red-white-blue-basketballjpg.jpg
 news_image_alt: Red white and blue basketball
