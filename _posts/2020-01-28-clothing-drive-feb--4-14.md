@@ -14,6 +14,8 @@ press_release: false
 
 Start your spring cleaning early and donate clothing to help homeless animals\!
 
+Perfect Paws earns money for every pound of clothing they donate to Savers, a resale shop.
+
 Drop off clothes directly at Perfect Paws Animal Rescue, located at 4216 E. 5000N Rd in Bourbonnais OR bring them to KCC. A drop off bin will be at the Welcome Center entrance--the entrance closest to the student parking lot.<br>&nbsp;<br>Questions? Email: Linsey Cuti [lcuti@kcc.edu](mailto:lcuti@kcc.edu).
 
 &nbsp;
