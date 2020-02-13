@@ -1,6 +1,6 @@
 ---
 title: Seeking TRANSFER students
-date: 2020-02-14 04:58:00 -0600
+date: 2020-02-13 04:58:00 -0600
 expire_date: 2020-02-28 00:00:00 -0600
 image: /uploads/samaria-rosenthal-small.JPG
 news_image_alt: Samaria Rosenthal
