@@ -16,7 +16,7 @@ The Kankakee Community College career counselor, Cydney Boyd, is available to wo
 
 “I’m here to help you figure out who you are and what you want out of your education, your career, and your life,” Boyd said. “We can assess your interests, abilities, and values. We can also determine your next steps and develop a plan to achieve your goals as well as locate resources and sources of career information.”
 
-![](/uploads/cydney-boyd-dsc-1471.jpg){: .float-image-left width="278" height="293"}Boyd (at left) has experience as a career counselor and has taught career readiness courses.
+![](/uploads/cydney-boyd-dsc-1471.jpg){: .float-image-left width="278" height="293"}Boyd (pictured) has experience as a career counselor and has taught career readiness courses.
 
 “Sometimes it is helpful to have someone to talk to about your thoughts, ideas, feelings, and concerns about your career and educational choices,” Boyd said. “I can help you sort out, organize, and make sense of your thoughts and feelings.”
 
