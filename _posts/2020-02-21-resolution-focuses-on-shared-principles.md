@@ -1,10 +1,10 @@
 ---
-title: Police NAACP and Police collaborate on resolution
-date: 2020-02-22 04:58:00 -0600
+title: Resolution focuses on shared principles
+date: 2020-02-21 04:58:00 -0600
 expire_date: 2020-03-07 00:00:00 -0600
 image: /uploads/downy-signs-dsc-0584---copy.JPG
 news_image_alt: Kankakee County Sheriff Michael Downey
-article_lead: Local agencies sign new resolution.
+article_lead: Local agencies sign new document
 video_content: false
 video_link:
 press_release: false
