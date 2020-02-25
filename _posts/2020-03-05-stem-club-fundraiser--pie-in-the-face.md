@@ -1,5 +1,5 @@
 ---
-title: KCC Pie in the Face Fundraiser
+title: STEM Club Fundraiser- Pie in the Face
 date: 2020-03-05 04:58:00 -0600
 expire_date: 2020-03-06 00:00:00 -0600
 image: /uploads/animals-for-australia---copy.JPG
