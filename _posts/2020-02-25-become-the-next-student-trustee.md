@@ -1,6 +1,6 @@
 ---
 title: Become the next student trustee
-date: 2020-02-26 04:58:00 -0600
+date: 2020-02-25 04:58:00 -0600
 expire_date: 2020-03-06 00:00:00 -0600
 image: /uploads/daisy-solorzano.jpg
 news_image_alt: Daisy Solorzano KCC Student Trustee
@@ -14,6 +14,6 @@ press_release: false
 
 "Students in this prestigious position have an advantage when competing for scholarships and employment opportunities," said Rodney Lipscomb, KCC coordinator of student life.
 
-Complete information and applications are [available online](http://www.kcc.edu/students/studentlife). Application deadline is 4&nbsp;p.m. Friday, March 6.
+Complete information and applications are [available online](http://www.kcc.edu/students/studentlife). Application deadline is 4 p.m. Friday, March 6.
 
 Pictured: Daisy Solorzano of Watseka, the 2019-20 student trustee.
