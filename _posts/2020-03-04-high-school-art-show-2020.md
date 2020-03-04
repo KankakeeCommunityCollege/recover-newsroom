@@ -1,6 +1,6 @@
 ---
 title: High school art show 2020
-date: 2020-03-06 04:58:00 -0600
+date: 2020-03-04 04:58:00 -0600
 expire_date: 2020-03-18 00:00:00 -0500
 image: /uploads/oneway---copy.JPG
 news_image_alt: One Way  by Marin Lewis - BBCHS
