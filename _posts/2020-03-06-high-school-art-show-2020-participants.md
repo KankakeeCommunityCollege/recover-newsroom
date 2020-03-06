@@ -1,6 +1,6 @@
 ---
 title: High School art show 2020 participants
-date: 2020-03-08 04:58:00 -0500
+date: 2020-03-06 04:58:00 -0600
 expire_date: 2020-03-18 00:00:00 -0500
 image: /uploads/depth-through-decay-by-micah-swiley---copy.JPG
 news_image_alt: Depth by Decay by Micah Swiley-BBCHS
