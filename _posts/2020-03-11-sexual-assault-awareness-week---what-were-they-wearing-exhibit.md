@@ -1,5 +1,5 @@
 ---
-title: WHAT WERE THEY WEARING EXHIBIT
+title: Sexual Assault Awareness Week - WHAT WERE THEY WEARING EXHIBIT
 date: 2020-03-11 04:58:00 -0500
 expire_date: 2020-03-18 00:00:00 -0500
 image: /uploads/jeans-and-a-blue-t-shirt-1.jpg
