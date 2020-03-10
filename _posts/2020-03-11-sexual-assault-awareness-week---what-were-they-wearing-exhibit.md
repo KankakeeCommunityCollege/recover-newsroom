@@ -14,6 +14,6 @@ press_release: false
 
 *The display is being created by the Ka*nkakee County Center Against Sexual Assault (KC-CASA), and is sponsored by the KCC Office of Student Life and Development.
 
-The art installation will re-create outfits from the stories of survivors. It’s intended to reinforce the fact that the clothing doesn’t cause sexual violence, the person who causes harm is the one to blame, said Rodney Lipscomb, KCC's coordinator of student life. Through this project, KC-CASA seeks to help survivors find peace and to provide a moment of awareness for the KCC community, Lipscomb said.
+The art installation will re-create outfits from the stories of survivors. It’s intended to reinforce the fact that the clothing doesn’t cause sexual violence, the person who causes harm is the one to blame, said Rodney Lipscomb, KCC's coordinator of student life and development. Through this project, KC-CASA seeks to help survivors find peace and to provide a moment of awareness for the KCC community, Lipscomb said.
 
 Photo from [University of Oregon](https://www.forestry.oregonstate.edu/wwyw/stories){: target="_blank"} article on same topic.<br>&nbsp;
