@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/womens-basketball.jpg){: .float-image-left width="598" height="247"}&nbsp;
+![](/uploads/womens-basketball.jpg){: .center-image width="598" height="247"}&nbsp;
 
 The KCC women's basketball team has a record of 23 wins to go with seven losses, and is seeking more wins as it enters the National Tournament.
 
