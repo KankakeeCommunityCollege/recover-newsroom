@@ -2,7 +2,7 @@
 title: Message to students regarding coronavirus
 date: 2020-03-11 04:58:00 -0500
 expire_date: 2020-03-18 00:00:00 -0500
-image: /uploads/reverse-logo-in-circle.jpg
+image: uploads/kcc-color-logo_square.jpg
 news_image_alt: KCC logo
 article_lead: Please continue common-sense precautions
 video_content: false
