@@ -3,7 +3,7 @@ title: Coronavirus actions
 date: 2020-03-12 04:58:00 -0500
 expire_date: 2020-04-19 00:00:00 -0500
 image: /uploads/entrancedsc-0272.jpg
-news_image_alt: KCC logo
+news_image_alt: KCC entry
 article_lead: Spring break extended - some instruction to move online
 video_content: false
 video_link:
