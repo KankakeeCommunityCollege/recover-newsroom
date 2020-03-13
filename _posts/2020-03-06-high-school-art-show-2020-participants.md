@@ -16,8 +16,6 @@ The show runs through March 18 in the art hallway and gallery area, on the first
 
 “The High School Art Show is always inspiring,” said Chelise Slowik, a KCC art professor. “Visitors will find the works full of passionate effort and imagination. Overall, it is a beautiful display of our future local artists. Plan to come out and enjoy the event\!”
 
-A reception for the artists will be held on Wednesday, March 18, from 6-7:15 p.m. I the gallery area. &nbsp;Awards in categories such as Painting, Color Drawing/Design, Photography/electronic imaging and 3-D Design will be revealed at 7:15 p.m. in the KCC Auditorium, Room L110. Juror are the KCC art faculty.&nbsp;
-
 Nine High schools are participating in the exhibit: Bishop McNamara Catholic High School, Bradley-Bourbonnais Community High School, Cissna Park High School, Grant Park High School, Iroquois West High School, Kankakee High School, Manteno High School, Momence High School, and Pontiac High School.
 
 Participants and the schools they represent are:
