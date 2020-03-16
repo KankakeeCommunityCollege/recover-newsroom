@@ -1,7 +1,7 @@
 ---
 title: Sexual Assault Awareness Week - WHAT WERE THEY WEARING EXHIBIT
 date: 2020-03-11 04:58:00 -0500
-expire_date: 2020-03-18 00:00:00 -0500
+expire_date: 2020-03-13 00:00:00 -0500
 image: /uploads/jeans-and-a-blue-t-shirt-1.jpg
 news_image_alt: Jeans and blue t-shirt
 article_lead: Clothing display of sexual assault survivors.
