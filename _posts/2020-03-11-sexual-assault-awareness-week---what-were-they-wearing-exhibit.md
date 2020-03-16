@@ -10,7 +10,9 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/jeans-and-a-blue-t-shirt-1.jpg){: .float-image-left width="347" height="242"}Displays of the clothing sexual assault survivors were wearing at the time of their assaults will be on display in the KCC College Center Monday April 13 through Thursday, April 16.&nbsp;
+![](/uploads/jeans-and-a-blue-t-shirt-1.jpg){: .float-image-left width="347" height="242"}(event was canceled due to coronavirus concerns / KCC closures)
+
+Displays of the clothing sexual assault survivors were wearing at the time of their assaults will be on display in the KCC College Center Monday April 13 through Thursday, April 16.&nbsp;
 
 *The display is being created by the Ka*nkakee County Center Against Sexual Assault (KC-CASA), and is sponsored by the KCC Office of Student Life and Development.
 
