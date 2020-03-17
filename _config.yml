@@ -5,6 +5,7 @@ timezone: America/Chicago
 google-tag_key: GTM-KKZRJB5
 url: "https://news.kcc.edu"
 public-url: "https://news.kcc.edu"
+emergency_alert: true
 theme: "kcc-gem-theme"
 nav_links:
   - link_text: Home

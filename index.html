@@ -1,11 +1,12 @@
 ---
 layout: default
+homepage: true
 baseurl: ''
 title: Newsroom
 description: ''
 ---
 
-<section class="position__offset-fixed-nav">
+<section>
   {% for announcement in site.announcements %}
     {% if announcement.display_announcement == true %}
       {% include announcement.html %}
