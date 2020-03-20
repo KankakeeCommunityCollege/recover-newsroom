@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-LifeFItness and Equipment, the company that outfitted the KCC FItness Center, has made a limited time offer of free at-home workouts to KCC students and staff.
+Life Fitness, the company that outfitted the KCC FItness Center, has made a limited time offer of free at-home workouts to KCC students and staff.
 
 "It's important while you are staying in place to keep exercising from home," said Donnie Denson, KCC's assistant athletic director. "They have offered some great tips and routines for everyone."
 
