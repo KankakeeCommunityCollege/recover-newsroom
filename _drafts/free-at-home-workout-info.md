@@ -14,4 +14,4 @@ LifeFItness and Equipment, the company that outfitted the KCC FItness Center, ha
 
 "It's important while you are staying in place to keep exercising from home," said Donnie Denson, KCC's assistant athletic director. "They have offered some great tips and routines for everyone."
 
-Sign-in for free workouts with the "Digital Coach" on demand.
+[Sign-in for free workouts with the "Digital Coach" on-demand](https://go.lifefitness.com/wod){: target="_blank"}.
