@@ -1,7 +1,7 @@
 ---
 title: IT support available
-date: 2020-03-20 04:58:00 -0500
-expire_date: 2020-04-03 00:00:00 -0500
+date: 2020-03-23 04:58:00 -0500
+expire_date: 2020-04-08 00:00:00 -0500
 image: /uploads/computer-plain.jpg
 news_image_alt: laptop computer
 article_lead: KCC help desk is ready to assist
