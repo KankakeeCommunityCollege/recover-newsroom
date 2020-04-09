@@ -1,7 +1,7 @@
 ---
 title: Get a professional resume review
 date: 2020-03-31 04:58:00 -0500
-expire_date: 2020-04-08 00:00:00 -0500
+expire_date: 2020-04-15 00:00:00 -0500
 image: /uploads/resume-image-jpg.jpg
 news_image_alt: laptop computer
 article_lead: Free service!
