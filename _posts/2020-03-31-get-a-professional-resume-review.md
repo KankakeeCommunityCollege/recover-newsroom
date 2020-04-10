@@ -14,7 +14,7 @@ press_release: false
 
 KCC's Charlton Career Services Center is offering free resume reviews.
 
-The service is offered to o KCC students, alumni, and community members. Reviews are reviewed by Kimberly Schott, KCC’s Coordinator of Career Services,. Schott is a Certified Professional Resume Writer and Career and Education Advisor specializing in career development and counseling, professional resume writing, and interviewing for success.
+The service is offered to KCC students, alumni, and community members. Reviews are reviewed by Kimberly Schott, KCC’s Coordinator of Career Services,. Schott is a Certified Professional Resume Writer and Career and Education Advisor specializing in career development and counseling, professional resume writing, and interviewing for success.
 
 To participate, email the Career Services office at [kschott@kcc.edu](mailto:kschott@kcc.edu). Your resume will be returned with feedback within 2 business days.
 
