@@ -1,7 +1,7 @@
 ---
 title: Alumni Association donates lunches
 date: 2020-03-31 04:58:00 -0500
-expire_date: 2020-04-08 00:00:00 -0500
+expire_date: 2020-04-15 00:00:00 -0500
 image: /uploads/lunch-box.jpg
 news_image_alt: lunch box
 article_lead: Showing gratitude to health providers
