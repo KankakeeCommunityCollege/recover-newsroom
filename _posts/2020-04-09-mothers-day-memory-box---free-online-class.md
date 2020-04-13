@@ -26,6 +26,6 @@ After registering, participants will receive the link and password for the class
 
 Dawn Wrobel joined the KCC community in 2013. She teaches geography credit courses and almost everything else she loves for the Continuing Education and Career Services Department. Her love for the earth extends from geography to a variety of "green living" topics.&nbsp;
 
-Wrobel has been teaching crafts since her teenage years and is especially interested in traditional craft using leather, rawhide, and scrimshaw. She makes and restores drums and hosts drumming circles for relaxation. You can see her drums and leather work at the Native American Cultural Center in Lockport.
+Wrobel has been teaching crafts since her teenage years and is especially interested in traditional craft using leather, rawhide, and scrimshaw. She makes and restores drums and hosts drumming circles for relaxation. Her drums and leather work is on display at the Arts Center of Kankakee County at Northfield Square Mall in Bradley and the Native American Cultural Center in Lockport.
 
 A practicing animal communicator, Wrobel teaches animal communication and Reiki for animals in addition to short programs on specific topics. The author of a popular book on hedgehog care, she is known as the "hedgehog lady," and developed an agility program for hedgehogs. She will host hedgehogs from throughout the U.S. and Canada in Bradley in 2021 as sponsor of the national hedgehog show.
