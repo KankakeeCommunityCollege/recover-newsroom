@@ -20,4 +20,12 @@ The class will show participants how to create a memory box keepsake. The goal i
 
 The class meets Friday, April 17, from 7:30-8:30 p.m. To register online, visit [http://www.kcc.edu/comejoinus](http://www.kcc.edu/comejoinus){: target="_blank"}, sign up or login, then select the course, click on the date and add it to your cart. Within the cart, checkout. To register by phone, or for more information, phone 815-802-8207 and leave a message. A staff person will return the call within one business day.
 
-After registering, participants will receive the link and password for the class. This course does not award college credit.<br>&nbsp;
+After registering, participants will receive the link and password for the class. This course does not award college credit.
+
+## About the presenter: Dawn Wrobel
+
+Dawn Wrobel joined the KCC community in 2013. She teaches geography credit courses and almost everything else she loves for the Continuing Education and Career Services Department. Her love for the earth extends from geography to a variety of "green living" topics.&nbsp;
+
+Wrobel has been teaching crafts since her teenage years and is especially interested in traditional craft using leather, rawhide, and scrimshaw. She makes and restores drums and hosts drumming circles for relaxation. You can see her drums and leather work at the Native American Cultural Center in Lockport.
+
+A practicing animal communicator, Wrobel teaches animal communication and Reiki for animals in addition to short programs on specific topics. The author of a popular book on hedgehog care, she is known as the "hedgehog lady," and developed an agility program for hedgehogs. She will host hedgehogs from throughout the U.S. and Canada in Bradley in 2021 as sponsor of the national hedgehog show.
