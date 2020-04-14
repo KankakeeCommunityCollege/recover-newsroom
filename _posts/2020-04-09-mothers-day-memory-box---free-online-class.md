@@ -12,7 +12,7 @@ press_release: false
 
 The community is invited to a free online course to learn how to make a memory box for Mother’s Day.
 
-&nbsp;![](/uploads/memory-box-sm.jpg){: width="345" height="259"}&nbsp;“Mother’s Day Memory Boxes” is being offered by the Kankakee Community College Office of Continuing Education and Career Services. Instead of being a pre-packaged presentation, the course will be live and online.
+&nbsp;![](/uploads/memory-box-sm.jpg){: .float-image-left width="345" height="259"}&nbsp;“Mother’s Day Memory Boxes” is being offered by the Kankakee Community College Office of Continuing Education and Career Services. Instead of being a pre-packaged presentation, the course will be live and online.
 
 The class will show participants how to create a memory box keepsake. The goal is to show a simple way to create an unforgettable memory box suitable to giving to any special person, including a mother or someone else for Mother’s Day, or as a graduation or birthday gift for another recipient, said the presenter, Dawn Wrobel. The boxes are not limited to Participants will be asked to have some basic supplies, including paper and pens or markers. The completed project can use things found in most homes.
 

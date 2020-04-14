@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-![](/uploads/drums-photo-by-ricky-singh-on-unsplash-1.jpg){: width="330" height="220"}&nbsp;The community is invited to have fun and create some good vibrations during a “Virtual Drum Circle” on Friday, May 1.<br>The free event will be online and live over Zoom&reg;.&nbsp; It is being offered by the Kankakee Community College Continuing Education and Career Services Department.
+![](/uploads/drums-photo-by-ricky-singh-on-unsplash-1.jpg){: .float-image-left width="330" height="220"}&nbsp;The community is invited to have fun and create some good vibrations during a “Virtual Drum Circle” on Friday, May 1.<br>The free event will be online and live over Zoom&reg;.&nbsp; It is being offered by the Kankakee Community College Continuing Education and Career Services Department.
 
 “If you don’t have a drum at home, you can use your desktop, a pan or even a small bottle with coins as a rattle\!” said Dawn Wrobel, the course leader. &nbsp;She will lead participants through several rounds of drumming/percussion. In addition to offering this drum-related course, Wrobel is a part-time teacher for KCC, an experienced crafter and pet enthusiast.
 
