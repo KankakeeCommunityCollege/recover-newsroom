@@ -3,8 +3,8 @@ title: Grad helps with 3D mask shields donation
 date: 2020-04-17 04:58:00 -0500
 expire_date: 2020-05-04 00:00:00 -0500
 image: /uploads/3d-mask-shields.jpg
-news_image_alt: drum
-article_lead: Free class for Friday fun
+news_image_alt: Mask shields
+article_lead: Providing supplies for health workers
 video_content: false
 video_link:
 press_release: false
