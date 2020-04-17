@@ -1,7 +1,7 @@
 ---
 title: Medical Laboratory Professionals Week
-date: 2020-04-17 04:58:00 -0500
-expire_date: 2020-05-04 00:00:00 -0500
+date: 2020-04-19 04:58:00 -0500
+expire_date: 2020-04-25 00:00:00 -0500
 image: /uploads/mlt-week-2020.jpg
 news_image_alt: Medical Laboratory Professionals Week logo
 article_lead: Recognizing contributions of lab workers
