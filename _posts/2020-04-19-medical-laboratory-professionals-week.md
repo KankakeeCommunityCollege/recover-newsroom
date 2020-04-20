@@ -12,13 +12,13 @@ press_release: false
 
 Medical Laboratory Professionals Week will be observed nationally April 19-25, 2020.
 
-According to the American Society of Clinical Laboratory Sciences, this week recognizes the contributions of the laboratory professionals whose work in the medical laboratory helps give our nation the best possible healthcare. These medical laboratory personnel play anincreasingly vital role in the diagnosis and prevention of disease, according to the society.
+According to the American Society of Clinical Laboratory Sciences, this week recognizes the contributions of the laboratory professionals whose work in the medical laboratory helps give our nation the best possible healthcare. These medical laboratory personnel play an increasingly vital role in the diagnosis and prevention of disease, according to the society.
 
 Please join these dedicated professionals in celebrating Medical Laboratory Professionals Week and their vital role in protecting and promoting your health.
 
-![](/uploads/naacls--accred-mlt-logo-300x175.jpg){: .float-image-right width="300" height="175"}&nbsp;Kankakee Community College offers a [Medical Laboratory Technology associate degree](http://kcc.smartcatalogiq.com/current/Academic-Catalog/Programs-of-Study-by-Area/Health-Careers/Medical-Laboratory-Technology-AAS){: target="_blank"} program to prepare students for technician positions in medical laboratories, related businesses and industries. An advanced placement sequence is offered to students who have already completed the general education courses within the program. The program is accredited by the [National Association of Clinical Laboratory Sciences](https://naacls.org/){: target="_blank"}.
+![](/uploads/naacls--accred-mlt-logo-300x175.jpg){: .float-image-left width="300" height="175"}&nbsp;Kankakee Community College offers a [Medical Laboratory Technology associate degree](http://kcc.smartcatalogiq.com/current/Academic-Catalog/Programs-of-Study-by-Area/Health-Careers/Medical-Laboratory-Technology-AAS){: target="_blank"} program to prepare students for technician positions in medical laboratories, related businesses and industries. An advanced placement sequence is offered to students who have already completed the general education courses within the program. The program is accredited by the [National Association of Clinical Laboratory Sciences](https://naacls.org/){: target="_blank"}.
 
-Graduates are eligible to take a national certification exam.&nbsp;
+Graduates are eligible to take a national certification exam. In the last two years, KCC's program pass rate was 95%; while the national average was 81%. KCC graduates have had a 100% job placement rate for more than 10 straight years.
 
 The college also offers related certificates for medical laboratory assistants and phlebotomists.
 
