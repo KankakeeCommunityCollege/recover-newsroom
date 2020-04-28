@@ -1,7 +1,7 @@
 ---
 title: CARES Act funding to become available
 date: 2020-04-28 04:58:00 -0500
-expire_date: 2020-05-15 00:00:00 -0500
+expire_date: 2020-05-29 00:00:00 -0500
 image: /uploads/reverse-logo-in-circle.jpg
 news_image_alt: Daisy Solorzano
 article_lead: Stimulus funds help students
