@@ -1,10 +1,10 @@
 ---
 title: 10 free non-credit classes
 date: 2020-05-01 04:58:00 -0500
-expire_date: 2020-05-29 00:00:00 -0500
+expire_date: 2020-06-29 00:00:00 -0500
 image: /uploads/at-home-learnng-gettyimages-874872024-sm.jpg
 news_image_alt: At home learning
-article_lead: Free classes offered by KCC Continuing Education and Career Services.PR pho sm
+article_lead: Variety of choices offered
 video_content: false
 video_link:
 press_release: false
