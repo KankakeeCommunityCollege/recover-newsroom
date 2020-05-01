@@ -25,6 +25,6 @@ The self-paced courses include a mix of skills for today’s changing job market
 * **Small Business Marketing on a Shoestring** - Includes cost effective marketing strategies that provide results with hands-on activities and real-world examples.&nbsp;
 * **Individual Excellence&nbsp;**\- Shows how to master 12 career enhancing skills, including goal setting, time management, personal organization, creativity, financial matters and conflict resolution.&nbsp;
 
-To register online, visit [kcc.edu/comejoinus](http://www.kcc.edu/comejoinus){: target="_blank"}, sign up or login, then find the course, click on the date and add it to your cart. Within the cart, checkout. To register by phone, or for more information, phone 815-802-8207 and leave a message. A staff person will return the call within one business day.
+The offer expires June 30 and the course must be started before July 1. To register online, visit [kcc.edu/comejoinus](http://www.kcc.edu/comejoinus){: target="_blank"}, sign up or login, then find the course, click on the date and add it to your cart. Within the cart, checkout. To register by phone, or for more information, phone 815-802-8207 and leave a message. A staff person will return the call within one business day.
 
 After registering, participants will receive account access within one business day. These courses do not award college credit.<br>&nbsp;
