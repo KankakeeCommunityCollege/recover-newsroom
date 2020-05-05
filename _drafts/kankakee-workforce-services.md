@@ -1,0 +1,13 @@
+---
+title: Kankakee Workforce Services
+date: 2020-05-06 04:58:00 -0500
+expire_date: 2020-05-22 00:00:00 -0500
+image: /uploads/business-attire.png
+news_image_alt: business attire
+article_lead: Help for job seekers
+video_content: false
+video_link:
+press_release: false
+---
+
+Those who are laid off or out of work--whether or not due to the COVID-19 pandemic—are invited to explore different career avenues with the help of Kankakee Workforce Services, a local American Job Center.&nbsp;<br>Workforce services include helping job seekers with free resources to explore career options, linking job seekers with certificate or short-term training if necessary, reviewing resumes, giving search tips, helping with the application process, providing practice on interviewing skills, and more.<br>Through the Workforce Innovation and Opportunity Act (WIOA) Dislocated Worker program, Workforce Services provides individuals who have been laid off with scholarships for training in in-demand occupations.&nbsp;<br>WIOA participant scholarships are up to $10,000 in tuition, plus $2,500 per year for books and training-related fees and supplies. Reimbursement for fuel to travel to classes is also available. Individuals who receive unemployment insurance do not lose benefits when they enroll in a certificate or degree through WIOA.<br>Other job search services are available including free virtual workshops in resume writing and interviewing for success for those who choose not to enroll in further training.<br>For assistance finding a career direction, Workforce Services offers free online questionnaires to match the person’s skills with career options. A variety of [Skills and Interest Surveys](https://www.illinoisworknet.com/explore/Pages/SkillandInterestSurveys.aspx){: target="_blank"} are on the Illinois WorkNet website for those who create an account.<br>Kankakee Workforce Services is administered by Kankakee Community College, and all programs/services are free under the WIOA grant. Funding is provided by the Grundy Livingston Kankakee Workforce Board.&nbsp;<br>For more information, visit [wioa.kcc.edu](https://wioa.kcc.edu/){: target="_blank"} or email [dstomberg@kcc.edu](mailto:dstomberg@kcc.edu).
