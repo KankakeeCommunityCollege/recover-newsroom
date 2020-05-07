@@ -12,7 +12,7 @@ press_release: false
 
 ![](/uploads/300x50-mobile-ad-kccfastpath.png){: width="300" height="50"}
 
-The Fast Path Degree program offered by Kankakee Community College at the Harold and Jean Miner South Extension Center in Watseka will have an online information session on Tuesday, May 18 from 6-7 p.m.&nbsp;
+The Fast Path Degree program offered by Kankakee Community College at the Harold and Jean Miner South Extension Center in Watseka will have an online information session on Tuesday, May 19 from 6-7 p.m.&nbsp;
 
 Fast Path offers students a schedule of two classes at a time, two days a week. Two classes are completed every eight weeks. After two years, they earn an Associate in Arts transfer degree.
 
