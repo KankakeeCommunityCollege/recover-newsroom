@@ -3,7 +3,7 @@ title: CARES Act funding now available
 date: 2020-04-28 04:58:00 -0500
 expire_date: 2020-05-29 00:00:00 -0500
 image: /uploads/reverse-logo-in-circle.jpg
-news_image_alt: Daisy Solorzano
+news_image_alt: KCC logo wave
 article_lead: Stimulus funds help students
 video_content: false
 video_link:
@@ -22,6 +22,6 @@ The funding from KCC is not available to select groups, including international 
 
 “In order to help the students who both want and need additional aid, the process includes an application and a demonstration of need,” da Silva said. “Amounts given will vary by student based on their individual need and financial strain.”
 
-It will take up to 2 weeks to determine eligibility, process requests, print and send checks, said Michelle Hasik, KCC director of financial aid. The first checks are expected to be sent by the end of May.
+It will take up to two weeks to determine eligibility, process requests, print and send checks, said Michelle Hasik, KCC director of financial aid. The first checks are expected to be sent by the end of May.
 
-More information and the CARES Act Fund application are on the [KCC Financial Aid page](http://www.kcc.edu/future/paying/fedstateaid/Pages/cares-act-information.aspx ).
+More information and the CARES Act Fund application are on the [KCC Financial Aid page](http://www.kcc.edu/future/paying/fedstateaid/Pages/cares-act-information.aspx).
