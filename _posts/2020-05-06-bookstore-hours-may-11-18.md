@@ -18,6 +18,6 @@ Because of roadwork, drive to Ice Valley entrance, east of KCC's main entry. You
 
 Dates and times are:<br>Monday - Friday, May 11-15<br>Monday, May 18<br>9 a.m. - 3 p.m. each day
 
-More details are at&nbsp;[kcc.edu/bookstore]( http://www.kcc.edu/bookstore).
+More details are at&nbsp;[kcc.edu/bookstore](http://www.kcc.edu/bookstore).
 
 &nbsp;
