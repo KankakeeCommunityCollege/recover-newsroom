@@ -4,7 +4,7 @@ date: 2020-05-07 04:58:00 -0500
 expire_date: 2020-05-18 00:00:00 -0500
 image: /uploads/sadee-wuethrich-sm.jpg
 news_image_alt: 'Sadee Wuethrich, 2020 Fast Path graduate'
-article_lead: Learn about 2-2-2 program May 18
+article_lead: Learn about 2-2-2 program
 video_content: false
 video_link:
 press_release: false
