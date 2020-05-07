@@ -18,7 +18,7 @@ Fast Path offers students a schedule of two classes at a time, two days a week. 
 
 “The Fall 2020 students will be in class for about three hours a day on Mondays and Wednesdays,” said Rexann McKinley, KCC professor and program mentor. “The course sequence, dates and times are all preplanned to make it easy on the students.”
 
-More information will be available at the event May 18. To participate, email [rmckinley@kcc.edu](mailto:rmckinley@kcc.edu) to receive login details.
+More information will be available at the event May 19. To participate, email [rmckinley@kcc.edu](mailto:rmckinley@kcc.edu) to receive login details.
 
 “The dedicated mentor and added support services available in the Fast Path program have helped me make a smooth transition from high school to college,” said Daniel Devine, who will complete a Fast Path A.A. degree this month. “This program has taught me the skills I need to be a successful college student in class and online.”
 
