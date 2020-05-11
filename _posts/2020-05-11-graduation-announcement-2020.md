@@ -1,0 +1,33 @@
+---
+title: Graduation announcement 2020
+date: 2020-05-11 04:58:00 -0500
+expire_date: 2020-05-15 00:00:00 -0500
+image: /uploads/grad-image.jpg
+news_image_alt: 2020 commencement tassel
+article_lead: Virtual ceremony premiere is May 15
+video_content: false
+video_link:
+press_release: false
+---
+
+Like many other events, Kankakee Community College’s commencement will be different this year.
+
+The college will premiere a virtual presentation to celebrate graduates’ achievements at 4 p.m. Friday, May 15 on Facebook&reg; and at [commencement.kcc.edu](http://commencement.kcc.edu). The virtual ceremony will remain available on college sites, plus YouTube&reg;, for those who are not able to watch immediately.
+
+“Though it will be a different kind of commencement than we’ve ever done, I assure you that it will be special,” said Dr. Michael Boyd, KCC’s president. “I realize that this isn’t the way we planned to host commencement this year. Perhaps now more than ever, we need to celebrate our successes and achievements at the end of a very difficult academic year."&nbsp;
+
+More than 350 graduates will be honored during the ceremony. It will also include recognition of a number of student, faculty and alumni accomplishments. The speaker will be J. Imani Drew, associate judge for the 21st Judicial Circuit.
+
+“Commencement is a chance for us to recognize the success of the many students who have accomplished so much in KCC’s classrooms, labs, and clinical sites,” Boyd said. “It’s the special time when students’ families can share in their success and create memories which have lasting, generational impact on peoples’ lives.”
+
+Two students will be honored as members of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. One honoree is Lydia Salgado of Saint Anne. Salgado graduated with an associate degree in Respiratory Therapist program in December 2019. She currently is a registered respiratory therapist at Carle Hospital in Urbana. Salgado is also a U.S. Navy Veteran and current hospital corpsman in the U.S. Navy Reserve.&nbsp;
+
+The other All-Academic Team member, Ralph Sansone of Bradley, will receive an Associate in Applied Arts transfer degree. He is a volunteer teacher’s aid at Bradley West Elementary and will transfer to Governors State University to study elementary education.
+
+Helen Streicher, Developmental English/English professor; and Pete Schiel, adjunct professor in the Business/Technology Division, will receive KCC Outstanding Faculty Member Awards for 2020.
+
+Social media users can use \#KCCgrad2020 to congratulate graduates.
+
+The college is planning to invite all those who would have graduated during this month’s ceremony to participate in person in May 2021.
+
+&nbsp;
