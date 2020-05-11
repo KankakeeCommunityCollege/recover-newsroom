@@ -22,7 +22,7 @@ More than 350 graduates will be honored during the ceremony. It will also includ
 
 ![](/uploads/ralph-sansone---lydia-salgado.jpg){: .float-image-right width="520" height="314"}&nbsp;Two students will be honored as members of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. One honoree is Lydia Salgado of Saint Anne. Salgado graduated with an associate degree in Respiratory Therapist program in December 2019. She currently is a registered respiratory therapist at Carle Hospital in Urbana. Salgado is also a U.S. Navy Veteran and current hospital corpsman in the U.S. Navy Reserve.&nbsp;
 
-The other All-Academic Team member, Ralph Sansone of Bradley, will receive an Associate in Applied Arts transfer degree. He is a volunteer teacher’s aid at Bradley West Elementary and will transfer to Governors State University to study elementary education.
+The other All-Academic Team member, Ralph Sansone of Bradley, will receive an Associate in Applied Arts transfer degree. He participated in the [TRIO Student Support Services](http://www/kcc.edu/trio) program. He is a volunteer teacher’s aid at Bradley West Elementary and will transfer to Governors State University to study elementary education.
 
 Helen Streicher, Developmental English/English professor; and Pete Schiel, adjunct professor in the Business/Technology Division, will receive KCC Outstanding Faculty Member Awards for 2020.&nbsp;![](/uploads/pete-schiel---helen-streicher.jpg){: .float-image-right width="520" height="312"}
 
