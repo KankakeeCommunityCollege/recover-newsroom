@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-KCC students are invited to bring Spring 2020 books in for buyback days, May 11-8. Rental returns also happening at the same time.
+KCC students are invited to bring Spring 2020 books in for buyback days, May 11-8. Rental returns and library materials are also being accepted at these times.
 
 Here are the details:
 
