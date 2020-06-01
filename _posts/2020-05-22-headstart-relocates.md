@@ -2,9 +2,9 @@
 title: Headstart relocates
 date: 2020-05-22 04:58:00 -0500
 expire_date: 2020-06-26 00:00:00 -0500
-image:
-news_image_alt:
-article_lead: Headstart relocates July 1
+image: /uploads/kids-books-broadway-book-center-panjim.jpg
+news_image_alt: Book section at a library
+article_lead: Relocation effective July 1
 video_content: false
 video_link:
 press_release: false
