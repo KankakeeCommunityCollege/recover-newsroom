@@ -1,5 +1,5 @@
 ---
-title: KidsSTEM online learning
+title: KidSTEM online learning
 date: 2020-06-03 04:58:00 -0500
 expire_date: 2020-07-23 00:00:00 -0500
 image: /uploads/kidstem-logo-square.jpg
