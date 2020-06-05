@@ -1,7 +1,7 @@
 // Custom YouTube playlist used on videos.html page
 function playlist() {
   const DEFAULT_USER_NAME = 'kankakeecommcollege';
-  const API_KEY = 'AIzaSyBpxv9JNl4AX816ScNmZcqHkLncMUeiAws';
+  const API_KEY = 'AIzaSyCDtQhcIZrqG_uw3OAJvQ5zhtLYWvInZV4';
   selectChannel(DEFAULT_USER_NAME);
   /* API shits */
   function selectChannel(user_name) {
