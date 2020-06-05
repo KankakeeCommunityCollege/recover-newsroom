@@ -63,7 +63,7 @@ sitemap:
     - "_site/**/*.pdf" # Yes, PDF's too.
     - "_site/**/**/*.pdf"
   notification: "Running sitemap"
-  siteUrl: "news.kcc.edu"
+  siteUrl: "https://news.kcc.edu"
 
 jekyll:
   notification: "Running jekyll"
