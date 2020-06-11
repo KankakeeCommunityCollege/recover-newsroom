@@ -16,7 +16,7 @@ The college, which partners with Nelnet Business Solutions for payment processin
 
 Students who register for Fall 2020 before June 19 can make six payments, one per month from July to December, with no down payment. Those who register by July 17 also can enroll with no down payment, and will have five payments between August and December.&nbsp;
 
-There is a down payment for those who enroll after Aug. 14.&nbsp;
+There is a down payment for those who enroll after July 17.&nbsp;
 
 Additional features of the payment plan include no interest, online enrollment and automatic payment using a credit card or bank account. There is a $25 per semester enrollment fee. Contracts can be paid off in advanced, and early payments also can be made.&nbsp;
 
