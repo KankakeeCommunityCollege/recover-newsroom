@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-[...](https://info.kcc.edu)Kankakee Community College has a new certificate for students planning to earn a Bachelor of Arts degree in any area.
+Kankakee Community College has a new certificate for students planning to earn a Bachelor of Arts degree in any area.
 
 According to the iTransfer.org website, “The GECC transfers as a package to satisfy the general education requirements at participating IAI (Illinois Articulation Initiative) schools to help you with progress towards completing your degree.”&nbsp;
 
