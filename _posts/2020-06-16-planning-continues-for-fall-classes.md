@@ -1,8 +1,8 @@
 ---
 title: Planning continues for fall classes
-date: 2020-06-17 04:58:00 -0500
+date: 2020-06-16 04:58:00 -0500
 expire_date: 2020-07-03 00:00:00 -0500
-image:
+image: /uploads/nicholas-redmond-dsc-1688.jpg
 news_image_alt:
 article_lead: Students adapt and do their best
 video_content: false
@@ -60,7 +60,7 @@ Students and prospective students can learn more at [advising@kcc.edu](mailto:ad
 
 Before March of this year I had taken one class fully online, and one class as a hybrid. I took Sociology completely online in the Spring of 2019 and found the experience pleasant. It was clear that the class had been built to be handled online and was a relatively stress free experience. The main issue came from remembering assignments, as a lack of a classroom environment and regular schedule makes it easy to lose track of due dates.
 
-My initial thought in March when everything went online was, "I know most of my teachers and classes can handle this, but I'm unsure if a few of them will be able to."
+![](/uploads/nicholasredmonddsc-1688.jpg){: .float-image-right width="260" height="239"}&nbsp;My initial thought in March when everything went online was, "I know most of my teachers and classes can handle this, but I'm unsure if a few of them will be able to."
 
 When everything restarted, I found myself at first a little excited, it felt like Spring Break had been extended in a weird way. I was able to work at my own pace and could dedicate a whole day or two for school work, instead of scattered half mornings and afternoons, allowing me to get in more time at work or just personally. Eventually however, I found myself missing the classroom environment, and would have to drag myself sometimes to get work done. Making use of the time I had allocated for school was also a challenge, as there are many distractions at home, whereas in the classroom, learning is promoted and feels right.
 
