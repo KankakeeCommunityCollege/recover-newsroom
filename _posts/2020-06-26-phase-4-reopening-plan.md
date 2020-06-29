@@ -2,7 +2,7 @@
 title: Phase 4 Reopening Plan
 date: 2020-06-26 04:58:00 -0500
 expire_date: 2020-07-31 00:00:00 -0500
-image: /uploads/color-kcc-logo.jpg
+image: /uploads/reverse-logo-in-circle.jpg
 news_image_alt: KCC logo
 article_lead: Additional face-to-face services available
 video_content: false
