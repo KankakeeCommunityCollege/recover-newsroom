@@ -1,10 +1,10 @@
 ---
-title: Sport competition at KCC will restart in 2021
+title: KCC sports will restart in 2021
 date: 2020-07-14 04:58:00 -0500
 expire_date: 2020-08-01 00:00:00 -0500
-image: /uploads/cav-logo.jpg
+image: /uploads/cav-logo-cloudcannon-articleimagesize.jpg
 news_image_alt: Brandi Hudson
-article_lead: Sports rescheduled to start in 2021
+article_lead: Athletes follow NJCAA plans
 video_content: false
 video_link:
 press_release: false
