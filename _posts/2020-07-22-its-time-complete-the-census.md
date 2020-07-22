@@ -1,7 +1,7 @@
 ---
 title: 'It''s time: Complete the census'
-date: 2020-07-21 04:58:00 -0500
-expire_date: 2020-08-01 00:00:00 -0500
+date: 2020-07-22 04:58:00 -0500
+expire_date: 2020-08-29 00:00:00 -0500
 image: /uploads/census-image2020.jpg
 news_image_alt: U.S. Census logo
 article_lead: Be counted!
