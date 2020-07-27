@@ -3,7 +3,9 @@ title: KCC listed as a Military Friendly School 2020
 date: 2020-07-28 04:58:00 -0500
 expire_date: 2020-08-14 00:00:00 -0500
 image: /uploads/veterans-center-dsc-0456---sm.jpg
-news_image_alt: Vet Center
+news_image_alt: >-
+  Vet Center - l-r Ron Griffin, Brandon Rock, Aleshia Rabideau, Dustin Blaylock,
+  John Shivers gathered in KCC’s Veteran’s Resource Center.
 article_lead: KCC is a Military Friendly School
 video_content: false
 video_link:
