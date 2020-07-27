@@ -2,7 +2,7 @@
 title: Summer 2020 stimulus going to students
 date: 2020-07-21 04:58:00 -0500
 expire_date: 2020-08-01 00:00:00 -0500
-image: /uploads/color-kcc-logo.jpg
+image: /uploads/reverse-logo-in-circle.jpg
 news_image_alt: KCC logo
 article_lead: Distribution will be sent by mail
 video_content: false
