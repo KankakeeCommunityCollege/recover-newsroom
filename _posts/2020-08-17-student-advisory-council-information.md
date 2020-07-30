@@ -4,13 +4,13 @@ date: 2020-08-17 04:58:00 -0500
 expire_date: 2020-08-26 00:00:00 -0500
 image: /uploads/ariana-ramirez.jpg
 news_image_alt: 'Ariana Ramirez, SAC president'
-article_lead: Be a part of the Student Advisory Council
+article_lead: Be heard as a student leader
 video_content: false
 video_link:
 press_release: false
 ---
 
-The Student Advisory Council (SAC) is as the student government at KCC.
+The Student Advisory Council (SAC) is the student government at KCC.
 
 Members of SAC:
 
