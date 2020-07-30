@@ -10,11 +10,11 @@ video_link:
 press_release: false
 ---
 
-WELCOME WEEK FALL 2020&nbsp;<br>Welcome to the groove of classes during Welcome Week. &nbsp;Whether you are on campus for the first time or are returning for the fall semester, you can:
+Whether you are on campus for the first time or are returning for the fall semester, Welcome Week offers chances to:
 
-• &nbsp; &nbsp;Meet faculty, staff and student leaders;<br>• &nbsp; &nbsp;Obtain helpful campus information; or<br>• &nbsp; &nbsp;Just get directions to your class.&nbsp;
+• &nbsp; &nbsp;Meet faculty, staff and student leaders;<br>• &nbsp; &nbsp;Obtain helpful campus information; and<br>• &nbsp; &nbsp;Just get directions to your classes.&nbsp;
 
-See KCC Welcome Volunteers on Monday, August 17, 2020 and Tuesday, August 18, 2020 located at the:
+Welcome Volunteers on Monday and Tuesday, Aug. 17 and 18 will be at the:
 
-* &nbsp; Welcome Center Station, Building D entrance, or
+* &nbsp; Welcome Center, Building D entrance, and
 * &nbsp; Advanced Technology Education Center (ATEC), Building T entrance.<br>&nbsp;
