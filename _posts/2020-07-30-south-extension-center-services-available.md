@@ -1,10 +1,10 @@
 ---
-title: KCC's South Extension Center opens Aug 3
-date: 2020-07-31 04:58:00 -0500
+title: South Extension Center services available
+date: 2020-07-30 04:58:00 -0500
 expire_date: 2020-08-14 00:00:00 -0500
 image: /uploads/fall-2020-with-mccall-sm.png
 news_image_alt: McCall Schunke
-article_lead: KCC's SEC in Watseka to open
+article_lead: Aug. 3 re-opening
 video_content: false
 video_link:
 press_release: false
