@@ -2,7 +2,7 @@
 title: Welcome Week Fall 2020
 date: 2020-08-03 04:58:00 -0500
 expire_date: 2020-08-19 00:00:00 -0500
-image: /uploads/kcc-color-logo_square.jpg
+image:
 news_image_alt: Welcome to KCC
 article_lead: Learn about KCC
 video_content: false
