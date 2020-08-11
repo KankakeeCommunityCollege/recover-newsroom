@@ -17,4 +17,4 @@ Whether you are on campus for the first time or are returning for the fall semes
 Welcome Volunteers on Monday and Tuesday, Aug. 17 and 18 will be at the:
 
 * &nbsp; Welcome Center, Building D entrance, and
-* &nbsp; Other locations to be announced.<br>&nbsp;
+* &nbsp; Hammes Cafe area
