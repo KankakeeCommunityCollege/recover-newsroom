@@ -2,8 +2,8 @@
 title: Welcome Week Fall 2020
 date: 2020-08-03 04:58:00 -0500
 expire_date: 2020-08-19 00:00:00 -0500
-image:
-news_image_alt: Welcome to KCC
+image: /uploads/403x403-welcome-back-graphic.jpg
+news_image_alt: Welcome Back graphic
 article_lead: Learn about KCC
 video_content: false
 video_link:
@@ -17,4 +17,4 @@ Whether you are on campus for the first time or are returning for the fall semes
 Welcome Volunteers on Monday and Tuesday, Aug. 17 and 18 will be at the:
 
 * &nbsp; Welcome Center, Building D entrance, and
-* &nbsp; Advanced Technology Education Center (ATEC), Building T entrance.<br>&nbsp;
+* &nbsp; Other locations to be announced.<br>&nbsp;
