@@ -1,0 +1,15 @@
+.editor-block {
+  display: none;
+}
+
+.cms-editor-active .editor-block {
+  display: block;
+}
+
+.editor-button {
+  display: none !important; // Importants are to override bootstraps constant use of !important
+}
+
+.cms-editor-active .editor-button {
+  display: inline-block !important; // Importants are to override bootstraps constant use of !important
+}
