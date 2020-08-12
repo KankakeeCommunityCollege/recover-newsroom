@@ -2,7 +2,7 @@
 title: Job Hunting?
 date: 2020-08-12 04:58:00 -0500
 expire_date: 2020-10-09 00:00:00 -0500
-image: /uploads/develop-job-skills.png
+image: /uploads/develop-job-skills-with-bg.png
 news_image_alt: Magnifying Glass with "Job" in center
 article_lead: Free lunch webinars
 video_content: false
