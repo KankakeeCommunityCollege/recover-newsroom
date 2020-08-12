@@ -10,7 +10,7 @@
       {% endfor %}
 
       {% for post in current_posts limit: 4 %}
-        {% if post.video_content == true %}
+        {% if page.video_link and page.video_link != '' %}
           <!--  Video content news item modal{{ forloop.index }}  -->
           <div class="modal fade" id="videoModal{{ forloop.index }}" data-video="{{ post.video_link }}" tabindex="-1" role="dialog" aria-labelledby="title{{ forloop.index }}" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered modal-lg" role="document">

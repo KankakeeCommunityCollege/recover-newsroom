@@ -29,10 +29,10 @@ layout: default
         {% endif %}
         {% if page.press_release == true %}
         <div class="editor-block">
-          <a class="btn btn-primary editor-button" href="cloudcannon:collections/_press_release/press-realease.md">Edit Press Release</a>
+          <a class="btn btn-success editor-button" href="cloudcannon:collections/_press_release/press-realease.md">Edit Press Release Message</a>
         </div>
           <div class="positioning__margin-top">
-            {% for item in site.press_release | limit: 1 %}
+            {% for item in site.press_release limit: 1 %}
             {{ content }}
             {% endfor %}
           </div>

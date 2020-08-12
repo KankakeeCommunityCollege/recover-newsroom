@@ -5,7 +5,6 @@ expire_date: 2020-08-17 00:00:00 -0500
 image: /uploads/save-money-picture1.jpg
 news_image_alt: Save Money and Reach Goals graphic
 article_lead: In-person and online options available
-video_content: false
 video_link:
 press_release: false
 ---

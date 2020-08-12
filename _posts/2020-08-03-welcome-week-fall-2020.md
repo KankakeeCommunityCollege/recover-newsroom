@@ -5,7 +5,6 @@ expire_date: 2020-08-19 00:00:00 -0500
 image: /uploads/403x403-welcome-back-graphic.jpg
 news_image_alt: Welcome Back graphic
 article_lead: Learn about KCC
-video_content: false
 video_link:
 press_release: false
 ---

@@ -5,7 +5,6 @@ expire_date: 2020-09-18 00:00:00 -0500
 image: /uploads/career-options.jpg
 news_image_alt:
 article_lead: Career Coach has personalized info
-video_content: false
 video_link:
 press_release: false
 ---
