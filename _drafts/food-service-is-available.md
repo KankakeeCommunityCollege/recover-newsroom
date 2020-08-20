@@ -1,6 +1,6 @@
 ---
 title: Food Service is available
-date: 2020-08-19 04:58:00 -0500
+date: 2020-08-20 04:58:00 -0500
 expire_date: 2020-09-21 00:00:00 -0500
 image: /uploads/starbucks-pexels-adrianna-calvo-1596566.jpg
 news_image_alt: Starbucks coffee cups
@@ -16,6 +16,6 @@ Whether it is before or after class, or during a break, [Starbucks](http://www.k
 
 Hours are 8 a.m. - 3 p.m. Monday-Thursday.&nbsp; Arena Food Service is closed Friday-Sunday.
 
-&nbsp;
+![](/uploads/french-fries-pexels-rania-alhamed-2454533.jpg){: width="195" height="195"}&nbsp;![](/uploads/toast-pexels-caio-59577.jpg){: width="195" height="195"}&nbsp;![](/uploads/starbucks-adrianna-calvo-1596566-articleimage.jpg){: width="220" height="229"}
 
 Photos by Adrianna Calvo, Rania alhamed and Caio from Pexels.
