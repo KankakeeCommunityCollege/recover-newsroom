@@ -12,7 +12,7 @@ press_release: false
 
 Kankakee Community College is offering a variety of fall courses which begin at times from late August through early November.
 
-Some classes, such as hands-on labs and technical education, will meet in-person, Most classes are online with no required meetings, or are a "hybrid" of online content and required meetings--either in-person or virtual.
+Some classes, such as hands-on labs and technical education, will meet in-person, Most classes are online with no required meetings, or are a "hybrid" of online content and required meetings–either in-person or virtual.
 
 ![](/uploads/welcome-d51-5013.jpg){: .float-image-right width="256" height="200"}The college is following Centers for Disease Control and other prescribed guidelines to stop the spread of the coronavirus (COVID-19), including increased sanitizing in classrooms, social distancing requirements and required face coverings inside all facilities.
 
