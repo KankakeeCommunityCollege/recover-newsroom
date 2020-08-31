@@ -14,7 +14,7 @@ The KCC Electrical Engineering Technology program is being featured on a nationa
 
 "Counting the Cost," a weekly look at the world's top business and economics stories, produced by Al Jazeera English, has a new story about jobs that don't require a bachelor's degree. The episode debuted Aug. 29.
 
-![](/uploads/pklette-interview2.jpg){: .float-image-right width="290" height="173"}For the segment, Natasha Ghoneim, a senior correspondent, visited KCC to interview Patrick Klette, the program coordinator for Electrical Engineering Technology programs. She also interviewed Kamil Bebenek, a December 2016 KCC graduate with an associate degree in Electrical Engineering Technology, and a mini-certificate in a&nbsp;Small-Wind Technology.
+![](/uploads/pklette-interview2.jpg){: .float-image-right width="290" height="173"}For the segment, Natasha Ghoneim, a senior correspondent, visited KCC to interview Patrick Klette, the program coordinator for Electrical Engineering Technology programs. She also interviewed Kamil Bebenek, a December 2016 KCC graduate with an associate degree in Electrical Engineering Technology, and a mini-certificate in a Small-Wind Technology.
 
 Bebenek works for Pilot Windfarms, based in Kankakee County.
 
