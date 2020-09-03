@@ -2,7 +2,7 @@
 title: Virtual event tackles racism
 date: 2020-09-03 04:58:00 -0500
 expire_date: 2020-09-09 00:00:00 -0500
-image:
+image: /uploads/be-change.jpg
 news_image_alt: Graphic says Be Part of the Change
 article_lead: Panelists discuss how to come together
 video_content: false
@@ -12,7 +12,7 @@ press_release: false
 
 An upcoming panel discussion will feature local perspective's on the topic "What is Anti-Blackness?"&nbsp;
 
-The event will be presented live online from 6-7:30 p.m. Wednesday, Sept. 9.
+[The event](/What-is-Anti-Blackness-9-9-20.pdf) will be presented live online from 6-7:30 p.m. Wednesday, Sept. 9.&nbsp;![](/uploads/be-change250x250.jpg){: .float-image-right width="250" height="251"}
 
 "This panel will feature the voices of a recent student, an educator, an activist, and a member of law enforcement who will share their experiences and knowledge to help us to understand 'What is Anti-Blackness' and how we can combat it in our community," said Whitney Mittons, Kankakee Community College coordinator of equity, diversity and inclusion. She will moderate the event.
 
