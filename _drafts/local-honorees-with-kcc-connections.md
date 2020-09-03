@@ -1,10 +1,10 @@
 ---
-title: Local honorees with KCC connections
+title: Honorees have KCC connections
 date: 2020-09-03 04:58:00 -0500
 expire_date: 2020-09-18 00:00:00 -0500
 image: /uploads/women-in-business.jpg
 news_image_alt: Women in Business logo
-article_lead:
+article_lead: Women in Business
 video_content: false
 video_link:
 press_release: false
@@ -24,4 +24,4 @@ Find complete information, and more honorees, in the August/September 2020 [Life
 
 &nbsp;
 
-The Women in Business logo is the property of&nbsp;[Lifestyles Magazine](https://www.daily-journal.com/lifestyles/){: target="_blank" rel="noopener"} - used with permission.
+The Women in Business logo is used courtesy of Lifestyles Magazine.
