@@ -1,7 +1,7 @@
 ---
 title: Honorees have KCC connections
 date: 2020-09-03 04:58:00 -0500
-expire_date: 2020-09-18 00:00:00 -0500
+expire_date: 2020-09-24 00:00:00 -0500
 image: /uploads/women-in-business.jpg
 news_image_alt: Women in Business logo
 article_lead: Women in Business
