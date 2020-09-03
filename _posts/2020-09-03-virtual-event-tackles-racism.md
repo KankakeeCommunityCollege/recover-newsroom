@@ -1,6 +1,6 @@
 ---
 title: Virtual event tackles racism
-date: 2020-09-08 04:58:00 -0500
+date: 2020-09-03 04:58:00 -0500
 expire_date: 2020-09-09 00:00:00 -0500
 image:
 news_image_alt: Graphic says Be Part of the Change
