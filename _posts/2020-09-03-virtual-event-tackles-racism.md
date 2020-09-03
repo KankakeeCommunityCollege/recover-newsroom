@@ -2,7 +2,7 @@
 title: Virtual event tackles racism
 date: 2020-09-03 04:58:00 -0500
 expire_date: 2020-09-09 00:00:00 -0500
-image: /uploads/be-change.jpg
+image: /uploads/be-part-of-the-change580x620.jpg
 news_image_alt: Graphic says Be Part of the Change
 article_lead: Panelists discuss how to come together
 video_content: false
