@@ -64,6 +64,8 @@ markdown: kramdown
 kramdown:
   smart_quotes: apos,apos,quot,quot
 
+include:
+  - "archive/*"
 exclude:
   - "gulpfile.js"
   - "node_modules"
@@ -74,9 +76,6 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
   - "gulpconfig.yml"
-  - "/docs/"
-  - "yarn.lock"
-  - "/assets/adobe/"
   - "gulp-tasks/"
   - "install.sh"
   - "siteicon.png"
