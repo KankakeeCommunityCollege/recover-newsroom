@@ -12,7 +12,7 @@ press_release: false
 
 An upcoming panel discussion will feature local perspective's on the topic "What is Anti-Blackness?"&nbsp;
 
-[The event](/What-is-Anti-Blackness-9-9-20.pdf) will be presented live online from 6-7:30 p.m. Wednesday, Sept. 9.&nbsp;![](/uploads/be-change250x250.jpg){: .float-image-right width="250" height="251"}
+[The event](https://kccedu.webex.cm/kccedu/j.php?MTID=ee42f0d1b9450610d3cd773afa27cd979){: target="_blank" rel="noopener"} will be presented live online from 6-7:30 p.m. Wednesday, Sept. 9.&nbsp;![](/uploads/be-change250x250.jpg){: .float-image-right width="250" height="251"}
 
 "This panel will feature the voices of a recent student, an educator, an activist, and a member of law enforcement who will share their experiences and knowledge to help us to understand 'What is Anti-Blackness' and how we can combat it in our community," said Whitney Mittons, Kankakee Community College coordinator of equity, diversity and inclusion. She will moderate the event.
 
@@ -20,7 +20,7 @@ The panelists will be**&nbsp;**Samaria Rosenthal, a former KCC student; Jessica 
 
 "As we all witness civil unrest globally and in our own community, we must come together for courageous conversation about race, racism, and where to go from here," Mittons said.
 
-To watch the discussion, use the [event link here](https://kccedu.webex.com/kccedu/j.php?MTID=ebc633a6a58cef4f423c278853dc077e7){: target="_blank" rel="noopener"}, or email [wmittons@kcc.edu](mailto:wmittons@kcc.edu?subject=Please%20send%20link%20for%20Sept.%209%20event) before Sept. 9 with a request for the link.&nbsp;
+To watch the discussion, use the [event link here](https://kccedu.webex.cm/kccedu/j.php?MTID=ee42f0d1b9450610d3cd773afa27cd979){: target="_blank" rel="noopener"}, or email [wmittons@kcc.edu](mailto:wmittons@kcc.edu?subject=Please%20send%20link%20for%20Sept.%209%20event) before Sept. 9 with a request for the link.&nbsp;
 
 Audience members need an Internet connection and a computer or smartphone with video and sound capabilities. Shortly before 6 p.m. on Sept. 9, click on the link to join the event.
 
