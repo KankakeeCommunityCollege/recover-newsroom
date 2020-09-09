@@ -74,7 +74,7 @@ In addition to their own research and sharing its resources with students, colle
 
 ### **Helpful information:**
 
-* Website: [library](__notset__)[.kcc.edu](https://library.kcc.edu){: target="_blank" rel="noopener"}
+* Website:[library.kcc.edu](https://library.kcc.edu/){: target="_blank" rel="noopener"}
 * Email: [library@kcc.edu](mailto:library@kcc.edu)
 * Current hours: 9 a.m. - 1 p.m. Monday - Friday. As more technology components get completed, the hours will expand.
 * Tours available by appointment.
