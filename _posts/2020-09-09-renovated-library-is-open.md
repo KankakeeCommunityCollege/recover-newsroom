@@ -24,7 +24,9 @@ The 21,070 square foot space is a hub for gathering and enjoying information.
 
 “Our newly renovated library space was designed specifically with student needs and success in mind,” said Jennifer Hays Huggins, associate dean of KCC's Humanities and Social Sciences Division. “It offers not only a place where students can collaborate, but the opportunity, whether in groups or as individuals, to use state-of-the-art technology to achieve their academic goals. We're excited about all this space has to offer our students.”
 
-“The technology is compatible with a variety of devices, so people can plug in or wirelessly use interactive display screens, participate in webinars and conference calls, and use wi-fi while meeting or studying solo,” said Tracy Conner, the library director. “Even students with online classes can come here, use the wi-fi and spread their work out at a socially-distanced spot with a great view of the river.”
+“The technology is compatible with a variety of devices, so people can plug in or wirelessly use interactive display screens, participate in webinars and conference calls, and use wi-fi while meeting or studying solo,” said Tracy Conner, director of the Miner Memorial Library and academic support services for KCC.
+
+“Even students with online classes can come here, use the wi-fi and spread their work out at a socially-distanced spot with a great view of the river.”
 
 Because there is so much focus on collaboration, some of the library’s best features will remain in the background until after the pandemic subsides, Conner noted.
 
@@ -74,7 +76,7 @@ In addition to their own research and sharing its resources with students, colle
 
 ### **Helpful information:**
 
-* Website:[library.kcc.edu](https://library.kcc.edu/){: target="_blank" rel="noopener"}
+* Website:&nbsp;[library.kcc.edu](https://library.kcc.edu/){: target="_blank" rel="noopener"}
 * Email: [library@kcc.edu](mailto:library@kcc.edu)
 * Current hours: 9 a.m. - 1 p.m. Monday - Friday. As more technology components get completed, the hours will expand.
 * Tours available by appointment.
