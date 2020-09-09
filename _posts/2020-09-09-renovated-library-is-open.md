@@ -62,7 +62,7 @@ In addition to their own research and sharing its resources with students, colle
 
 ### **Collaboration, Technology & Learning:**
 
-* Quiet study
+* Quiet study.
 * Tutoring hub for in-person and online options. All tutoring is FREE.
 * Print collections on two floors.
 * Flexible rooms for group study, small events, art shows & meetings.
