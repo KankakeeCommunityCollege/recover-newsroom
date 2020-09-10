@@ -1,0 +1,13 @@
+---
+title: Professional development webinars for healthcare
+date: 2020-09-11 04:58:00 -0500
+expire_date: 2020-10-09 00:00:00 -0500
+image: /uploads/webinar-cropped.png
+news_image_alt: Webinar
+article_lead: Webinars for healthcare professionals
+video_content: false
+video_link:
+press_release: false
+---
+
+The Continuing Education Department at Kankakee Community College is offering a number of fall webinars for health professionals.&nbsp;<br><br>Full descriptions of the seminars is at www.kcc.edu/comejoinus. Each session is a live webinar. Registration is required. Those who register will receive an email with a link to the session within 24 hours of the webinar.<br><br>“The Ethics of Caregiving in an Increasingly Complex Health System” will meet Friday, Oct. 23 from 9 a.m. - noon. Cost is $39. Upon completion, three contact hours are available to those in various health fields.&nbsp;<br><br>“Epidemics, Pandemics Zoonoses” will meet Friday, Sept. 18 from 9-11 a.m. Facilitator is Barb Bancroft. Cost is $29. Upon completion, two contact hours are available to those in various health fields.&nbsp;<br><br>“20 things Counselors Can Do to Promote Recovery” will meet Friday, Oct. 2 from 9 a.m. - noon. Facilitator is Mark Sanders. Cost is $29. Upon successful completion, six continuing education contact hours will be awarded to counselors and social workers.&nbsp;<br><br>“Cannabis Update 2020” will meet Monday, Oct. 12 from 9 a.m. - noon. Facilitator is Bruce Talbot. Cost is $49. Upon completion, three contact hours are available to those in various health fields.&nbsp;<br><br>“The Big C: The Pathophysiology of Cancer” will meet Friday, Nov. 6 from 9 a.m. - noon Facilitator is Barb Bancroft. Cost is $39. Upon completion, three contact hours are available to those in various health fields.&nbsp;<br><br>“Opioid Crisis Awareness” will meet Friday, Nov. 6 from 9 a.m. - 3 p.m. Facilitator is Liberty Gryzbowski, LCSW. Cost is $139. Upon completion, six contact hours are available to nurses, social workers and counselors.<br><br>These courses do not award college credit.&nbsp;<br><br>To register online, visit [https://www.enrole.com/kcc/jsp/login.jsp](https://www.enrole.com/kcc/jsp/login.jsp){: target="_blank" rel="noopener"}, sign up or login, then select the course, click on the date and add it to your cart. Within the cart, checkout. To register by phone, or for more information, phone 815-802-8207.<br>&nbsp;
