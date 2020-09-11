@@ -1,5 +1,5 @@
 ---
-title: Summer 2020 stimulus going to students
+title: Fall 2020 stimulus going to students
 date: 2020-09-11 04:58:00 -0500
 expire_date: 2020-10-09 00:00:00 -0500
 image: /uploads/reverse-logo-in-circle.png
