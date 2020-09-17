@@ -1,6 +1,6 @@
 ---
 title: Keep your transfer plans moving forward
-date: 2020-09-15 04:58:00 -0500
+date: 2020-09-17 04:58:00 -0500
 expire_date: 2020-10-30 00:00:00 -0500
 image: /uploads/trransfer-events.jpg
 news_image_alt: Transfer Events and mortar board graphic
