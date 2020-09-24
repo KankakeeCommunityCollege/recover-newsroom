@@ -2,7 +2,7 @@
 title: Keep your transfer plans moving forward
 date: 2020-09-17 04:58:00 -0500
 expire_date: 2020-10-30 00:00:00 -0500
-image: /uploads/trransfer-events.jpg
+image: /uploads/transfer-fair-fb-fall-19.jpg
 news_image_alt: Transfer Events and mortar board graphic
 article_lead: Explore your options
 video_content: false
@@ -12,7 +12,7 @@ press_release: false
 
 Are you planning to transfer to a college or university after completing your associate degree at KCC?
 
-Check out out the&nbsp;[virtual events](http://www.kcc.edu/students/helpful/transfer/Pages/transferfair.aspx)&nbsp;being offered from various colleges and universities to help you explore your options.
+![](/uploads/transfer-fair-graphic.jpg){: .float-image-right width="320" height="180"}Check out out the&nbsp;[virtual events](http://www.kcc.edu/students/helpful/transfer/Pages/transferfair.aspx)&nbsp;being offered from various colleges and universities to help you explore your options.
 
 Events begin the week of Sept. 28:
 
