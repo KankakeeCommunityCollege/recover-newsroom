@@ -12,7 +12,7 @@ press_release: false
 
 Are you planning to transfer to a college or university after completing your associate degree at KCC?
 
-Check out out the&nbsp;[virtual events](http://www.kcc.edu/students/helpful/transfer/Pages/transferfair.aspx)&nbsp;being offered from various colleges and universities to help you explore your options.
+![](/uploads/transfer-fair-news-image.jpg){: .float-image-right width="260" height="146"}Check out out the&nbsp;[virtual events](http://www.kcc.edu/students/helpful/transfer/Pages/transferfair.aspx)&nbsp;being offered from various colleges and universities to help you explore your options.
 
 Events begin the week of Sept. 28:
 
