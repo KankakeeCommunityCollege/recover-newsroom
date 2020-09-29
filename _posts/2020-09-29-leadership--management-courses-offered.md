@@ -1,8 +1,8 @@
 ---
 title: Leadership & Management courses offered
-date: 2020-09-30 04:58:00 -0500
+date: 2020-09-29 04:58:00 -0500
 expire_date: 2020-12-08 00:00:00 -0600
-image: /uploads/lmisq.JPG
+image: /uploads/lmi-logo.jpg
 news_image_alt: Leadership & Management Institute
 article_lead: Series of Leadership & Management courses offered at KCC
 video_content: false
