@@ -4,7 +4,7 @@ date: 2020-10-09 04:58:00 -0500
 expire_date: 2020-11-02 00:00:00 -0600
 image: /uploads/college-fair-2020.jpg
 news_image_alt: College Fair Oct. 19 - Nov. 2
-article_lead: 40 under Forty recognition
+article_lead: Info on more than 40 colleges
 video_content: false
 video_link:
 press_release: false
