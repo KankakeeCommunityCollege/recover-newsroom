@@ -3,7 +3,7 @@ title: KCC week at ONU
 date: 2020-10-19 04:58:00 -0500
 expire_date: 2020-10-23 00:00:00 -0500
 image: /uploads/kcc-week.jpg
-news_image_alt:
+news_image_alt: Word art - KCC Week at Olivet
 article_lead: Get to know our neighbor
 video_content: false
 video_link:
