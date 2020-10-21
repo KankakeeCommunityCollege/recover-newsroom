@@ -1,7 +1,7 @@
 ---
 title: International Pronouns Day
-date: 2020-10-21 04:58:00 -0500
-expire_date: 2020-10-21 00:00:00 -0500
+date: 2020-10-21 09:58:00
+expire_date: 2020-10-28 00:00:00
 image: /uploads/equity-diversity-inclusion-center.jpg
 news_image_alt: Equity Diversity & Inclusion Center logo
 article_lead: Oct. 21 is the day
