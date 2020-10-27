@@ -12,7 +12,7 @@ press_release: false
 
 The KCC Veteran's Center is collecting needed items for donation to the Manteno Veteran's Home.
 
-Details are on the [Donation Opportunity flier](/Manteno-vet-home-flyer.pdf).<br><br>The event is being held through Nov. 6 in conjunction with Project Headspace and Timing. Needed items include:
+Details are on the [Donation Opportunity flier](/uploads/pdf/Manteno-vet-home-flyer.pdf){: target='_blank' rel='noopener noreferrer' }.<br><br>The event is being held through Nov. 6 in conjunction with Project Headspace and Timing. Needed items include:
 
 * Gatorade (Jugs)
 * Hangers
