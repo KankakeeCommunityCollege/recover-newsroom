@@ -16,7 +16,7 @@ press_release: false
 
 Oct. 21 is International Pronouns Day.
 
-In honor of the day, KCC's Equity, Diversity & Inclusion Center has created a [flier with links](/Pronouns-Day-2020.pdf) to an educational article and a video.
+In honor of the day, KCC's Equity, Diversity & Inclusion Center has created a [flier with links](/uploads/pdf/Pronouns-Day-2020.pdf){: target='_blank' rel='noopener noreferrer' } to an educational article and a video.
 
 "Proper use of pronouns makes our campus more inclusive," said Whitney Mittons, KCC coordinator of equity, diversity and inclusion.
 

@@ -10,7 +10,7 @@ video_link:
 press_release: false
 ---
 
-An area-wide [College Fair](/College-Fair-Flier-2020.pdf) featuring more than 40 colleges and universities will begin Oct. 19.
+An area-wide [College Fair](/uploads/pdf/College-Fair-Flier-2020.pdf){: target='_blank' rel='noopener noreferrer' } featuring more than 40 colleges and universities will begin Oct. 19.
 
 ![](/uploads/college-fair-2020-article.jpg){: .float-image-right width="250" height="252"}The virtual event will have videos from the colleges, plus extras such as how to navigate the FAFSA (Free Application for Federal Student Aid) and tips to get scholarships. Although the event is tailored to traditional-aged students still in high school, adults considering returning to college and family members are also welcome to take part.
 
