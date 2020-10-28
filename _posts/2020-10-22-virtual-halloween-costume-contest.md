@@ -12,4 +12,4 @@ press_release: false
 
 Student Life and Development is sponsoring a Virtual Halloween Costume Contest<br><br>![](/uploads/halloween-contest-sm.png){: .float-image-right width="325" height="280"}Don't miss out on the fun and a chance to win\!<br><br>The costume with a combination of the most “Likes,” comments, and votes by the Student Advisory Council wins a:<br><br>$100 Visa Gift Card
 
-See the Kankakee Community College Student Life [Facebook](https://www.facebook.com/search/top?q=kankakee%20community%20college%20student%20life){: target="_blank" rel="noopener"} page.
+See the Kankakee Community College Student Life [Facebook](https://www.facebook.com/KankakeeCommunityCollegeStudentLife){: target="_blank" rel="noopener noreferrer"} page.
