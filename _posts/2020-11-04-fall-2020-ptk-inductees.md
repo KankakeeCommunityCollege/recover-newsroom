@@ -1,0 +1,13 @@
+---
+title: Fall 2020 PTK inductees
+date: 2020-11-04 04:58:00 -0600
+expire_date: 2020-11-20 00:00:00 -0600
+image: /uploads/pricila-carmona-dsc-1262---copy.jpg
+news_image_alt: Pricila Carmona of Kankakee
+article_lead: 35 students inducted into honor society
+video_content: false
+video_link:
+press_release: false
+---
+
+Thirty-five Kankakee Community College students were inducted into Phi Theta Kappa Honor Society from April to October 2020.<br><br>Phi Theta Kappa is an international academic honor society for community college students. KCC students who recently joined are:<br><br>**Ashkum:** Maci Romero.<br>**Bonfield:** Kimberly Gaddis.<br>**Bourbonnais:** Peyton Bovie, Quinlan Carrell, Faith Davison, Sophia Dubravec, Jennifer Minor, Yasin Mohammad, Alexis O'Hara and Vasha Woods.<br>**Bradley:** Basil &nbsp; &nbsp;Mohammad and Katrina Whitten.<br>**Buckingham:** Peyton Richie.<br>**Cabery:** Hallie Sippel.<br>**Chebanse:** McKenna Goldtrap.<br>**Clifton:** Kristina Demers.<br>**Donovan:** Mackenzie Stahlschmidt.<br>**![](/uploads/dbuckley-dsc-6393---copy.jpg){: .float-image-right width="250" height="200"}Kankakee:** David Buckley pictured at left, Krista Buza, Pricila Carmona, Kyle Hendershott, Allen Pizano and Sharon Viers.<br>**Lockport:** Jacob Hutter.<br>**Manteno:** James Deihl, Madison Engler and Ashley Rodriguez.<br>**Momence:** Josiah Paynter.&nbsp;<br>**Onarga:** Alondra Barajas and Elizabeth Trujillo.<br>**Sheldon:** Emily Dluzak.<br>**St. Anne:** Kenna Kleinert.<br>**Watseka:** Blake Foster.<br>**Wilmington:** Danielle Arteaga.<br>**Lafayette, Ind.:** Peyton Williams.<br><br>KCC holds induction ceremonies for new Phi Theta Kappa members each fall and spring semester. This fall’s event was Oct. 30.<br><br>Phi Theta Kappa has recognized academic achievement at associate degree-granting colleges since 1918. It also is the largest honor society in American higher education, with more than 3.5 million members and 1,283 chapters in 10 nations.&nbsp;<br><br>The society offers opportunities for scholarships, intellectual enrichment, and personal development through programs based on the society’s hallmarks of scholarship, leadership, service, and fellowship. To be eligible for membership, students must have a 3.5 grade point average or better on a 4.0 scale.<br><br>For more information on the Alpha Delta Eta chapter at KCC, contact a chapter adviser, Jaclyn Cruz or Frances Hebert, at [jcruz@kcc.edu](mailto:jcruz@kcc.edu) or [fhebert@kcc.edu](mailto:fhebert@kcc.edu).<br>&nbsp;
