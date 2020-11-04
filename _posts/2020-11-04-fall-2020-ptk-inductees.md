@@ -1,6 +1,6 @@
 ---
 title: Fall 2020 PTK inductees
-date: 2020-11-05 04:58:00 -0600
+date: 2020-11-04 04:58:00 -0600
 expire_date: 2020-11-20 00:00:00 -0600
 image: /uploads/pricila-carmona-dsc-1262---copy.jpg
 news_image_alt: Pricila Carmona of Kankakee
