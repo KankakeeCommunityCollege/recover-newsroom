@@ -3,7 +3,7 @@ title: Heart disease and women
 date: 2020-11-09 04:58:00 -0600
 expire_date: 2020-11-19 00:00:00 -0600
 image: /uploads/heart-and-pulse.jpg
-news_image_alt: Stimulating seminar for health providers
+news_image_alt: heart monitor image with a picture of a heart in middle
 article_lead: Learn about caring for women with heart disease.
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
