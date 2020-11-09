@@ -5,7 +5,7 @@ expire_date: 2020-11-20 00:00:00 -0600
 image: /uploads/joe-martin-iii-sm.JPG
 news_image_alt: Joe Martin a first-generation student
 article_lead: TRIO program offers support services
-video_content: false
+video_content: true
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
 ---
@@ -16,7 +16,7 @@ In honor of [First-Generation Celebration Day Nov. 8](https://firstgen.naspa.org
 
 A first-generation college student is someone whose parent(s)/legal guardian(s) have not completed a bachelor's degree.&nbsp;
 
-“TRIO Student Support Services advisors help students research their chosen major at four-year institutions and help them select courses at KCC that align with that major,” said Keisha Smith, KCC’s director of TRIO Student Support Services. “TRIO students follow an academic plan, which is called a Life Map, because it helps the student balance school, work, family and other things in life that impact student success.”&nbsp;
+“TRIO Student Support Services advisors help students research their chosen major at four-year institutions and help them select courses at KCC that align with that major,” said Keisha Smith, KCC’s assistant director of TRIO Student Support Services. “TRIO students follow an academic plan, which is called a Life Map, because it helps the student balance school, work, family and other things in life that impact student success.”&nbsp;
 
 The program is funded by a grant from the U.S. Department of Education, so all of TRIO’s services are free. Those services include:
 
