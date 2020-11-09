@@ -3,14 +3,14 @@ title: Heart disease and women
 date: 2020-11-09 04:58:00 -0600
 expire_date: 2020-11-19 00:00:00 -0600
 image: /uploads/heart-and-pulse.jpg
-news_image_alt: Stimulating seminar for health providers
+news_image_alt: heart monitor image with a picture of a heart in middle
 article_lead: Learn about caring for women with heart disease.
-video_content: true
+video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
 ---
 
-Health care providers are invited to spend the morning of Nov. 19 learning about caring for women with heart disease.
+Health care providers are invited to spend the morning of Thursday, Nov. 19 to learn about caring for women with heart disease.
 
 ![](/uploads/blood-pressure-3312513--340-heart---copy.jpg){: .float-image-left width="323" height="162"}“Heart Disease affects one out of two women, yet most women think breast cancer is a greater health risk,” said the program presenter, Cheryl Herrmann. “This stimulating seminar will explore the impact of heart disease in women. It will prepare you to identify risk factors, clinical presentation and management of heart disease in women. In addition, you will learn to confidently care for women with takosubo cardiomyopathy and peripartium cardiomyopathy.”
 
