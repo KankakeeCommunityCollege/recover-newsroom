@@ -5,7 +5,7 @@ expire_date: 2020-11-19 00:00:00 -0600
 image: /uploads/heart-and-pulse.jpg
 news_image_alt: Stimulating seminar for health providers
 article_lead: Learn about caring for women with heart disease.
-video_content: true
+video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
 ---
