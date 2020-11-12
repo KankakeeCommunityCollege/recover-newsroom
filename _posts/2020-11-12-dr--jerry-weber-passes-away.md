@@ -3,14 +3,14 @@ title: Dr. Jerry Weber passes away
 date: 2020-11-12 15:30:00 -0600
 expire_date: 2020-12-25 00:00:00 -0600
 image: /uploads/J-Weber-KCC-50th-Anniv-Gala-2016.jpg
-news_image_alt: 'Photo of Dr. Jerry Weber'
-article_lead: Was KCC's president from 2001-09
+news_image_alt: Photo of Dr. Jerry Weber
+article_lead: KCC president - 2001-09
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
 ---
 
-![Photo of Dr. Jerry Weber](/uploads/Jerry-Weber-KCC-50th-AnnGala-150x150.jpg){: .float-left .pr-3 .pb-2 }
+![Photo of Dr. Jerry Weber](/uploads/Jerry-Weber-KCC-50th-AnnGala-150x150.jpg){: .float-left.pr-3.pb-2}
 
 The fifth president of KCC, Dr. Girard Weber, died Wednesday, Nov. 11 at the age of 70. Weber was KCC’s president from July 1, 2001 to April 4, 2009.
 
