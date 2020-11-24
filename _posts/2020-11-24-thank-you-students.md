@@ -3,8 +3,8 @@ title: 'Thank you, Students!'
 date: 2020-11-24 15:30:00 -0600
 expire_date: 2020-11-30 00:00:00 -0600
 image: /uploads/thank-you-card-resized.jpg
-news_image_alt: From KCC's president
-article_lead:
+news_image_alt: Thank you notecard
+article_lead: From KCC's president
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
