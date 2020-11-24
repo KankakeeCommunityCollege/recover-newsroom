@@ -28,4 +28,4 @@ I’m thankful for each and every one of KCC’s students. In this season, I hop
 
 &nbsp;
 
-Michael Boyd image by The Image Group of Bourbonnais. Article image by [Aaron Burden](https://unsplash.com/@aaronburden?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/thank-you?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText).
+Michael Boyd photo by The Image Group of Bourbonnais. Article image by [Aaron Burden](https://unsplash.com/@aaronburden?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/thank-you?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText).
