@@ -4,7 +4,7 @@ date: 2020-12-01 15:30:00 -0600
 expire_date: 2021-03-16 00:00:00 -0500
 image: /uploads/403-x-403-career-webinar-power-lunch-series---copy.jpg
 news_image_alt: Woman holding Career Webinars sign
-article_lead: 8 career webinars
+article_lead: Career webinars
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
