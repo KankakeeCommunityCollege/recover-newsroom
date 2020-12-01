@@ -28,21 +28,6 @@ collections:
     output: false
   contacts:
     output: false
-defaults:
-  - scope:
-      path: ''
-      type: drafts
-    values:
-      image: "/uploads/kcc_default_post-placeholder.png"
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: post
-      title: ''
-      baseurl: ../../../../
-      permalink: /:year/:month/:day/:title:output_ext
-      image: "/uploads/kcc_default_post-placeholder.png"
 permalink: pretty
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
