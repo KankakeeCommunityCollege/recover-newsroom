@@ -14,7 +14,7 @@ press_release: false
 
 KCC's Charlton Career Center is offering eight webinars on topics to help you launch or accelerate your career and thrive in the workforce.
 
-The weekly "Power Lunch Series" of webinars are on Tuesdays from noon - 1 p.m. beginning Jan. 19.
+The weekly "Power Lunch Series" of webinars are on Tuesdays from noon - 1 p.m. They are:
 
 * **5 Steps to a Winning Resume** - Jan. 19
 * **AIDA Cover Letters** - Jan. 26
