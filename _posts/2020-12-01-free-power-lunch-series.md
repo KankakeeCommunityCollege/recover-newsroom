@@ -25,7 +25,7 @@ The weekly "Power Lunch Series" of webinars are on Tuesdays from noon - 1 p.m. T
 * **Leveraging LinkedIn** - March 9
 * **Acing Your Video Interview** - March 16
 
-The [attached flier](/free-career-webinar-power-lunch-series_reduced.pdf) has more details. Register for one or all\!
+The [attached flier](/uploads/pdf/free-career-webinar-power-lunch-series_reduced.pdf){: target='_blank' rel='noopener noreferrer' } has more details. Register for one or all\!
 
 These are live events. Within 24 hours of the webinar, you will receive an email with a link to the session. All participants require internet access and an email address.
 
