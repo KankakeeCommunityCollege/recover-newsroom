@@ -25,12 +25,10 @@ The weekly "Power Lunch Series" of webinars are on Tuesdays from noon - 1 p.m. T
 * **Leveraging LinkedIn** - March 9
 * **Acing Your Video Interview** - March 16
 
-The [attached flier](/free-career-webinar-power-lunch-series.pdf) has more details. Register for one or all\!&nbsp;
+The [attached flier](/uploads/pdf/free-career-webinar-power-lunch-series_reduced.pdf){: target='_blank' rel='noopener noreferrer' } has more details. Register for one or all\!
 
 These are live events. Within 24 hours of the webinar, you will receive an email with a link to the session. All participants require internet access and an email address.
 
-To register: Go to&nbsp;[kcc.edu/comejoinus](http://www.kcc.edu/comejoinus){: target="_blank" rel="noopener"} &gt; sign up or login &gt; search for<br>and select the course &gt; click on the date &gt; add it to your cart &gt; within<br>the cart, checkout.
+To register: Go to [kcc.edu/comejoinus](http://www.kcc.edu/comejoinus){: target="_blank" rel="noopener"} &gt; sign up or login &gt; search for<br>and select the course &gt; click on the date &gt; add it to your cart &gt; within<br>the cart, checkout.
 
 To register by phone, or for more information, phone 815-802-8207.
-
-&nbsp;
