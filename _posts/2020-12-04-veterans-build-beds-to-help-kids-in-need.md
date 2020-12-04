@@ -4,7 +4,7 @@ date: 2020-12-04 11:00:00 -0600
 expire_date: 2021-01-01 00:00:00 -0600
 image: /uploads/bed-build-carpentry-veteran-event-redblueborder-.jpg
 news_image_alt: hands with a drill and the words Veterans Build Beds for children in need
-article_lead: Hoiday project
+article_lead: Holiday project
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
