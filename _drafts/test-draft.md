@@ -1,6 +1,6 @@
 ---
 title: test-draft
-date: 2020-12-10 12:06:49 -0600
+date: 2020-12-10 12:20:11 -0600
 expire_date: 2021-01-01 00:00:00 -0600
 image:
 news_image_alt: Add descriptive text for the post's image
