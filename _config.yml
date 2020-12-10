@@ -36,7 +36,6 @@ defaults:
       layout: post
       baseurl: ../../../../
       permalink: /:year/:month/:day/:title:output_ext
-      image: "placeholder_square.jpg"
 permalink: pretty
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
