@@ -2,15 +2,13 @@
 title: Laptops - Wi-fi hotspots - webcams
 date: 2020-12-10 12:17:00 -0600
 expire_date: 2021-01-11 00:00:00 -0600
-image: uploads/laptop-580x679.jpg
+image:
 news_image_alt: laptop
 article_lead: Tech loans now available for Spring 2021
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
 ---
-
-![Laptop](/uploads/Laptop-2.jpg){: .float-image-left}
 
 At this time of year, KCC students are finishing finals, checking their grades and finalizing plans for Spring 2021.
 
