@@ -2,7 +2,7 @@
 title: Laptops - Wi-fi hotspots - webcams
 date: 2020-12-10 12:17:00 -0600
 expire_date: 2021-01-11 00:00:00 -0600
-image:
+image: "uploads/laptop.jpg"
 news_image_alt: laptop
 article_lead: Tech loans now available for Spring 2021
 video_content: false
