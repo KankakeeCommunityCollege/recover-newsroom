@@ -2,7 +2,7 @@
 title: Title of the post
 date: 2020-12-01 00:00:00 -0600
 expire_date: 2021-01-01 00:00:00 -0600
-image: /uploads/kcc_default_post-placeholder.png
+image: ''
 news_image_alt: Add descriptive text for the post's image
 article_lead: A short lead for the article
 video_content: false
