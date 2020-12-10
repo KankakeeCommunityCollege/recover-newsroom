@@ -1,6 +1,6 @@
 ---
 title: Laptops - Wi-fi hotspots - webcams
-date: 2020-12-10 12:23:49 -0600
+date: 2020-12-10 12:17:00 -0600
 expire_date: 2021-01-11 00:00:00 -0600
 image:
 news_image_alt: laptop
