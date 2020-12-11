@@ -1,6 +1,6 @@
 ---
 title: Battle selected as vice president at KCC
-date: 2020-12-11 15:04:05 -0600
+date: 2020-12-11 15:04:00 -0600
 expire_date: 2021-01-08 00:00:00 -0600
 image: /uploads/K Battle sm.jpg
 news_image_alt: Dr. Kiana Battle
