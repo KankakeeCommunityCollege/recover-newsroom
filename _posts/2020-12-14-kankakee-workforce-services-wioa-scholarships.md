@@ -1,6 +1,6 @@
 ---
 title: Kankakee Workforce Services WIOA scholarships
-date: 2020-12-14 13:24:18 -0600
+date: 2020-12-14 13:24:00 -0600
 expire_date: 2021-01-15 00:00:00 -0600
 image: /uploads/COLOR_kankakee_workforce_servicess.jpg
 news_image_alt: Kankakee Workforce Services
