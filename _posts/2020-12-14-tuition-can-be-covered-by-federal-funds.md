@@ -1,9 +1,9 @@
 ---
-title: Kankakee Workforce Services WIOA scholarships
+title: Tuition can be covered by federal funds
 date: 2020-12-14 13:24:00 -0600
 expire_date: 2021-01-15 00:00:00 -0600
 image: /uploads/COLOR_kankakee_workforce_servicess.jpg
-news_image_alt: Kankakee Workforce Services
+news_image_alt: Learn about Workforce Services programs
 article_lead: WIOA scholarships available to Kankakee County residents.
 video_content: false
 video_link:
