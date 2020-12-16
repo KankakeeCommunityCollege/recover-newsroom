@@ -1,6 +1,6 @@
 ---
 title: Honors list Fall 2020
-date: 2020-12-16 15:10:26 -0600
+date: 2020-12-16 15:10:00 -0600
 expire_date: 2021-01-01 00:00:00 -0600
 image: /uploads/Angela Chinn of Kankakee-honorssm.jpg
 news_image_alt: Angela Chinn of Kankakee - honors list
