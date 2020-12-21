@@ -1,6 +1,6 @@
 ---
 title: Donation made at Vets Home
-date: 2020-12-21 08:37:57 -0600
+date: 2020-12-21 08:37:00 -0600
 expire_date: 2021-01-10 00:00:00 -0600
 image: /uploads/Vet-home-tree-donation-IMG_1198-article580x689.jpg
 news_image_alt: Christmas trees donated to veterans
