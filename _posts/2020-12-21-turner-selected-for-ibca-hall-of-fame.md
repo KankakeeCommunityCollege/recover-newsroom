@@ -1,6 +1,6 @@
 ---
 title: Turner selected for IBCA Hall of Fame
-date: 2020-12-21 12:46:40 -0600
+date: 2020-12-21 12:46:00 -0600
 expire_date: 2021-01-15 00:00:00 -0600
 image: /uploads/Vern-Turner-officiating sm.jpg
 news_image_alt: Vern Turner officiating
