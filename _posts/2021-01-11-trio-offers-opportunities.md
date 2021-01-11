@@ -1,6 +1,6 @@
 ---
 title: TRIO offers opportunities
-date: 2021-01-11 15:38:46 -0600
+date: 2021-01-11 15:38:00 -0600
 expire_date: 2021-01-31 00:00:00 -0600
 image: /uploads/TRIO-logo-420ish.jpg
 news_image_alt: TRIO Student Support Services logo
