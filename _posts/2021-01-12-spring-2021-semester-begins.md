@@ -2,7 +2,7 @@
 title: Spring 2021 semester begins
 date: 2021-01-12 00:00:00 -0600
 expire_date: 2021-01-29 00:00:00 -0600
-image:
+image: /uploads/aramirez-DSC_1035edit-590x605.jpg
 news_image_alt: 'Student trustee, Ariana Ramirez'
 article_lead: Welcome from the Student Trustee
 video_content: false

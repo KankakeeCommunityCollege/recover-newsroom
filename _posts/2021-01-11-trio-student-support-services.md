@@ -18,6 +18,8 @@ KCC’s T[RIO Student Support Services](http://www.kcc.edu/trio) program offers 
 
 LoRyelle Robinson, a TRIO participant, began job shadowing with the KCC Police Department on Jan. 4. Under the leadership of Chief Eric Springer, Robinson is learning about the daily responsibilities of a police officer, including how to write traffic reports and tickets, how to communicate using the codes of police and emergency personnel. She is also learning how to respond during scenarios that require the intervention of police officers.
 
+![LoRyelle Robinson](/uploads/loryelle-robinson_article.jpg){: .img-fluid .float-left .pr-2}
+
 “Through this experience, LoRyelle will learn what to expect when she’s employed in law enforcement,” Chief Springer explained.
 
 Robinson plans to transfer to a university next fall and pursue a bachelor’s degree in criminal justice.
