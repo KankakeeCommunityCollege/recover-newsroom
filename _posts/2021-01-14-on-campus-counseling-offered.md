@@ -1,6 +1,6 @@
 ---
 title: On-campus counseling offered
-date: 2021-01-14 08:37:22 -0600
+date: 2021-01-14 08:37:00 -0600
 expire_date: 2021-01-29 00:00:00 -0600
 image: /uploads/counseling-word-cloud.jpg
 news_image_alt: Counseling word cloud
