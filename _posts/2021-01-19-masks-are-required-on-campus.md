@@ -1,6 +1,6 @@
 ---
 title: Masks are required on campus
-date: 2021-01-19 09:22:24 -0600
+date: 2021-01-19 09:22:00 -0600
 expire_date: 2021-02-05 00:00:00 -0600
 image: /uploads/fitting-cloth-facemask-small.png
 news_image_alt: Please wear masks properly on campus
