@@ -1,0 +1,15 @@
+{% raw %}---{% endraw %}
+title: "{{ page.title | replace: '"', '\"' }}"
+date: {{ page.date }}
+layout: archived-post
+baseurl: ../../../../../../
+expire_date: {{ page.expire_date }}
+image: {{ page.image }}
+news_image_alt: "{{ page.news_image_alt | replace: '"', '\"' }}"
+article_lead: "{{ page.article_lead | replace: '"', '\"' }}"
+video_content: {{ page.video_content }}
+video_link: {{ page.video_link }}
+press_release: {{ page.press_release }}
+{% raw %}---{% endraw %}
+
+{{ page.content | markdownify }}

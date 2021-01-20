@@ -6,6 +6,25 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col post__content">
+        {% if page.image %}
+        <div class="row background--black archive__header--height">
+          <div style="background-image: url({{ page.image }});" class="col-12 col-lg-8 archive__img--wrapper">
+            </div>
+          <div class="col-12 col-lg-4 mt-auto mb-3">
+            <div class="latest-news-widget__feature__tease__hgroup">
+              <h3 class="latest-news-widget__feature__tease__overline">
+                {{ page.title }}
+              </h3>
+              <h4 class="latest-news-widget__feature__tease__h">
+                {{ page.article_lead }}
+              </h4>
+            </div>
+          </div>
+        </div>
+        <br>
+        <hr>
+        <br>
+        {% endif %}
         <h3 class="typography__h3">{{ page.title }}</h3>
         <p><strong>Posted On: {{ page.date | date: "%m/%d/%y" }}</strong></p>
 
