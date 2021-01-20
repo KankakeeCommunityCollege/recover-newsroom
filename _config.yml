@@ -65,7 +65,7 @@ kramdown:
   smart_quotes: apos,apos,quot,quot
 
 include:
-  - "archive/*"
+  - "archive/"
 exclude:
   - "gulpfile.js"
   - "node_modules"
