@@ -11,3 +11,13 @@
 .archive__list {
   list-style-type: none;
 }
+
+.archive__header--height {
+  min-height: 80vh;
+}
+
+.archive__img--wrapper {
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 40vh;
+}
