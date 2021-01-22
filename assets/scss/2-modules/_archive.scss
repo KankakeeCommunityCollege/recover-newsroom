@@ -6,6 +6,9 @@
 
 .archive__link-item {
   text-decoration: none;
+  &:visited {
+    color: $color-archive-visited;
+  }
 }
 
 .archive__list {
@@ -19,5 +22,6 @@
 .archive__img--wrapper {
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   min-height: 40vh;
 }
