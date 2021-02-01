@@ -1,6 +1,6 @@
 ---
 title: 'Virtual Tour: Churches and Chocolates'
-date: 2021-02-01 17:52:56 -0600
+date: 2021-02-01 17:52:00 -0600
 expire_date: 2021-03-16 00:00:00 -0500
 image: /uploads/Churches-Chocolates-compress.png
 news_image_alt: >-
