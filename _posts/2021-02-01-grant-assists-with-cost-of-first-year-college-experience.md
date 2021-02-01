@@ -1,6 +1,6 @@
 ---
 title: Grant assists with cost of First Year College Experience
-date: 2021-02-01 10:32:50 -0600
+date: 2021-02-01 10:32:00 -0600
 expire_date: 2021-02-12 00:00:00 -0600
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: Add descriptive text for the post's image
