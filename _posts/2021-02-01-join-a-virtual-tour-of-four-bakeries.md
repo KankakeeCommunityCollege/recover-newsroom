@@ -1,6 +1,6 @@
 ---
 title: Join a virtual tour of four bakeries
-date: 2021-02-01 18:02:06 -0600
+date: 2021-02-01 18:01:00 -0600
 expire_date: 2021-02-22 00:00:00 -0600
 image: /uploads/Bakery-Bus-Tour-in-a-Box.jpg
 news_image_alt: Bakery Bus Tour in a Box graphic
