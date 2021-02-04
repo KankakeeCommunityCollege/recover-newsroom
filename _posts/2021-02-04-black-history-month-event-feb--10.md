@@ -1,6 +1,6 @@
 ---
 title: Black History Month event Feb. 10
-date: 2021-02-04 15:50:22 -0600
+date: 2021-02-04 15:50:00 -0600
 expire_date: 2021-02-10 00:00:00 -0600
 image: /uploads/Black-History-Month-2021-1.jpg
 news_image_alt: 'Black History Month words and Red, Yellow, Green'
