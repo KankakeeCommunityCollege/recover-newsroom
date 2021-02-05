@@ -1,6 +1,6 @@
 ---
 title: Later starting classes
-date: 2021-02-05 11:36:08 -0600
+date: 2021-02-05 11:36:00 -0600
 expire_date: 2021-03-14 00:00:00 -0600
 image: /uploads/Student-backpack-DSC_0092.jpg
 news_image_alt: KCC student with backpack
