@@ -1,6 +1,6 @@
 ---
 title: Vet Center donation
-date: 2021-02-08 15:26:12 -0600
+date: 2021-02-08 15:23:00 -0600
 expire_date: 2021-02-19 00:00:00 -0600
 image: /uploads/Vet Club meeting sm .JPG
 news_image_alt: Veterans meet in the Veteran's Resource Center
