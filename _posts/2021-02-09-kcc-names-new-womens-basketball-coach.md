@@ -1,6 +1,6 @@
 ---
 title: KCC names new women’s basketball coach
-date: 2021-02-09 11:22:03 -0600
+date: 2021-02-09 11:22:00 -0600
 expire_date: 2021-02-26 00:00:00 -0600
 image: /uploads/Casey Meister in team huddle Z72_1761.JPG
 news_image_alt: Casey Meister huddles with Lady Cavaliers
