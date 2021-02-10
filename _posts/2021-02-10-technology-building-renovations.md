@@ -1,6 +1,6 @@
 ---
 title: Technology Building Renovations
-date: 2021-02-10 10:16:51 -0600
+date: 2021-02-10 10:16:00 -0600
 expire_date: 2021-02-26 00:00:00 -0600
 image: /uploads/Boyd and Thomas at KCC Nucor agreement signing.JPG
 news_image_alt: Add descriptive text for the post's image
