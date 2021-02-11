@@ -1,7 +1,7 @@
 ---
 title: Riverside Healthcare support makes a difference
 date: 2021-02-08 15:23:00 -0600
-expire_date: 2021-02-24 00:00:00 -0600
+expire_date: 2021-02-26 00:00:00 -0600
 image: /uploads/Vet Club meeting sm .JPG
 news_image_alt: Veterans meet in the Veteran's Resource Center
 article_lead: Donation benefits Veterans Center
