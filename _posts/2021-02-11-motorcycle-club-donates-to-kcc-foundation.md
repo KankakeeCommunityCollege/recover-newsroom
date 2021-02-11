@@ -1,6 +1,6 @@
 ---
 title: Motorcycle Club donates to KCC Foundation
-date: 2021-02-11 12:52:10 -0600
+date: 2021-02-11 12:52:00 -0600
 expire_date: 2021-02-28 00:00:00 -0600
 image: /uploads/IronPigs-Donation.jpg
 news_image_alt: 'Students and Iron Pigs Club members with $10,000 check'
