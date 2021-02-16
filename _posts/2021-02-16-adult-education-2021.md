@@ -1,6 +1,6 @@
 ---
 title: Adult Education 2021
-date: 2021-02-16 14:31:34 -0600
+date: 2021-02-16 14:31:00 -0600
 expire_date: 2021-03-05 00:00:00 -0600
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: Add descriptive text for the post's image
