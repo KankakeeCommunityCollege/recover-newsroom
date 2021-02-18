@@ -10,7 +10,8 @@ const gulpif = require('gulp-if');
 const sass = require('gulp-sass');
 const sourcemaps = require('gulp-sourcemaps');
 const autoprefixer = require('gulp-autoprefixer');
-const cssnano = require('gulp-cssnano');
+const cssnano = require('cssnano');
+const postcss = require('gulp-postcss');
 const imagemin = require('gulp-imagemin');
 const browserSync = require('browser-sync');
 const hashsum = require('gulp-hashsum');
@@ -49,13 +50,14 @@ function gulpSitemap(done) {
 // Compile main.css file from sass modules
 function mainScss() {
   const PRODUCTION = !!(yargs.argv.production);
+  const cssNanoConfig = [cssnano({ zindex: false })]; // Do NOT minify z-index values because Bootstrap uses values greater that 1,000
 
   return gulp.src(config.sass.src)
     .pipe(sourcemaps.init())
     .pipe(sass().on('error', sass.logError)) // errors shown in terminal for when you screw up your SASS
     .pipe(autoprefixer(config.sass.compatibility)) // Automatically prefix any CSS that is not compatible with the browsers defined in the gulpconfig
     .pipe(hashsum({filename: './_data/cache_bust_css.yml', hash: 'md5'}))
-    .pipe(gulpif(PRODUCTION, cssnano({ zindex: false }))) // {zindex:false} to prevent override of z-index values -- higher z-index's are needed in our projects to bring objects above bootstrap's default z-index values
+    .pipe(gulpif(PRODUCTION, postcss(cssNanoConfig)))
     .pipe(gulpif(!PRODUCTION, sourcemaps.write()))
     .pipe(gulp.dest(config.sass.dest.jekyllRoot))
     .pipe(gulp.dest(config.sass.dest.buildDir))
@@ -64,11 +66,9 @@ function mainScss() {
 
 // compile 'content.css' which creates custom styles that are available to users the CloudCannon interface.
 function cmsScss() { // CloudCannon needs a plain CSS file, no minification, prefixing, nothing. Just plain.
-  const PRODUCTION = !!(yargs.argv.production);
-
   return gulp.src(config.cmsScss.src)
     .pipe(sourcemaps.init())
-    .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError))
+    .pipe(sass(config.cmsScss.outputStyle).on('error', sass.logError))
     .pipe(gulp.dest(config.cmsScss.dest.jekyllRoot))
     .pipe(gulp.dest(config.cmsScss.dest.buildDir))
     .pipe(browserSync.stream());
