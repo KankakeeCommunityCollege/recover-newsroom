@@ -1,0 +1,13 @@
+---
+title: Fast Path Cohort 4 Information Night
+date: 2021-02-18 13:13:24 -0600
+expire_date: 2021-01-01 00:00:00 -0600
+image: /uploads/Dioselin Andrade.jpg
+news_image_alt: Dioselin Andrade Fast Path student
+article_lead: Earn an Associate in Arts transferegree in two years with Fast Path.
+video_content: false
+video_link: 'https://youtu.be/4d2LkGjg5bM'
+press_release: false
+---
+
+The Fast Path Degree program at Kankakee Community College will host 2 information sessions. Students and their parents can attend a virtual Zoom meeting on Monday, March 1 at 6 p.m. or a session at the KCC Miner South Extension Center located at 1488 E Walnut Street in Watseka on March 3 at 6 p.m.<br><br>Visitors will learn more about the program, which offers a schedule of two classes at a time, two days a week for two years leading to an Associate in Arts transfer degree. Participants complete two classes every eight weeks.&nbsp;<br><br>![](uploads/Dioselin Andrade.jpg){: .float-image-right width="297" height="303"}Dioselin Andrade, KCC sophomore and current Fast Path student told us, "The Fast Path program has helped me make a smooth transition from high school to college. The support I receive from the mentors in the program has assisted me in developing the skills I need to be successful in my college classes. I’ve had the opportunity to meet new people and explore career options while staying on track for my degree. Whether you are undecided or have a major in mind, I would recommend Fast Path as a great option to earn your transfer degree from KCC.”&nbsp;<br><br>“Students are in class for about three hours a day, two days a week,” said Rexann McKinley, KCC professor and program mentor. “The course sequence, dates and times are all preplanned to make it easy on the students.”<br><br>The program admits a maximum of 20 students each fall.&nbsp;<br><br>“Fast Path students have a support system they can rely on,” said McKinley. “We mentor, guide and coach each student. We want them to be successful. Our graduates will be ready to transfer as juniors to a four-year college or university.”<br><br>Applications are now being accepted, and classes will begin in Aug. 2021. More information about the program and application materials are at fastpath.kcc.edu.&nbsp;<br>For questions or to reserve a seat at the information session, contact McKinley at [rmckinley@kcc.edu](mailto:rmckinley@kcc.edu) or phone 815-802-8780.
