@@ -1,6 +1,6 @@
 ---
 title: Fast Path Cohort 4 Information Night
-date: 2021-02-18 13:13:24 -0600
+date: 2021-02-18 13:13:00 -0600
 expire_date: 2021-01-01 00:00:00 -0600
 image: /uploads/Dioselin Andrade.jpg
 news_image_alt: Dioselin Andrade Fast Path student
