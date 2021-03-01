@@ -1,6 +1,6 @@
 ---
 title: Celebrate Women's History Month
-date: 2021-03-01 09:42:53 -0600
+date: 2021-03-01 09:42:00 -0600
 expire_date: 2021-03-31 00:00:00 -0500
 image: /uploads/Beth Nunley headshot 2021 sm.jpg
 news_image_alt: 'Beth Nunley, Vice President for Business Affairs at KCC'
