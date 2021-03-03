@@ -11,7 +11,7 @@ press_release: false
 ---
 ![](/uploads/nothing-bundt-cake-article.jpg){: width="260" height="203"}
 
-The KCC Volleyball Team is selling tasty treats – Nothing Bundt Cakes "buntlets" – as a fundraiser.
+The KCC Volleyball Team is serving tasty treats – Nothing Bundt Cakes "buntlets" – as a fundraiser.
 
 The bundtlet cakes are $5 each. There are two ways to get a delicious cake (or two, or more\!):
 
