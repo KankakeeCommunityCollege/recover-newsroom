@@ -23,8 +23,8 @@ Please consider donating any of the following items to help the community’s ho
 
 * Cat litter
 * Kitten and cat chow
-* Purina one dry dog food
-* Pedigree canned dog food
+* Purina One&reg; dry dog food
+* Pedigree&reg; canned dog food
 * Puppy Chow
 * Puppy Pads
 * Paper towels
@@ -32,6 +32,6 @@ Please consider donating any of the following items to help the community’s ho
 * Bleach
 * Disposable gloves&nbsp;![](/uploads/dog-and-bowl.jpg){: .float-image-right width="320" height="260"}
 
-Donations bins will be at the entrances of the Workforce Development Center on riverfront Campus and the South Extension Center in Watseka.
+Donations bins will be at the entrances of the Workforce Development Center on Riverfront Campus in Kankakee and the South Extension Center in Watseka.
 
-For more information, Contact Linsey Cuti: [lcuti@kcc.edu](mailto:lcuti@kcc.edu).
+For more information, contact Linsey Cuti: [lcuti@kcc.edu](mailto:lcuti@kcc.edu).
