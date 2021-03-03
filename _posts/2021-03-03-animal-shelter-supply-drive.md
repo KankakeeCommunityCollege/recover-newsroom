@@ -1,6 +1,6 @@
 ---
 title: Animal Shelter Supply Drive
-date: 2021-03-03 12:58:05 -0600
+date: 2021-03-03 12:58:00 -0600
 expire_date: 2021-03-26 00:00:00 -0500
 image: /uploads/Pet dish.JPG
 news_image_alt: Pet food dish
