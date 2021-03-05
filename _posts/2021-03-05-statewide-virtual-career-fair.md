@@ -3,8 +3,8 @@ title: Statewide Virtual Career Fair
 date: 2021-03-05 10:24:00 -0600
 expire_date: 2021-04-09 00:00:00 -0500
 image: /uploads/Virtual career fair - Copy.JPG
-news_image_alt: Statewide career fair
-article_lead: Job seekers can meet with employers virtually.
+news_image_alt: Statewide virtual career fair
+article_lead: Free for job seekers
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
