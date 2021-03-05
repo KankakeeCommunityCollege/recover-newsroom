@@ -1,6 +1,6 @@
 ---
 title: Statewide Virtual Career Fair
-date: 2021-03-05 10:24:11 -0600
+date: 2021-03-05 10:24:00 -0600
 expire_date: 2021-04-09 00:00:00 -0500
 image: /uploads/Virtual career fair - Copy.JPG
 news_image_alt: Statewide career fair
