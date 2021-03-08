@@ -1,6 +1,6 @@
 ---
 title: Celebrate Women's History Month
-date: 2021-03-08 14:04:00 -0600
+date: 2021-03-08 12:04:00 -0600
 expire_date: 2021-03-31 00:00:00 -0500
 image: /uploads/K Battle sm.jpg
 news_image_alt: Dr. Kiana Battle
