@@ -1,6 +1,6 @@
 ---
 title: Tuition Freeze
-date: 2021-03-10 15:14:52 -0600
+date: 2021-03-10 15:14:00 -0600
 expire_date: 2021-03-31 00:00:00 -0500
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: KCC logo
