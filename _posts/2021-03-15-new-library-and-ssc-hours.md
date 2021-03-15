@@ -1,6 +1,6 @@
 ---
 title: New Library and SSC Hours
-date: 2021-03-15 09:08:16 -0500
+date: 2021-03-15 09:07:00 -0500
 expire_date: 2021-03-31 00:00:00 -0500
 image: /uploads/SSClogo.JPG
 news_image_alt: Student Success Center logo
