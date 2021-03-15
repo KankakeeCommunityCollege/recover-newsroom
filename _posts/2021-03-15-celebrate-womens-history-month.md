@@ -27,7 +27,7 @@ Ramirez is Hispanic, and a first-generation college student. She said that overc
 
 ![](/uploads/ariana-ramirez.jpg){: .float-image-left width="239" height="327"}&nbsp;As a model for leadership, Ramirez also sets an example for others through her scholarly endeavors. She continually demonstrates her steadfastness to academic success, and has maintained a grade point average above 3.5 during her tenure at the college. Furthermore, Ramirez is a member of the Psychology Club, Phi Theta Kappa Honor Society, and participates in the TRIO Student Support Services program. Through her involvement in campus activities, inside and outside of the classroom, Ramirez is deeply invested in representing the diverse student body at KCC.&nbsp;
 
-Ramirez notes her inspiration includes U.S. Rep. Alexandria Ocasio-Cortez of New York; and Mary Whiton Calkins, a psychologist and the first woman selected as president of the American Psychological Associ&not;ation and the American Philosophical Association. In addition, her professional and personal inspirations include her mother, Maria Mejia; sister, Areli Ramirez; and colleagues and friends Daisy Solorzano and Rhonda Addison.
+Ramirez notes her inspiration includes U.S. Rep. Alexandria Ocasio-Cortez of New York; and Mary Whiton Calkins, a psychologist and the first woman selected as president of the American Psychological Association and the American Philosophical Association. In addition, her professional and personal inspirations include her mother, Maria Mejia; sister, Areli Ramirez; and colleagues and friends Daisy Solorzano and Rhonda Addison.
 
 Ramirez’s advice for other women today is “We all have the power within us to make a change.”&nbsp;
 
