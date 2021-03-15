@@ -1,6 +1,6 @@
 ---
 title: Celebrate Women's History Month
-date: 2021-03-15 10:31:06 -0500
+date: 2021-03-15 10:31:00 -0500
 expire_date: 2021-03-31 00:00:00 -0500
 image: /uploads/aramirez-DSC_1035edit-590x605.jpg
 news_image_alt: Ariana Ramirez
