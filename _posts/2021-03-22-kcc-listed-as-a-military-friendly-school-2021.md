@@ -1,6 +1,6 @@
 ---
 title: KCC listed as a military friendly school 2021
-date: 2021-03-22 15:40:18 -0500
+date: 2021-03-22 15:40:00 -0500
 expire_date: 2021-04-09 00:00:00 -0500
 image: /uploads/Jason-RodriguezDSC_0191-Copy.jpg
 news_image_alt: Add descriptive text for the post's image
