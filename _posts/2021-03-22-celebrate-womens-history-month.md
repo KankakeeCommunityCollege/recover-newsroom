@@ -4,7 +4,7 @@ date: 2021-03-22 10:42:00 -0500
 expire_date: 2021-04-02 00:00:00 -0500
 image: /uploads/Imani-Drew-Copy.jpg
 news_image_alt: Judge J. Imani Drew
-article_lead: the first female African-American judge in Kankakee County.
+article_lead: Judge J. Amani Drew
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
@@ -13,7 +13,11 @@ press_release: false
 
 ## &nbsp;
 
-## ![](/uploads/Imani-Drew-Copy.jpg){: .float-image-left width="274" height="343"}&nbsp;J. Imani Drew&nbsp;<br>Presiding Judge, Juvenile Division&nbsp;<br>Circuit Court of Kankakee County, Illinois
+## ![](/uploads/Imani-Drew-Copy.jpg){: .float-image-left width="274" height="343"}&nbsp;J. Imani Drew&nbsp;
+
+### Presiding Judge, Juvenile Division&nbsp;
+
+#### Circuit Court of Kankakee County, Illinois
 
 ## &nbsp;
 
