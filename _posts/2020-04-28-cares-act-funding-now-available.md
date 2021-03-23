@@ -9,7 +9,6 @@ video_content: false
 video_link:
 press_release: false
 ---
-
 Kankakee Community College is distributing a little more than $633,000 in federal aid to students affected by the disruption which occurred when courses were moved online in March 2020.
 
 The money is from the Federal Emergency Stimulus Funding (CARES Act) for Colleges and Universities. It is part of a stimulus package, [according to the U.S. Department of Education](https://www2.ed.gov/about/offices/list/ope/caresactgrantfundingcoverletterfinal.pdf), designed to “assist with expenses related to the disruption of campus operations due to coronavirus (including eligible expenses under a student’s cost of attendance, such as food, housing, course materials, technology, health care, and childcare).”
@@ -24,4 +23,4 @@ The funding from KCC is not available to select groups, including international 
 
 It will take up to two weeks to determine eligibility, process requests, print and send checks, said Michelle Hasik, KCC director of financial aid. The first checks are expected to be sent by the end of May.
 
-More information and the CARES Act Fund application are on the [KCC Financial Aid page](http://www.kcc.edu/future/paying/fedstateaid/Pages/cares-act-information.aspx).
+More information and the CARES Act Fund application are on the [KCC Financial Aid page](https://www.kcc.edu/tuition-and-aid/#cares-act-information-and-reporting).
