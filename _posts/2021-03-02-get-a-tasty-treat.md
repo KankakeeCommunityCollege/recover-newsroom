@@ -15,11 +15,11 @@ The KCC Volleyball Team is serving tasty treats – Nothing Bundt Cakes "buntlet
 
 The bundtlet cakes are $5 each. There are two ways to get a delicious cake (or two, or more\!):
 
-* [Order ahead](/Nothing-Bundt-Cake-Preorder.PDF){: target="_blank" rel="noopener"} and guarantee the cakes you want.
+* [Order ahead](/uploads/pdf/nothing-bundt-cake-preorder.pdf){: target="_blank" rel="noopener"} and guarantee the cakes you want.
   * Flavors are: Chocolate Chocolate Chip, Red Velvet, White Chocolate Raspberry, Lemon, Confetti, Classic Vanilla, Carrot, Marble, Pecan Praline, Gluten Free Chocolate Chip Cookie.
   * Place orders by March 20 to get delivery on March 27.
   * Order by emailing [terry.allison.23@gmail.com](mailto:terry.allison.23@gmail.com?subject=Nothing%20Bundt%20Cake).&nbsp;
-* [Go to BrickStone Brewery, Saturday, March 27](/Nothing-Bundt- Cakes-KCC-new.pdf){: target="_blank" rel="noopener"} between 10:30 a.m. - 1:30 p.m. The cakes will be available while supplies last.
+* [Go to BrickStone Brewery, Saturday, March 27](/uploads/pdf/nothing-bundt-cakes-kcc-new.pdf){: target="_blank" rel="noopener"} between 10:30 a.m. - 1:30 p.m. The cakes will be available while supplies last.
   * BrickStone Brewery is at 557 William Latham Sr Drive, Bourbonnais.
   * Cash and credit/debit card accepted.
 
