@@ -1,6 +1,6 @@
 ---
 title: KCC offers more in-person learning
-date: 2021-03-29 08:25:18 -0500
+date: 2021-03-30 08:23:00 -0500
 expire_date: 2021-04-16 00:00:00 -0500
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: Add descriptive text for the post's image
