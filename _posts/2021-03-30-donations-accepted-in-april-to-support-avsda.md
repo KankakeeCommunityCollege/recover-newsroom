@@ -1,6 +1,6 @@
 ---
 title: Donations accepted in April to support AVSDA
-date: 2021-03-30 08:59:14 -0500
+date: 2021-03-30 08:59:00 -0500
 expire_date: 2021-04-30 00:00:00 -0500
 image: /uploads/AVSDAlogo.JPG
 news_image_alt: American Veterans Service Dog Academy
