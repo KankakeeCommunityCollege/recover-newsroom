@@ -1,6 +1,6 @@
 ---
 title: Vaccination event April 6-7
-date: 2021-04-01 08:54:04 -0500
+date: 2021-04-01 08:54:41 -0500
 expire_date: 2021-04-08 00:00:00 -0500
 image: /uploads/403x403graphicforvaccineevent-Copy.jpg
 news_image_alt: Add descriptive text for the post's image
@@ -9,7 +9,7 @@ video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
 ---
-The Ryan Gymnasium on Kankakee Community College’s Riverfront Campus has been selected as a Point of Distribution for the COVID-19 vaccine on April 6 and 7 from 9 a.m. - 6 p.m. each day. &nbsp;Those who qualify to receive the vaccine under Phase 1a, 1b and 1c guidelines can make an appointment for this site at [https://events.juvare.com/IL-IDPH/395de829-155c-46d1-bc8c-ecbfda9ab166/](https://events.juvare.com/IL-IDPH/395de829-155c-46d1-bc8c-ecbfda9ab166/). &nbsp;Appointments are required.
+![](/uploads/403x403graphicforvaccineevent-Copy.jpg){: .float-image-right width="328" height="328"}The Ryan Gymnasium on Kankakee Community College’s Riverfront Campus has been selected as a Point of Distribution for the COVID-19 vaccine on April 6 and 7 from 9 a.m. - 6 p.m. each day. &nbsp;Those who qualify to receive the vaccine under Phase 1a, 1b and 1c guidelines can make an appointment for this site at [https://events.juvare.com/IL-IDPH/395de829-155c-46d1-bc8c-ecbfda9ab166/](https://events.juvare.com/IL-IDPH/395de829-155c-46d1-bc8c-ecbfda9ab166/). &nbsp;Appointments are required.
 
 Plans are in place to administer 700 vaccinations per day. The vaccine will be from Johnson & Johnson. Illinois National Guard personnel will be on site to support processing, paperwork, vaccinations and observations.&nbsp;
 
