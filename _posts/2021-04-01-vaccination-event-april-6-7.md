@@ -1,5 +1,5 @@
 ---
-title: Vaccination event April 6-7
+title: Vaccination event April 6&#8209;7
 date: 2021-04-01 09:00:00 -0500
 expire_date: 2021-04-08 00:00:00 -0500
 image: /uploads/403x403graphicforvaccineevent-Copy.jpg
@@ -19,16 +19,16 @@ Plans are in place to administer 700 vaccinations per day. The vaccine will be f
 “The moment we knew that vaccinations were available, we offered our campus as a distribution site,” said Dr. Michael Boyd, KCC president. “KCC is a familiar place for so many residents and that’s why it is a great place to host a vaccination site. It's our hope that all residents who qualify for the vaccine can receive it. It is a privilege to serve our community during the COVID-19 recovery process.”
 
 
-<figure class="mb-5">
+<figure class="mb-3 figures">
   <figcaption>Listen to Dr. Boyd's message about KCC as a vaccination site:</figcaption>
   <audio controls>
     <source src="/assets/audio/dr_michael-boyd_kcc-president.mp3" type="audio/mpeg">
     <source src="/assets/audio/dr_michael-boyd_kcc-president.ogg" type="audio/ogg">
     <p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/audio/dr_michael-boyd_kcc-president.mp3">link to the audio</a> instead.</p>
   </audio>
-<figure>
+</figure>
 
 
-<p>Those with appointments should come to KCC's Riverfront Campus, located south of downtown Kankakee at 100 College Drive. The location is off River Road, near U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. After arrival, follow signs to park and enter the building. Masks and social distancing guidelines are in place, and areas will be routinely sanitized.</p>
+Those with appointments should come to KCC's Riverfront Campus, located south of downtown Kankakee at 100 College Drive. The location is off River Road, near U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. After arrival, follow signs to park and enter the building. Masks and social distancing guidelines are in place, and areas will be routinely sanitized.
 
-<p>The Illinois Department of Public Health guidelines, vaccination plan, and FAQs are provided at <a href="https://www.dph.illinois.gov/covid19/vaccination-plan" target="_blank" rel="noopener noreferrer">https://www.dph.illinois.gov/covid19/vaccination-plan</a>.</p>
+The Illinois Department of Public Health guidelines, vaccination plan, and FAQs are provided at [https://www.dph.illinois.gov/covid19/vaccination-plan](https://www.dph.illinois.gov/covid19/vaccination-plan){: target='_blank' rel='noopener noreferrer' }.
