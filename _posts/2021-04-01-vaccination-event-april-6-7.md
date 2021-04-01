@@ -9,6 +9,9 @@ video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
 ---
+
+**UPDATE:** Vaccine appointments are full for the KCC distribution site on April 6-7. Appointments are still available for qualified groups on April 5 at Pembroke Fellowship Church. [Make an appointment](https://events.juvare.com/IL-IDPH/9a74f201-933a-4364-9523-636e26b0dd5c/){: target='_blank' rel='noopener noreferrer' }.
+
 ![](/uploads/403x403graphicforvaccineevent-Copy.jpg){: .float-image-right width="328" height="328"}The Ryan Gymnasium on Kankakee Community College’s Riverfront Campus has been selected as a Point of Distribution for the COVID-19 vaccine on April 6 and 7 from 9 a.m. - 6 p.m. each day. Those who qualify to receive the vaccine under Phase 1a, 1b and 1c guidelines can make an appointment for this site at [https://events.juvare.com/IL-IDPH/395de829-155c-46d1-bc8c-ecbfda9ab166/](https://events.juvare.com/IL-IDPH/395de829-155c-46d1-bc8c-ecbfda9ab166/). Appointments are required.
 
 Plans are in place to administer 700 vaccinations per day. The vaccine will be from Johnson & Johnson. Illinois National Guard personnel will be on site to support processing, paperwork, vaccinations and observations.
