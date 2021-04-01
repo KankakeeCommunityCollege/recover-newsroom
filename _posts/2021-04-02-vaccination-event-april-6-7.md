@@ -1,6 +1,6 @@
 ---
 title: Vaccination event April 6-7
-date: 2021-04-01 08:55:53 -0500
+date: 2021-04-02 10:00:00 -0500
 expire_date: 2021-04-08 00:00:00 -0500
 image: /uploads/403x403graphicforvaccineevent-Copy.jpg
 news_image_alt: Add descriptive text for the post's image
