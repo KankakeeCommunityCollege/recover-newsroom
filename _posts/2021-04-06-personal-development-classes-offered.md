@@ -1,6 +1,6 @@
 ---
 title: Personal development classes offered
-date: 2021-04-06 16:24:18 -0500
+date: 2021-04-06 16:24:00 -0500
 expire_date: 2021-04-27 00:00:00 -0500
 image: /uploads/learning-word-cloud-cropped.jpg
 news_image_alt: Education and Lifelong learning word cloud
