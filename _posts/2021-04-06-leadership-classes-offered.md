@@ -1,6 +1,6 @@
 ---
 title: Leadership classes offered
-date: 2021-04-06 15:43:18 -0500
+date: 2021-04-06 15:43:00 -0500
 expire_date: 2021-05-06 00:00:00 -0500
 image: /uploads/lmi-logo.jpg
 news_image_alt: Leadership & Management Institute logo
