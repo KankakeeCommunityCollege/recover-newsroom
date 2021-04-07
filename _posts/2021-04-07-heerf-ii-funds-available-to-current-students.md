@@ -1,6 +1,6 @@
 ---
 title: HEERF II funds available to current students
-date: 2021-04-07 08:33:37 -0500
+date: 2021-04-07 08:33:00 -0500
 expire_date: 2021-04-30 00:00:00 -0500
 image: /uploads/DeptofEd.JPG
 news_image_alt: Add descriptive text for the post's image
