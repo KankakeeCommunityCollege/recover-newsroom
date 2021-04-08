@@ -22,7 +22,7 @@ Funding is available for credit division students, as well as non-credit, dual e
 
 &ldquo;It will take up to two weeks to determine eligibility, process requests, print and send checks,&rdquo; said Michelle Hasik, KCC director of financial aid.
 
-For more information and to access the CRRSAA application, please visit the KCC Financial Aid website at [www.kcc.edu/tuition-and-aid](https://www.kcc.edu/tuition-and-aid/){: target="_blank" rel="noopener"}.
+For more information and to access the CRRSAA application, please visit the KCC Financial Aid website at [www.kcc.edu/tuition-and-aid](https://www.kcc.edu/tuition-and-aid/#crrsaa-information-and-reporting){: target="_blank" rel="noopener"}.
 
 The funding is not available to select groups, according to the relief fund guidelines. The ineligible groups include international and Deferred Action for Childhood Arrivals (DACA) students. These students can apply for Emergency Funding from the KCC Foundation. More information is available by email from [finaid@kcc.edu](mailto:finaid@kcc.edu) or phone 815-802-8550.
 
