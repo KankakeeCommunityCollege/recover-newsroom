@@ -1,7 +1,7 @@
 ---
 title: Medical Lab Week
-date: 2021-04-15 00:00:00 -0500
-expire_date: 2021-04-24 00:00:00 -0500
+date: 2021-04-14 00:00:00 -0500
+expire_date: 2021-04-25 00:00:00 -0500
 image: /uploads/MLPWLogos_color-Copy.png
 news_image_alt: Medical Laboratory Professionals Week logo
 article_lead: April 18-24
