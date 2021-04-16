@@ -21,23 +21,23 @@ The following mass vaccination sites will have appointments available specifical
 
 | **Date** | **Location** | **Address** |
 | **Sunday**<br><br>**April 18** | Kane County<br><br>Former Carson Pirie Scott | 970 North Lake St.<br><br>Aurora |
-| Kane County<br><br>Elgin Eastside Recreation Center | 1800 E. Chicago St.<br><br>Elgin |
-| Kane County<br><br>Former Sam’s Club | 501 N. Randall Rd.<br><br>Batavia |
-| Madison County – Gateway Convention Center | 1 Gateway Drive<br><br>Collinsville |
-| Sangamon County<br><br>Orr Building – State Fairgrounds | 801 E. Sangamon Ave.<br><br>Springfield |
-| St. Clair County<br><br>Belle-Clair Fairgrounds | 200 S. Belt East<br><br>Belleville |
-| Winnebago County<br><br>Former K-Mart | 1321 Sandy Hollow Rd.<br><br>Rockford |
+| Kane County<br><br>Elgin Eastside Recreation Center | 1800 E. Chicago St.<br><br>Elgin | &nbsp; |
+| Kane County<br><br>Former Sam’s Club | 501 N. Randall Rd.<br><br>Batavia | &nbsp; |
+| Madison County – Gateway Convention Center | 1 Gateway Drive<br><br>Collinsville | &nbsp; |
+| Sangamon County<br><br>Orr Building – State Fairgrounds | 801 E. Sangamon Ave.<br><br>Springfield | &nbsp; |
+| St. Clair County<br><br>Belle-Clair Fairgrounds | 200 S. Belt East<br><br>Belleville | &nbsp; |
+| Winnebago County<br><br>Former K-Mart | 1321 Sandy Hollow Rd.<br><br>Rockford | &nbsp; |
 | **Monday**<br><br>**April 19** | Cook County<br><br>Arlington Heights Health Center | 3250 N. Arlington Heights Rd.<br><br>Arlington Heights |
-| Cook County<br><br>Former K-Mart | 1155 E. Oakton St.<br><br>Des Plaines |
-| Cook County<br><br>Forest Park - Former HOBO | 7600 Roosevelt Rd.<br><br>Forest Park |
-| Cook County<br><br>Matteson – Former Target | 4647 Promenade Way<br><br>Matteson |
-| Cook County<br><br>South Suburban College | 15800 State St.<br><br>South Holland |
-| Cook County<br><br>Tinley Park Convention Center | 18451 Convention Center Drive<br><br>Tinley Park |
-| Cook County<br><br>Triton College | 2000 5<sup>th</sup> Ave.<br><br>River Grover |
+| Cook County<br><br>Former K-Mart | 1155 E. Oakton St.<br><br>Des Plaines | &nbsp; |
+| Cook County<br><br>Forest Park - Former HOBO | 7600 Roosevelt Rd.<br><br>Forest Park | &nbsp; |
+| Cook County<br><br>Matteson – Former Target | 4647 Promenade Way<br><br>Matteson | &nbsp; |
+| Cook County<br><br>South Suburban College | 15800 State St.<br><br>South Holland | &nbsp; |
+| Cook County<br><br>Tinley Park Convention Center | 18451 Convention Center Drive<br><br>Tinley Park | &nbsp; |
+| Cook County<br><br>Triton College | 2000 5<sup>th</sup> Ave.<br><br>River Grover | &nbsp; |
 | **Tuesday**<br><br>**April 20** | DuPage County<br><br>Fairgrounds Building 1 | 2015 Manchester Rd.<br><br>Wheaton |
-| Grundy County<br><br>Shabbona Middle School | 725 School St.<br><br>Morris |
-| Lake County<br><br>Lake County Fairgrounds | 1060 E. Peterson Rd.<br><br>Grayslake |
-| Will County<br><br>Former Toys R Us | 3128 Voyager Lane<br><br>Joliet |
+| Grundy County<br><br>Shabbona Middle School | 725 School St.<br><br>Morris | &nbsp; |
+| Lake County<br><br>Lake County Fairgrounds | 1060 E. Peterson Rd.<br><br>Grayslake | &nbsp; |
+| Will County<br><br>Former Toys R Us | 3128 Voyager Lane<br><br>Joliet | &nbsp; |
 
 Mass vaccination sites in DeKalb, McDonough, and McLean counties have been and will continue to provide vaccinations to students as part of the Rapid Response Vaccination Teams that are deployed to areas seeing increasing cases.
 
