@@ -1,6 +1,6 @@
 ---
 title: IDPH College Vaccination Days
-date: 2021-04-17 00:00:00 -0500
+date: 2021-04-16 00:00:00 -0500
 expire_date: 2021-04-21 00:00:00 -0500
 image: /uploads/College-Days-graphic-1-Copy.png
 news_image_alt: IDPH College vaccination day logo
