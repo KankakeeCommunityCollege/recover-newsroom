@@ -20,8 +20,9 @@ Beginning in April, the highest case count in Illinois was among those in their 
 The following mass vaccination sites will have appointments available specifically for college and university students on the following days. &nbsp;Colleges and universities will have the links where students can register for an appointment.&nbsp;
 
 | **Date** | **Location** | **Address** |
-| **Sunday**<br><br>**April 18** | Kane County<br><br>Former Carson Pirie Scott | 970 North Lake St.<br><br>Aurora |
-| Kane County<br><br>Elgin Eastside Recreation Center | 1800 E. Chicago St.<br><br>Elgin | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; |
+| **Sunday**<br><br>**April 18** | Kane County<br>Former Carson Pirie Scott<br>970 North Lake St.<br>Aurora | &nbsp; |
+| Kane County<br>Elgin Eastside Recreation Center | 1800 E. Chicago St.<br>Elgin | &nbsp; |
 | Kane County<br><br>Former Sam’s Club | 501 N. Randall Rd.<br><br>Batavia | &nbsp; |
 | Madison County – Gateway Convention Center | 1 Gateway Drive<br><br>Collinsville | &nbsp; |
 | Sangamon County<br><br>Orr Building – State Fairgrounds | 801 E. Sangamon Ave.<br><br>Springfield | &nbsp; |
