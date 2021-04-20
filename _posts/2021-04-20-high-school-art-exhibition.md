@@ -1,10 +1,10 @@
 ---
-title: 32nd annual KCC High School Art Exhibition
+title: High School Art Exhibition
 date: 2021-04-20 00:00:00 -0500
 expire_date: 2021-05-08 00:00:00 -0500
 image: /uploads/Butterfilies.JPG
 news_image_alt: Butterflies by Sophia West of Grant Park HS
-article_lead: High School Art Exhibit is online.
+article_lead: 32nd annual show is online
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
