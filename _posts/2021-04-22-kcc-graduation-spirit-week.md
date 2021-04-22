@@ -1,8 +1,8 @@
 ---
 title: KCC Graduation Spirit Week
-date: 2021-04-23 00:00:00 -0500
+date: 2021-04-22 00:00:00 -0500
 expire_date: 2021-05-15 00:00:00 -0500
-image: /uploads/graduation-spirit-week-FB-graphic_2021-Copy.jpg
+image: /uploads/spirit-week-2021_opt.jpg
 news_image_alt: Spirit Week 2021
 article_lead: Show your Spirt all week leading up to Commencement.
 video_content: false
