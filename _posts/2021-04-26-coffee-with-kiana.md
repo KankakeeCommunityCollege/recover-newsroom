@@ -11,7 +11,7 @@ press_release: false
 ---
 Coffee with Kiana
 
-KCC’s community, including students, staff and faculty, are invited to meet the college’s new vice president for student affairs, Dr. Kiana Battle, on Thursday, April 29 from 10:30 a.m. - 12:30 p.m. and 2-4 p.m. in the KCC Cavalier Room.
+KCC’s community, including students, staff and faculty, are invited to meet the college’s new vice president for academic affairs, Dr. Kiana Battle, on Thursday, April 29 from 10:30 a.m. - 12:30 p.m. and 2-4 p.m. in the KCC Cavalier Room.
 
 Yes, coffee will be available, along with other refreshments.
 
