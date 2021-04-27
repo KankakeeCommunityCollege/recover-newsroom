@@ -3,7 +3,7 @@ title: Nursing programs get good news
 date: 2021-04-27 00:00:00 -0500
 expire_date: 2021-05-14 00:00:00 -0500
 image: /uploads/RNsimulationDSC_8339.JPG
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Health Career simulation - nursing
 article_lead: RN and LPN both continue accreditation
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
