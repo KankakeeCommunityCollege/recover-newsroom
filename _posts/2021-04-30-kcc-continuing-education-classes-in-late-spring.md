@@ -3,8 +3,8 @@ title: KCC Continuing Education classes in late spring
 date: 2021-04-30 00:00:00 -0500
 expire_date: 2021-05-31 00:00:00 -0500
 image: /uploads/PatrioticMeshWreath-Copy.jpg
-news_image_alt: Create wreaths and learn boating safety.
-article_lead: A short lead for the article
+news_image_alt: Patriotic mesh wreath
+article_lead: Create wreaths and learn boating safety.
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
