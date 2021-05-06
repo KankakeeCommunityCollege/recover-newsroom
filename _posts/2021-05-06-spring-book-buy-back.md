@@ -2,9 +2,9 @@
 title: Spring Book Buy Back
 date: 2021-05-06 00:00:00 -0500
 expire_date: 2021-05-17 00:00:00 -0500
-image: /uploads/Bookbuyback-Copy.jpg
+image: /uploads/BookBuyBack-2.JPG
 news_image_alt: College books
-article_lead: A short lead for the article
+article_lead: Cash for Books
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
