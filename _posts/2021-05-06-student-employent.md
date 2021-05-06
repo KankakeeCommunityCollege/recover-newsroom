@@ -1,10 +1,10 @@
 ---
 title: Student employent
-date: 2021-05-06 00:00:00 -0500
-expire_date: 2021-05-21 00:00:00 -0500
+date: 2021-05-06 05:00:00 -0500
+expire_date: 2021-08-06 00:00:00 -0500
 image: /uploads/job-graphic.jpg
 news_image_alt: Job search words
-article_lead: Jobs are open on campus
+article_lead: Jobs are available
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
@@ -24,7 +24,7 @@ To be eligible for student employment, students must:
 * Have a high school or GED diploma.
 * Be eligible to work in the United States.
 * Be enrolled in six or more credit hours during the fall and spring semesters. Enrollment in summer classes is optional.
-* Complete a Free Application for Federal Student Aid (FAFSA). Even if you believe you wouldn’t qualify for financial aid grants, you might qualify for Federal Work Study -- which makes you eligible for more student jobs at KCC.
+* Complete a Free Application for Federal Student Aid (FAFSA). Even if you believe you wouldn’t qualify for financial aid grants, you might qualify for Federal Work Study – which makes you eligible for more student jobs at KCC.
 
 All student jobs are posted through [KCC’s job openings site](https://www.governmentjobs.com/careers/kankakeecc/transferjobs){: target="_blank" rel="noopener"}. Applications are completed online. Following are the types of student employment available (as of May 6, 2021):
 
