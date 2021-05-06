@@ -2,7 +2,7 @@
 title: Student employent
 date: 2021-05-06 00:00:00 -0500
 expire_date: 2021-05-21 00:00:00 -0500
-image: /uploads/kcc_default_post-placeholder.png
+image: /uploads/job-graphic.jpg
 news_image_alt: Add descriptive text for the post's image
 article_lead: Search out on campus jobs for students.
 video_content: false
