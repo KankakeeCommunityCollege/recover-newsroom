@@ -4,7 +4,7 @@ date: 2021-05-06 00:00:00 -0500
 expire_date: 2021-05-17 00:00:00 -0500
 image: /uploads/BookBuyBack-2.JPG
 news_image_alt: College books
-article_lead: CA$H for books
+article_lead: Cash for books
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
