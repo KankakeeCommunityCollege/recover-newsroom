@@ -1,6 +1,6 @@
 ---
 title: New men's basketball coach at KCC
-date: 2021-05-12 00:00:00 -0500
+date: 2021-05-13 00:00:00 -0500
 expire_date: 2021-05-28 00:00:00 -0500
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: Add descriptive text for the post's image
