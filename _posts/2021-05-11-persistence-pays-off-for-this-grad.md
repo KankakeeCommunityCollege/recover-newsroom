@@ -53,7 +53,7 @@ Silvey continued working and going to college for two years in the registered nu
 
 “Ashley has consistently demonstrated the knowledge, compassion and professionalism required of a licensed nurse,” said Bernie Hinrich, MSN, RN, CCRN, another of Silvey’s nursing professors at KCC. “In addition, she always brought enthusiasm for learning and the desire to care for others—especially those patients who are the most vulnerable. Many patients commented, ‘Ashley will be a great nurse.’”
 
-For the 2020-21 school year, Silvey was awarded the KCC Century Scholarship. It covers all tuition, books and fees. The KCC Foundation awards the Century Scholarship to “students who demonstrate outstanding academic performance as well as strength of character.”
+For the 2020-21 school year, Silvey was awarded the KCC Century Scholarship. It covers all tuition, books and fees. The[KCC Foundation](https://foundation.kcc.edu){: target="_blank" rel="noopener"} awards the Century Scholarship to “students who demonstrate outstanding academic performance as well as strength of character.”
 
 “Ashley worked harder than anyone I’ve ever seen,” said Jennifer Zimmerman, coordinator of scholarships at KCC. “She has worked so hard for everything she has achieved. She’s one of those people who you meet and you know she’s going to be successful. She never lets anything hold her back.
 
