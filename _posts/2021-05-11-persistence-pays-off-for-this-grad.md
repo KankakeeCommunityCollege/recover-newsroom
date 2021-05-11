@@ -53,7 +53,7 @@ Silvey continued working and going to college for two years in the registered nu
 
 “Ashley has consistently demonstrated the knowledge, compassion and professionalism required of a licensed nurse,” said Bernie Hinrich, MSN, RN, CCRN, another of Silvey’s nursing professors at KCC. “In addition, she always brought enthusiasm for learning and the desire to care for others—especially those patients who are the most vulnerable. Many patients commented, ‘Ashley will be a great nurse.’”
 
-For the 2020-21 school year, Silvey was awarded the KCC Century Scholarship. It covers all tuition, books and fees. The KCC Foundation awards the Century Scholarship to “students who demonstrate outstanding academic performance as well as strength of character.”
+For the 2020-21 school year, Silvey was awarded the KCC Century Scholarship. It covers all tuition, books and fees. The[KCC Foundation](https://foundation.kcc.edu){: target="_blank" rel="noopener"} awards the Century Scholarship to “students who demonstrate outstanding academic performance as well as strength of character.”
 
 “Ashley worked harder than anyone I’ve ever seen,” said Jennifer Zimmerman, coordinator of scholarships at KCC. “She has worked so hard for everything she has achieved. She’s one of those people who you meet and you know she’s going to be successful. She never lets anything hold her back.
 
@@ -65,10 +65,12 @@ On May 14, along with 30 other new nurses, Silvey will participate in a pinning 
 
 “My girls are 8 and 10,” Silvey said. “For five years, they have been on this journey with me. It’s been difficult. To get this far has been great. I’m grateful for the support I’ve had here at KCC. It’s such an honor to be in this program. I don’t know if I could have done it anywhere else.”
 
-## **KCC professor Jenny Rogers on the impact of helping each other:**
+## **The impact of helping each other**
 
 ![](/uploads/jenny-rogers-dsc-4498.jpg){: .float-image-left width="200" height="250"}“I think KCC as a whole is excellent in offering resources to help students overcome barriers. Many of our students depend on our food pantry and we have referred students to the Compassion Fund which can help them with certain financial barriers they may be enduring.
 
-The nursing program is not easy. It is not for everyone. For Ashley, it was her dream to become a nurse. Was it an easy path for her? No, it’s not an easy path for anyone. However, Ashley’s grit and determination helped her achieve her goal to be where she is at today. We could not be prouder of Ashely and all of our graduates\! I hope Ashely’s story inspires everyone to be that ONE person who can encourage others and be like Kate (Wachtor) who gave this student hope. I’m praying her story impacts so many others out there who relate to Ashley’s story. Your goal may not be to become a nurse. Whatever your goal may be, KCC is here to help you achieve it\!”
+"The nursing program is not easy. It is not for everyone. For Ashley, it was her dream to become a nurse. Was it an easy path for her? No, it’s not an easy path for anyone. However, Ashley’s grit and determination helped her achieve her goal to be where she is at today. We could not be prouder of Ashely and all of our graduates\! I hope Ashely’s story inspires everyone to be that ONE person who can encourage others and be like Kate (Wachtor) who gave this student hope. I’m praying her story impacts so many others out there who relate to Ashley’s story.
 
-\-Jenny Rogers, RN, MSN, CMSRN
+"Your goal may not be to become a nurse. Whatever your goal may be, KCC is here to help you achieve it\!”
+
+**\-Jenny Rogers, RN, MSN, CMSRN<br>KCC Nursing Professor**
