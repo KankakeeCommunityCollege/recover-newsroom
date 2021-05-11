@@ -1,12 +1,12 @@
 ---
 title: CSL apprentices to graduate
-date: 2021-05-11 00:00:00 -0500
+date: 2021-05-11 00:26:00 -0500
 expire_date: 2021-05-28 00:00:00 -0500
 image: /uploads/CSL-Apprentices2.jpg
-news_image_alt: Add descriptive text for the post's image
-article_lead: >-
-  KCC graduates include four employees from CSL Behring, the first to complete
-  apprenticeship program.
+news_image_alt: >-
+  Photo, left to right, Peter Dato II, Jammie Shell, Christopher Gottschall and
+  Ronald Mantooth
+article_lead: KCC helps build a talent pipeline
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
