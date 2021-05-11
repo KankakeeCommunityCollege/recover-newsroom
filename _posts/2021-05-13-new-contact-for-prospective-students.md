@@ -1,12 +1,10 @@
 ---
-title: New men's basketball coach at KCC
+title: New contact for prospective students
 date: 2021-05-13 00:00:00 -0500
 expire_date: 2021-05-28 00:00:00 -0500
 image: /uploads/kcc_default_post-placeholder.png
-news_image_alt: Add descriptive text for the post's image
-article_lead: >-
-  Michael Brown is the new recruiter and men's basketball coach. short lead for
-  the article
+news_image_alt: Michael Brown
+article_lead: Brown is recruiter and basketball coach
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
