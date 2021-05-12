@@ -1,10 +1,10 @@
 ---
-title: High School Art Show awards
-date: 2021-05-12 00:00:00 -0500
+title: High School Art Show info
+date: 2021-05-12 16:00:00 -0500
 expire_date: 2021-05-31 00:00:00 -0500
 image: /uploads/FHorn-TheCity.JPG
-news_image_alt: The City by F Horn
-article_lead: 27 students earn awards at High School Art Show
+news_image_alt: The City by Faith Horn
+article_lead: Awards and participants listing
 video_content: false
 video_link: 'https://youtu.be/4d2LkGjg5bM'
 press_release: false
