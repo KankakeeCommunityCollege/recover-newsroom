@@ -1,7 +1,7 @@
 ---
 title: Commencement information
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-05-13 00:22:00 -0500
+expire_date: 2021-05-15 00:00:00 -0500
 image: /uploads/Grad-2019-D3S_9300.jpg
 news_image_alt: 2019 graduate wearing veterans stole and honor cord
 article_lead: Watch Live online May 15
