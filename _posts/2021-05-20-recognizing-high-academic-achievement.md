@@ -1,5 +1,5 @@
 ---
-title: Highest achievement recognized
+title: Recognizing high academic achievement
 date: 2021-05-20 05:00:00 -0500
 expire_date: 2021-06-18 00:00:00 -0500
 image: /uploads/Jacob-Leveque-2160.jpg
