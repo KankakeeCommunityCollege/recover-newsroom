@@ -1,7 +1,7 @@
 ---
 title: ICCTA awards and nominees
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-06-01 00:00:00 -0500
+expire_date: 2021-06-18 00:00:00 -0500
 image: /uploads/Jerry-Hoekstra580x725.jpg
 news_image_alt: Jerald Hoekstra
 article_lead: Service being honored
