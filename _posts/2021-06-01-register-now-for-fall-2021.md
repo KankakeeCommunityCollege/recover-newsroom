@@ -15,7 +15,7 @@ press_release: false
 
 ### Health Careers Honors Program
 
-![](/uploads/health-careers-honors-graphic-final-356x138.png){: .float-image-right width="356" height="138"}Qualified students can enroll in a “fast track” semester of general education courses at the KCC North Extension Center. Students who complete every class in the general education semester with a C or better grade receive guaranteed entry into a KCC Health Career Program. Information: [healthhonors.kcc.edu&nbsp;](https://healthhonors.kcc.edu ){: target="_blank" rel="noopener"}
+![](/uploads/health-careers-honors-graphic-final-356x138.png){: .float-image-right width="356" height="138"}Qualified students can enroll in a “fast track” semester of general education courses at the KCC North Extension Center. Students who complete every class in the general education semester with a C or better grade receive guaranteed entry into a KCC Health Career Program. Information: [healthhonors.kcc.edu&nbsp;](https://healthhonors.kcc.edu/){: target="_blank" rel="noopener"}
 
 ### Black Studies Pathway Program
 
