@@ -21,7 +21,7 @@ Nucor has assisted in the growth and development of course content and task brea
 
 La’Kendrick Thompson, formerly of Kankakee, was nominated for the&nbsp;**ICCTA Pacesetter Award, which&nbsp;**recognizes the accomplishments of recent community college graduates (after June 30, 2010).
 
-Thompson, who now lives in Henderson, Nevada, has written four books, three non-fiction and one fiction, published between August 2016 and October 2019.&nbsp;
+Thompson, who now lives in Henderson, Nevada, has published four books-- two memoirs and two works of fiction--between August 2016 and October 2019.&nbsp;
 
 "When I think of community colleges, I think of the ways it allowed me to grow," Thompson said. "The professors I encountered at community colleges understand their role in the students’ lives. Many of them spoke about the school being a stepping-stone. They were very helpful and offered the guidance I needed to move forward and pursue my writing career."
 
