@@ -17,4 +17,4 @@ Two KCC faculty members and an alumnus also are among nominees for statewide ICC
 
 **![](/uploads/josh-riley200x250.jpg){: .float-image-left width="200" height="251"}Joshua Riley** is being nominated for the ICCTA Outstanding Part-Time Faculty Award. Riley teaches English courses in the Liberal Arts and Sciences Division and is the lead tutor for student-athletes.<br><br>**![](/uploads/chip-hasselbring200x273.jpg){: .float-image-right width="200" height="273"}Walter “Chip” Hasselbring** is being nominated for the ICCTA Distinguished Alumnus Award. A 1976 KCC graduate, Hasselbring has gone on to a long career with Iroquois Federal and IF Bankcorp, where he currently serves as president, chief executive officer and director. Hasselbring also serves on several community boards and foundations, including The KCC Foundation board of directors.
 
-Additional ICCTA award nominees from KCC will be announced in the coming weeks.&nbsp;<br>&nbsp;
+Additional ICCTA award nominees from KCC are in a separate release, also with the title [ICCTA awards and nominees](https://news.kcc.edu/2021/06/04/iccta-awards-and-nominees.html).&nbsp;<br>&nbsp;
