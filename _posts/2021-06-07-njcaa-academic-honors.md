@@ -45,4 +45,4 @@ The **women’s volleyball** and **men’s soccer** teams were named 2021 NJCAA 
 * Madelin Storm of Gardner, women’s basketball; and
 * Gage Velasquez of Peotone, men’s soccer.
 
-![](/uploads/all-americans4-1.jpg){: .float-image-right width="500" height="786"}More information about KCC athletics is at [athletics.kcc.edu](https://athletics.kcc.edu).
+![](/uploads/all-americans4-1.jpg){: .float-image-right width="500" height="786"}More information about KCC athletics is at [athletics.kcc.edu](https://athletics.kcc.edu).![](/uploads/2021-mens-soccer-team.jpg){: width="250" height="166"}&nbsp;![](/uploads/2021-volleyball.jpg){: width="250" height="167"}
