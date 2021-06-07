@@ -19,19 +19,23 @@ Nucor has assisted in the growth and development of course content and task brea
 
 "The constant exchange of ideas, procedures and protocols affords both Nucor and KCC the unique growing opportunities to stay current and provide opportunities for collaboration," Carlson said.
 
-**![](/uploads/lakendrick-thompson250x168.jpg){: .float-image-left width="250" height="168"}La’Kendrick Thompson**, formerly of Kankakee, was nominated for the&nbsp;ICCTA Pacesetter Award, which**&nbsp;**recognizes the accomplishments of recent community college graduates (after June 30, 2010).
+**![](/uploads/lakendrick-thompson250x168.jpg){: .float-image-left width="250" height="168"}La’Kendrick Thompson**, formerly of Kankakee, was nominated for the ICCTA Pacesetter Award, which**&nbsp;**recognizes the accomplishments of recent community college graduates (after June 30, 2010).
 
-Thompson, who now lives in Henderson, Nevada, has published four books-- two memoirs and two works of fiction--between August 2016 and October 2019.&nbsp;
+Thompson, who now lives in Henderson, Nevada, has published four books– two memoirs and two works of fiction–between August 2016 and October 2019.&nbsp;
 
 "When I think of community colleges, I think of the ways it allowed me to grow," Thompson said. "The professors I encountered at community colleges understand their role in the students’ lives. Many of them spoke about the school being a stepping-stone. They were very helpful and offered the guidance I needed to move forward and pursue my writing career."
 
 In addition to a transfer degree from KCC, Thompson earned a bachelor’s degree in English from Governors State University. He also is involved in a day program for adults with intellectual disabilities where he is employed as an administrator.
 
-**Ariana Ramirez**, KCC student trustee from June 2020 through May 2021, was nominated for the Gigi Campbell Student Trustee Excellence Award.
+**![](/uploads/ariana-rarmirez200x250.jpg){: .float-image-right width="200" height="250"}Ariana Ramirez**, KCC student trustee from June 2020 through May 2021, was nominated for the Gigi Campbell Student Trustee Excellence Award.&nbsp;
 
-Ramirez will graduate from KCC in 2022.
+"It has been an honor to work with such a bright, talented, and dedicated student," said Patrick Martin, who was chair of the KCC board of trustees at the time Ramirez was nominated. "Ariana’s commitment and strong work ethic for the student body, college, and district communities have been unparalleled."
 
-**Richard Frey** of Kankakee was nominated for the Ray Hartstein Trustee Achievement Award, which recognizes exemplary service by a currently serving board member at an ICCTA member college.&nbsp;
+Ramirez, who lives in Gilman, took part in several activities to communicate and receive feedback from students; served on the college's Spotlight for Equity, Diversity and Inclusion Council.
+
+Additionally, Ramirez served on the Illinois Community College-Student Advisory Council, where she said she learned about state-wide issues facing community colleges as well as shared ideas with other community college student leaders in Illinois. After the meetings, Ramirez determined which ideas could be implemented at KCC.
+
+**![](/uploads/richard-frey-200x250.jpg){: .float-image-right width="200" height="250"}Richard Frey** of Kankakee was nominated for the Ray Hartstein Trustee Achievement Award, which recognizes exemplary service by a currently serving board member at an ICCTA member college.&nbsp;
 
 Frey has been a member of the KCC board of trustees since 2001, following a 31-year career as a KCC employee and administrator. He has served for many years as the college's ICCTA representative and legislative liaison, where he shares information with legislators at the local, state and national levels on issues related to community colleges, community colleges programs and community college students. . He also mentors and tutors students at Kankakee High School. Recently, he was instrumental in the implementation of Association of Community College Trustees 's Diversity Equity & Inclusion initiatives at KCC.
 
