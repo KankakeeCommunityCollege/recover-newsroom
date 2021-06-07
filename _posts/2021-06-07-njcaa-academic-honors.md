@@ -24,7 +24,7 @@ The **women’s volleyball** and **men’s soccer** teams were named 2021 NJCAA 
 * Amber Ogle of Bourbonnais, women’s soccer; and
 * Julian Stadeli of Cissna Park, men’s basketball.
 
-![](/uploads/all-americans2-1.jpg){: .float-image-left width="743" height="500"}The All-Academic Second Team members, with grade point averages between 3.80-3.99, are:
+![](/uploads/all-americans3x3.jpg){: width="705" height="500"}The All-Academic Second Team members, with grade point averages between 3.80-3.99, are:
 
 * Madison Allen of Bushnell, women’s basketball;
 * Alison Borschnack of Kankakee, women’s soccer;
@@ -42,7 +42,7 @@ The **women’s volleyball** and **men’s soccer** teams were named 2021 NJCAA 
 * Isabella Russo of Bourbonnais, women’s soccer;
 * Branden Sommer of Kankakee, men’s soccer;
 * Christian Stadeli of Cissna Park, men’s basketball;
-* Madelin Storm of Gardner, women’s basketball; and
+* Madelyn Storm of Gardner, women’s basketball; and
 * Gage Velasquez of Peotone, men’s soccer.
 
 ![](/uploads/all-americans4-1.jpg){: .float-image-right width="500" height="786"}More information about KCC athletics is at [athletics.kcc.edu](https://athletics.kcc.edu).![](/uploads/2021-mens-soccer-team.jpg){: width="250" height="166"}&nbsp;![](/uploads/2021-volleyball.jpg){: width="250" height="167"}
