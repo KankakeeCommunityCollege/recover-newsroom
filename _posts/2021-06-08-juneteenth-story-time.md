@@ -15,7 +15,7 @@ The event is for kids ages 3-12 to come and listen to a story about the Juneteen
 
 The Kankakee Public Library is at 201 E. Merchant St., Kankakee.
 
-To watch the story time event live online&nbsp; using Zoom: go to&nbsp;[bit.ly/Kankakee-Juneteenth](https://kcc-edu.zoom.us/j/86485404442?pwd=elM4SGJUTHVTN0ZJdE5JQTA1M3hPUT09){: target="_blank" rel="noopener"}.
+To watch the story time event live online using Zoom: go to&nbsp;[bit.ly/Kankakee-Juneteenth](https://kcc-edu.zoom.us/j/86485404442?pwd=elM4SGJUTHVTN0ZJdE5JQTA1M3hPUT09){: target="_blank" rel="noopener"}.
 
 To RSVP for the in-person event, or for additional information, contact Whitney Mittons, [wmittons@kcc.edu](mailto:wmittons@kcc.edu). Mittons is coordinator of equity, diversity and inclusion at Kankakee Community College.&nbsp;
 
