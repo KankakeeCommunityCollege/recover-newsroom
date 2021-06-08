@@ -21,7 +21,7 @@ To RSVP for the in-person event, or for additional information, contact Whitney 
 
 The event is sponsored by the Center for Equity, Diversity and Inclusion at KCC and the Kankakee Public Library.
 
-The [Center for Equity, Diversity and Inclusion](https://www.kcc.edu/student-resources/edi/)at KCC also has addition information about Juneteenth on its [website](https://www.kcc.edu/student-resources/edi/).
+The [Center for Equity, Diversity and Inclusion](https://www.kcc.edu/student-resources/edi/)&nbsp;at KCC also has addition information about Juneteenth on its [website](https://www.kcc.edu/student-resources/edi/).
 
 ![](/uploads/kankakee-library-kids-2019-205x195.jpg){: width="205" height="195"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/center-for-equity-diversity--inclusion250x250.jpg){: width="250" height="250"}
 
