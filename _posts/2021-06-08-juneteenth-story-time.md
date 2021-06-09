@@ -4,14 +4,14 @@ date: 2021-06-08 00:00:00 -0500
 expire_date: 2021-06-17 00:00:00 -0500
 image: /uploads/Juneteenth-reading-event-580x636.jpg
 news_image_alt: Juneteenth story time graphic
-article_lead: Event June 17
+article_lead: FREE event June 17
 video_content: false
-video_link: 'https://youtu.be/4d2LkGjg5bM'
+video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
 <br>![](/uploads/juneteenth-reading-event-facebook-300x158.jpg){: .float-image-right width="300" height="158"}Area kids are invited to Juneteenth Story Time at 5:30 p.m. on Thursday June 17, 2021,&nbsp; at the Kankakee Public Library, 2nd Floor.
 
-The event is for kids ages 3-12 to come and listen to a story about the Juneteenth holiday and have fun making a festive craft to take home.
+The FREE event is for kids ages 3-12 to come and listen to a story about the Juneteenth holiday and have fun making a festive craft to take home.
 
 The Kankakee Public Library is at 201 E. Merchant St., Kankakee.
 
