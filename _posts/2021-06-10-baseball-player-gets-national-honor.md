@@ -1,7 +1,7 @@
 ---
 title: Baseball player gets national honor
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-06-10 00:00:00 -0500
+expire_date: 2021-07-16 00:00:00 -0500
 image: /uploads/Owen-Jackson580x642.jpg
 news_image_alt: Owen Jackson
 article_lead: Congratulations to Owen Jackson
