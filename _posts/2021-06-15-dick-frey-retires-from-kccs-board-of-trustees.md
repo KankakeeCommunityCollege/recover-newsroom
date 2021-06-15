@@ -3,7 +3,9 @@ title: Dick Frey retires from KCC's Board of Trustees
 date: 2021-06-15 00:00:00 -0500
 expire_date: 2021-06-26 00:00:00 -0500
 image: /uploads/kcc_default_post-placeholder.png
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: >-
+  L-R Brad Hove, chairman of KCC’s board of trustees, honored Dick Frey at the
+  meeting on Monday.
 article_lead: 20 years of significant impact
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
