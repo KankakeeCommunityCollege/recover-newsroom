@@ -9,7 +9,7 @@ news_image_alt: >-
 article_lead: 20 years of significant impact
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
-press_release: true
+press_release: false
 ---
 Richard (Dick) Frey has retired from KCC’s board of trustees after 20 years of service.&nbsp;
 
