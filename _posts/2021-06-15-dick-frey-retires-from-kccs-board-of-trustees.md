@@ -35,6 +35,4 @@ At the June KCC board meeting, Michael Proctor was appointed to complete Frey’
 
 “Receiving this appointment is a real honor,” said Proctor. “KCC is well-known and respected in this community for delivering high quality instruction, and I’ve witnessed this excellence first-hand watching my daughter graduate from the college’s nursing program. I’m eager to collaborate with the other trustees and with Dr. Boyd as we lead the college into the future.”
 
-&nbsp;
-
 Proctor, his wife Demetra and their youngest daughter Maya reside in Bourbonnais.
