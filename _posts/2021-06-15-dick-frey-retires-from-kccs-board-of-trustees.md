@@ -13,7 +13,7 @@ press_release: true
 ---
 Richard (Dick) Frey has retired from KCC’s board of trustees after 20 years of service.&nbsp;
 
-![](/uploads/brad-hove-honors-dick-frey-at-the-board-meeting.jpg){: .float-image-right}A Kankakee resident, Frey served on the board from 2001 to 2021. Before being elected to the board, Frey was a KCC staff member and administrator, from August 1969 until retiring June 30, 2000. His roles as a KCC employee were mainly as registrar and Dean of Adult and Continuing Education, though he held other titles.
+![](/uploads/brad-hove-honors-dick-frey-at-the-board-meeting-250x278.jpg){: .float-image-right width="250" height="278"}A Kankakee resident, Frey served on the board from 2001 to 2021. Before being elected to the board, Frey was a KCC staff member and administrator, from August 1969 until retiring June 30, 2000. His roles as a KCC employee were mainly as registrar and Dean of Adult and Continuing Education, though he held other titles.
 
 KCC will host a reception to honor Frey in August 2021.
 
