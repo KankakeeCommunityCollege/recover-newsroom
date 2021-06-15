@@ -1,7 +1,7 @@
 ---
 title: Dick Frey with KCC graduate Taylor Grimes at KCC’s 2021 commencement ceremony.
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-06-15 00:00:00 -0500
+expire_date: 2021-06-26 00:00:00 -0500
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: Add descriptive text for the post's image
 article_lead: A short lead for the article
