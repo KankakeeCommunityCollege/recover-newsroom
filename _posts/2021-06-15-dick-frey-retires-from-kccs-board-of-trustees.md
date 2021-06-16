@@ -1,7 +1,7 @@
 ---
 title: Dick Frey retires from KCC's Board of Trustees
 date: 2021-06-15 00:00:00 -0500
-expire_date: 2021-06-26 00:00:00 -0500
+expire_date: 2021-07-16 00:00:00 -0500
 image: /uploads/brad-hove-honors-dick-frey-at-the-board-meeting.jpg
 news_image_alt: >-
   L-R Brad Hove, chairman of KCC’s board of trustees, honored Dick Frey at the
@@ -19,7 +19,7 @@ KCC will host a reception to honor Frey in August 2021.
 
 “In his time as an employee here at the college, Mr. Frey’s impact was significant in almost every program and systems we have in place now,” said KCC’s president, Dr. Michael Boyd. “He’s been a part of the college from the very beginning, and through this level of commitment he has gained so much insight and awareness of how KCC serves students. That’s also what makes him a great supporter of the college as a member of the board of trustees. Through his leadership and guidance, we’ve been able to achieve such high levels of quality in our services. He’s made a lasting impact on everything we do here.”
 
-“Dick’s value to the work of the trustees can’t be understated,” said Brad Hove, chairman of the KCC Board of Trustees. “As KCC’s representative to the Illinois Community College Trustee Association and our legislative liaison, he ensured that our practices locally reflected state-wide expectations. His engagement at that level really raised the bar for expectations here in our community.”
+![](/uploads/dick-frey-taylor-grimes250x167.jpg){: .float-image-left width="250" height="167"}“Dick’s value to the work of the trustees can’t be understated,” said Brad Hove, chairman of the KCC Board of Trustees. “As KCC’s representative to the Illinois Community College Trustee Association and our legislative liaison, he ensured that our practices locally reflected state-wide expectations. His engagement at that level really raised the bar for expectations here in our community.”
 
 Frey was involved in the establishment of both KCC and Parkland College in Champaign. At KCC in the early 1970s, Frey helped structure the curriculum, build class schedules, and set up a student financial payment system, among other accomplishments. He supported KCC athletics throughout his career. He served as play-by-play announcer and voice of Cavaliers basketball for 30 years, and at times he volunteered as the team bus driver.
 
@@ -33,7 +33,7 @@ When discussing KCC’s successful impact in the community, Frey defers to other
 
 Frey and his wife, Nicky, have six sons. Five of them are KCC graduates. Nicky Frey is also a KCC alumnus and retiree. She was director of KCC’s Respiratory Therapist program.
 
-At the June KCC board meeting, Michael Proctor was appointed to complete Frey’s term on the board. Proctor is Manager, Bulk Utilities at CSL Behring. He holds a bachelor’s degree in occupational safety from Murray State University in Kentucky and a Master’s in Business Administration from Olivet Nazarene University.&nbsp;
+![](/uploads/michael-proctor250x167.jpg){: .float-image-right width="250" height="167"}At the June KCC board meeting, Michael Proctor was appointed to complete Frey’s term on the board. Proctor is Manager, Bulk Utilities at CSL Behring. He holds a bachelor’s degree in occupational safety from Murray State University in Kentucky and a Master’s in Business Administration from Olivet Nazarene University.&nbsp;
 
 “Receiving this appointment is a real honor,” said Proctor. “KCC is well-known and respected in this community for delivering high quality instruction, and I’ve witnessed this excellence first-hand watching my daughter graduate from the college’s nursing program. I’m eager to collaborate with the other trustees and with Dr. Boyd as we lead the college into the future.”
 
