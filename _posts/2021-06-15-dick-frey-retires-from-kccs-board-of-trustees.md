@@ -33,7 +33,7 @@ When discussing KCC’s successful impact in the community, Frey defers to other
 
 Frey and his wife, Nicky, have six sons. Five of them are KCC graduates. Nicky Frey is also a KCC alumnus and retiree. She was director of KCC’s Respiratory Therapist program.
 
-![](/uploads/michael-proctor250x167.jpg){: .float-image-right width="250" height="167"}At the June KCC board meeting, Michael Proctor was appointed to complete Frey’s term on the board. Proctor is Manager, Bulk Utilities at CSL Behring. He holds a bachelor’s degree in occupational safety from Murray State University in Kentucky and a Master’s in Business Administration from Olivet Nazarene University.&nbsp;
+![](/uploads/michael-proctor-250x167.jpg){: .float-image-left width="250" height="167"}At the June KCC board meeting, Michael Proctor was appointed to complete Frey’s term on the board. Proctor is Manager, Bulk Utilities at CSL Behring. He holds a bachelor’s degree in occupational safety from Murray State University in Kentucky and a Master’s in Business Administration from Olivet Nazarene University.&nbsp;
 
 “Receiving this appointment is a real honor,” said Proctor. “KCC is well-known and respected in this community for delivering high quality instruction, and I’ve witnessed this excellence first-hand watching my daughter graduate from the college’s nursing program. I’m eager to collaborate with the other trustees and with Dr. Boyd as we lead the college into the future.”
 
