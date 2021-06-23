@@ -1,7 +1,7 @@
 ---
 title: Low-power hour
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-06-23 00:00:00 -0500
+expire_date: 2021-06-24 00:00:00 -0500
 image: /uploads/lightbulb580x633.jpg
 news_image_alt: Lightbulb
 article_lead: Energy consumption test on June 24
