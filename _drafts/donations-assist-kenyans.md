@@ -9,9 +9,11 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+*Following is a letter from [Mombasa Relief Initiative](http://www.mombasarelief.org/){: target="_blank" rel="noopener noreferrer"}, a non-profit organization. The most recent donation from KCC was sent in June 2021. Photos showing jerseys are from previous donations.*
+
 Dear KCC,
 
-![](/uploads/chairs300.jpg){: .float-image-right width="300" height="286"}Thank you for the school desks, chairs, blackboards and other educational items you donated to the Mombasa Relief Initiative. This donation will be shipped to Mombasa Kenya via ocean freight and distributed to 5 underserved schools in Kenya. This donation will help students in Kenya have a normal learning experience.
+![](/uploads/chairs300.jpg){: .float-image-right width="300" height="286"}Thank you for the school desks, chairs, blackboards and other educational items you donated to the [Mombasa Relief Initiative](http://www.mombasarelief.org/){: target="_blank" rel="noopener noreferrer"}. This donation will be shipped to Mombasa Kenya via ocean freight and distributed to 5 underserved schools in Kenya. This donation will help students in Kenya have a normal learning experience.
 
 In Kenya many schools are independent and get nothing from the Government, these schools have to deal with several major obstacles on a daily basis, lack of clean drinking water, no electricity, students that are malnourished and can’t afford tuition are just a few of the problems facing the schools we support.
 
