@@ -1,9 +1,9 @@
 ---
 title: Donations assist Kenyans
 date: 2021-07-07 00:00:00 -0500
-expire_date: 2021-01-01 00:00:00 -0600
+expire_date: 2021-07-30 00:00:00 -0500
 image: /uploads/jersey580x758.jpg
-news_image_alt: Picture of young Kenyan student showing a donated garment
+news_image_alt: Picture of young Kenyan student holding a donated jersey
 article_lead: Educational equipment and athletic apparel sent
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
@@ -25,6 +25,8 @@ When this donation arrives in Kenya and is distributed we will provide pictures 
 
 Our sincerest thanks and may you have a blessed 2021\!
 
-Very Respectfully
+Very Respectfully,<br>Don Harris
 
-Don Harris,
+![](/uploads/jersey2---300.jpg){: width="213" height="266"}&nbsp;![](/uploads/group2---300.jpg){: width="300" height="200"}&nbsp;![](/uploads/jersey203x266.jpg){: width="203" height="266"}
+
+&nbsp;
