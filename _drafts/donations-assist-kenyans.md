@@ -1,6 +1,6 @@
 ---
 title: Donations assist Kenyans
-date: 2020-12-01 00:00:00 -0600
+date: 2021-07-07 00:00:00 -0500
 expire_date: 2021-01-01 00:00:00 -0600
 image: /uploads/jersey580x758.jpg
 news_image_alt: Add descriptive text for the post's image
