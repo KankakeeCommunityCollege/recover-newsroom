@@ -23,7 +23,7 @@ Students enrolled in Fall 2021 at KCC can apply for financial assistance to pay 
 
 The college has received Higher Education Emergency Relief Funds (HEERF II) under the Coronavirus Response and Relief Supplemental Appropriations Act (CRRSAA). They do not impact a student’s eligibility for other federal student aid, such as the Pell grant, which is calculated by submitting the Free Application for Federal Student Aid (FAFSA). They do not have to be paid back.
 
-Students who enroll for Fall 2021 at KCC can apply for this financial assistance and find additional Information at [www.kcc.edu/tuition-and-aid](www.kcc.edu/tuition-and-aid){: target="_blank" rel="noopener"}. Requests will be evaluated based on need and verification of enrollment.
+Students who enroll for Fall 2021 at KCC can apply for this financial assistance and find additional Information at [https://www.kcc.edu/tuition-and-aid/\#crrsaa-information-and-reporting]( https://www.kcc.edu/tuition-and-aid/#crrsaa-information-and-reporting){: target="_blank" rel="noopener"}. Requests will be evaluated based on need and verification of enrollment.
 
 In the near future, additional funding of $3.2 million for Fall 2021 students will become available through the American Rescue Plan (ARP) HEERF III.
 
