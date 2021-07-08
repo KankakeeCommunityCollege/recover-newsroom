@@ -1,6 +1,6 @@
 ---
 title: Relief funds available
-date: 2021-07-08 00:00:00 -0500
+date: 2021-07-08 00:12:00 -0500
 expire_date: 2021-08-13 00:00:00 -0500
 image: /uploads/reverse-logo-in-circle.jpg
 news_image_alt: KCC logo in circle
