@@ -14,6 +14,6 @@ press_release: false
 
 This project was made possible through a partnership with [Project Headspace and Timing](http://projectheadspaceandtiming.com/){: target="_blank" rel="noopener"}, a local organization run by Eric Peterson (KCC '12) which is dedicated to enhancing veterans' mental health and well-being.
 
-![](/Vet-home-tree-donation-IMG_1198-article260x300.jpg){: .float-image-left width="260" height="300"}"The Vet Association would like to extend a special thanks to Alison Nakaerts (in KCC's academic division office) for her assistance in coordinating the purchase of the trees," said Cari Stevenson, co-sponsor of the Veterans Association.
+![](/uploads/vet-home-tree-donation-IMG_1198-article260x300.jpg){: .float-image-left width="260" height="300"}"The Vet Association would like to extend a special thanks to Alison Nakaerts (in KCC's academic division office) for her assistance in coordinating the purchase of the trees," said Cari Stevenson, co-sponsor of the Veterans Association.
 
 Photos show the crew who delivered the trees and the trees.

@@ -1,3 +1,4 @@
+import '../../scss/main.scss';
 import ieOnly from './ieOnly.js';
 import setDate from './date.js';
 import playModal from './playModal.js';
