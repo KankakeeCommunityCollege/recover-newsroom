@@ -9,5 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Standard Favicon -->
     <link rel="icon" type="image/x-icon" href="{{page.baseurl}}favicon.ico" />
-
+  {% if page.url == '/' %}
+    <!-- Preload the news widget images -->
+    {% assign current_posts = site.posts | where_exp: "item", "item.expire_date >  site.time" %}
+    {% for item in current_posts limit:4 %}
+    <link rel="preload" as="image" href="{{ item.image }}">
+    {% endfor %}
+  {% endif %}
+    {% include preconnect.html %}
     {% include social-meta.html %}

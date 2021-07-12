@@ -15,16 +15,6 @@ There will be a COVID-19 Vaccine Clinic from 6 a.m. - 8 p.m. on Thursday, April 
 
 Details and scheduling information are on the attached fliers.
 
-[Vaccine Clinic April 22 - English](/Vaccine-Clinic-April22.pdf){: target="_blank" rel="noopener"}
+[Vaccine Clinic April 22 - English](/uploads/pdf/Vaccine-Clinic-April22.pdf){: target="_blank" rel="noopener"}
 
-[Vaccine Clinic April 22 - Spanish](/SPANISH-Vaccine-Clinic-April22.pdf){: target="_blank" rel="noopener"}
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+[Vaccine Clinic April 22 - Spanish](/uploads/pdf/SPANISH-Vaccine-Clinic-April22.pdf){: target="_blank" rel="noopener"}

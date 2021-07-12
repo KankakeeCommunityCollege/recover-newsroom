@@ -16,9 +16,9 @@ layout: null
     <title type="html">{{ site.title | xml_escape }}</title>
   {% elsif site.name %}
     <title type="html">{{ site.name | xml_escape }}</title>
-  {% endif %}
+  {%- endif -%}
 
-  {% if site.description %}
+  {% if site.description and site.description != '' %}
     <subtitle>{{ site.description | xml_escape }}</subtitle>
   {% endif %}
 {% comment %}

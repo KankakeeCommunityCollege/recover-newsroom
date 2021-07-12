@@ -2,7 +2,7 @@ title: "Kankakee Community College"
 name: "KCC Newsroom"
 site_name: Newsroom
 timezone: America/Chicago
-# BUILD
+port: 3000
 google-tag_key: GTM-KKZRJB5
 url: "https://news.kcc.edu"
 public-url: "https://news.kcc.edu"
@@ -82,6 +82,8 @@ exclude:
   - "ARCHIVE_PROCEDURE.md"
   - "TODO.md"
   - "webpack.config.js"
+  - "buildtools/"
+  - "postcss.config.js"
 
 uploads_dir: # specifies the default uploads directory for CloudCannon
   - "uploads/"
