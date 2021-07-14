@@ -4,7 +4,7 @@ date: 2021-07-14 00:00:00 -0500
 expire_date: 2021-08-06 00:00:00 -0500
 image: /uploads/Jerry-Hoekstra-Jim-Reed580x633.jpg
 news_image_alt: Jerald Hoekstra and Jim Reed
-article_lead: Jerald Hoekstra KCC Board of Trustee for 30 years.
+article_lead: Hoekstra receives  award
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
