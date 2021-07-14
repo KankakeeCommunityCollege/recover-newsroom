@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/JerryHoekstraandJimReed-sm.JPG){: .float-image-left width="326" height="217"}Jerald Hoekstra has been recognized by the Illinois Community College Trustees Association for 30 years of service to the Kankakee Community College board of trustees.&nbsp;
+![](/uploads/jerry-hoekstra-jim-reed250x273.jpg){: .float-image-left width="250" height="273"}Jerald Hoekstra has been recognized by the Illinois Community College Trustees Association for 30 years of service to the Kankakee Community College board of trustees.&nbsp;
 
 Jim Reed, executive director of the ICCTA, presented the award to Hoekstra at the college’s monthly board meeting on July 12.
 
