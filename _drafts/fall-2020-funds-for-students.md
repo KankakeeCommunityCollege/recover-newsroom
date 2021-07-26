@@ -33,7 +33,7 @@ Learn more and get started: [skills.kcc.edu](http://skills.kcc.edu), [manderson@
 
 **WIOA funding**
 
-Through the the Workforce Innovation & Opportunity Act, there is funding available for career training in specific degree and training programs. Support includes books, supplies and transportation. This assistance is available to people who lost their jobs through plant closings or layoffs; low-income individuals, working or not; and eligible youth ages 16-24.&nbsp;
+Through the the Workforce Innovation & Opportunity Act, there is funding available for career training in specific degree and training programs. Support includes books, supplies and transportation. If you are eligible, an appointment will be set up with a career counselor to determine your scholarship funding.
 
 ![](/uploads/kankakee-workforce-services-for-web.jpg){: .float-image-right width="250" height="106"}For more information and to apply, visit [wioa.kcc.edu](http://wioa.kcc.edu).&nbsp;
 
