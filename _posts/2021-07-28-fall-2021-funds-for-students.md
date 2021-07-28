@@ -15,9 +15,9 @@ There are several ways for students to save a lot (or get FREE TUITION) by atten
 
 **American Rescue Plan**
 
-KCC received $3.2 million in financial assistance from the American Rescue Plan to pass directly to students like you. This money will go to Fall 2021 and Spring 2022 KCC students. To apply, you just have to be enrolled. Money will be distributed based on need and verification of enrollment. These awards do not impact your eligibility for other federal student aid, such as the Pell grant. These awards do not have to be paid back.
+KCC received $3.2 million in financial assistance from the American Rescue Plan to pass directly to students. This money will go to Fall 2021 and Spring 2022 KCC students. To apply, you just have to be enrolled. Money will be distributed based on need and verification of enrollment. These awards do not impact a students' eligibility for other federal student aid, such as the Pell grant. These awards do not have to be paid back.
 
-You can apply here: [American Rescue Plan application](Here is the link to the jotform for ARP/HEERF III: https://form.jotform.com/212015939187964){: target="_blank" rel="noopener"}. Full details are [here](https://coronavirus.kcc.edu/kcc-resources/#american-rescue-plan-arp-act){: target="_blank" rel="noopener"}.&nbsp;
+Use this link to apply: [American Rescue Plan application](Here is the link to the jotform for ARP/HEERF III: https://form.jotform.com/212015939187964){: target="_blank" rel="noopener"}. Full details are [here](https://coronavirus.kcc.edu/kcc-resources/#american-rescue-plan-arp-act){: target="_blank" rel="noopener"}.&nbsp;
 
 **One Workforce grant**
 
@@ -25,7 +25,7 @@ A new grant called One Workforce from the U.S. Department of Labor can pay for t
 
 ![](/uploads/caic-logo228x150.png){: .float-image-right width="228" height="150"}This is an excellent opportunity to enroll for FREE in a program that leads to high paying jobs that are in demand\!
 
-Learn more and get started: [skills.kcc.edu](http://skills.kcc.edu), [manderson@kcc.edu](mailto:manderson@kcc.edu), or phone 815-802-8873. The director of the program, Mark Anderson, will personally talk with you.
+Learn more and get started: [skills.kcc.edu](http://skills.kcc.edu), [manderson@kcc.edu](mailto:manderson@kcc.edu), or phone 815-802-8873. The director of the program, Mark Anderson, will personally contact you.
 
 &nbsp;The One Workforce Program is brought to you through a U.S. Department of Labor Grant and our partner, Calumet Area Industrial Commission.
 
