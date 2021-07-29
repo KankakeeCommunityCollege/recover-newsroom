@@ -19,7 +19,7 @@ Details on the American Rescue Plan, One Workforce Grant and WIOA are here, and 
 
 KCC received $3.2 million in financial assistance from the American Rescue Plan to pass directly to students. This money will go to Fall 2021 and Spring 2022 KCC students. To apply, you just have to be enrolled. Money will be distributed based on need and verification of enrollment. These awards do not impact a students' eligibility for other federal student aid, such as the Pell grant. These awards do not have to be paid back.
 
-Use this link to apply: [American Rescue Plan application](Here is the link to the jotform for ARP/HEERF III: https://form.jotform.com/212015939187964){: target="_blank" rel="noopener"}. Full details are [here](https://coronavirus.kcc.edu/kcc-resources/#american-rescue-plan-arp-act){: target="_blank" rel="noopener"}.&nbsp;
+Use this link to apply: [American Rescue Plan application](https://form.jotform.com/212015939187964){: target="_blank" rel="noopener"}. Full details are [here](https://coronavirus.kcc.edu/kcc-resources/#american-rescue-plan-arp-act){: target="_blank" rel="noopener"}.&nbsp;
 
 **One Workforce Grant**
 
