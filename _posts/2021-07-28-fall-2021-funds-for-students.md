@@ -13,13 +13,15 @@ There are several ways for students to save a lot (or get FREE TUITION) by atten
 
 ![](/uploads/relief-funds-full-graphic-388x180.jpg){: width="388" height="180"}
 
+Details on the American Rescue Plan, One Workforce Grant and WIOA are here, and on the [attached flier](/KCC-Fall2021-Funds-Available-flier.pdf).
+
 **American Rescue Plan**
 
 KCC received $3.2 million in financial assistance from the American Rescue Plan to pass directly to students. This money will go to Fall 2021 and Spring 2022 KCC students. To apply, you just have to be enrolled. Money will be distributed based on need and verification of enrollment. These awards do not impact a students' eligibility for other federal student aid, such as the Pell grant. These awards do not have to be paid back.
 
 Use this link to apply: [American Rescue Plan application](Here is the link to the jotform for ARP/HEERF III: https://form.jotform.com/212015939187964){: target="_blank" rel="noopener"}. Full details are [here](https://coronavirus.kcc.edu/kcc-resources/#american-rescue-plan-arp-act){: target="_blank" rel="noopener"}.&nbsp;
 
-**One Workforce grant**
+**One Workforce Grant**
 
 A new grant called One Workforce from the U.S. Department of Labor can pay for tuition, fees, books (and more) for students in many of KCC's manufacturing, welding and electrical engineering technology programs. To qualify, you must live in northeast Illinois or northwest Indiana, be 17 or older, not in high school, and unemployed or underemployed. People from underrepresented groups can also qualify. Even if you are already employed, you may be eligible.
 
