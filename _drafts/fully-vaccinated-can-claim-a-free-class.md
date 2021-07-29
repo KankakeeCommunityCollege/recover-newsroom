@@ -1,7 +1,7 @@
 ---
 title: Fully vaccinated can claim a FREE class
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-08-05 00:00:00 -0500
+expire_date: 2021-11-05 00:00:00 -0500
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: Free class graphic
 article_lead: Offer covers tuition
