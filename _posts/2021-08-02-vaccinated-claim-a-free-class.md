@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-KCC is offering a free class during Fall 2021 to anyone who brings in their vaccination card and student ID.
+![](/uploads/free-class-if-vaccinated-news-272x272.jpg){: .float-image-right width="272" height="272"}KCC is offering a free class during Fall 2021 to anyone who brings in their vaccination card and student ID.
 
 "We want to do our part in the community to mitigate COVID," said Beth Nunley, KCC's vice president for business affairs. "Offering an incentive for the vaccine will help encourage our students to be better protected, as well as discount their tuition."
 
