@@ -25,7 +25,7 @@ The offer expires Dec. 1, 2021.
 
 The college is paying for the incentive using funds from the Higher Education Emergency Relief Fund.
 
-Many classes will begin the week of Aug. 16. In addition to the full semester classes that meet for 16 weeks, KCC also offers classes that meet for 12 weeks and eight weeks. Some begin later in the fall. The class schedule is at [www.kcc.edu/schedule](www.kcc.edu/schedule).
+Many classes will begin the week of Aug. 16. In addition to the full semester classes that meet for 16 weeks, KCC also offers classes that meet for 12 weeks and eight weeks. Some begin later in the fall. The class schedule is at [www.kcc.edu/schedule](www.kcc.edu/schedule). Enrollment information is also available from the KCC Student Affairs Division at [studentaffairs@kcc.edu](mailto:studentaffairs@kcc.edu), and online at www.kcc.edu.
 
 KCC is returning to mostly in-person learning, while also offering some classes in online and "hybrid" formats. Hybrid courses are partially in-person and partially online.
 
