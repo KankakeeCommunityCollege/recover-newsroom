@@ -2,7 +2,7 @@
 title: Vaccinated? Claim a FREE class
 date: 2021-08-05 00:00:00 -0500
 expire_date: 2021-11-05 00:00:00 -0500
-image: /uploads/kcc_default_post-placeholder.png
+image: /uploads/free-class-if-vaccinated-news-580x630.jpg
 news_image_alt: Free class graphic
 article_lead: Offer valid for Fall 2021
 video_content: false
