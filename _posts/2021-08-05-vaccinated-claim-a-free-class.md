@@ -30,3 +30,5 @@ Many classes will begin the week of Aug. 16. In addition to the full semester cl
 KCC is returning to mostly in-person learning, while also offering some classes in online and "hybrid" formats. Hybrid courses are partially in-person and partially online.
 
 For more information about the free class incentive, email or phone the college's Accounting Office at [accountingoffice@kcc.edu](mailto:accountingoffice@kcc.edu)&nbsp;or phone 815-802-8140.
+
+KCC has other sources of funds for Fall 2021 enrollment detailed in another news article titled "[Fall 2021 funds for students](https://news.kcc.edu/2021/07/28/fall-2021-funds-for-students.html)."
