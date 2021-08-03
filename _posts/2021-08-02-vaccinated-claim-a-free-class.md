@@ -15,7 +15,7 @@ press_release: false
 
 The free class is offered as a tuition credit at the time of registration. The maximum value is $495. The offer applies only to tuition and basic fees of $165 per credit hour. Additional fees (including lab fees, out-of-district fees and others) are not included. The college will not give any cash back, and it is offered to people who come in-person only. There is a limit of one free class per student.
 
-To redeem, the student must show his/her own original COVID-19 vaccination card and KCC student ID card. Electronic copies and duplicates are not accepted.
+To redeem, the student must show his/her own original COVID-19 vaccination card and KCC student ID card at KCC's registration counter. Electronic copies and duplicates are not accepted.
 
 Students who have already registered and paid can follow the procedures above to receive a refund check.
 
