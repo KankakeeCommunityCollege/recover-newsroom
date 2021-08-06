@@ -11,7 +11,9 @@ press_release: false
 ---
 &nbsp;
 
-![](/uploads/Cutestpetsm.png){: .float-image-right width="325" height="285"}&nbsp;It's time for students to enter your pets in the "Cutest Pet Photo Competition."
+![](/uploads/Pets-article.jpg){: .center-image width="595" height="250"}
+
+It's time for students to enter your pets in the "Cutest Pet Photo Competition."
 
 Here are the rules:
 
