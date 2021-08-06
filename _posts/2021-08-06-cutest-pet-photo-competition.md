@@ -2,35 +2,24 @@
 title: Cutest Pet Photo Competition
 date: 2021-08-06 00:00:00 -0500
 expire_date: 2021-08-31 00:00:00 -0500
-image: /uploads/Cutestpetsm.png
+image: /uploads/Pets-348x427.jpg
 news_image_alt: Pets
-article_lead: Enter your pet in Cutest pet contest
+article_lead: Enter until Aug. 27
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/Cutestpetsm.png){: width="325" height="285"}
+&nbsp;
 
-Cutest Pet Photo Competition
+![](/uploads/Cutestpetsm.png){: .float-image-right width="325" height="285"}&nbsp;It's time for students to enter your pets in the "Cutest Pet Photo Competition."
 
-\-All PETS are eligible
+Here are the rules:
 
-\-Must be a KCC student enrolled in Fall 2021 classes
+* All pets are eligible.
+* The entrant must be a KCC student enrolled in Fall 2021 classes.
+* The student must be in the photo with the pet(s). No family photos unless it is the “family” pet.
+* Only one photo per student is allowed.
 
-\-The student must be in the photo with the pet(s). No family photos unless it is the “family” pet.
+To enter, submit your photo to&nbsp;[studentlife@kcc.edu](mailto:studentlife@kcc.edu) no later than 11 p.m. on Friday, Aug. 27. Each student can submit one photo. Voting runs Aug. 28-31 on the&nbsp;[KCC Student Life Facebook page](https://www.facebook.com/KankakeeCommunityCollegeStudentLife){: target="_blank" rel="noopener"}. Full details are on the [contest flier](/Cute-Pet-Competition-Aug2021.pdf).
 
-\-Only one photo per student is allowed.
-
-All photos must be submitted to [studentlife@kcc.edu](mailto:studentlife@kcc.edu) no later than 11 p.m. on Friday, August 27.
-
-PRIZES
-
-1st place - $100
-
-Runner up - $50
-
-Voting runs August 28-31 via KCC Student Life Facebook page
-
-Find us on [Facebook @ Kankakee Community College Student Life](https://www.facebook.com/KankakeeCommunityCollegeStudentLife){: target="_blank" rel="noopener"}
-
-Event sponsored by Student Life & Development
+The competition is sponsored by KCC's office of Student Life & Development.
