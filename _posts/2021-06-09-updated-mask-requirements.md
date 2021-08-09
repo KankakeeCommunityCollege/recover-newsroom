@@ -1,7 +1,7 @@
 ---
 title: Updated mask requirements
 date: 2021-06-09 00:00:00 -0500
-expire_date: 2021-08-27 00:00:00 -0500
+expire_date: 2021-08-09 00:00:00 -0500
 image: /uploads/KCC-mask.jpg
 news_image_alt: KCC face mask
 article_lead: Some COVID-19 restrictions being lifted
