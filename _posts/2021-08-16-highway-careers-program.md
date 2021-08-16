@@ -1,12 +1,10 @@
 ---
-title: Highway Careers Program Fall 2021
+title: Highway Careers Program
 date: 2021-08-16 00:00:00 -0500
 expire_date: 2021-09-02 00:00:00 -0500
 image: /HighwayConstruction-DSC_0156-560.jpeg
-news_image_alt: Add descriptive text for the post's image
-article_lead: >-
-  Highway Construction Careers Training Program to start in SeptemberA short
-  lead for the article
+news_image_alt: Students in Spring 2021 Highway Construction class
+article_lead: 12-week training starts Sept. 13
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
