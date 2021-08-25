@@ -85,7 +85,7 @@ exclude:
   - "buildtools/"
   - "postcss.config.js"
 
-uploads_dir: "uploads/"
+uploads_dir: "uploads/2021"
 
 _comments:
   layout: Do NOT modify layouts. It may break things.
