@@ -85,8 +85,7 @@ exclude:
   - "buildtools/"
   - "postcss.config.js"
 
-uploads_dir: # specifies the default uploads directory for CloudCannon
-  - "uploads/"
+uploads_dir: "uploads/"
 
 _comments:
   layout: Do NOT modify layouts. It may break things.
@@ -118,6 +117,3 @@ _options:
     undo: true
     redo: true
     styles: /assets/css/content.css
-
-_defaults:
-  image: "/uploads/kcc_default_post-placeholder.png"
