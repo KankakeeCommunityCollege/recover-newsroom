@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-On Aug. 26, Illinois Gov. Pritzker announced [new vaccine requirements](https://www.illinois.gov/news/press-release.23808.html) for higher education students and employees, including KCC. KCC is in the process of implementing changes to meet the requirements.&nbsp;
+On Aug. 26, Illinois Gov. Pritzker announced [new vaccine requirements](https://www.illinois.gov/news/press-release.23808.html){: target="_blank" rel="noopener"} for higher education students and employees, including KCC. KCC is in the process of implementing changes to meet the requirements.&nbsp;
 
 Those who are vaccinated can complete KCC's [vaccine verification form](https://form.jotform.com/212384579044965).
 
