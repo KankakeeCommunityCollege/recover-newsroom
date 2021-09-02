@@ -13,7 +13,9 @@ On Aug. 26, Illinois Gov. Pritzker announced [new vaccine requirements](https://
 
 Those who are vaccinated can complete KCC's [vaccine verification form](https://form.jotform.com/212384579044965).
 
-KCC students and employees who do not receive the vaccine must be tested for COVID-19 once per week when testing becomes available at KCC. The earliest date that KCC will be able to implement testing at the Riverfront Campus is Oct. 11. Testing will later expand to extension centers. That information will be communicated to students and employees as it becomes available. Weekly tests will be free.
+KCC students and employees who do not receive the vaccine must be tested for COVID-19 once per week once testing becomes available at KCC. It will be saliva-based testing. The earliest date KCC will be able to implement testing at the Riverfront Campus is Oct. 11. All students can still come to campus during the gap between the governor's vaccination deadline and the date when KCC can offer testing. Weekly tests will be free.
+
+Testing will later expand to extension centers. That information will be communicated to students and employees as it becomes available.
 
 Most KCC students who are vaccinated qualify for a free class from KCC. This is worth up to $495, which will be a credit on your account. [Read all details here](https://news.kcc.edu/2021/08/02/vaccinated-claim-a-free-class.html).
 
