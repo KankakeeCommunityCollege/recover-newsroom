@@ -22,6 +22,6 @@ Here are the rules:
 * The student must be in the photo with the pet(s). No family photos unless it is the “family” pet.
 * Only one photo per student is allowed.
 
-To enter, submit your photo to&nbsp;[studentlife@kcc.edu](mailto:studentlife@kcc.edu) no later than 11 p.m. on Friday, Aug. 27. Each student can submit one photo. Voting runs Aug. 28-31 on the&nbsp;[KCC Student Life Facebook page](https://www.facebook.com/KankakeeCommunityCollegeStudentLife){: target="_blank" rel="noopener"}. Full details are on the [contest flier](/Cute-Pet-Competition-Aug2021.pdf).
+To enter, submit your photo to&nbsp;[studentlife@kcc.edu](mailto:studentlife@kcc.edu) no later than 11 p.m. on Friday, Aug. 27. Each student can submit one photo. Voting runs Aug. 28-31 on the&nbsp;[KCC Student Life Facebook page](https://www.facebook.com/KankakeeCommunityCollegeStudentLife){: target="_blank" rel="noopener"}. Full details are on the [contest flier](/uploads/pdf/Cute-Pet-Competition-Aug2021.pdf).
 
 The competition is sponsored by KCC's office of Student Life & Development.

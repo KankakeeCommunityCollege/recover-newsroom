@@ -2,7 +2,7 @@
 title: Honors list - Summer 2021
 date: 2021-08-17 00:00:00 -0500
 expire_date: 2021-09-10 00:00:00 -0500
-image: /RyleePanozzoofGrantPartsm.jpg
+image: /uploads/2021/RyleePanozzoofGrantPartsm.jpg
 news_image_alt: Rylee Panozzo of Grant Park
 article_lead: Celebrate academic achievements
 video_content: false
@@ -23,7 +23,7 @@ The following students have been named to the Honors List at Kankakee Community 
 * **Donovan:** Kayde Faupel and Evaln Zavala.
 * **Essex:** Emily Maldonado and Grace Wepprecht.
 * **Frankfort:** Sarah Campbell.
-* **![](/RyleePanozzoofGrantPartsm.jpg){: .float-image-left width="264" height="325"}Grant Park:** Rylee Panozzo (pictured).
+* **![](/uploads/2021/RyleePanozzoofGrantPartsm.jpg){: .float-image-left width="264" height="325"}Grant Park:** Rylee Panozzo (pictured).
 * **Herscher:** Hailey Ullman.
 * **Kankakee:** Adrian Acevedo, Gizelle Avalos, Lauren Aydelott, Lauren Buckley, Nathan Burnes, Annette Dowdy, Jesus Garcia, Zitlali Garcia, Madison Jensen, Mackenzie LaCost, James Morrison, Christy Steffen and Yorelly Villagomez.
 * **Manteno:** Tyler Blink, Lacey Carrier, Haley Daniel, Brandon Henning, Colleen Kaufmann, Jennifer Soyer, Andrew St Aubin, Christina Velazquez and Mitchell Wilson.

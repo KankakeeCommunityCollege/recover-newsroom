@@ -13,7 +13,7 @@ There are several ways for students to save a lot (or get FREE TUITION) by atten
 
 ![](/uploads/relief-funds-full-graphic-388x180.jpg){: width="388" height="180"}
 
-Details on the American Rescue Plan, One Workforce Grant and WIOA are here, and on the [attached flier](/Funds-Available-flier8-2-21.pdf).
+Details on the American Rescue Plan, One Workforce Grant and WIOA are here, and on the [attached flier](/uploads/pdf/Funds-Available-flier8-2-21.pdf).
 
 **American Rescue Plan**
 
