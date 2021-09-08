@@ -2,7 +2,7 @@
 title: President's list - Summer 2021
 date: 2021-08-17 00:00:00 -0500
 expire_date: 2021-09-10 00:00:00 -0500
-image: /KaitlynnVAhlJuly1-JHD_3583ofKankakeesm.jpg
+image: /uploads/2021/KaitlynnVAhlJuly1-JHD_3583ofKankakeesm.jpg
 news_image_alt: Kaitlynn Vahl of Kankakee
 article_lead: Well done!
 video_content: false
@@ -12,9 +12,9 @@ press_release: false
 The following students have been named to the President’s List at Kankakee Community College for the Summer 2021 semester.<br><br>To be named to the President’s List, a student must maintain a grade point average of 3.80 or higher and be enrolled in six or more credit hours.
 
 * **Alsip**\: Mark Johnson.
-* **![](/CaitlinGerdes-1-ofAshkumsm.jpg){: .float-image-left width="325" height="260"}Ashkum:** Caitlin Gerdes (pictured), Maci Romero and Lukas Tammen.
+* **![](/uploads/2021/CaitlinGerdes-1-ofAshkumsm.jpg){: .float-image-left width="325" height="260"}Ashkum:** Caitlin Gerdes (pictured), Maci Romero and Lukas Tammen.
 * **Bonfield:** Elizabeth Bysor.
-* **Bourbonnais:** Paulyn Bernadit, Reygan Carlile, Rikki Damaschke, Jack Fetterer, McKenna Fred, Pacey Jones, Leanna Lee, Robert Peart, Brad Pursley, Karamarie Quinto, Diego Serna, Edmund Smith, Lucas Spencer, Molly Sutter, Jacqueline Valadez and Vasha Woods (pictured).&nbsp;![](/VashaWoods-DSC0195ofBourbonnaissm.jpg){: .float-image-right width="217" height="325"}
+* **Bourbonnais:** Paulyn Bernadit, Reygan Carlile, Rikki Damaschke, Jack Fetterer, McKenna Fred, Pacey Jones, Leanna Lee, Robert Peart, Brad Pursley, Karamarie Quinto, Diego Serna, Edmund Smith, Lucas Spencer, Molly Sutter, Jacqueline Valadez and Vasha Woods (pictured).&nbsp;![](/uploads/2021/VashaWoods-DSC0195ofBourbonnaissm.jpg){: .float-image-right width="217" height="325"}
 * **Bradley:** Liberty Fortin, Alexei Frausto, Raymond Gilbert, Christine Kem and William McDowell.
 * **Buckingham:** Andrew Rogers.
 * **Cabery:** Chloe Walsh.
@@ -24,7 +24,7 @@ The following students have been named to the President’s List at Kankakee Com
 * **Coal City:** Christopher Mailhiot.
 * **Frankfort:** Trevor Krause and Michael Zaida.
 * **Grant Park:** Liberty Ilg and Madison Meherg.
-* **![](/KaitlynnVAhlJuly1-JHD_3583ofKankakeesm.jpg){: .float-image-right width="314" height="325"}Kankakee:** Layla Boule, Nicholas Cluver, Heather Counts, Britt Ehrich, Grant Goytia, Zachary Jensen, Melinda Maass, Miku Maguire, Grace Mendell, Peyton Mullin, Janet Orozco, Allen Pizano, Lucas Schejbal, Yecenia Serna-Flores, Estefania Silva, Curtis Smith, Kaitlynn Vahl (pictured), Luke Whalen, Nathaniel Whitlock and Theresa Woodle.
+* **![](/uploads/2021/KaitlynnVAhlJuly1-JHD_3583ofKankakeesm.jpg){: .float-image-right width="314" height="325"}Kankakee:** Layla Boule, Nicholas Cluver, Heather Counts, Britt Ehrich, Grant Goytia, Zachary Jensen, Melinda Maass, Miku Maguire, Grace Mendell, Peyton Mullin, Janet Orozco, Allen Pizano, Lucas Schejbal, Yecenia Serna-Flores, Estefania Silva, Curtis Smith, Kaitlynn Vahl (pictured), Luke Whalen, Nathaniel Whitlock and Theresa Woodle.
 * **Manhattan:** Mary Hoehn.
 * **Manteno:** Alyssa Bell, Tyson Creek, Madeline DePasquale, Darcy Gibson, Benjamin Koranda, Ramiro Luna, Jacob Smith, Luke Trepanier, Lauren Vozar and Samantha Wise.
 * **Momence:** Sarah Head, Kera Newberry and Claudia Pizano.

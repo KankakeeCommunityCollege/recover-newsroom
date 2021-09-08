@@ -2,7 +2,7 @@
 title: Food Service offers mobile ordering
 date: 2021-08-24 00:00:00 -0500
 expire_date: 2021-09-14 00:00:00 -0500
-image: /Food-Skip-the-line-Image580x595.jpg
+image: /uploads/2021/food-skip-the-line-image-580x595.jpg
 news_image_alt: Food Service "Skip the Line" Order Online
 article_lead: Skip the line
 video_content: false

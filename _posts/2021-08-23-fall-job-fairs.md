@@ -2,7 +2,7 @@
 title: Fall job fairs
 date: 2021-08-23 00:00:00 -0500
 expire_date: 2021-11-19 00:00:00 -0600
-image: /jobfairsm.png
+image: /uploads/2021/jobfairsm.png
 news_image_alt: Group of people from various professions
 article_lead: Industry-specific events in Bradley
 video_content: false
