@@ -11,7 +11,7 @@ press_release: false
 ---
 On Aug. 26, Illinois Gov. Pritzker announced [new vaccine requirements](https://www.illinois.gov/news/press-release.23808.html){: target="_blank" rel="noopener"} for higher education students and employees, including KCC. KCC is in the process of implementing changes to meet the requirements.&nbsp;
 
-Those who are vaccinated can complete KCC's [vaccine verification form](https://form.jotform.com/212384579044965).
+![](/uploads/2021/vax-verification-1.svg){: .float-image-right width="120" height="150"}Those who are vaccinated can complete KCC's [vaccine verification form](https://form.jotform.com/212384579044965).
 
 KCC students and employees who do not receive the vaccine must be tested for COVID-19 once per week, once testing becomes available at KCC. It will be saliva-based testing. The college is working to implement testing as soon as possible. If there is a gap between the governor's vaccination deadline and the date when KCC can offer testing, all students can still come to campus during that time.&nbsp;
 
