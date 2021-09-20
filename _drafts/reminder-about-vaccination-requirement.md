@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The recent vaccine mandate from Illinois Gov. Pritzker includes all higher education students and employees--including KCC.
+The recent vaccine mandate from Illinois Gov. Pritzker includes all higher education students and employees–including KCC.
 
 Those who are vaccinated are asked to submit the [vaccination verification form](https://form.jotform.com/212384579044965){: target="_blank" rel="noopener"} by the Sept. 19 deadline. If you already submitted your verification, thank you\!
 
