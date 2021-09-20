@@ -1,7 +1,7 @@
 ---
 title: Reminder about vaccination requirement
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-09-20 02:56:00 -0500
+expire_date: 2021-12-31 00:00:00 -0600
 image: /vaccine-reminder-graphic581x793.jpg
 news_image_alt: Add descriptive text for the post's image
 article_lead: Please share proof of vaccination
