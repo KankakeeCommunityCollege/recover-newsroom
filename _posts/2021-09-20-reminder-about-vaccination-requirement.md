@@ -11,7 +11,7 @@ press_release: false
 ---
 The recent vaccine mandate from Illinois Gov. Pritzker includes all higher education students and employees–including KCC.
 
-Those who are vaccinated are asked to submit the [vaccination verification form](https://form.jotform.com/212384579044965){: target="_blank" rel="noopener"} by the Sept. 19 deadline. If you already submitted your verification, thank you\!
+![](/uploads/2021/vax-verification.svg){: .float-image-right width="120" height="150"}Those who are vaccinated are asked to submit the [vaccination verification form](https://form.jotform.com/212384579044965){: target="_blank" rel="noopener"} by the Sept. 19 deadline. If you already submitted your verification, thank you\!
 
 ![](/uploads/2021/vaccine-reminder-small.jpg){: .float-image-left width="150" height="150"}If you are not already vaccinated, please consider making an appointment this week to receive the first dose of a two-dose COVID-19 vaccination series or a single-dose vaccination by Sept. 19. Second doses of the vaccine must be received within 30 days after the first dose.
 
