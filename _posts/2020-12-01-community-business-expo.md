@@ -1,10 +1,10 @@
 ---
-title: Black Chamber of Commerce Expo
+title: Community Business Expo
 date: 2020-12-01 00:00:00 -0600
 expire_date: 2021-01-01 00:00:00 -0600
 image: /businessexpo580x720.jpg
 news_image_alt: Community Business Expo words and smiling lady
-article_lead: Community event Oct. 16
+article_lead: Event is  Oct. 16
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
