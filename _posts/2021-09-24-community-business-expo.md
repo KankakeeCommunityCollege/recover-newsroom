@@ -1,7 +1,7 @@
 ---
 title: Community Business Expo
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-09-24 00:00:00 -0500
+expire_date: 2021-10-16 00:00:00 -0500
 image: /businessexpo580x720.jpg
 news_image_alt: Community Business Expo words and smiling lady
 article_lead: Event is  Oct. 16
