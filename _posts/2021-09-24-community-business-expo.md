@@ -13,35 +13,35 @@ The Greater Kankakee Black Chamber of Commerce will have an expo on Oct. 16 with
 
 The Community Business Expo will have business representatives sharing information, plus entertainment, family-friendly demonstrations and food trucks.
 
-The event will be Saturday, Oct. 16 from 10 a.m. - 3 p.m. at Kankakee Community College.
+The event will be Saturday, Oct. 16 from 10 a.m. - 3 p.m. at Kankakee Community College. [Click here for a printable flier.](/Black-Chamber-Expo2021.pdf)
 
 Businesses are invited to participate. To reserve a booth, and to see event details, [use this form](https://form.jotform.com/212154405085044){: target="_blank" rel="noopener"}. There is no cost for vendors to participate, but reservations are required. Vendors that are selling products will have a vendor fee of $75.
 
-Presentations Planned at the Community Expo
+**Presentations Planned at the Community Expo**
 
-KCC Conference Hall, Room D140&nbsp;<br>10 am<br>Estate Planning&nbsp;<br>Jackie Alford, Ladies of Justice&nbsp;
+**Estate Planning&nbsp;**<br>Jackie Alford, Ladies of Justice&nbsp;<br>10 a.m. - KCC Conference Hall, Room D140&nbsp;
 
-11 am<br>Credit&nbsp;<br>Brianna Brown, Up Next Credit
+**Credit&nbsp;**<br>Brianna Brown, Up Next Credit<br>11 a.m. - KCC Conference Hall, Room D140
 
-Noon<br>Keynote – Shaking the Fear<br>Kent Waide, Shaking the Fear
+**Keynote – Shaking the Fear**<br>Kent Waide, Shaking the Fear<br>Noon - KCC Conference Hall, Room D140
 
-1 pm<br>Business Plan and Investing<br>Alicia Marie, The Black Pages
+**Business Plan and Investing**<br>Alicia Marie, The Black Pages<br>1 p.m. KCC Conference Hall, Room D140
 
-2 pm<br>Credit Restoration<br>Norrice Washington
+**Credit Restoration**<br>Norrice Washington<br>2 p.m. - KCC Conference Hall, Room D140
 
-<br>KCC - Room D123<br>10 am&nbsp;<br>Business Loans<br>Parnell Jackson, PD&C Financial Services
+**Business Loans**<br>Parnell Jackson, PD&C Financial Services<br>10 a.m. - KCC Room D123
 
-11 am<br>Insurance<br>Vincent Clark Jr., State Farm Insurance
+**Insurance**<br>Vincent Clark Jr., State Farm Insurance<br>11 a.m. KCC Room D123
 
-1 pm<br>Self-Empowerment&nbsp;<br>JoHana Halloway, Empower to Enlighten
+**Self-Empowerment&nbsp;**<br>JoHana Halloway, Empower to Enlighten<br>1 p.m. KCC Room D123
 
-2 pm<br>Taxes<br>Candice Crews, Tackling Taxes with Candace
+**Taxes**<br>Candice Crews, Tackling Taxes with Candace<br>2 p.m. KCC Room D123
 
-KCC - Room D124<br>10 am&nbsp;<br>Trauma Informed<br>Laura Sztuba
+**Trauma Informed**<br>Laura Sztuba<br>10 a.m. - KCC Room D124
 
-11 am<br>How to Price Your Product or Service<br>Brenda Cooke, Bourbonnais Consulting
+**How to Price Your Product or Service**<br>Brenda Cooke, Bourbonnais Consulting<br>11 a.m. - KCC Room D124
 
-1 pm<br>Optimizing Your Marketing&nbsp;<br>Tynesha Harris<br>Destiny Fulfilled Leadership Inc.<br>&nbsp;
+**Optimizing Your Marketing&nbsp;**<br>Tynesha Harris<br>Destiny Fulfilled Leadership Inc.<br>1 p.m. - KCC Room D124
 
 KCC is located south of downtown Kankakee off River Road, near U.S. 45-52, or take Interstate 57 to Exit 308 and follow the signs. The address for directions is 100 College Drive, Kankakee.
 
