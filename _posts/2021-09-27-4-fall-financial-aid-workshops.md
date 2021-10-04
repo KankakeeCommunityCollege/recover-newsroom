@@ -11,7 +11,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Kankakee Community College is hosting workshops to help college-bound students and their parents understand the financial aid and scholarship process. Staff also will explain and clarify the types of aid which are available.
+KCC is hosting workshops to help college-bound students and their parents understand the financial aid and scholarship process. Staff also will explain and clarify the types of aid which are available.
 
 Each workshop includes how to fill out the FAFSA (Free Application for Federal Student Aid), the form used at all two- and four-year colleges and universities to determine eligibility for federal and state grants, work-study programs, subsidized & unsubsidized student loans and some scholarships. On Oct. 5, there will also be information about KCC scholarships.
 
