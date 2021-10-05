@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The following message was sent as an email to all KCC students on Oct. 4:
+The following message was sent by email to all KCC students on Oct. 4:
 
 Beginning Monday, Oct. 11, free COVID-19 testing will be offered on KCC’s Riverfront Campus in Kankakee as a convenience to students. The tests are offered through Loop Medical Center and are PCR tests.&nbsp;
 
