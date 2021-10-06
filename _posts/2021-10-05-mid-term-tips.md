@@ -11,7 +11,7 @@ press_release: false
 ---
 KCC's student success advisors and counselors have compiled these tips to help students during mid-terms and other times when stress and test-anxiety might crop up.
 
-**Symptoms of test anxiety**<br>Test anxiety might look different from student to student. Following is a list of possible symptoms you might experience:
+**Symptoms of test anxiety**<br>Test anxiety might look different from student to student. Here's a list of possible symptoms you might experience:
 
 * **Physical symptoms:** Headache, nausea, excessive sweating, shortness of breath, rapid heartbeat, lightheadedness, and feeling faint. Test anxiety can also cause panic attacks, which are the abrupt onset of intense fear or discomfort in which you may feel like you are unable to breathe or like you are having a heart attack.
 * **Emotional symptoms:** Feelings of stress, fear, helplessness, and disappointment, negative thoughts (rumination about past poor performances, consequences of failure, feeling inadequate, helpless), mind going blank, and racing thoughts.
