@@ -11,7 +11,7 @@ press_release: false
 ---
 ![](/uploads/2021/transfer-week2021-250x292.jpg){: .float-image-right width="250" height="292"}KCC is celebrating National Transfer Student Week Oct. 18-22, 2021.&nbsp;
 
-National Transfer Student Week celebrates transfer students and the professionals who support them on their journeys. There are daily activities and things going on all week.&nbsp;
+National Transfer Student Week celebrates transfer students and the professionals who support them on their journeys. There are [daily activities](/national-transfer-week-calendar-21.pdf){: target="_blank" rel="noopener"}&nbsp;and things going on all week.
 
 **All week**
 
