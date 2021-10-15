@@ -15,7 +15,7 @@ National Transfer Student Week celebrates transfer students and the professional
 
 **All week**
 
-* Students can go to Room D222 in Student Affairs and pick up a picture of a shoe to decorate with their transfer school’s name/colors. Turn it in to enter a drawing for a KCC swag bag. The drawing will be at noon on Friday.
+* Students can [download this handout](/Transfer-Week-Shoes-handout.pdf), or go to Room D222 in Student Affairs for a copy. Decorate the shoe graphics with your transfer school’s name/colors. Turn it in to enter a drawing for a KCC swag bag. The drawing will be at noon on Friday.
 * \#TransferStudentWeek will be used to highlight the transfer shoes decorating contest and other activities.
 * Visit [www.kcc.edu/transfer](http://www.kcc.edu/transfer) for helpful transfer information, resources and FAQs (with answers\!).
 
