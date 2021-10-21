@@ -13,17 +13,17 @@ press_release: false
 ---
 ![](/uploads/2021/veterans-day-article-200x110.jpg){: .float-image-right width="200" height="110"}On Wednesday, Nov. 10, Kankakee Community College will commemorate Veterans Day with a reception and recognition ceremony.
 
-[View an event flier here.](/Veterans-Day-KCC-flier2021.pdf)
+[View an event flier here.](/uploads/pdf/Veterans-Day-KCC-flier2021.pdf){: target='_blank' rel='noopener noreferrer' }
 
 The day will begin with a reception from 11:30 a.m. - 1 p.m. in the KCC Iroquois Room. A ceremony honoring veterans will be at 1 p.m. in the college’s auditorium. Both events are free and the public is invited.&nbsp;
 
 At the recognition ceremony, posting of the colors will be from the Marine Corps League Detachment 1253.&nbsp;
 
-![](/uploads/Zelhart-sm.jpeg){: .float-image-right width="350" height="321"}Guest speakers will be Craig Zelhart and Peggy Moran.
+![](/uploads/2021/zelhart-sm.jpeg){: .float-image-right width="350" height="321"}Guest speakers will be Craig Zelhart and Peggy Moran.
 
 Zelhart served eight years in the U.S. Marine Corps as a staff sergeant and machine gunner. A 2016 graduate of KCC with a degree general studies, Zelhart continues his service as a police officer. He and his wife, Erica, have three children and recently began [Wild Harts Farm](https://www.wildhartsfarm.org/){: target="_blank" rel="noopener"}.
 
-![](/uploads/2021/moran-250x263.jpg){: .float-image-left width="250" height="263"}Moran is the training director for the [American Veterans Service Dog Academy](https://www.avsda.com/home){: target="_blank" rel="noopener"}. She offers a “comprehensive, science and learning-theory based program” focused on guiding veterans on their “own personal journeys to uncover a deeper understanding of how they might interact with their dogs with confidence, love, and trust, while teaching their dogs to offer support in times of need.”
+![](/uploads/2021/peggy_moran250x324.jpg){: .float-image-left width="250" height="263"}Moran is the training director for the [American Veterans Service Dog Academy](https://www.avsda.com/home){: target="_blank" rel="noopener"}. She offers a “comprehensive, science and learning-theory based program” focused on guiding veterans on their “own personal journeys to uncover a deeper understanding of how they might interact with their dogs with confidence, love, and trust, while teaching their dogs to offer support in times of need.”
 
 From KCC, Dr. Cari Stevenson, a professor and co-advisor of the college’s Veteran’s Association, will speak about the Mark Rodriguez Memorial Scholarship.
 
