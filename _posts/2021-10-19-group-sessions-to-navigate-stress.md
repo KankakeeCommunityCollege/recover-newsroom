@@ -19,7 +19,7 @@ Details:
 * Sessions will focus on providing students with tools and coping mechanisms to process their experiences.
 * These group counseling sessions are FREE for enrolled KCC students.
 
-Interested or have questions? Contact Michelle Thorpe at [michelle@transforativegrowth.org](mailto:michelle@transforativegrowth.org){: target="_blank"}.
+Interested or have questions? Contact Michelle Thorpe at [michelle@transformativegrowth.org](mailto:michelle@transformativegrowth.org){: target="_blank"}.
 
 &nbsp;
 
