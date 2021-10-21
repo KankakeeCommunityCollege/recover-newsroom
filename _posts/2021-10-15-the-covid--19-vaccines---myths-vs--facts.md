@@ -15,7 +15,9 @@ What are the facts?<br>How can you know if what you’re reading about is real?
 
 Join Amaal Tokars, Ed.D., assistant director at the Illinois Department of Public Health, and KCC’s biology faculty for their panel discussion about the science behind the vaccines, the truth about vaccine myths, and reasons why vaccinations can mount a defense against COVID-19.&nbsp;
 
-**COVID-19 Vaccines – Myths vs. Facts<br>Thursday, Oct. 28<br>2:30-3:30 p.m.**<br>Live Zoom webinar - Webinar details will be added here before the session.
+**COVID-19 Vaccines – Myths vs. Facts<br>Thursday, Oct. 28<br>2:30-3:30 p.m.**
+
+Please click the link below to join the webinar:<br>[https://kcc-edu.zoom.us/j/82504081959](https://kcc-edu.zoom.us/j/82504081959){: target="_blank" rel="noopener"}<br>Or One tap mobile :&nbsp;<br>&nbsp; &nbsp; US: +13126266799,,82504081959\# &nbsp;or +19292056099,,82504081959\#&nbsp;<br>Or Telephone:<br>&nbsp; &nbsp; Dial(for higher quality, dial a number based on your current location):<br>&nbsp; &nbsp; &nbsp; &nbsp; US: +1 312 626 6799 &nbsp;or +1 929 205 6099 &nbsp;or +1 301 715 8592 &nbsp;or +1 253 215 8782 &nbsp;or +1 346 248 7799 &nbsp;or +1 669 900 6833&nbsp;<br>Webinar ID: 825 0408 1959<br>&nbsp; &nbsp; International numbers available: [https://kcc-edu.zoom.us/u/kcZX49QxjJ](https://kcc-edu.zoom.us/u/kcZX49QxjJ){: target="_blank" rel="noopener"}
 
 Please email questions you would like the panelists to address to [ebecvar@kcc.edu](mailto:ebecvar@kcc.edu).
 
