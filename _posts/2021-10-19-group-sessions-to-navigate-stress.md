@@ -11,7 +11,7 @@ press_release: false
 ---
 Are you struggling with stress, anxiety, or balancing obligations during the pandemic? Do you wish you had more support and ways to cope?&nbsp;
 
-KCC students are invited to join the eight-week group sessions focused on navigating stress or anxiety during the pandemic. Students will be able to share their experiences and receive support from peers. Students will also learn about and practice skills regarding topics like: mindfulness, setting boundaries, challenging harmful thought patterns, and other topics.&nbsp;
+KCC students are invited to join the [eight-week group sessions](/Counseling-Group-Sessions-Fall2021.pdf) focused on navigating stress or anxiety during the pandemic. Students will be able to share their experiences and receive support from peers. Students will also learn about and practice skills regarding topics like: mindfulness, setting boundaries, challenging harmful thought patterns, and other topics.&nbsp;
 
 Details:
 
