@@ -9,6 +9,10 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+
+![EXPLORE KCC DAY](/uploads/2021/explore-kcc-day.svg){: .img-fluid style="width: 100%"}
+{: .text-center}
+
 Prospective students can learn about Kankakee Community College during Explore KCC Day on Wednesday, Dec. 1.
 
 The morning session will be 10 a.m. - noon and the afternoon session will be 1-3 p.m.<br>Explore KCC Day offers information on KCC options, including specific details for those who already have a program in mind. There also will be tours of various academic spaces, plus information about support services, financial aid and how to enroll.
