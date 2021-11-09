@@ -1,7 +1,7 @@
 ---
 title: Purcell selected as new KCC vice president
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-11-09 00:00:00 -0600
+expire_date: 2021-12-31 00:00:00 -0600
 image: /uploads/MPurcellDSC_0541-sm.jpg
 news_image_alt: Meredith Purcell
 article_lead: Quality services are a priority
