@@ -15,7 +15,7 @@ Governors State University will hold a Virtual Information Session for its Bache
 
 Program students meet locally at Kankakee Community Colleg's North Extension Center, 450 N. Kinzie Ave. in Bradley.
 
-The information session will be Dec. 1, 2021 from 6-7 p.m. via Webex. Professor Natalia Rekhter will host. She is the program director, and will be able to answer specific questions about the program. &nbsp;
+The information session will be Dec. 1, 2021 from 6-7 p.m. via Webex. Professor Natalia Rekhter will host. She is the program director, and will be able to answer specific questions about the program.
 
 The rest of the agenda is:
 
@@ -23,8 +23,6 @@ The rest of the agenda is:
 * Admission requirements: Mrs. Pamela Penn, academic advisor
 * What it means to be a BHA student
 
-Here are the Webex details:&nbsp;<br>Meeting number: 2621 522 5791<br>Password: JqiJkm3F3C6
+Here are the Webex details: <br>Meeting number: 2621 522 5791<br>Password: JqiJkm3F3C6
 
 To phone in: 1-312-535-8110<br>Access code: 262 152 25791<br>Password: 57455633
-
-&nbsp;
