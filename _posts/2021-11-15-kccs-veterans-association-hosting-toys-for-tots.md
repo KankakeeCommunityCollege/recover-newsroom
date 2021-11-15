@@ -9,12 +9,17 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+​The Veterans Association at KCC is hosting a toy drive for Toys For Tots from Nov. 15 - Dec. 15.
 
-​The Veterans Association at KCC is hosting a toy drive for Toys For Tots from November 15th to December 15th. With drop off locations for donations are at the Veterans center on the second floor, the main entrance, and also by the library.&nbsp;
+Drop off locations are:
 
-[Event flier](/uploads/pdf/toys-for-tots-flyer.pdf){: target='_blank' rel='noopener noreferrer' }.
+* KCC Veterans Center on the second floor
+* Workforce Development Center Entrance
+* Near the Library entrance&nbsp;
 
-Toys must be new and unwrapped, for ages up to 12, and must not be realistic looking weapons or gifts with food.
+[Event flier](/uploads/pdf/toys-for-tots-flyer.pdf){: target="_blank" rel="noopener noreferrer"}.
+
+Toys must be new and unwrapped, for ages up to 12, and must not be realistic-looking weapons or gifts with food.
 
 Any questions please contact Jason Rodriguez at&nbsp;[jrodriguez@kcc.edu](mailto:jrodriguez@kcc.edu) or call 815-802-8557.
 
