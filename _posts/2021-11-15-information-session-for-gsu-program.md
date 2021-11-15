@@ -23,6 +23,6 @@ The rest of the agenda is:
 * Admission requirements: Mrs. Pamela Penn, academic advisor
 * What it means to be a BHA student
 
-Here are the Webex details: <br>Meeting number: 2621 522 5791<br>Password: JqiJkm3F3C6
+Here are the Webex details:<br>Meeting number: 2621 522 5791<br>Password: JqiJkm3F3C6
 
 To phone in: 1-312-535-8110<br>Access code: 262 152 25791<br>Password: 57455633
