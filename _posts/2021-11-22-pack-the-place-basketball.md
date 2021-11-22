@@ -15,8 +15,8 @@ Wear your “Scarlet Fever” T-shirt, show your school pride and support our Ca
 
 Don’t have a “Scarlet Fever” T-shirt? The main information desk on the first floor will be selling them one week before the event for $5.
 
-Admission is free. Don’t miss the action packed fun\! There also will be free refreshments at both games.
+Admission is free. Don’t miss the action packed fun\! There also will be free refreshments at both games. Anyone who can't attend can watch the games stream live for free. Go to [athletics.kcc.edu](https://athletics.kcc.edu) for streaming.
 
-For information contact phone Maurice Sullivan at msullivan@kcc.edu or 815-802-8628
+For information contact phone Maurice Sullivan at [msullivan@kcc.edu](mailto:msullivan@kcc.edu) or 815-802-8628
 
-Note to KCC employees:&nbsp;[Spirit Day/Casual Day](http://www.kcc.edu/FacultyStaff/update/Documents/CasualDenimGuidelines-8-31-2018.pdf)&nbsp;guidelines can be followed on Nov. 30.
+Note to KCC employees: [Spirit Day/Casual Day guidelines](/uploads/pdf/CasualDayGuidelines-for-employees.pdf) can be followed on Nov. 30.
