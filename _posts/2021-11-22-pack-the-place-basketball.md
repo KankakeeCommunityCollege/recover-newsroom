@@ -11,12 +11,10 @@ press_release: false
 ---
 Cheer on the Cavaliers at Pack the Place games Tuesday, Nov. 30 beginning at 5:30 p.m. with the Lady Cavaliers and 7:30 p.m. with the men's team in the Ryan Gymnasium.
 
-Wear your “Scarlet Fever” T-shirt, show your school pride and support our Cavaliers as they compete against Oakton Community College.
+Show your school pride and support our Cavaliers as they compete against Oakton Community College.&nbsp;**Admission is free.** Don’t miss the action packed fun\! There also will be free refreshments at both games while supplies last.
 
-Don’t have a “Scarlet Fever” T-shirt? The main information desk on the first floor will be selling them one week before the event for $5.
+Anyone who can't attend can watch the games stream live for free. Go to [athletics.kcc.edu](https://athletics.kcc.edu) for streaming.
 
-Admission is free. Don’t miss the action packed fun\! There also will be free refreshments at both games. Anyone who can't attend can watch the games stream live for free. Go to [athletics.kcc.edu](https://athletics.kcc.edu) for streaming.
-
-For information contact phone Maurice Sullivan at [msullivan@kcc.edu](mailto:msullivan@kcc.edu) or 815-802-8628
+For information contact phone Maurice Sullivan at [msullivan@kcc.edu](mailto:msullivan@kcc.edu) or 815-802-8628.&nbsp;
 
 Note to KCC employees: [Spirit Day/Casual Day guidelines](/uploads/pdf/CasualDayGuidelines-for-employees.pdf) can be followed on Nov. 30.
