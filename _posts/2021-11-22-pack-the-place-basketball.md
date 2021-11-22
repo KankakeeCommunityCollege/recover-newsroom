@@ -15,6 +15,6 @@ Show your school pride and support our Cavaliers as they compete against Oakton 
 
 Anyone who can't attend can watch the games stream live for free. Go to [athletics.kcc.edu](https://athletics.kcc.edu) for streaming.
 
-For information contact phone Maurice Sullivan at [msullivan@kcc.edu](mailto:msullivan@kcc.edu) or 815-802-8628.&nbsp;
+For information, contact Maurice Sullivan at [msullivan@kcc.edu](mailto:msullivan@kcc.edu) or 815-802-8628.&nbsp;
 
 Note to KCC employees: [Spirit Day/Casual Day guidelines](/uploads/pdf/CasualDayGuidelines-for-employees.pdf) can be followed on Nov. 30.
