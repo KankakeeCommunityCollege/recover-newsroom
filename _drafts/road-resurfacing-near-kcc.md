@@ -1,0 +1,18 @@
+---
+title: Road resurfacing near KCC
+date: 2021-11-24 00:00:00 -0600
+expire_date: 2021-11-29 00:00:00 -0600
+image: /uploads/kcc_default_post-placeholder.png
+news_image_alt: KCC logo
+article_lead: Some detalys might occur
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+&nbsp;
+
+KCC students, employees and visitors are advised that on Monday, Nov. 29, River Road will be resurfaced in front of the Riverfront Campus in Kankakee.
+
+There will be intermittent delays throughout the day.&nbsp;
+
+&nbsp;
