@@ -4,7 +4,7 @@ date: 2021-11-24 00:00:00 -0600
 expire_date: 2021-11-30 00:00:00 -0600
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: KCC logo
-article_lead: Some dealys might occur
+article_lead: Some delays might occur
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
