@@ -1,7 +1,7 @@
 ---
 title: Road resurfacing near KCC
 date: 2021-11-24 00:00:00 -0600
-expire_date: 2021-11-29 00:00:00 -0600
+expire_date: 2021-11-30 00:00:00 -0600
 image: /uploads/kcc_default_post-placeholder.png
 news_image_alt: KCC logo
 article_lead: Some dealys might occur
