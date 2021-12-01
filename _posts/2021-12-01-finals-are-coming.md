@@ -30,8 +30,8 @@ press_release: false
 
 **KCC resources**
 
-* [Disability Services](KCC: https://www.kcc.edu/student-resources/disability-services/#support-services)
-* [Counseling & Referral Services](KCC: https://www.kcc.edu/student-resources/counseling-and-referral-services/#online-confidential-mental-health-screening )
+* [Disability Services](https://www.kcc.edu/student-resources/disability-services/#support-services)
+* [Counseling & Referral Services](https://www.kcc.edu/student-resources/counseling-and-referral-services/#online-confidential-mental-health-screening )
 
 **Additional academic services offered by Student Affairs staff**
 
