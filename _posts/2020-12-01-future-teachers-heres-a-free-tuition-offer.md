@@ -2,8 +2,8 @@
 title: 'Future teachers: Here''s a tuition offer'
 date: 2020-12-01 00:00:00 -0600
 expire_date: 2021-01-01 00:00:00 -0600
-image: /uploads/kcc_default_post-placeholder.png
-news_image_alt: Add descriptive text for the post's image
+image: /uploads/2021/teachers-change-the-world-education-500x599.jpg
+news_image_alt: Text says Teachers Change the world one student at a time
 article_lead: Federally funded scholarships available
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
@@ -11,7 +11,7 @@ press_release: false
 ---
 A scholarship to address the shortage of early childhood educators could cover all costs to attend KCC, after other financial aid is considered.
 
-The Early Childhood Access Consortium for Equity (ECACE) Scholarship Program is "available for undergraduate study at public and non-profit private 2- and 4-year Gateways-entitled and Early Childhood Access Consortium for Equity member institutions," according to the&nbsp;[Illinois Student Assistance Commission](https://www.isac.org/students/during-college/types-of-financial-aid/scholarships/ecace.html){: target="_blank" rel="noopener"}. "For students attending community colleges and public universities, the scholarship will cover the applicant's total cost of attendance for an academic year (including summer) after other financial aid received.
+![](/uploads/2021/teachers-change-the-world-education-500x599.jpg){: .float-image-right width="500" height="599"}The Early Childhood Access Consortium for Equity (ECACE) Scholarship Program is "available for undergraduate study at public and non-profit private 2- and 4-year Gateways-entitled and Early Childhood Access Consortium for Equity member institutions," according to the&nbsp;[Illinois Student Assistance Commission](https://www.isac.org/students/during-college/types-of-financial-aid/scholarships/ecace.html){: target="_blank" rel="noopener"}. "For students attending community colleges and public universities, the scholarship will cover the applicant's total cost of attendance for an academic year (including summer) after other financial aid received.
 
 "Recipients of the scholarship are expected to continue or return to teaching or direct services in the early childhood care and education field in Illinois after they complete their program of study."
 
