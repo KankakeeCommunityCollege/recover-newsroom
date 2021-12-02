@@ -3,8 +3,8 @@ title: 'Future teachers: Here''s a tuition offer'
 date: 2020-12-01 00:00:00 -0600
 expire_date: 2021-01-01 00:00:00 -0600
 image: /uploads/2021/teachers-change-the-world-education-500x599.jpg
-news_image_alt: Text says Teachers Change the world one student at a time
-article_lead: Federally funded scholarships available
+news_image_alt: 'Text: Teachers change the world one student at a time'
+article_lead: Scholarships available
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
