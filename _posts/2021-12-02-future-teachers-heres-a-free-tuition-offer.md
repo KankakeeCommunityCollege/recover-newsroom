@@ -1,7 +1,7 @@
 ---
 title: Tuition offer for future early childhood teachers
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-12-02 00:00:00 -0600
+expire_date: 2022-02-25 00:00:00 -0600
 image: /uploads/2021/teachers-change-the-world-education-500x599.jpg
 news_image_alt: 'Text: Teachers change the world one student at a time'
 article_lead: Scholarships available
