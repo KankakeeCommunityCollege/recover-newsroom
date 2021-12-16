@@ -13,7 +13,7 @@ press_release: false
 
 There are several ways for students to save a lot (or get **FREE TUITION**) by attending Kankakee Community College.&nbsp;
 
-Details on the American Rescue Plan, One Workforce Grant and WIOA are here, and on the&nbsp;[attached flier](https://news.kcc.edu/uploads/pdf/Funds-Available-flier8-2-21.pdf).
+Details on the American Rescue Plan, One Workforce Grant, the Workforce Investment and Opportunity Act -- and more -- are here, and on the&nbsp;[attached flier](https://news.kcc.edu/uploads/pdf/Funds-Available-flier8-2-21.pdf).
 
 **American Rescue Plan**
 
@@ -39,11 +39,19 @@ Through the the Workforce Innovation & Opportunity Act, there is funding availab
 
 All programs are Equal Opportunity Employer Programs, and auxiliary aids and services are available upon request to individuals with disabilities. Funded by the Grundy Livingston Kankakee Workforce Board.​
 
-**Scholarship for Early Childhood teachers**
+**Scholarships**
 
-A scholarship to address the shortage of qualified early childhood educators could cover all costs to attend KCC, after other financial aid is considered. Read more in the news item titled "[Tuition offer for future early childhood teachers](https://news.kcc.edu/2021/12/02/future-teachers-heres-a-free-tuition-offer.html)."
+Information on KCC Foundation scholarships, and a scholarship application are at [foundation.kcc.edu/scholarships](https://foundation.kcc.edu/scholarships). Note: The current scholarship application is for Fall 2022 and Spring 2023.
 
-For more information, contact Professor Sarah Gowler at&nbsp;[sgowler@kcc.edu](mailto:sgowler@kcc.edu).
+Additional scholarship opportunities are out there.
+
+One example is the Early Childhood Access Consortium for Equity Scholarship Program - for students in the Early Childhood Education program. Read more in the news item titled "[Tuition offer for future early childhood teachers](https://news.kcc.edu/2021/12/02/future-teachers-heres-a-free-tuition-offer.html)." You can also contact KCC Professor Sarah Gowler at&nbsp;[sgowler@kcc.edu](mailto:sgowler@kcc.edu).
+
+Another example is scholarships and [support for veterans](https://www.kcc.edu/admissions/veterans/). [Email](mailto:finaid@kcc.edu)&nbsp;or visit the Financial Aid Office for more information.
+
+KCC's Financial Aid Office is a good starting point to learn about college aid you migh qualify for. Contact Financial Aid at [finaid@kcc.edu](mailto:finaid@kcc.edu), 815-802-8550 or visit in person.
+
+&nbsp;
 
 &nbsp;
 
