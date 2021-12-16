@@ -49,7 +49,7 @@ One example is the Early Childhood Access Consortium for Equity Scholarship Prog
 
 Another example is scholarships and [support for veterans](https://www.kcc.edu/admissions/veterans/). [Email](mailto:finaid@kcc.edu)&nbsp;or visit the Financial Aid Office for more information.
 
-KCC's Financial Aid Office is a good starting point to learn about college aid you migh qualify for. Contact Financial Aid at [finaid@kcc.edu](mailto:finaid@kcc.edu), 815-802-8550 or visit in person.
+KCC's Financial Aid Office is a good starting point to learn about college aid you may qualify for. Contact Financial Aid at [finaid@kcc.edu](mailto:finaid@kcc.edu), 815-802-8550 or visit in person.
 
 &nbsp;
 
