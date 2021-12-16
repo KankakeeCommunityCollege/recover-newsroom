@@ -33,7 +33,7 @@ Learn more and get started:&nbsp;[skills.kcc.edu](http://skills.kcc.edu/),&nbsp;
 
 **WIOA funding**
 
-Through the the Workforce Innovation & Opportunity Act, there is funding available for career training in specific degree and training programs. Support includes books, supplies and transportation. If you are eligible, an appointment will be set up with a career counselor to determine your scholarship funding.
+Through the Workforce Innovation & Opportunity Act, there is funding available for career training in specific degree and training programs. Support includes books, supplies and transportation. If you are eligible, an appointment will be set up with a career counselor to determine your scholarship funding.
 
 ![](/uploads/kankakee-workforce-services-for-web.jpg){: .float-image-right width="250" height="106"}For more information and to apply, visit&nbsp;[wioa.kcc.edu](http://wioa.kcc.edu/).&nbsp;
 
