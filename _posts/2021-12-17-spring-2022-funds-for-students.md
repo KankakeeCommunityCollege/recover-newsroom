@@ -53,6 +53,6 @@ Another example is scholarships and [support for veterans](https://www.kcc.edu/a
 
 &nbsp;
 
-&nbsp;
+The [registration information page](https://www.kcc.edu/academics/register/)&nbsp;includes [Steps to Register Online](/StepsRegisterOnline2021.pdf), which returning students can use.
 
 &nbsp;
