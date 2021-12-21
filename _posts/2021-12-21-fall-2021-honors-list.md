@@ -1,7 +1,7 @@
 ---
 title: Fall 2021 honors list
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2021-12-21 00:00:00 -0600
+expire_date: 2022-01-21 00:00:00 -0600
 image: /uploads/2021/paul-williams-bourbonnais-580x725.jpg
 news_image_alt: Paul Williams of Bourbonnais
 article_lead: Nice job, high achievers!
@@ -35,15 +35,15 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Gardner:** Rosa Gil Montano.
 * **Gifford:** Hannah Cargo.
 * **Gilman:** Denise Alvarez, Patricia Reyes Lopez and Conner Taylor.
-* **Grant Park:** Jose Aguilar-Sanchez, Liberty Ilg, Madison Meherg, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nicholas Olczak, Jesus Rodriguez, Jessica Schmitt and Cristian Zavala.
-* **Herscher:** Halie Kohl, Emma Kroesch and Sarah Warren&nbsp;
+* **Grant Park:** Jose Aguilar-Sanchez, Liberty Ilg, Madison Meherg, Nicholas Olczak, Jesus Rodriguez, Jessica Schmitt and Cristian Zavala.
+* **Herscher:** Halie Kohl, Emma Kroesch and Sarah Warren
 * **Joliet:** Vanessa Sievert and Dylan Wolff.
 * **Kankakee:** Adrian Acevedo, Allison Albright, Johnathon Arvizo, Gizelle Avalos, Lucas Bateman, Megan Berns, Alison Borschnack, Alijah Boyd, Jadyn Brown, Nathan Burnes, Emely Cabrera-Gutierrez, Edujaer Calderon, Christian Calderon Munoz, Tamar Clark, Britt Ehrich, Ryan Fairfield, Madelyn Fischer, Colin Furrow, Sarah Goers, Jasmine Gomez, Juli Gottberg, Marisol Guerrero, Maria Guevara, Shannon Hafer, Nicole Harris, Chasity Harwood, Jacqualyn Henrichsen, Pedro Hernandez, Santiago Hernandez, Erik Hertzberg, Amber Howard, Madelyn Howard, Keagan Illum, Avery Jackson, Andrew Jackubowski, Emma James, Heather Keene, Emma Koerner, Nathan Lagesse, Tyler Latty, Kares Lemenager, Yan Long, Steven Lopez, Adriana Lowery-Garcia, Isaac Mackey, Esmeralda Martinez, Harmony McAfee, Mercedes McDonald, Ivett Medina, Hannah Mendell, Kaylee Mitchell, Craig Niedrich, Theresa Olive, Maribel Orozco, Jacob Orr, June Osborn, Austin Papineau- Dyer, Courtnie Patterson, Miguel Pena, Adilene Pereda, Yisel Perez Varela, Allen Pizano, Sydney Ramsey, Katie Rawlings, Jennifer Russow, Betsey Sanchez Morales, Cori Sims, Emilie Skedel, Latrice Smith, Brandon Sommer, Christy Steffen, Katherine Sullivan, Lamika Terrell, Stanley Turner, Ryan Uftring, Kenya Williams, Tiffany Williams and Dalton Woods.
 * **Lansing:** Yesenia Garcia.
 * **Manteno:** Carson Baker, Madeline Boyd, Dylan Clevenger, Frances Culich, Victoria Dokter,Javier Dominguez, Hailey Durnavich, Madison Engler, Xavier Gaddini, Ashlee Gill, Mae Graffeo, Dawn Graveline, Edward Horath, Roy Johnson, Emily Kirkpatrick, Kristin Kirts, Hailey Kyllonen, Matthew Lanoue, Jeremy Leer, Nicole Neiner, Brandon Nieft, Rebecca Pijus, Colton Provost, Delaney Randolph ,Jeremy Roach, Hannah Schubert, Sidney Stauffenberg, Conner Stovall, Brooke Timm and James Weltmeyer.
-* **Martinton:** Elyssa Kollmann, Ethan McManaway, Claire Miller and Spring Robinson. &nbsp; &nbsp; &nbsp; &nbsp;
-* **Milford:** Charlton Crawford and Olivia Henning.&nbsp;
-* **Minooka:** Brittney Nicholson and Nicole White. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+* **Martinton:** Elyssa Kollmann, Ethan McManaway, Claire Miller and Spring Robinson.
+* **Milford:** Charlton Crawford and Olivia Henning.
+* **Minooka:** Brittney Nicholson and Nicole White.
 * **Momence:** Lauren Aydelott, Raymond Balois, Seth Bell, Ellie Berns, Madisen Coakley, Jared Espino, Andrea Fierros, Michael Lanie, Hannah Munyon, Kera Newberry, Abigail Paynter, Claudia Pizano, Kayla Reiniche and Sadie Singleton.
 * **New Lenox:** McKayla Kuznieski.
 * **Onarga:** Genesis Carino Crespo, Luis Carino Crespo and Paige Huse.
@@ -55,13 +55,13 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Watseka:** Nadia Butler, Mark Cross, Maggie Guimond, Makayla Hartlep, Ashlee Major, Andy Onnen, Cora Senesac, Andrew Soucie and Adalie Spracklin.
 * **Galveston, Ind.:** Paxtyn Hicks.
 * **Indianapolis, Ind.:** Jaylen Jennings.
-* **Munster, Ind.:** Shannon Harvey.&nbsp;
-* **Rensselaer, Ind.:** Dayne Sammons.&nbsp;
-* **Walton, Ind.:** Madison Rodabaugh and Taylor Rodabaugh. &nbsp;
-* **Hillsboro, Mo.:** Gabriel King.&nbsp;
+* **Munster, Ind.:** Shannon Harvey.
+* **Rensselaer, Ind.:** Dayne Sammons.
+* **Walton, Ind.:** Madison Rodabaugh and Taylor Rodabaugh.
+* **Hillsboro, Mo.:** Gabriel King.
 * **Jacksonville, N.C.:** Josiah Zamora.
-* **Smyrna, Tenn.:** James Franklin. &nbsp;
+* **Smyrna, Tenn.:** James Franklin.
 * **Houston, Texas:** Summer Hill.
 * **West Haven, Utah:** Bailey Nay.
 * **Burlington, Wis.:** Teagen Schnalfeldt.
-* **Edmonton, Alberta Canada:** Brooklyn Brian.&nbsp;
+* **Edmonton, Alberta Canada:** Brooklyn Brian.
