@@ -13,12 +13,12 @@ press_release: false
 
 To be named to the Honors List, a student must maintain a grade point average between 3.25 and 3.79 and be enrolled in six or more semester hours.
 
-* **Aroma Park:** Kyle King.
+* **![](/uploads/2021/alyssa-hon-beecher1.jpg){: .float-image-right width="250" height="160"}Aroma Park:** Kyle King.
 * **Ashkum:** Jacob Bramer, Alexander Gray, Kate Hanson and Jordan Saathoff.
 * **Beaverville:** Gabriel Emerson.
-* **Beecher:** Taylor Graham, Alyssa Hon and Yolanda Williams.
-* **Bonfield:** Olivia Astle, Allison Moody and Dominique Schultz.
-* **Bourbonnais:** Mandy Adcock, Gianna Agresti, Brianna Allegro, Matthew Anderson, Jacqueline Annes, Amanda Berg, Juquan Bibbs, Abigail Blackburn, Dakota Brooks, Anthony Buschek, Abigail Chinski, Jessica Clyden, Reilly Dersien, Jackson Drake, Alexandra Dubravec, Kayla Ducharme, Mya Eason, Sydney Faford, Paige Ferris, Jasmine Flanner, Rakeeyah Flood, Joshua Granger, Audra Halcomb, Daniel Harris, Kaitlynn Heale, Kaela Heavener, Darrell Hipple, Makenzie Hipple, Tyler Jackson, Zachary Jenkins, Jonathan Karnes, Alex Kregor, Ericka Lacy, Rodolfo Leal, Leanna Lee, Rubin Logan, Lexy Lopez, Andrew Mazzuchi, Carolann McFarlane, Zoie Milton, Rebecca Musgrave, Rachel Myers, Alexis Nguyen, Michael Nolan, Amber Ogle, Odin Perdomo, Abigail Prendergast, Chase Provost, Landon Provost, Benjamin Randak, Kaitlyn Randle, Izabella Rauch, Meghan Reiniche, Benjamin Ross, Isabella Russo, Elena Santos, Jisela Santos, Nathan Sasek, Peter Sorich, Lisa Steele Davis, Ashley Stephan, Robert Sylvester, Misty Thornton, Jacqueline Valadez, Alex Verkler, Paul Williams, Elizabeth Worby, Megan Wright, Carmela Zavala and Zachary Zimmer.
+* **Beecher:** Taylor Graham, Alyssa Hon (pictured) and Yolanda Williams.
+* **![](/uploads/2021/paul-williams-bourbonnais1.jpg){: .float-image-right width="194" height="250"}Bonfield:** Olivia Astle, Allison Moody and Dominique Schultz.
+* **Bourbonnais:** Mandy Adcock, Gianna Agresti, Brianna Allegro, Matthew Anderson, Jacqueline Annes, Amanda Berg, Juquan Bibbs, Abigail Blackburn, Dakota Brooks, Anthony Buschek, Abigail Chinski, Jessica Clyden, Reilly Dersien, Jackson Drake, Alexandra Dubravec, Kayla Ducharme, Mya Eason, Sydney Faford, Paige Ferris, Jasmine Flanner, Rakeeyah Flood, Joshua Granger, Audra Halcomb, Daniel Harris, Kaitlynn Heale, Kaela Heavener, Darrell Hipple, Makenzie Hipple, Tyler Jackson, Zachary Jenkins, Jonathan Karnes, Alex Kregor, Ericka Lacy, Rodolfo Leal, Leanna Lee, Rubin Logan, Lexy Lopez, Andrew Mazzuchi, Carolann McFarlane, Zoie Milton, Rebecca Musgrave, Rachel Myers, Alexis Nguyen, Michael Nolan, Amber Ogle, Odin Perdomo, Abigail Prendergast, Chase Provost, Landon Provost, Benjamin Randak, Kaitlyn Randle, Izabella Rauch, Meghan Reiniche, Benjamin Ross, Isabella Russo, Elena Santos, Jisela Santos, Nathan Sasek, Peter Sorich, Lisa Steele Davis, Ashley Stephan, Robert Sylvester, Misty Thornton, Jacqueline Valadez, Alex Verkler, Paul Williams (pictured), Elizabeth Worby, Megan Wright, Carmela Zavala and Zachary Zimmer.
 * **Bradley:** Brandon Corona, Margaret Corpening, Destiny Emling, Steven Hood, Miranda Kara, Mackenzie Machalek, Aaron Martinez Perez, William McDowell, Garrett Metzger, Jaime Molina, Sydney Montoya, Carlos Moreles, Sean Myers, Kaylee Payne, Joseph Roach, Julie Rojo, Christopher Schultz and Jason Tanner.
 * Buckingham: Alyssa Rattin.
 * **Cabery:** Ayden McNeill.
@@ -42,16 +42,16 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Lansing:** Yesenia Garcia.
 * **Manteno:** Carson Baker, Madeline Boyd, Dylan Clevenger, Frances Culich, Victoria Dokter,Javier Dominguez, Hailey Durnavich, Madison Engler, Xavier Gaddini, Ashlee Gill, Mae Graffeo, Dawn Graveline, Edward Horath, Roy Johnson, Emily Kirkpatrick, Kristin Kirts, Hailey Kyllonen, Matthew Lanoue, Jeremy Leer, Nicole Neiner, Brandon Nieft, Rebecca Pijus, Colton Provost, Delaney Randolph ,Jeremy Roach, Hannah Schubert, Sidney Stauffenberg, Conner Stovall, Brooke Timm and James Weltmeyer.
 * **Martinton:** Elyssa Kollmann, Ethan McManaway, Claire Miller and Spring Robinson.
-* **Milford:** Charlton Crawford and Olivia Henning.
+* **![](/uploads/2021/seth-bell-momence1.jpg){: .float-image-right width="167" height="250"}Milford:** Charlton Crawford and Olivia Henning.
 * **Minooka:** Brittney Nicholson and Nicole White.
-* **Momence:** Lauren Aydelott, Raymond Balois, Seth Bell, Ellie Berns, Madisen Coakley, Jared Espino, Andrea Fierros, Michael Lanie, Hannah Munyon, Kera Newberry, Abigail Paynter, Claudia Pizano, Kayla Reiniche and Sadie Singleton.
+* **Momence:** Lauren Aydelott, Raymond Balois, Seth Bell (pictured), Ellie Berns, Madisen Coakley, Jared Espino, Andrea Fierros, Michael Lanie, Hannah Munyon, Kera Newberry, Abigail Paynter, Claudia Pizano, Kayla Reiniche and Sadie Singleton.
 * **New Lenox:** McKayla Kuznieski.
 * **Onarga:** Genesis Carino Crespo, Luis Carino Crespo and Paige Huse.
 * **Pembroke Township:** Paris Griffin.
-* **Piper City:** Robert Mogged.
-* **St. Anne:** Allaina Beaupre, Harrison Belka, Neil Denault, Emily Glogowski, Caden Grant, Laretta Graves, Camden Kearney, Kara Kleinert, Raelin Lawrence, Brooke Leisure, Sarah Littrell, Jaiden Longtin, Lauren Pasel, Jose Pizano, McKenna Salzman, Jennifer Serrano, Amber and Turner Seth Zeedyk.
+* **![](/uploads/2021/jennifer-serrano-saint-anne1.jpg){: .float-image-right width="167" height="250"}Piper City:** Robert Mogged.
+* **St. Anne:** Allaina Beaupre, Harrison Belka, Neil Denault, Emily Glogowski, Caden Grant, Laretta Graves, Camden Kearney, Kara Kleinert, Raelin Lawrence, Brooke Leisure, Sarah Littrell, Jaiden Longtin, Lauren Pasel, Jose Pizano, McKenna Salzman, Jennifer Serrano (pictured), Amber and Turner Seth Zeedyk.
 * **Sheldon:** Cain Millard, Marshall White, Kristi Yamaoka and Lauren Sinks.
-* **Shorewood:** Kyle Czarnecki and Ryan O’Boyle.
+* **![](/uploads/2021/watseka-students.jpg){: .float-image-right width="407" height="282"}Shorewood:** Kyle Czarnecki and Ryan O’Boyle.
 * **Watseka:** Nadia Butler, Mark Cross, Maggie Guimond, Makayla Hartlep, Ashlee Major, Andy Onnen, Cora Senesac, Andrew Soucie and Adalie Spracklin.
 * **Galveston, Ind.:** Paxtyn Hicks.
 * **Indianapolis, Ind.:** Jaylen Jennings.
