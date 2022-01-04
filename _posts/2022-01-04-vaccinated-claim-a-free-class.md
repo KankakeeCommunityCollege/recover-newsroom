@@ -1,7 +1,7 @@
 ---
 title: Vaccinated? Claim a FREE class
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2022-01-04 00:00:00 -0600
+expire_date: 2022-04-30 00:00:00 -0500
 image: /uploads/free-class-if-vaccinated-news-580x630.jpg
 news_image_alt: Free class graphic
 article_lead: 'One-time tuition credit '
