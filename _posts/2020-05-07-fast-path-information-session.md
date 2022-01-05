@@ -3,13 +3,12 @@ title: Fast Path information session
 date: 2020-05-07 04:58:00 -0500
 expire_date: 2020-05-18 00:00:00 -0500
 image: /uploads/sadee-wuethrich-sm.jpg
-news_image_alt: 'Sadee Wuethrich, 2020 Fast Path graduate'
+news_image_alt: Sadee Wuethrich, 2020 Fast Path graduate
 article_lead: Learn about 2-2-2 program
 video_content: false
 video_link:
 press_release: false
 ---
-
 ![](/uploads/300x50-mobile-ad-kccfastpath.png){: width="300" height="50"}
 
 The Fast Path Degree program offered by Kankakee Community College at the Harold and Jean Miner South Extension Center in Watseka will have an online information session on Tuesday, May 19 from 6-7 p.m.&nbsp;
