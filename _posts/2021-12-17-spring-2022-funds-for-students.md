@@ -21,6 +21,10 @@ KCC received $3.2 million in financial assistance from the American Rescue Plan 
 
 Use this link to apply:&nbsp;[American Rescue Plan application](https://form.jotform.com/212015939187964){: target="_blank" rel="noopener"}. Full details are&nbsp;[here](https://coronavirus.kcc.edu/kcc-resources/#american-rescue-plan-arp-act){: target="_blank" rel="noopener"}.&nbsp;
 
+**Vaccinated? Claim a FREE class**
+
+KCC is offering a free class during Spring 2022 to anyone who brings in their vaccination card and student ID, as long as they didn't receive the incentive last fall (Fall 2021). Details and exceptions are in a [separate newsroom article](https://news.kcc.edu/2022/01/04/vaccinated-claim-a-free-class.html).
+
 **One Workforce Grant**
 
 A new grant called One Workforce from the U.S. Department of Labor can pay for tuition, fees, books (and more) for students in many of KCC's manufacturing, welding and electrical engineering technology programs. To qualify, you must live in northeast Illinois or northwest Indiana, be 17 or older, not in high school, and unemployed or underemployed. People from underrepresented groups can also qualify. Even if you are already employed, you may be eligible.
