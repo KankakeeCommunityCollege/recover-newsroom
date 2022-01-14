@@ -16,12 +16,10 @@ Weekly tests are offered at the KCC Riverfront Campus and South Extension Center
 * Riverfront Campus (Cavalier Room): Mondays: 9 a.m. - 1 p.m.; and Thursdays: 11 a.m. - 3 p.m.
 * South Extension Center in Watseka are Tuesdays: 10 a.m. - 1 p.m.
 
-Tests are administered by Chicago Loop Medical. This&nbsp;[1 min. 16 sec. video](https://youtu.be/6mB6fbRsxGM){: target="_blank" rel="noopener"}&nbsp;shows the process. Walk-ins are welcome, and appointments are recommended as well. [Make appointments](https://loop.labsvc.net/patientportal/index.html?kcc){: target="_blank" rel="noopener"} and access your results through Loop Medical Center’s secure and HIPPA-approved&nbsp;[Web portal](https://loop.labsvc.net/patientportal/index.html?kcc){: target="_blank" rel="noopener"}.
+Tests are administered by Chicago Loop Medical. This [1 min. 16 sec. video](https://youtu.be/6mB6fbRsxGM){: target="_blank" rel="noopener"} shows the process. Walk-ins are welcome, and appointments are recommended as well. [Make appointments](https://loop.labsvc.net/patientportal/index.html?kcc){: target="_blank" rel="noopener"} and access your results through Loop Medical Center’s secure and HIPPA-approved [Web portal](https://loop.labsvc.net/patientportal/index.html?kcc){: target="_blank" rel="noopener"}.
 
-You are&nbsp;**NOT**&nbsp;required to submit a credit card or have insurance/proof of insurance to test at KCC. &nbsp;
+You are **NOT** required to submit a credit card or have insurance/proof of insurance to test at KCC.
 
 The test is a PCR (polymerase chain reaction) test.
 
 More information and complete information on Weekly COVID-19 test requirements for students who are not vaccinated are at [coronavirus.kcc.edu](https://coronavirus.kcc.edu/).
-
-&nbsp;
