@@ -6,10 +6,9 @@ image: /uploads/Angela Chinn of Kankakee-honorssm.jpg
 news_image_alt: Angela Chinn of Kankakee
 article_lead: Fall 2020 academic achievers
 video_content: false
-video_link: 'https://youtu.be/4d2LkGjg5bM'
+video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-
 The following students have been named to the Honors List at Kankakee Community College for the Fall 2020 semester.<br><br>To be named to the Honors List, a student must maintain a grade point average between 3.25 and 3.79 and be enrolled in six or more semester hours.
 
 * **Aroma Park:** Jordan Isaacs and Jenna Jackson.
@@ -24,7 +23,7 @@ The following students have been named to the Honors List at Kankakee Community 
 * **Chebanse:** Jillian Baker, Zoe Forquer, Kiersten Gilbert, Kaitlyn Girard, Cory Hoggins, Kaylee Ketcherside, Catherine Mau, Kaelyn Mausehund, Robin Palinski, James Sadler, Olzea Smolinski, Conor Walters and Melissa Welch.
 * **Chicago:** DeAngela Davis.
 * **Cissna Park:** Christian Stadeli.
-* **Clifton:** Cierra Congelosi, Jared Gigl, Riley Thompson, Stephanie Wilson and Bryan Winkel.
+* **Clifton:** Cierra Congelosi, Riley Thompson, Stephanie Wilson and Bryan Winkel.
 * **Coal City:** Lindsay Eddy and Amanda Fagan.
 * **Cullom:** Ashten Melton and Mark Miller.
 * **Danforth:** Destini Balli, Tracy Knight and Logan Oster.
