@@ -17,4 +17,4 @@ If you would like to lead assigned projects, serve as an active member of KCC’
 
 Complete information and application are [available online](https://form.jotform.com/200476436597161){: target="_blank" rel="noopener"}. Application deadline is 5 p.m. Friday, Feb 18.
 
-Pictured: &nbsp;Samaria Rosenthal of Bourbonnais, the 2021-22 student trustee.<br>&nbsp;
+Pictured: Samaria Rosenthal of Bourbonnais, the 2021-22 student trustee.<br>
