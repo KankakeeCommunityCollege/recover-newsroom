@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-​Beginning Monday, Feb. 21, the Miner Memorial Library will have new, temporary, closing hours on Mondays and Thursdays. Hours for Tuesdays, Wednesdays, and Fridays remain unchanged.
+​Beginning Monday, Feb. 21, the Miner Memorial Library will temporarily change closing hours on Mondays and Thursdays. Hours for Tuesdays, Wednesdays, and Fridays remain unchanged.
 
 The new temporary hours will be:
 
@@ -19,4 +19,4 @@ The new temporary hours will be:
 * Thursday: 7:30 a.m. - 6 p.m.
 * Friday: 7:30 a.m. - 4 p.m.
 
-It is expected that this will be a short interruption, and an announcement will be posted when the hours return to normal. We apologize for any inconvenience.
+It is expected that this will be a short interruption. An announcement will be posted when the hours return to normal. We apologize for any inconvenience.
