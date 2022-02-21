@@ -15,4 +15,4 @@ KCC will remove its mask requirements, effective Feb. 28. This applies to all in
 
 The vaccination policy and [certify.kcc.edu](https://certify.kcc.edu){: target="_blank" rel="noopener"} requirements are unchanged. View KCC's protocols and policies related to COVID-19 on the [coronavirus response website](https://coronavirus.kcc.edu).
 
-We will keep you posted on any future developments. If you have any questions, please use the [KCC COVID-19 contact us form](https://coronavirus.kcc.edu/contact-us/).
+We will keep you posted on any future developments. Anyone with questions is invited to use the [KCC COVID-19 contact us form](https://coronavirus.kcc.edu/contact-us/).
