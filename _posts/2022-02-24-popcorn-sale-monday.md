@@ -4,7 +4,7 @@ date: 2022-02-24 00:00:00 -0600
 expire_date: 2022-02-28 00:00:00 -0600
 image: /uploads/2021/popcorn-449x538.jpg
 news_image_alt: Popcorn
-article_lead: AEvent raises funds for student veterans
+article_lead: Event raises funds for student veterans
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
