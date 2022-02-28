@@ -1,7 +1,7 @@
 ---
 title: Popcorn sale Monday
 date: 2022-02-24 00:00:00 -0600
-expire_date: 2022-02-28 00:00:00 -0600
+expire_date: 2022-02-27 00:00:00 -0600
 image: /uploads/2021/popcorn-449x538.jpg
 news_image_alt: Popcorn
 article_lead: Event raises funds for student veterans
