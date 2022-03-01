@@ -1,5 +1,5 @@
 ---
-title: Fast Path information sessions
+title: Upcoming Fast Path information sessions
 date: 2022-03-01 00:00:00 -0600
 expire_date: 2022-03-31 00:00:00 -0500
 image: /uploads/2022/OliviaHenning-FastPath.jpg
