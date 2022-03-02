@@ -1,5 +1,5 @@
 ---
-title: Run/Walk honors local law  enforcement officers
+title: Run and walk honors Rittmanic and Bailey
 date: 2022-03-02 00:00:00 -0600
 expire_date: 2022-05-22 00:00:00 -0500
 image: /uploads/2021/walking-580x598.jpg
