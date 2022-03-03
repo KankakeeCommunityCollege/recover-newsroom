@@ -9,8 +9,6 @@ video_content: false
 video_link:
 press_release: false
 ---
-The Kankakee Community College Lifelong Learning Institute is offering a series of video lectures led by renowned faculty at various U.S. colleges and universities.
-
 The Lifelong Learning Institute offers affordable, high-quality, non-credit classes that take place in an environment that fosters participation. These video lectures are pre-recorded and played during the class session. These classes are open to people ages 50 and older. Sessions vary from a few hours to several meetings. Prices also vary, and many of the classes are $20 or less. &nbsp;&nbsp;
 
 &nbsp;
