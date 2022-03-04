@@ -9,7 +9,7 @@ video_content: false
 video_link:
 press_release: false
 ---
-An information session for spring courses designed for active senior citizens will be 10 a.m. - noon Friday, April 1 in the Iroquois Room at Kankakee Community College.&nbsp;
+![](/uploads/2021/lli-lifelong-learning478x223.png){: .float-image-right width="478" height="223"}An information session for spring courses designed for active senior citizens will be 10 a.m. - noon Friday, April 1 in the Iroquois Room at Kankakee Community College.&nbsp;
 
 The special guest speaker on April 1 will be Jim Schreiner, and the topic will be "Cannabis: Not Your Grandparents’ Weed.”
 
