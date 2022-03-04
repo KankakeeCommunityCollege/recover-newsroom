@@ -13,6 +13,11 @@ press_release: false
 
 A representative will be available to answer questions and to help enroll students on the spot. Questions will be welcome.
 
-Students can also learn more about completing GSU courses at the KCC North Extension Center (450 N. Kinzie Ave., Bradley). The following GSU programs offer classes at the KCC NEC:<br>[Bachelor of Arts in Communication](https://www.govst.edu/communicationBA/){: target="_blank" rel="noopener"}<br>[Bachelor of Health Administration](https://www.govst.edu/healthadministrationBHA/){: target="_blank" rel="noopener"}<br>[Undergraduate Business Courses](https://www.govst.edu/COBPrograms/){: target="_blank" rel="noopener"}<br>[Dual Degree Program](https://www.govst.edu/ddp/){: target="_blank" rel="noopener"}
+Students can also learn more about completing GSU courses at the KCC North Extension Center (450 N. Kinzie Ave., Bradley). The following GSU programs offer classes at the KCC NEC:
+
+* [Bachelor of Arts in Communication](https://www.govst.edu/communicationBA/){: target="_blank" rel="noopener"}
+* [Bachelor of Health Administration](https://www.govst.edu/healthadministrationBHA/){: target="_blank" rel="noopener"}
+* [Undergraduate Business Courses](https://www.govst.edu/COBPrograms/){: target="_blank" rel="noopener"}
+* [Dual Degree Program](https://www.govst.edu/ddp/){: target="_blank" rel="noopener"}
 
 &nbsp;
