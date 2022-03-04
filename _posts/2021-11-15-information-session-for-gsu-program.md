@@ -13,7 +13,7 @@ Governors State University will hold a Virtual Information Session for its Bache
 
 [Event flier](/GSU-Bach-Health-Virtual-InformationSession-December2021.pdf){: target="_blank" rel="noopener"}
 
-Program students meet locally at Kankakee Community Colleg's North Extension Center, 450 N. Kinzie Ave. in Bradley.
+Program students meet locally at Kankakee Community College's North Extension Center, 450 N. Kinzie Ave. in Bradley.
 
 The information session will be Dec. 1, 2021 from 6-7 p.m. via Webex. Professor Natalia Rekhter will host. She is the program director, and will be able to answer specific questions about the program.
 
