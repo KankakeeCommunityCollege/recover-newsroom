@@ -3,7 +3,7 @@ title: Information session for GSU program
 date: 2021-11-15 00:00:00 -0600
 expire_date: 2021-12-01 00:00:00 -0600
 image: /uploads/GSU-Info-session-588x509.jpg
-news_image_alt: 'Info session: Undergraduate health administration at GSU'
+news_image_alt: Governors State University logo
 article_lead: Get health administration degree details
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
