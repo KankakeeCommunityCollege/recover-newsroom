@@ -13,7 +13,7 @@ Kankakee Community College has been named a Top 10 Military Friendly&reg; School
 
 KCC ranks seventh among all small community colleges in the upcoming 2022 Guide to Military Friendly Schools, published in conjunction with “G.I. Jobs” magazine. In addition, KCC is one of only 14 Illinois community colleges to achieve the Military Friendly&reg; designation for the 2022-23 academic year.
 
-“As a veteran, and KCC graduate, I can attest to the difference it makes that the college is welcoming to veterans,” said Jason Rodriguez, advisor to the KCC chapter of the Student Veterans of America. Rodriquez is shown at right (center) along with Quante Grant (left) and Steven Regas (right) at the 2022 Student Veterans of America conference.![](/uploads/2021/grant-rodriguez-regas-at-student-veterans-convention252x189.jpg){: .float-image-right width="252" height="189"}
+“As a veteran, and KCC graduate, I can attest to the difference it makes that the college is welcoming to veterans,” said Jason Rodriguez, advisor to the KCC chapter of the Student Veterans of America. In the photo, Rodriquez (center) is with Quante Grant (left) and Steven Regas (right) at the 2022 Student Veterans of America conference.![](/uploads/2021/grant-rodriguez-regas-at-student-veterans-convention252x189.jpg){: .float-image-right width="252" height="189"}
 
 Typically, KCC has about 60 veterans who enroll each year, according to the college’s Office of Financial Aid. Among veterans, there are 39 KCC student veterans currently utilizing VA Education benefits.
 
