@@ -27,6 +27,6 @@ Holmes is a graduate of Manteno High School. She has a certificate from KCC and 
 
 Before setting off as a writer, Holmes spent the bulk of her career in the business world, including working for the Kankakee County Extension Service, U.S. Environmental Protection Agency, Arthur Andersen, and Brookfield Zoo.
 
-The class is presented by KCC’s Continuing Education Department. The cost to attend is $19. To register online, visit [www.kcc.edu/comejoinus](http://www.kcc.edu/comejoinus), sign up or login, then find and select the course. Click on the date and add it to your cart. Within the cart, checkout. To register by phone, or for more information, call 815-802-8206. The class does not award college credit.
+The class is presented by KCC’s Continuing Education Department. The cost to attend is $19. To register online, visit [kcc.edu/comejoinus](http://www.kcc.edu/comejoinus), sign up or login, then find and select the course. Click on the date and add it to your cart. Within the cart, checkout. To register by phone, or for more information, call 815-802-8206. The class does not award college credit.
 
 Within 24 hours of the program, registered participants will receive an email with instructions for joining the virtual event. It will include tips for joining your Zoom meeting. You will need a computer or mobile device, sound and an internet connection.
