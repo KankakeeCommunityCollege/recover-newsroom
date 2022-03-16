@@ -1,10 +1,10 @@
 ---
-title: '"Manteno''s Famous Forgotten Past" Live Webinar to be Held May 19'
+title: Webinar shares Manteno's past
 date: 2022-03-16 00:00:00 -0500
 expire_date: 2022-05-19 00:00:00 -0500
 image: /uploads/2021/melanie-holmes-photo.JPG
 news_image_alt: Melanie Holmes, host of webinar
-article_lead: Learn some of the area's unknown history
+article_lead: Discover area history
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -21,7 +21,7 @@ On May 19, Holmes will discuss Elizabeth Packard, whose husband had her physical
 
 “What followed made history,” Holmes said. “After three long years, Packard got out and found herself homeless, childless, and penniless. Married women had almost no rights at the time, and it's because of this woman's battle that laws were passed across the U.S. to protect married women's property rights and those of the mentally ill.”
 
-The two-hour webinar will cover Packard's fight, as well as a couple of other “notables” who hailed from Manteno. Holmes will also touch upon the timeline of the Manteno State Hospital, which operated on the town's eastern edge from 1930 to 1985.
+![](/uploads/2021/melanie-holmes250x187.JPG){: .float-image-right width="250" height="187"}The two-hour webinar will cover Packard's fight, as well as a couple of other “notables” who hailed from Manteno. Holmes will also touch upon the timeline of the Manteno State Hospital, which operated on the town's eastern edge from 1930 to 1985.
 
 Holmes is a graduate of Manteno High School. She has a certificate from KCC and a bachelor’s degree from St. Xavier University in Chicago. She is an award-winning author of four books, including “[A Hero on Mount St. Helens: The Life and Legacy of David A. Johnston](https://www.press.uillinois.edu/books/?id=p084317)” (University of Illinois Press, 2019).
 
