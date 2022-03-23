@@ -8,9 +8,7 @@ layout: default
       <div class="col post__content">
         {% if page.image %}
         <div class="row background--black archive__header--height">
-          <div style="background-image: url({{ page.image }});" class="col-12 col-lg-8 archive__img--wrapper">
-            </div>
-          <div class="col-12 col-lg-4 mt-auto mb-3">
+          <div class="col-12 col-lg-4 mt-auto order-2 order-lg-1 mb-3">
             <div class="latest-news-widget__feature__tease__hgroup">
               <h3 class="latest-news-widget__feature__tease__overline">
                 {{ page.title }}
@@ -19,6 +17,8 @@ layout: default
                 {{ page.article_lead }}
               </h4>
             </div>
+          </div>
+          <div style="background-image: url({{ page.image }});" class="col-12 col-lg-8 archive__img--wrapper">
           </div>
         </div>
         <br>
