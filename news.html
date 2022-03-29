@@ -22,6 +22,7 @@ description: ''
           {% for post in current_posts limit:10 %}
 
               {% if post.video_content == true %}
+              <!-- START POSTS WITH VIDEO -->
                 {% if forloop.first == true %}
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image latest-news-widget--rollup__latest__tease-width">
               <!--  Tease is active   -->
@@ -51,7 +52,7 @@ description: ''
                       <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('https://img.youtube.com/vi/{{  post.video_link | remove: "https://youtu.be/" }}/hqdefault.jpg')">
                       </div>
                     </a>
-                  </li>
+                  </li><!-- END POSTS WITH VIDEO -->
                 {% endif %}
               {% else %}
                 {% if forloop.first == true %}
@@ -64,7 +65,7 @@ description: ''
                         <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
                         <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
                       </div>
-                      <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.image }}')">
+                      <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{% unless post.image contains 'https://' %}{{ page.baseurl }}{% endunless %}{{ post.image }}')">
                       </div>
                     </a>
                   </li>
@@ -80,7 +81,7 @@ description: ''
                         <span class="latest-news-widget__latest__tease__number">{{ forloop.index }}</span>{{ post.title }}</h3>
                         <p class="latest-news-widget__latest__tease__h">{{ post.article_lead }}</p>
                       </div>
-                      <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{{ page.baseurl }}{{ post.image }}')">
+                      <div class="latest-news-widget__latest__tease__img-mod latest-news-widget__latest__tease__img-mod--default" style="background-image: url('{% unless post.image contains 'https://' %}{{ page.baseurl }}{% endunless %}{{ post.image }}')">
                       </div>
                     </a>
                   </li>

@@ -2,9 +2,9 @@
 title: Quarantine and isolation instructions
 date: 2022-01-11 00:00:00 -0600
 expire_date: 2022-05-13 00:00:00 -0500
-image: /uploads/reverse-logo-in-circle.jpg
+image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
 news_image_alt: Reverse KCC logo in circle
-article_lead: 'KCC follows CDC instructions '
+article_lead: 'KCC follows CDC instructions'
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
