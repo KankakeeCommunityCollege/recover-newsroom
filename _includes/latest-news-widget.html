@@ -30,7 +30,7 @@
                         <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
                       </div>
                       <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod" style="background-image: url('{{ post.image }}')">
-                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.image }}" alt="{{ post.news_image_alt }}">
+                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{% unless post.image contains 'https://' %}{{ page.baseurl }}{% endunless %}{{ post.image }}" alt="{{ post.news_image_alt }}">
                       </div>
                     </a>
                   {% endif %}
@@ -53,7 +53,7 @@
                         <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
                       </div>
                       <div id="jsImageMod{{ forloop.index }}" class="latest-news-widget__feature__img-mod js-hp-feature--img-mod">
-                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{{ page.baseurl }}{{ post.image }}" alt="{{ post.news_image_alt }}">
+                        <img id="latestNewsImage{{ forloop.index }}" class="latest-news-widget__feature__img js-latest-news-widget-img" src="{% unless post.image contains 'https://' %}{{ page.baseurl }}{% endunless %}{{ post.image }}" alt="{{ post.news_image_alt }}">
                       </div>
                     </a>
                   {% endif %}
