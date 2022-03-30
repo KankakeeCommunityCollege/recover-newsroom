@@ -2,14 +2,14 @@
 title: Lifelong Learning Institute Kickoff
 date: 2022-03-02 00:00:00 -0600
 expire_date: 2022-04-01 00:00:00 -0500
-image: /uploads/2021/LLI-Lifelong-Learning466x516.png
+image: /uploads/2022/LLI-Lifelong-Learning466x516.png
 news_image_alt: KCC Lifelong Learning Institute
 article_lead: Curiosity never retires!
 video_content: false
 video_link:
 press_release: false
 ---
-![](/uploads/2021/lli-lifelong-learning478x223.png){: .float-image-right width="478" height="223"}An information session for spring courses designed for active senior citizens will be 10 a.m. - noon Friday, April 1 in the Iroquois Room at Kankakee Community College.&nbsp;
+![](/uploads/2022/lli-lifelong-learning478x223.png){: .float-image-right width="478" height="223"}An information session for spring courses designed for active senior citizens will be 10 a.m. - noon Friday, April 1 in the Iroquois Room at Kankakee Community College.&nbsp;
 
 The special guest speaker on April 1 will be Jim Schreiner, and the topic will be "Cannabis: Not Your Grandparents’ Weed.”
 

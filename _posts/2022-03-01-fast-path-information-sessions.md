@@ -9,7 +9,7 @@ video_content: false
 video_link:
 press_release: true
 ---
-![](/uploads/2021/fastpathwordmark-2.jpg){: .float-image-right width="530" height="147"}An information session about KCC’s Fast Path transfer degree program will be at KCC’s Miner South Extension Center in Watseka on Wednesday, March 16 at 6 p.m.; and a virtual Zoom information session will be on Wednesday, March 23 at 6 p.m. &nbsp;
+![](/uploads/2022/fastpathwordmark-2.jpg){: .float-image-right width="530" height="147"}An information session about KCC’s Fast Path transfer degree program will be at KCC’s Miner South Extension Center in Watseka on Wednesday, March 16 at 6 p.m.; and a virtual Zoom information session will be on Wednesday, March 23 at 6 p.m. &nbsp;
 
 The Fast Path Program uses a schedule of two classes at a time, two days a week for students to earn an Associate in Arts transfer degree in two years, all in Watseka. New classes begin every eight weeks. Students are in class for about three hours a day, two days a week. The course sequence, dates and times are prearranged and guaranteed.
 

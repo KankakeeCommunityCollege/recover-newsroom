@@ -2,7 +2,7 @@
 title: Temporary Library and Tutoring Hours
 date: 2022-02-16 00:00:00 -0600
 expire_date: 2022-03-16 00:00:00 -0500
-image: /uploads/2021/minermemlibrary-419x448.png
+image: /uploads/2022/minermemlibrary-419x448.png
 news_image_alt: Miner Memorial Library
 article_lead: Hours effective Feb. 21
 video_content: false

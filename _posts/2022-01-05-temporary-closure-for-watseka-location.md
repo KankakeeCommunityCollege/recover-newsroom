@@ -2,7 +2,7 @@
 title: Temporary closure for Watseka location
 date: 2022-01-05 00:00:00 -0600
 expire_date: 2022-01-07 00:00:00 -0600
-image: /uploads/sadee-wuethrich-sm.jpg
+image: /uploads/2022/sadee-wuethrich-sm.jpg
 news_image_alt: Sadee Wuethrich, 2020 Fast Path graduate
 article_lead: South Extension Center will re-open Jan. 10
 video_content: false

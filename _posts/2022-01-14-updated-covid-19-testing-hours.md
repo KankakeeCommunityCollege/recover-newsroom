@@ -2,14 +2,14 @@
 title: 'Updated COVID-19 testing hours '
 date: 2022-01-14 00:00:00 -0600
 expire_date: 2022-05-13 00:00:00 -0500
-image: /uploads/2021/kcc-covid-19-testting-580x591.jpg
+image: /uploads/2022/kcc-covid-19-testing-580x591.jpg
 news_image_alt: KCC logo plus words COVID-19 Testing
 article_lead: Free tests for KCC students
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2021/kcc-covid-19-testing250x130.jpg){: .float-image-right width="250" height="130"}COVID-19 testing is available for free to KCC students.
+![](/uploads/2022/kcc-covid-19-testing250x130.jpg){: .float-image-right width="250" height="130"}COVID-19 testing is available for free to KCC students.
 
 Weekly tests are offered at the KCC Riverfront Campus and South Extension Center as a convenience to students. The hours are:
 
