@@ -2,7 +2,7 @@
 title: Run and walk honors Rittmanic and Bailey
 date: 2022-03-02 00:00:00 -0600
 expire_date: 2022-05-22 00:00:00 -0500
-image: /uploads/2021/walking-580x598.jpg
+image: /uploads/2022/walking-580x598.jpg
 news_image_alt: Legs and shoes of a person walking
 article_lead: Proceeds benefit KCC scholarships
 video_content: false

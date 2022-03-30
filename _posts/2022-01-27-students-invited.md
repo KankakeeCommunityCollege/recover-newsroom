@@ -2,14 +2,14 @@
 title: Students invited
 date: 2022-01-27 00:00:00 -0600
 expire_date: 2022-02-18 00:00:00 -0600
-image: /uploads/2021/samaria-rosenthal-578x723.jpg
+image: /uploads/2022/samaria-rosenthal-578x723.jpg
 news_image_alt: Samaria Rosenthal
 article_lead: Applications available to become KCC's Student Trustee
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2021/samaria-rosenthal-240x300.jpg){: .float-image-right width="240" height="300"}Each year, one student is selected as the Student Trustee for KCC, and represents students on the KCC Board of Trustees.
+![](/uploads/2022/samaria-rosenthal-240x300.jpg){: .float-image-right width="240" height="300"}Each year, one student is selected as the Student Trustee for KCC, and represents students on the KCC Board of Trustees.
 
 If you would like to lead assigned projects, serve as an active member of KCC’s Student Advisory Council and take part in various college events and ceremonies this is the opportunity for you.
 

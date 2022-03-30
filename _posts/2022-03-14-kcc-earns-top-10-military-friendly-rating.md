@@ -2,7 +2,7 @@
 title: KCC earns Top 10 Military Friendly rating
 date: 2022-03-14 00:00:00 -0500
 expire_date: 2022-05-13 00:00:00 -0500
-image: /uploads/2021/military-friendly-22-23-top10.png
+image: /uploads/2022/military-friendly-22-23-top10.png
 news_image_alt: Military Friendly Top 10 logo
 article_lead: Numerous services available to veterans
 video_content: false
@@ -13,7 +13,7 @@ Kankakee Community College has been named a Top 10 Military Friendly&reg; School
 
 KCC ranks seventh among all small community colleges in the upcoming 2022 Guide to Military Friendly Schools, published in conjunction with “G.I. Jobs” magazine. In addition, KCC is one of only 14 Illinois community colleges to achieve the Military Friendly&reg; designation for the 2022-23 academic year.
 
-“As a veteran, and KCC graduate, I can attest to the difference it makes that the college is welcoming to veterans,” said Jason Rodriguez, advisor to the KCC chapter of the Student Veterans of America. In the photo, Rodriquez (center) is with Quante Grant (left) and Steven Regas (right) at the 2022 Student Veterans of America conference.![](/uploads/2021/grant-rodriguez-regas-at-student-veterans-convention252x189.jpg){: .float-image-right width="252" height="189"}
+“As a veteran, and KCC graduate, I can attest to the difference it makes that the college is welcoming to veterans,” said Jason Rodriguez, advisor to the KCC chapter of the Student Veterans of America. In the photo, Rodriquez (center) is with Quante Grant (left) and Steven Regas (right) at the 2022 Student Veterans of America conference.![](/uploads/2022/grant-rodriguez-regas-at-student-veterans-convention252x189.jpg){: .float-image-right width="252" height="189"}
 
 Typically, KCC has about 60 veterans who enroll each year, according to the college’s Office of Financial Aid. Among veterans, there are 39 KCC student veterans currently utilizing VA Education benefits.
 
@@ -27,9 +27,10 @@ The 2022-23 Military Friendly&reg; Schools list will be published in the May and
 
 More information about educational benefits for military veterans, spouses and dependents, is at [kcc.edu/veterans](mailto:kcc.edu/veterans). Community members and prospective students can request information at [veterans.kcc.edu](http://veterans.kcc.edu), by emailing [finaid@kcc.edu](mailto:finaid@kcc.edu)<u>,</u> or phoning 815-802-8550.
 
-## Student Veterans of America conference
+#### Student Veterans of America conference
+{: .typography__h4}
 
-![](/uploads/2021/rodriguez-grant-at-student-veterans-convention250x187.jpg){: .float-image-right width="187" height="250"}In January, three KCC representatives attended the 2022 Student Veterans of America conference—the largest gathering of student veterans in the country.
+![](/uploads/2022/rodriguez-grant-at-student-veterans-convention250x187.jpg){: .float-image-right width="187" height="250"}In January, three KCC representatives attended the 2022 Student Veterans of America conference—the largest gathering of student veterans in the country.
 
 “As a chapter of the SVA, Kankakee Community College sends its chapter leaders to this enriching event to promote service, opportunity, unity, and leadership through personal and professional development,” said Kendra Souligne.
 
@@ -45,7 +46,8 @@ Regas said they realize this psychological hurdle may hold back their fellow vet
 
 “We are ready to provide support for other veterans who feel this way,” Rodriguez added.
 
-## **Military-friendly attributes of KCC**
+#### Military-friendly attributes of KCC
+{: .typography__h4}
 
 * Full-time advisers on staff, including career advising
 * Priority registration

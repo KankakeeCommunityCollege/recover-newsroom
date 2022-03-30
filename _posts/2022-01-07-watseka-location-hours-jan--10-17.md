@@ -2,7 +2,7 @@
 title: 'Updated: Watseka hours Jan. 10-17'
 date: 2022-01-07 00:00:00 -0600
 expire_date: 2022-01-17 00:00:00 -0600
-image: /uploads/2021/nadia-butler-watseka526x570.jpg
+image: /uploads/2022/nadia-butler-watseka526x570.jpg
 news_image_alt: Nadia Butler of Watseka
 article_lead: Open Jan. 10-13
 video_content: false
