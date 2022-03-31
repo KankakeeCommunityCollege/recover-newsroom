@@ -1,15 +1,14 @@
 ---
-title: Pack the Park on April&nbsp;20
+title: Pack the Place - Baseball and Softball
 date: 2022-03-31 00:00:00 -0500
 expire_date: 2022-04-20 00:00:00 -0500
 image: /uploads/2022/cavs-logo-article-cover.jpg
 news_image_alt: KCC Cavaliers Athletics logo
-article_lead: Pack the Place - Baseball and Softball
+article_lead: Pack the Park on April 20
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-
 Cheer on the Cavaliers at Pack the Place games Wednesday, April 20 beginning at 2 p.m. with the softball game vs. John Wood Community College and at 3 p.m. with the baseball game vs. Kishwaukee Community College.
 
 ![KCC Baseball logo](/uploads/2022/cavaliers-baseball-color-no-drop---copy.jpg){: .float-md-left.mr-md-2 width="300" height="150"}
