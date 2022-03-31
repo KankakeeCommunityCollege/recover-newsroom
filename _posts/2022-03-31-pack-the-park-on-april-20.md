@@ -9,11 +9,12 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/cavaliers-250.jpg){: .float-image-right width="250" height="192"}Cheer on Cavaliers baseball and softball at Pack the Place games Wednesday, April 20
+![Kankakee Community College Cavaliers Athletics](/uploads/2022/cavaliers-250.jpg){: .float-md-right.ml-2 width="250" height="192"}
 
-Cavs softball vs. John Wood Community College at 2 p.m.<br>Cavs baseball vs. Kishwaukee College at 3 p.m.
+Cheer on Cavaliers baseball and softball at Pack the Place games Wednesday, April 20
 
-&nbsp;
+- Cavs softball vs. John Wood Community College at 2 p.m.
+- Cavs baseball vs. Kishwaukee College at 3 p.m.
 
 Show your school pride and support our Cavaliers as they compete. Admission is free. Don't miss the action packed fun\! There also will be free refreshments at both games while supplies last.
 
