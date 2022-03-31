@@ -2,7 +2,7 @@
 title: Pack the Park on April 20
 date: 2022-03-31 00:00:00 -0500
 expire_date: 2021-04-20 00:00:00 -0500
-image: /uploads/2022/kccathleticslogo.jpg
+image: /uploads/2022/kccathleticslogo-1.jpg
 news_image_alt: KCC Cavaliers Athletics logo
 article_lead: Pack the Place - Baseball and Softball
 video_content: false
