@@ -21,4 +21,4 @@ Applications are now being accepted, and classes will begin in August 2022. The 
 
 For questions or to reserve a seat at one of the information sessions, contact Schunke at [nschunke@kcc.edu](mailto:nschunke@kcc.edu) or phone 815-802-8784.&nbsp;
 
-Please see a detailed [flier about the program](/FastPath-info-night2022.pdf) and a [brief video](https://youtu.be/43Cwb0JEtUQ){: target="_blank" rel="noopener"} of what current Fast Path students have to say about their experience.
+Please see a detailed [flier about the program](/uploads/2022/pdf/fast-path_info-night2022.pdf){: target='_blank' rel='noopener noreferrer' } and a [brief video](https://youtu.be/43Cwb0JEtUQ){: target="_blank" rel="noopener"} of what current Fast Path students have to say about their experience.
