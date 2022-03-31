@@ -21,11 +21,11 @@ Typically, KCC has about 60 veterans who enroll each year, according to the coll
 
 According to Victory Media, which publishes “GI Jobs,” schools were evaluated using both public data sources and responses from its own survey. Ratings were determined by combining the institution’s survey scores with the assessment of the institution’s ability to meet thresholds for Student Retention, Graduation, Job Placement, Loan Repayment, Persistence (Degree Advancement or Transfer) and Loan Default rates for all students and, specifically, for student veterans.
 
-The 2022-23 Military Friendly&reg; Schools list will be published in the May and October issue of G.I. Jobs magazine and can be found at [www.militaryfriendly.com](file:///C:/Users/ksouligne/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/L6BJQ9RZ/www.militaryfriendly.com).
+The 2022-23 Military Friendly&reg; Schools list will be published in the May and October issue of G.I. Jobs magazine and can be found at [www.militaryfriendly.com](https://www.militaryfriendly.com/schools/){: target="_blank" rel="noopener"}.
 
 “Military Friendly&reg; is committed to transparency and providing consistent data-driven standards in our designation process,” said Kayla Lopez, national director of military partnerships, Military Friendly&reg;. “Our standards provide a benchmark that promotes positive outcomes and support services that better the educational landscape and provide opportunity for the Military Community. This creates a competitive atmosphere that encourages colleges to evolve and invest in their programs consistently. Schools who achieve awards designation show true commitment in their efforts, going over and above that standard.”
 
-More information about educational benefits for military veterans, spouses and dependents, is at [kcc.edu/veterans](mailto:kcc.edu/veterans). Community members and prospective students can request information at [veterans.kcc.edu](http://veterans.kcc.edu), by emailing [finaid@kcc.edu](mailto:finaid@kcc.edu)<u>,</u> or phoning 815-802-8550.
+More information about educational benefits for military veterans, spouses and dependents, is at [www.kcc.edu/veterans](https://www.kcc.edu/admissions/veterans/). Community members and prospective students can request information at [veterans.kcc.edu](http://veterans.kcc.edu), by emailing [finaid@kcc.edu](mailto:finaid@kcc.edu)<u>,</u> or phoning 815-802-8550.
 
 #### Student Veterans of America conference
 {: .typography__h4}
