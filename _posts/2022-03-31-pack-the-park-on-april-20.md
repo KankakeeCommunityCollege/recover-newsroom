@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Kankakee Community College Cavaliers Athletics](/uploads/2022/cavaliers-250.jpg){: .float-md-right.ml-2 width="250" height="192"}
+![Kankakee Community College Cavaliers Athletics](/uploads/2022/cavaliers-250.jpg){: .float-md-right.ml-md-2 width="250" height="192"}
 
 Cheer on Cavaliers baseball and softball at Pack the Place games Wednesday, April 20
 
