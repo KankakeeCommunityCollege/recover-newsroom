@@ -17,4 +17,4 @@ The email invitation came from Paul Umbach, co-founder of the RISC survey,
 
 All students are asked to complete the survey. It will take less than 10 minutes, and responses are confidential. Respondents will be entered into a drawing to win a $50 Amazon gift card from KCC.
 
-Anyone with questions is invited to contact Dr. Lesley Cooper, director of institutional effectiveness and assessment, at&nbsp;[lcooper@kcc.edu](mailto:lcooper@kcc.edu).
+Anyone with questions is invited to contact Dr. Lesley Cooper, director of institutional effectiveness and assessment, at [lcooper@kcc.edu](mailto:lcooper@kcc.edu).
