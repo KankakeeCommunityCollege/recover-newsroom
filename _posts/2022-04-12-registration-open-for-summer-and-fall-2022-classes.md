@@ -1,5 +1,5 @@
 ---
-title: Registration open for Summer and Fall 2022 classes
+title: Registration open for Summer & Fall '22
 date: 2022-04-12 00:00:00 -0500
 expire_date: 2022-08-15 00:00:00 -0500
 image: /uploads/2022/kccregistration-580x387.jpg
@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Registration is under way for Kankakee Community College’s summer term and fall semester courses.
+Registration is underway for Kankakee Community College’s summer term and fall semester courses.
 
 The college has returned to mostly in-person learning, while continuing to offer some classes online and in a “hybrid” format. Hybrid courses are partially in-person and partially online. In-person courses are held at KCC’s Riverfront campus in Kankakee, Manufacturing and Industrial Technology Center in Kankakee, and the South Extension Center in Watseka.
 
@@ -33,6 +33,10 @@ KCC’s Riverfront Campus in Kankakee is located at 100 College Drive, south of 
 
 Students also can register and meet with advisers at the KCC South Extension Center, 1488 E. Walnut St. in Watseka, next to the Watseka Riverside Medical Center facility. Extension center advising hours are Tuesday and Thursday, 9 a.m. - 5 p.m. and other times by appointment. The phone number is 815-432-4670.
 
-![](/uploads/2022/danielcross-350x233.jpg){: .float-image-left width="350" height="233"}“There is an extension center here in my home town of Watseka, Illinois,“ said Daniel Cross. “This has allowed me to take many of my prerequisites right here close to home. Also with choosing Nursing as my field of study, KCC has a strong nursing program. So far, my encounters with the teachers and staff at KCC has been great\! I feel like the way a lot of these teachers have led their classes has been in a fun, but challenging way. The creativity and passion many have in their area of study shows up in the classroom. I think KCC is not only a good choice but a smart one. I am able to get a great education at an affordable cost. It also isn't as overwhelming as big campuses might be. I am looking forward to the University setting, but KCC is for sure preparing me to succeed in higher levels of education. The smaller class sizes allows students to get to know the teacher and fellow classmates a lot easier than a big 200+ size class at a University. This also makes the teacher more accessible if you need help on a topic in class.”
-
 For further information, make a request at [register.kcc.edu](https://register.kcc.edu/) or phone 815-802-8500.
+
+## Current student: Daniel Cross of Watseka
+
+![](/uploads/2022/danielcross-350x233.jpg){: .float-image-left width="350" height="233"}“There is an extension center here in my home town of Watseka, Illinois. This has allowed me to take many of my prerequisites right here close to home. Also with choosing Nursing as my field of study, KCC has a strong nursing program. So far, my encounters with the teachers and staff at KCC has been great\! I feel like the way a lot of these teachers have led their classes has been in a fun, but challenging way. The creativity and passion many have in their area of study shows up in the classroom. I think KCC is not only a good choice but a smart one. I am able to get a great education at an affordable cost. It also isn't as overwhelming as big campuses might be. I am looking forward to the University setting, but KCC is for sure preparing me to succeed in higher levels of education. The smaller class sizes allows students to get to know the teacher and fellow classmates a lot easier than a big 200+ size class at a University. This also makes the teacher more accessible if you need help on a topic in class.”
+
+&nbsp;
