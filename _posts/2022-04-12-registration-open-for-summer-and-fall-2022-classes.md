@@ -1,0 +1,38 @@
+---
+title: Registration open for Summer and Fall 2022 classes
+date: 2022-04-12 00:00:00 -0500
+expire_date: 2022-08-15 00:00:00 -0500
+image: /uploads/2022/kccregistration-580x387.jpg
+news_image_alt: KeMia Smith, General Chemistry II student at KCC
+article_lead: In-person, online and hybrid classes available
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+Registration is under way for Kankakee Community College’s summer term and fall semester courses.
+
+The college has returned to mostly in-person learning, while continuing to offer some classes online and in a “hybrid” format. Hybrid courses are partially in-person and partially online. In-person courses are held at KCC’s Riverfront campus in Kankakee, Manufacturing and Industrial Technology Center in Kankakee, and the South Extension Center in Watseka.
+
+There are two general paths for KCC students: transfer and career/technical education. Transfer students enroll in programs and courses which lead to a four-year college/university degree. Career/technical students have multiple options which lead to certifications, degrees and employment.&nbsp;
+
+“There are a number of ways to enroll at KCC for little or no cost,” said Kiana Battle, Ed.D., vice president for academic affairs. “Qualified students can join the [One Workforce Grant](https://skills.kcc.edu/) or the [Workforce Innovation and Opportunity Act](https://wioa.kcc.edu/). They offer scholarships which cover tuition for programs that lead to employment in high-demand positions. More widely known sources such as [KCC Foundation scholarships](https://foundation.kcc.edu/scholarships), grants and other financial aid remain available.”
+
+Multiple start dates are offered. Most summer classes begin in June; and Fall classes begin in August, September and October.&nbsp;![](/uploads/2022/dakotabrooks-350x233.jpg){: .float-image-right width="350" height="233"}
+
+“The best advice I could give to a future student attending KCC is to find balance,” said Dakota Brooks, a KCC sophomore from Bourbonnais. “Whether you’re commuting from home, or living off campus, or something else, college can be a huge change. If you’re able to find a balance between life, work, and school, the change will be a lot less stressful for you.”
+
+New students can start by submitting an application online at [<u>https://apply.kcc.edu</u>](https://apply.kcc.edu/). After applying, Registration for new students takes place during the Cav Day Orientation experience when the student meets with a KCC advisor.
+
+Returning students can use the My KCC portal at [<u>https://my.kcc.edu</u>](https://my.kcc.edu/) and go to the “Self-Service” link to register. In addition, registration and advising appointments for returning students are available at [<u>www.kcc.edu/student-resources/advising/</u>](http://www.kcc.edu/student-resources/advising/).
+
+All students are encouraged to register early for the best selection of classes.&nbsp;
+
+College offices will be closed most Fridays from May 20 until July 29. The college also is closed May 30 and July 4 for holidays.
+
+KCC’s Riverfront Campus in Kankakee is located at 100 College Drive, south of downtown Kankakee. Directions to KCC are at&nbsp;[<u>www.kcc.edu/about/#riverfront-campus</u>](https://news.kcc.edu/www.kcc.edu/about/%22%20%5Cl%20%22riverfront-campus).
+
+Students also can register and meet with advisers at the KCC South Extension Center, 1488 E. Walnut St. in Watseka, next to the Watseka Riverside Medical Center facility. Extension center advising hours are Tuesday and Thursday, 9 a.m. - 5 p.m. and other times by appointment. The phone number is 815-432-4670.
+
+![](/uploads/2022/danielcross-350x233.jpg){: .float-image-left width="350" height="233"}“There is an extension center here in my home town of Watseka, Illinois,“ said Daniel Cross. “This has allowed me to take many of my prerequisites right here close to home. Also with choosing Nursing as my field of study, KCC has a strong nursing program. So far, my encounters with the teachers and staff at KCC has been great\! I feel like the way a lot of these teachers have led their classes has been in a fun, but challenging way. The creativity and passion many have in their area of study shows up in the classroom. I think KCC is not only a good choice but a smart one. I am able to get a great education at an affordable cost. It also isn't as overwhelming as big campuses might be. I am looking forward to the University setting, but KCC is for sure preparing me to succeed in higher levels of education. The smaller class sizes allows students to get to know the teacher and fellow classmates a lot easier than a big 200+ size class at a University. This also makes the teacher more accessible if you need help on a topic in class.”
+
+For further information, make a request at [register.kcc.edu](https://register.kcc.edu/) or phone 815-802-8500.
