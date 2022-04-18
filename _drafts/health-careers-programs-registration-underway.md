@@ -33,14 +33,20 @@ Accredited by the Accreditation Commission for Education in Nursing
 
 Paramedic<br>Accredited by the Commission on Accreditation of Allied Health Education Programs
 
-100% pass rate (2019-20 grads)<br>100% job placement (2019-20 grads)
+100% certification pass rate (2019-20 grads)<br>100% job placement (2019-20 grads)
 
 Physical Therapist Assistant<br>Accredited by the Commission on Accreditation in Physical Therapy Education
 
-100% pass rate (2014-20 grads)<br>100% job placement (2014-20 grads)
+100% certification pass rate (2014-20 grads)<br>100% job placement (2014-20 grads)
 
 Radiography
 
-100% pass rate (2010-20 grads)<br>100% job placement (2018-21 grads)
+100% certification pass rate (2010-20 grads)<br>100% job placement (2018-21 grads)
+
+Registered Nursing
+
+Accredited by the Accreditation Commission for Education in Nursing<br>94% certification pass rate (2020 grads)<br>100% job placement (2016-20 grads)
+
+&nbsp;
 
 &nbsp;
