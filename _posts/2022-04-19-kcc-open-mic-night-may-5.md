@@ -1,5 +1,5 @@
 ---
-title: KCC Open Mic Night May 5
+title: Open Mic Night May 5
 date: 2022-04-19 00:00:00 -0500
 expire_date: 2022-05-05 00:00:00 -0500
 image: /uploads/2022/openmic-580x580.jpg
