@@ -11,6 +11,6 @@ press_release: false
 ---
 KCC's Veterans Club & Music Club will be hosting an [Open Mic Night](/uploads/2022/open-mic-flyer.png){: target="_blank" rel="noopener"} on Thursday, May 5 from 6 p.m. - 9 p.m. in the Iroquois Room at the Riverfront Campus.
 
-The event is free to enter, with donations welcome. Food and drinks will be sold on site.
+The event is free. Donations welcome. Food and drinks will be sold on site.
 
 For questions, contact [Jason Rodriguez](mailto:jrodriguez@kcc.edu) or [Quante Grant](mailto:qgrant@student.kcc.edu).
