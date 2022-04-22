@@ -4,12 +4,12 @@ date: 2022-04-22 00:00:00 -0500
 expire_date: 2022-05-14 00:00:00 -0500
 image: /uploads/2022/kccgraduates-580x387.jpg
 news_image_alt: 2021 graduates Dioselin Andrade and Oscar Barbosa
-article_lead: KCC's 2022 commencement is May 14
+article_lead: Commencement is May 14
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-More than 400 degrees and certificates will be conferred at the 53th annual![2021 graduates Keionica Tanzie and Veronica Tanzie](/uploads/2022/grad2350x233.jpg "2021 graduates Keionica Tanzie and Veronica Tanzie"){: .float-image-right width="350" height="233"} Kankakee Community College commencement ceremony at 10 a.m. Saturday, May 14 in the George H. Ryan Gymnasium in the college's Activities Building.
+More than 400 degrees and certificates will be conferred at the 53rd annual Kankakee Community College commencement ceremony at 10 a.m. Saturday, May 14 in the George H. Ryan Gymnasium in the college's Activities Building.
 
 “It means a lot to me,” said KCC graduate Margaret Corpening of Bradley. “When I first started back in the fall of 2014 I was so determined to achieve my associate’s.” Then Corpening’s father passed away. “I took four years off because I wasn't ready,” she said. “In 2019, I had my second child and realized that I need to set a better future for my kids. I know my dad would be proud of me taking this first leap towards my career. I stumbled and fell, but eventually got back up\!”
 
@@ -31,4 +31,4 @@ The ceremony will last about 90 minutes. Wristbands given to graduates will be r
 
 For guests needing assistance or special accommodations, entry will begin at 8:45 a.m. General seating begins at 9 a.m. Guests are asked not to bring balloons and other large items that could obstruct the view of ![2021 graduate Katherine Sullivan and her husband](/uploads/2022/grad1350x233.jpg "2021 graduate Katherine Sullivan and her husband"){: .float-image-left width="350" height="233"}others.
 
-KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee. Directions to KCC are at&nbsp;[www.kcc.edu/about/\#riverfront-](https://news.kcc.edu/www.kcc.edu/about/#riverfront-campus)[campus](https://news.kcc.edu/www.kcc.edu/about/#riverfront-campus).
+![](/uploads/2022/grad2350x233.jpg){: .float-image-right width="350" height="233"}KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee. Directions to KCC are at&nbsp;[www.kcc.edu/about/\#riverfront-](https://news.kcc.edu/www.kcc.edu/about/#riverfront-campus)[campus](https://news.kcc.edu/www.kcc.edu/about/#riverfront-campus).
