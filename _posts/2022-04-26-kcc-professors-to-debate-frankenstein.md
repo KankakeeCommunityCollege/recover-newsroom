@@ -2,9 +2,9 @@
 title: KCC professors to debate "Frankenstein"
 date: 2022-04-26 00:00:00 -0500
 expire_date: 2022-05-05 00:00:00 -0500
-image: /uploads/2022/maryshelley-489x580.jpg
+image: /uploads/2022/frankenstein-498x582.jpg
 news_image_alt: Mary Shelley, author of "Frankenstein"
-article_lead: Debate will be held Thursday, May 5
+article_lead: Real? Or psychological construct?
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
