@@ -18,31 +18,31 @@ The [Health Careers Applications process](https://kcc.smartcatalogiq.com/current
 Prospective students also meet with a KCC health careers adviser and take the HESI A2 exam.
 
 ##### KCC Health Careers information
-{: .typography__h5 }
+{: .h5 }
 
 ###### Licensed Practical Nursing
-{: .typography__h6 }
+{: .h6 }
 
 Accredited by the Accreditation Commission for Education in Nursing
 
 90% certification pass rate (2020 grads)<br>100% job placement (2013-20 grads)
 
 ###### Medical Laboratory Technology
-{: .typography__h6 }
+{: .h6 }
 
 Accredited by the National Accrediting Agency for Clinical Laboratory Sciences.
 
 97% certification pass rate (2018-20 grads)<br>92% job placement (2018-20 grads)
 
 ###### Paramedic
-{: .typography__h6 }
+{: .h6 }
 
 Accredited by the Commission on Accreditation of Allied Health Education Programs
 
 100% certification pass rate (2019-20 grads)<br>100% job placement (2019-20 grads)
 
 ###### Physical Therapist Assistant
-{: .typography__h6 }
+{: .h6 }
 
 [View the PTA flier](/uploads/2022/pdf/Physical-Therapist-Assistant-Flier-PTA_from-APTA.pdf){: target='_blank' rel='noopener noreferrer' }
 
@@ -51,12 +51,12 @@ Accredited by the Commission on Accreditation in Physical Therapy Education
 100% certification pass rate (2014-20 grads)<br>100% job placement (2014-20 grads)
 
 ###### Radiography
-{: .typography__h6 }
+{: .h6 }
 
 100% certification pass rate (2010-20 grads)<br>100% job placement (2018-21 grads)
 
 ###### Registered Nursing
-{: .typography__h6 }
+{: .h6 }
 
 Accredited by the Accreditation Commission for Education in Nursing
 
