@@ -90,6 +90,8 @@ _comments:
   video_content: "Place a check in the box if the post contains a YouTube embed. (Be sure to clear the check-box if your post does not contain a YouTube video.)"
   video_link: Paste your YouTube share link here. <br>YouTube share links look like "https://youtu.be/RVd1gnq4iOc"
   press_release: Check this box to display the press-release info at the bottom of the post.
+  _posts:
+    title: Do not use an ampersand ("&") unless surrounded by spaces (i.e. " & " is the only allowable use of an ampersand.)
 
 _options:
   content:
