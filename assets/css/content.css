@@ -1,27 +1,20 @@
-html,
-body {
-  overflow-x: hidden;
-}
+/* Custom style sheet for providing custom styles in CloudCannon  */
+
+/* MUST BE 100% UNCOMPRESSED CSS AKA EXPANDED
+   EACH CLASS MUST HAVE 1 ELEMENT IT APPLIES TO */
 
 img.float-image-left {
-  max-width: 100%;
   height: auto;
+  float: left;
+  max-width: 100%;
+  padding-right: .5rem;
 }
 
 img.float-image-right {
-  max-width: 100%;
   height: auto;
-}
-
-@media screen and (min-width: 992px) {
-  img.float-image-left {
-    float: left;
-    margin: 10px;
-  }
-  img.float-image-right {
-    float: right;
-    margin: 10px;
-  }
+  float: right;
+  max-width: 100%;
+  padding-left: .5rem;
 }
 
 img.no-float {
@@ -33,16 +26,40 @@ img.center-image {
   margin-right: auto;
   max-width: 100%;
   height: auto;
-}
-
-.align-left {
-  text-align: left;
-}
-
-.align-right {
-  text-align: right;
-}
-
-.center-this-text {
   text-align: center;
+}
+
+h2.typography__h2 {
+  color: #666;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+h3.typography__h3 {
+  color: #0f3b63;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+h4.typography__h4 {
+  color: #c61f48;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+h5.typography__h5 {
+  color: #666;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+h6.typography__h6 {
+  color: #666;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
 }

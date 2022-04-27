@@ -13,4 +13,4 @@ press_release: false
 
 While the cafeteria is closed, soda machines and the College Center microwave will be available.
 
-We apologize for any inconvenience. Services will resume Monday, Aug. 1.
+We apologize for any inconvenience. Services will resume Monday, Aug.&nbsp;1.
