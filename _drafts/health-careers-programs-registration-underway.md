@@ -19,7 +19,7 @@ Prospective students also meet with a KCC health careers adviser and take the HE
 
 For more information, contact KCC at [info.kcc.edu](https://info.kcc.edu){: target="_blank" rel="noopener"}.
 
-##### KCC Health Careers information<br>&nbsp;
+##### KCC Health Careers<br>&nbsp;
 {: .h5}
 
 ###### Licensed Practical Nursing
