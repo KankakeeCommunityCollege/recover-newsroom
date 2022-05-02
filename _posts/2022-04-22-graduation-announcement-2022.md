@@ -15,7 +15,7 @@ More than 400 degrees and certificates will be conferred at the 53rd annual Kank
 
 A number of students, faculty and alumni accomplishments will be recognized.
 
-![Larry Huffman, Ph.D.](/uploads/2022/huffman-dsc-7390-200x250.jpg "Larry Huffman, Ph.D."){: .float-image-left width="200" height="250"}The speaker will be a former president of the college, Larry Huffman, Ph.D. In all, Huffman worked at KCC for 24 years, first as executive vice president for academic programs & services. After serving for 10 years as KCC’s president, Huffman retired in March of 2001. He then worked in the private sector and at other colleges for several years. Huffman also served as interim-president at KCC for five months in 2009.
+![Larry Huffman, Ph.D.](/uploads/2022/huffman-dsc-7390-200x250.jpg "Larry Huffman, Ph.D."){: .float-image-left width="200" height="250"}The speaker will be a former president of the college, Larry Huffman, Ph.D. In all, Huffman worked at KCC for 24 years, first as executive vice president for academic programs & services. After serving for 14 years as KCC’s president, Huffman retired in March of 2001. He then worked in the private sector and at other colleges for several years. Huffman also served as interim-president at KCC for five months in 2009.
 
 A native of the Spoon River area of west-central Illinois, Huffman chairs his former high school's educational foundation and funds college scholarships in memory of his parents there.
 
