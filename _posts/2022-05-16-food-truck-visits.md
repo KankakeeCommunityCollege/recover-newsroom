@@ -20,6 +20,6 @@ In May and June, five visits are planned so far:
 * [Monster Grilled Cheese Food Truck](https://www.facebook.com/people/Monster-Grilled-Cheese-More/100063684804715/){: target="_blank" rel="noopener"}\: May 19 & May 26; 11 a.m. - 2 p.m.
 * [Que It Up BBQ](https://www.facebook.com/QueItUpCafe){: target="_blank" rel="noopener"}\: May 24, June 2 & June 9;&nbsp; 11 a.m. - 2 p.m.
 
-Additional dates and vendors might be added. All Food Trucks visit dates, times and truck vendor names are in the [KCC events calendar](https://news.kcc.edu/events/){: target="_blank" rel="noopener"}. Look for events with the Food Truck graphic.
+Additional dates and vendors might be added. All Food Trucks visit dates, times and vendor names are in the [KCC events calendar](https://news.kcc.edu/events/){: target="_blank" rel="noopener"}. Look for events with the Food Truck graphic.
 
 &nbsp;
