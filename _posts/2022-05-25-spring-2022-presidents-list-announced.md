@@ -11,7 +11,7 @@ press_release: false
 ---
 The following students have been named to the President’s List at Kankakee Community College for the Spring 2022 semester.
 
-To be named to the President’s List, a student must maintain a grade point average of 3.80 or higher and be enrolled in six or more credit hours.
+To be named to the President’s List, students must maintain a grade point average of 3.80 or higher and be enrolled in six or more credit hours.
 
 * **Aroma Park:**&nbsp;Mason Alberts.
 * **Ashkum:**&nbsp;Kalyn Alberts, Ava Crabtree, Jackson Harrington, Kaylee Mathy and Delana Shreffler.
