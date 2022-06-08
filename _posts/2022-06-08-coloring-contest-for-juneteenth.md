@@ -9,9 +9,11 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/juneteenth-coloring-graphic280x178.jpg){: .float-image-right width="280" height="178"}The KCC Center for Equity, Diversity and Inclusion is holding a Juneteenth coloring contest until June 15.
+![](/uploads/2022/juneteenth-coloring-graphic280x178.jpg){: .float-image-right width="280" height="178"}The KCC [Center for Equity, Diversity and Inclusion](https://www.kcc.edu/EDI) is holding a Juneteenth coloring contest until June 15.
 
-To participate, kids under age 12 are invited to download a coloring sheet, color it and send it back by June 15. There are two ways to return the coloring sheets: in person at the KCC North Extension Center, 450 N. Kinzie Ave. in Bradley; or by taking a photo of the entry and sending it by email to [wmittons@kcc.edu](mailto:wmittons@kcc.edu).
+To participate, kids under age 12 are invited to start by&nbsp;[downloading a coloring sheet](/uploads/2022/pdf/Juneteenth-ColoringSheet_2022.pdf). The sheet includes an image of the Juneteenth flag and the words "Juneteenth Freedom Day." Those unfamiliar with the flag can research the Juneteenth flag to learn about the inspiration for the image, and the flag colors.&nbsp;
+
+The contest ends June 15. There are two ways to return the coloring sheets: in person at the KCC North Extension Center, 450 N. Kinzie Ave. in Bradley; or by taking a photo of the entry and sending it by email to [wmittons@kcc.edu](mailto:wmittons@kcc.edu).
 
 Prizes will be awarded to one participant from each age group: ages 4-6, ages 7-9 & ages 10-12.&nbsp;
 
