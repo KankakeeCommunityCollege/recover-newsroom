@@ -1,10 +1,10 @@
 ---
-title: Live Music and Fireworks at KCC
+title: Live music and fireworks at KCC
 date: 2022-06-20 00:00:00 -0500
 expire_date: 2022-07-03 00:00:00 -0500
 image: /uploads/2022/independ-day-2022-580x688.jpg
 news_image_alt: Independence Day celebration July 2
-article_lead: KVSO's 2022 4th of July Celebration
+article_lead: Celebration benefits local symphony
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
