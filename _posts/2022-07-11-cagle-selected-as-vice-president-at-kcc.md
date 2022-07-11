@@ -1,0 +1,32 @@
+---
+title: Cagle selected as vice president at KCC
+date: 2022-07-11 00:00:00 -0500
+expire_date: 2022-07-31 00:00:00 -0500
+image: /uploads/2022/cagle-sheri-580x580.jpg
+news_image_alt: Sheri Cagle
+article_lead: New vice president for academic affairs
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+Kankakee Community College has appointed Sheri Cagle as vice president for academic affairs.
+
+Cagle’s roots at KCC go back more than 30 years. Her first job at KCC was in 1990 as an adjunct nursing instructor. In 2007, she accepted a full-time faculty position in KCC’s nursing department. She became professor/clinical coordinator for nursing programs in 2010. From 2012 until the recent promotion, she was associate dean of health careers, then dean of health careers. That position is responsible for oversight of 14 health career programs, including curriculum development, staffing and budgeting. In 2020, on an interim basis, Cagle provided general oversight and management to the Academic Affairs Division.
+
+Both of Cagle’s children are KCC graduates. Victoria Sikma-Felty, MSN FNP, is an emergency room nurse at Eskenazi Health in Indianapolis; and Joseph Sikma is a financial advisor (trainee) for Stifel Financial Corp. in Bourbonnais.
+
+As vice president, Cagle is responsible for KCC credit division instructional services, faculty development and instructional technology, the Miner Memorial Library, tutoring services, Perkins Grant management, and oversight of the Manufacturing and Industrial Technology Center.
+
+Prior to joining KCC's faculty full-time, Cagle worked as a registered nurse for Riverside Medical Center in Kankakee and ABC Pediatrics in Bourbonnais.
+
+“I am fortunate to end my 30-year career at KCC as the vice president for academic affairs,” Cagle said. “Through the years, I have watched KCC impact our community one student at a time. I have personally seen the value and impact KCC has in our community by having both of my children graduate from KCC. They had opportunities to go elsewhere, but chose to come to KCC because of the quality of education that KCC offers. They both flourished here before moving onto four-year universities.”
+
+“Sheri Cagle knows well what it takes to achieve excellence in academic and career programs,” said Michael Boyd, Ph.D., KCC’s president. &nbsp;“As an academic dean at KCC, her leadership resulted in some of this region’s strongest health career programs. I’m confident that she will bring this same commitment to quality and excellence with her as she steps into the role of vice president. She’s also been a catalyst for a host of innovations in health care education, and I look for her to spur creative thinking across the college now as we find new ways to connect with students and help them achieve success here at KCC.”
+
+Cagle has also served on the Riverside Medical Center Oakside Board and as Allocation Committee chairperson for the United Way of Kankakee County Board. In 2015, Cagle received the United Way "Rookie of the Year" award.
+
+A native of Sterling, Illinois, Cagle has a bachelor's degree in nursing from Olivet Nazarene University in Bourbonnais and a master's degree from St. Xavier University in Chicago.
+
+Cagle is filling the position previously held by Kiana Battle, Ed.D., who left KCC in June to become the dean of liberal arts at Moraine Valley Community College in Palos Hills.
+
+Cagle resides in Manteno with her husband, David.
