@@ -1,15 +1,15 @@
 ---
-title: Nugent selected as vice president of new KCC role
+title: Nugent promoted to vice president
 date: 2022-07-18 00:00:00 -0500
 expire_date: 2022-08-08 00:00:00 -0500
 image: /uploads/2022/karinugent-580x580.jpg
 news_image_alt: Kari Nugent
-article_lead: Leader for advancement, marketing, and public relations
+article_lead: New role covers advancement & marketing
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Kari Nugent has been promoted to vice president at Kankakee Community College to provide strategic direction and leadership for KCC’s advancement, marketing, and communication initiatives.
+![](/uploads/2022/kari-nugent-250x313.jpg){: .float-image-right width="250" height="313"}Kari Nugent has been promoted to vice president at Kankakee Community College to provide strategic direction and leadership for KCC’s advancement, marketing, and communication initiatives.
 
 Formerly, Nugent had been director of marketing and public relations at KCC since 2004. In the newly created role of vice president for advancement, marketing and public relations, Nugent will build relationships with donors and stakeholders of the KCC Foundation. She will also assist in developing and integrating strategic plans and coordinating resource development at the college. Nugent will continue to oversee the college's website, advertising, brand initiatives, printing/production, and internal and external communication.
 
