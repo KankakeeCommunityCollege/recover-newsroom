@@ -2,14 +2,14 @@
 title: Food service will re-open Aug. 22
 date: 2022-07-21 00:00:00 -0500
 expire_date: 2022-08-20 00:00:00 -0500
-image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
+image: /uploads/2022/food-service-temp-closed-newsroom-grpahic-002.jpg
 news_image_alt: Add descriptive text for the post's image
 article_lead: Some options still available
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-KCC’s food service and cafeteria will remain closed until the start of fall classes on Aug. 22, 2022.
+![](/uploads/2022/temp-closed200x120.jpg){: .float-image-right width="200" height="120"}KCC’s food service and cafeteria will remain closed until the start of fall classes on Aug. 22, 2022.
 
 We apologize for any inconvenience.
 
