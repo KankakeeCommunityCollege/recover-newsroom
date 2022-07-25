@@ -17,4 +17,4 @@ The following sources are still available:&nbsp;<br>•&nbsp; &nbsp; College Cen
 
 The final food truck visit for the summer was July 21. Thank you to everyone who came out and supported local businesses by making purchases from the [Monster Grilled Cheese](https://www.facebook.com/profile.php?id=100063684804715){: target="_blank" rel="noopener"} truck and the [Que it Up](https://www.facebook.com/QueItUpCafe){: target="_blank" rel="noopener"} BBQ Truck\!
 
-Arena Food Service will cater some events at KCC between Aug. 1 and 22.
+Arena Food Service will cater some events at KCC between Aug. 15 and 22.
