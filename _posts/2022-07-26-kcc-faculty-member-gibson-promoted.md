@@ -1,0 +1,24 @@
+---
+title: KCC faculty member Gibson promoted
+date: 2022-07-26 00:00:00 -0500
+expire_date: 2022-08-26 00:00:00 -0500
+image: /uploads/2022/chrisgibson-580x580.jpg
+news_image_alt: Christopher Gibson
+article_lead: New dean of health careers
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+![Christopher Gibson](/uploads/2022/chrisgibson-250x313.jpg "Christopher Gibson"){: .float-image-right width="250" height="313"}Kankakee Community College has promoted a faculty member to become dean of health careers.
+
+Christopher Gibson will become dean of health careers on Aug. 1. In this role, Gibson will work with directors of each health career program on curriculum development, staffing and budgeting. KCC currently has 14 health careers programs: Coding Specialist, Exercise Science, Medical Laboratory Technology, Medical Laboratory Assistant, Phlebotomy, Practical Nursing, Registered Nursing, Nursing Assistant, Paramedic, Emergency Medical Technician-Paramedic, Emergency Medical Technician-Basic, Physical Therapist Assistant, Radiography and Respiratory Therapist.
+
+The college also offers the Health Careers Honors option, which begins with qualified students enrolling in a “fast track” semester of prerequisite courses. After successfully completing each class during the prerequisite class semester with a grade of C or better, students earn guaranteed entry into their choice among these five associate degree options: Paramedic, Physical Therapist Assistant, Radiography, Registered Nursing, and Respiratory Therapist.
+
+In 2018, Gibson joined KCC’s faculty as professor and director of paramedic programs. Prior to working for KCC, Gibson served a total of 13 years as a paramedic for Riverside Ambulance, and firefighter/paramedic for the Bourbonnais Fire Protection District and Limestone Fire Department. He is also a veteran of the U.S. Army National Guard.
+
+Gibson has an Associate in Applied Science Degree in paramedic from KCC, a bachelor’s degree from Olivet Nazarene University and a master’s degree in business administration from Olivet. He also earned the Master Online Teacher Certificate and a Digital Accessibility for Educators Certificate from the University of Illinois at Springfield.
+
+Formerly, the dean of health careers was Sheri Cagle, who recently became KCC’s vice president for academic affairs.
+
+Gibson can be reached at [cgibson@kcc.edu](mailto:cgibson@kcc.edu) or 815-802-8815. Gibson lives in Bourbonnais with his wife, Liz, and their daughter.
