@@ -1,10 +1,10 @@
 ---
-title: KCC faculty member Gibson promoted
+title: Gibson promoted within health careers division
 date: 2022-07-26 00:00:00 -0500
 expire_date: 2022-08-26 00:00:00 -0500
 image: /uploads/2022/chrisgibson-580x580.jpg
 news_image_alt: Christopher Gibson
-article_lead: New dean of health careers
+article_lead: New role begins Aug. 1
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
