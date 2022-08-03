@@ -11,7 +11,7 @@ press_release: false
 ---
 <br>![](/uploads/2022/job-fair-250x305.jpg){: .float-image-right width="305" height="250"}Kankakee Community College will sponsor a Job Fair from 9 a.m. - noon on Thursday, Sept. 29.&nbsp;
 
-Booths are available, free of charge, for area businesses to participate. The reservation deadline is Sept. 26. Employers can register at [www.kcc.edu/jobfair](https://www.kcc.edu/jobfair){: target="_blank" rel="noopener"}.&nbsp;
+Booths are available, free of charge, for area businesses to participate. The reservation deadline is Sept. 26. Employers can register at [www.kcc.edu/jobfair](https://www.kcc.edu/jobfair){: target="_blank" rel="noopener"}..
 
 “Today more than ever, a job fair is the quintessential platform for employers and job seekers to make a face-to-face connection,” said Cesar Avalos, coordinator of workforce opportunities at KCC. “It is the opportunity for our students and our community to secure employment leads, and employers to have a conversation with real people, rather than resumes."
 
