@@ -15,6 +15,6 @@ Booths are available, free of charge, for area businesses to participate. The re
 
 “Today more than ever, a job fair is the quintessential platform for employers and job seekers to make a face-to-face connection,” said Cesar Avalos, coordinator of workforce opportunities at KCC. “It is the opportunity for our students and our community to secure employment leads, and employers to have a conversation with real people, rather than resumes."
 
-The Job Fair is sponsored by KCC’s Charlton Career Services Center
+The Job Fair is sponsored by KCC’s Charlton Career Services Center.
 
 For further information, phone 815-802-8202, email [careerservices@kcc.edu](mailto:careerservices@kcc.edu) or visit [www.kcc.edu/jobfair](https://www.kcc.edu/jobfair){: target="_blank" rel="noopener"}.
