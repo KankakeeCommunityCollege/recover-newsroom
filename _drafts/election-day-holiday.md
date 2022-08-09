@@ -15,4 +15,4 @@ In Illinois, Election Day is a holiday in even numbered years, when there is a g
 
 &nbsp;
 
-Photo by Element5 Digital on[www.pexels.com]( www.pexels.com){: target="_blank" rel="noopener"}.
+Photo by Element5 Digital on[www.pexels.com](www.pexels.com){: target="_blank" rel="noopener"}.
