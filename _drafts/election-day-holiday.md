@@ -1,7 +1,7 @@
 ---
 title: Election Day holiday
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2022-08-09 00:00:00 -0500
+expire_date: 2022-11-09 00:00:00 -0600
 image: /uploads/2022/voting-day-580x688.jpg
 news_image_alt: I Voted stickers and board that says "Voting Day"
 article_lead: KCC will be closed Nov. 8, 2022
