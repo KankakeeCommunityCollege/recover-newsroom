@@ -11,7 +11,7 @@ press_release: false
 ---
 Effective Sept. 6, 2022, all of KCC's academic division offices will be in one location: Room W102.
 
-![](/uploads/2022/small-graphic-w102-location300x312.jpg){: .float-image-right width="300" height="312"}Room W102 is on the first floor, in the Prairie Building (between Health Careers and the Technology and Innovation Center). See graphic or this [PDF of the first floor](/uploads/2022/First-floor-rev-5-22-W102-highlight.pdf) .
+![](/uploads/2022/small-graphic-w102-location300x312.jpg){: .float-image-right width="300" height="312"}Room W102 is on the first floor, in the Prairie Building (between Health Careers and the Technology and Innovation Center). See graphic or this [PDF of the first floor](/uploads/2022/First-floor-5-22-highlightW102.pdf) .
 
 The academic divisions are:
 
