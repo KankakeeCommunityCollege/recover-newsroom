@@ -1,9 +1,9 @@
 ---
-title: Training seminar at KCC on eating disorders
+title: 'Eating disorders seminar: Sept. 9'
 date: 2022-08-17 00:00:00 -0500
 expire_date: 2022-09-09 00:00:00 -0500
 image: /uploads/2022/bingeeating-580x580.jpeg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Woman on couch eating a sandwich
 article_lead: Open to all health professionals
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
@@ -17,7 +17,7 @@ The workshop will be Friday, Sept. 9 from 8:30 a.m. - 4:30 p.m. The cost is $99 
 
 A main topic will be how recovery from eating past fullness and bingeing is more than a matter of self-control, weight loss, or even understanding the emotional triggers.
 
-The presenter is Judith Matz, a licensed clinical social worker who is a nationally recognized speaker on diet culture, binge eating, emotional eating, body image, and weight stigma.
+The presenter is Judith Matz (pictured), a licensed clinical social worker who is a nationally recognized speaker on diet culture, binge eating, emotional eating, body image, and weight stigma.
 
 Additional topics will be:
 
