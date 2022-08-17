@@ -13,7 +13,7 @@ While the treatment of eating disorders requires specialized training, it is imp
 
 Kankakee Community College’s Office of Continuing Education and Career Services is offering a one-day training session, “Emotional and Binge Eating, Chronic Dieting, and Body Shame: What Clinicians Need to Know.”
 
-The workshop will be Friday, Sept. 9 from 8:30 a.m. - 4:30 p.m. The cost is $99 per person.
+The workshop will be Friday, Sept. 9 from 8:30 a.m. - 4:30 p.m. The cost is $99 per![Judith Matz](/uploads/2022/judithmatz-250x250.jpg "Judith Matz"){: .float-image-right width="250" height="250"} person.
 
 A main topic will be how recovery from eating past fullness and bingeing is more than a matter of self-control, weight loss, or even understanding the emotional triggers.
 
