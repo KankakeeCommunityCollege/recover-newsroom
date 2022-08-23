@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Nothing Bundt Cakes is coming to KCC's College Center on Tuesday, Sept. 6 from 10 a.m. - 1 p.m. to sell "Bundtlets."
+![](/uploads/2022/bundt-cake150x150.jpg){: .float-image-right width="150" height="150"}Nothing Bundt Cakes is coming to KCC's College Center on Tuesday, Sept. 6 from 10 a.m. - 1 p.m. to sell "Bundtlets."
 
 Proceeds will go to The KCC Foundation to help students in need.
 
