@@ -1,7 +1,7 @@
 ---
 title: Nothing Bundt Cake Fundraiser
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2022-08-23 00:00:00 -0500
+expire_date: 2022-09-06 00:00:00 -0500
 image: /uploads/2022/bundt-cake580x678.jpg
 news_image_alt: Bundt cake
 article_lead: Get delicious 'Bundtlets' Sept. 6
