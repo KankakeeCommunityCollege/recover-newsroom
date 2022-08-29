@@ -3,13 +3,13 @@ title: PTK receives two regional awards
 date: 2022-08-26 00:00:00 -0500
 expire_date: 2022-09-26 00:00:00 -0500
 image: /uploads/2022/ptk-logo-580x580.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Phi Theta Kappa logo
 article_lead: Congratulations, chapter members!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Kankakee Community College’s Phi Theta Kappa chapter, received two awards at this summer’s Illinois Regional convention.
+Kankakee Community College’s Phi Theta Kappa chapter received two awards at this summer’s Illinois Regional convention.
 
 The chapter, [Alpha Delta Eta](https://www.kcc.edu/student-resources/clubs/#phi-theta-kappa), earned the Hall of Honor Officer Team Award for 2021-22 and the College Project Award for 2021-22 for the chapter's involvement with "I Can Go To College" tours.
 
@@ -27,6 +27,6 @@ Phi Theta Kappa is an international academic honor society for community college
 
 The society offers opportunities for scholarships, intellectual enrichment, and personal development through programs based on the society’s hallmarks of scholarship, leadership, service, and fellowship. To be eligible for membership, students must have a cumulative grade point average of 3.5 or higher after completing a minimum of 12 semester hours of KCC coursework.
 
-KCC holds induction ceremonies for new Phi Theta Kappa members each fall and spring semester. This spring’s event was March 25.
+KCC holds induction ceremonies for new Phi Theta Kappa members each fall and spring semester. This spring’s event was March 25. (The included photos are from the September 2021 induction ceremony.)
 
 For more information on the Alpha Delta Eta chapter at KCC, contact a chapter adviser, Montemayer or Hebert, at [jmontemayer@kcc.edu](mailto:jmontemayer@kcc.edu) or [fhebert@kcc.edu](mailto:fhebert@kcc.edu)
