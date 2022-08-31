@@ -11,7 +11,7 @@ press_release: false
 ---
 In the spirit of offering something for everyone, Kankakee Community College is introducing a new program for those who are taking a break from college.
 
-![](/uploads/2022/gapyearlogo254x286.jpg){: .float-image-right width="254" height="286"}The [Gap Year Program](uploads/2022/GapYearPDF-withlink.pdf) will offer career exploration and activities in a low-pressure, no homework environment.
+![](/uploads/2022/gapyearlogo254x286.jpg){: .float-image-right width="254" height="286"}The [Gap Year Program](/uploads/2022/GapYearPDF-withlink.pdf){: target='_blank' rel='noopener noreferrer' } will offer career exploration and activities in a low-pressure, no homework environment.
 
 “Studies have shown that 80% of college students end up changing their major at least once,” said Cesar Avalos, coordinator of workforce opportunities at KCC. “KCC’s Gap year program is designed to narrow down their career path by exploring their passions and interests through practical exercises. Thus, saving them valuable time and resources that would have been spent taking unnecessary coursework.”
 
