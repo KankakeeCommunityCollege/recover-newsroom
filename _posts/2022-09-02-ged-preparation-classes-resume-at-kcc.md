@@ -21,7 +21,10 @@ Classes are designed for students at least 16 years of age who have not complete
 
 Course locations and meeting times are:![KCC GED graduates](/uploads/2022/gedclasses-350x313.jpg "KCC GED graduates"){: .float-image-right width="350" height="233"}
 
-\- Kankakee Community College, 100 College Drive, off River Road, in Kankakee, Rooms L30A and L30B. Morning and evening sessions are offered.<br>\- KCC Miner South Extension Center, 1488 E. Walnut St., Watseka. Evening sessions are offered.<br>\- KCC North Extension Center, 450 N. Kinzie Ave., Kankakee. Evening sessions are offered.<br>\- Online: email [GED@kcc.edu](mailto:GED@kcc.edu) for information.
+* Kankakee Community College, 100 College Drive, off River Road, in Kankakee, Rooms L30A and L30B. Morning and evening sessions are offered.
+* KCC Miner South Extension Center, 1488 E. Walnut St., Watseka. Evening sessions are offered.
+* KCC North Extension Center, 450 N. Kinzie Ave., Kankakee. Evening sessions are offered.
+* Online: email [GED@kcc.edu](mailto:GED@kcc.edu) for information.
 
 The Illinois High School Equivalency Certificate is most often earned through GED or HiSET. Beginning Jan. 1, 2023, the HiSET certificate will be renamed State of Illinois High School Diploma.
 
