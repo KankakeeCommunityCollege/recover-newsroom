@@ -1,10 +1,10 @@
 ---
-title: Fall Job Fair at KCC Sept. 29
+title: Fall Job Fair
 date: 2022-09-07 00:00:00 -0500
 expire_date: 2022-09-30 00:00:00 -0500
 image: /uploads/2022/job-fair-395x466.jpg
-news_image_alt: KCC job fair
-article_lead: Employers to meet with interested candidates
+news_image_alt: People in various professions
+article_lead: Dress for success and meet employers
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -23,4 +23,4 @@ Information and a current list of employers planning to attend the Job Fair are 
 
 KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee. Directions to KCC are at&nbsp;[www.kcc.edu/about/\#riverfront-campus](http://www.kcc.edu/about/#riverfront-campus).
 
-The Job Fair is sponsored by KCC’s Charlton Family Foundation Career Services Center.
+The Job Fair is sponsored by KCC’s Charlton Family Foundation[Career Services Cente](https://continuinged.kcc.edu/career-services/){: target="_blank" rel="noopener"}r.
