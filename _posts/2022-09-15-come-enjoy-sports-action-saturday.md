@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/cavaliers-250.jpg){: .float-image-right width="250" height="192"}On Saturday, Sept. 18, five of KCC's seven [athletics](https://athletics.kcc.edu/){: target="_blank" rel="noopener"} teams will be in action at the college's River Road Campus.
+![](/uploads/2022/cavaliers-250.jpg){: .float-image-right width="250" height="192"}On Saturday, Sept. 17, five of KCC's seven [athletics](https://athletics.kcc.edu/){: target="_blank" rel="noopener"} teams will be in action at the college's River Road Campus.
 
 The community is invited to come watch the action. All games FREE for KCC students. Softball, baseball and soccer are FREE for everyone. Volleyball is free to KCC students with ID and those under age 6. General admission for volleyball is $5; ages 65+ and non-KCC students are $3.&nbsp;
 
