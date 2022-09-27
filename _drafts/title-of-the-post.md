@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The KCC Veterans Association is having a [Krispy Kreme donuts fundraiser](/uploads/2022/KrispyKreme-VetFundraiser-Oct2022.jpg). &nbsp;
+The KCC Veterans Association is having a [Krispy Kreme donuts fundraiser](/uploads/2022/KrispyKreme-VetFundraiser-Oct2022.pdf). &nbsp;
 
 The presale is Oct. 3&nbsp; - Nov. 11. Bring your order to the Financial Aid desk or the Veteran's Center in Student Affairs.
 
