@@ -3,8 +3,8 @@ title: Law Enforcement Scholarships Awarded
 date: 2022-10-01 00:00:00 -0500
 expire_date: 2022-10-31 00:00:00 -0500
 image: /uploads/2022/rittmanic-bailey-scholarship564x790.jpg
-news_image_alt: Add descriptive text for the post's image
-article_lead: Opportunities provided in memory of Sgt. Rittmanic & Officer Bailey
+news_image_alt: Check presentation for Rittmanic Bailey Law Enforcement Scholarships
+article_lead: Rittmanic & Bailey provide inspiration
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
