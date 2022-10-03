@@ -3,7 +3,7 @@ title: Nothing Bundt Cake Fundraiser
 date: 2022-10-03 00:00:00 -0500
 expire_date: 2022-10-12 00:00:00 -0500
 image: /uploads/2022/bundt-cake150x150.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Nothing Bundt Cakes Bundtlet
 article_lead: Proceeds to help The KCC Foundation
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
