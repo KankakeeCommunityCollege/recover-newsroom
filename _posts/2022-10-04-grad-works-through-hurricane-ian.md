@@ -21,10 +21,8 @@ We are proud to call Salgado a KCC grad\! We're also happy to hear she and her f
 
 KCC will share more of Salgado and her family's story in conjunction with Respiratory Care Week, Oct. 23-30.&nbsp;
 
-&nbsp;
+For more information about KCC's programs, start at info.kcc.edu.
 
-&nbsp;
-
-In the photos: Lydia Salgado; and with her three kids at the beach well before the storm.
+*In the photos:* Lydia Salgado; and with her three kids at the beach well before the storm.
 
 &nbsp;
