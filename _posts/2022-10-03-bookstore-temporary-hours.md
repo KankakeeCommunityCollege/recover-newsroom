@@ -11,7 +11,7 @@ press_release: false
 ---
 ![](/uploads/2022/hammes-bookstore250x255.jpg){: .float-image-right width="250" height="255"}KCC's Hammes Bookstore will close at 4:30 p.m. instead of 5 p.m. for two weeks beginning Oct. 10.
 
-For the weeks of Oct. 10-14 and Oct. 17-21, the Bookstore hours will be:
+For the weeks of Oct. 10-14, Oct. 17-21 and Oct. 24-27, the Bookstore hours will be:
 
 * **Monday:** 8:30 a.m. – 4:30 p.m.
 * **Tuesday:** 8:30 a.m. – 4:30 p.m.
