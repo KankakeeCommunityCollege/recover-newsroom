@@ -1,5 +1,5 @@
 ---
-title: Bookstore closing at 1 today
+title: Bookstore closing at 1 p.m. today
 date: 2022-10-13 00:00:00 -0500
 expire_date: 2022-10-14 00:00:00 -0500
 image: /uploads/2022/importantsquare.jpg
