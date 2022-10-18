@@ -1,7 +1,7 @@
 ---
 title: Schoolhouse inauguration and special dinner
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2022-10-18 00:00:00 -0500
+expire_date: 2022-11-16 00:00:00 -0600
 image: /uploads/2022/FleurDeLisIcon454x597.jpg
 news_image_alt: Fleur De Lis Icon
 article_lead: Community announcement
