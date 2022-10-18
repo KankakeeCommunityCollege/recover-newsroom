@@ -1,10 +1,10 @@
 ---
-title: Veterans Day event November 5
+title: Soldier's Reunion event November 5
 date: 2022-10-18 00:00:00 -0500
 expire_date: 2022-11-06 00:00:00 -0500
 image: /uploads/2022/bag-and-boots.jpg
 news_image_alt: Military bag and boots
-article_lead: A "Soldiers Reunion" recognition ceremony
+article_lead: Discussions and recognition ceremony
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -24,5 +24,9 @@ A light lunch and recognition program will take place at noon. The day will conc
 Guest speakers will be Rev. Thomas Ervin Sr., master of ceremonies; Dr. Michael Boyd, KCC President; Reverend Jamie Canty; and Pastor Jason Perry.
 
 For more information, contact Jason Rodriguez, Veterans Club advisor at KCC, at [jrodriguez@kcc.edu](mailto:jrodriguez@kcc.edu) or phone 815-802-8554.
+
+&nbsp;
+
+&nbsp;
 
 Photo credit: [Benjamin Faust](https://unsplash.com/@benjamin_faust?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/s/photos/veterans?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
