@@ -1,7 +1,7 @@
 ---
 title: It's Respiratory Care Week
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+date: 2022-10-23 00:00:00 -0500
+expire_date: 2022-11-11 00:00:00 -0600
 image: /uploads/2022/resp-class2019-580.jpg
 news_image_alt: KCC Respiratory Therapist Class of 2019
 article_lead: Lydia Salgado - KCC Graduate
