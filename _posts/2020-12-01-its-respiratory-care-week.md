@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/lydia-salgado250x313.jpg){: .float-image-right width="250" height="313"}When you march in the military, you lead with your left foot.
+![](/uploads/2022/lydia-salgado-respiratory250x333.jpg){: .float-image-right width="250" height="333"}When you march in the military, you lead with your left foot.
 
 Lydia Salgado leads with the words she lives by—hope, faith and courage. They are tattooed on her left foot.
 
