@@ -17,13 +17,13 @@ At the recognition ceremony, posting of the colors will be from the Marine Corps
 
 Guest speakers will be Eric Peterson, CEO and Founder of [Project Headspace and Timing](http://www.projectheadspaceandtiming.org/){: target="_blank" rel="noopener"}, and fellow veterans of the organization, Brad Stosiek, Kristen Rubio and Michael Totten.
 
-**Peterson** is a 2012 graduate of KCC who also served six years with the Illinois Army National Guard, two years with the State Department, and one year with the Department of Defense. He completed three rotations in Iraq and two rotations in Afghanistan as a private security detail medic.
+![](/uploads/2022/eric-peterson-1.png){: .float-image-left width="300" height="300"}**Peterson** is a 2012 graduate of KCC who also served six years with the Illinois Army National Guard, two years with the State Department, and one year with the Department of Defense. He completed three rotations in Iraq and two rotations in Afghanistan as a private security detail medic.
 
-**Rubio** served in the U.S. Marine Corps in both Iraq and Afghanistan on multiple tours from 2005-12. She is a small business owner and a mother of four children. She will share her mission to inspire veterans to seek mental health and overcome daily inner battles.
+**Rubio** served in the U.S. Marine Corps in both![](/uploads/2022/kristen-rubio.jpg){: .float-image-right width="300" height="375"} Iraq and Afghanistan on multiple tours from 2005-12. She is a small business owner and a mother of four children. She will share her mission to inspire veterans to seek mental health and overcome daily inner battles.
 
-**Stosiek** served in the U.S. Marine Corps from 2011-16 in Okinawa, Japan. He will share how Project Headspace and Timing has helped him overcome extreme personal obstacles to achieve his goal of starting the “I’m Fine Podcast.”
+![](/uploads/2022/brad-stosiek392x524.jpg){: .float-image-left width="300" height="401"}**Stosiek** served in the U.S. Marine Corps from 2011-16 in Okinawa, Japan. He will share how Project Headspace and Timing has helped him overcome extreme personal obstacles to achieve his goal of starting the “I’m Fine Podcast.”
 
-**Totten** served in the U.S. Army during the Iraq War, where he was deployed on two occasions. He aspires to help fellow veterans by advocating for veterans to seek help, by connecting veterans to valuable resources, and by reducing mental health stigmas.&nbsp;
+**Totten** served in the U.S. Army during the Iraq![](/uploads/2022/michael-totten.jpg){: .float-image-right width="300" height="300"} War, where he was deployed on two occasions. He aspires to help fellow veterans by advocating for veterans to seek help, by connecting veterans to valuable resources, and by reducing mental health stigmas.&nbsp;
 
 **Benjamin Garcia**, a part-time KCC police officer and a member of the [KCC Veterans Association](https://www.kcc.edu/student-resources/clubs/#veterans-association){: target="_blank" rel="noopener"}, will also speak about the Mark Rodriguez Memorial Scholarship.
 
