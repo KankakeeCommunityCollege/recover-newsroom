@@ -25,9 +25,7 @@ Guest speakers will be Eric Peterson, CEO and Founder of [Project Headspace and 
 
 **Totten** served in the U.S. Army during the Iraq War, where he was deployed on two occasions. He aspires to help fellow veterans by advocating for veterans to seek help, by connecting veterans to valuable resources, and by reducing mental health stigmas.&nbsp;
 
-![](/uploads/2022/brad-stosiek392x524.jpg){: .float-image-left width="300" height="401"}**Benjamin Garcia**, a part-time KCC police officer and a member of the [KCC Veterans Association](https://www.kcc.edu/student-resources/clubs/#veterans-association){: target="_blank" rel="noopener"}, will also speak about the Mark Rodriguez Memorial Scholarship.
-
-<br>&nbsp;
+**Benjamin Garcia**, a part-time KCC police officer and a member of the [KCC Veterans Association](https://www.kcc.edu/student-resources/clubs/#veterans-association){: target="_blank" rel="noopener"}, will also speak about the Mark Rodriguez Memorial Scholarship.<br>![](/uploads/2022/brad-stosiek392x524.jpg){: .float-image-left width="300" height="401"}
 
 &nbsp;
 
@@ -35,6 +33,14 @@ Guest speakers will be Eric Peterson, CEO and Founder of [Project Headspace and 
 
 &nbsp;
 
-![](/uploads/2022/michael-totten.jpg){: width="300" height="300"}
+&nbsp;
 
-For more information, contact Kendra Souligne, director of financial aid & veteran services, at [ksouligne@kcc.edu](mailto:ksouligne@kcc.edu) or phone 815-802-8556.
+&nbsp;
+
+<br><br>![](/uploads/2022/michael-totten.jpg){: width="300" height="300"}<br>For more information, contact Kendra Souligne, director of financial aid & veteran services, at [ksouligne@kcc.edu](mailto:ksouligne@kcc.edu) or phone 815-802-8556.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
