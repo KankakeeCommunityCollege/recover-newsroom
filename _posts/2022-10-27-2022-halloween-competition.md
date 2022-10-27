@@ -1,7 +1,7 @@
 ---
 title: 2022 Halloween Competition
 date: 2022-10-27 00:00:00 -0500
-expire_date: 2021-11-01 00:00:00 -0500
+expire_date: 2022-11-01 00:00:00 -0500
 image: /uploads/2022/halloween-jack-o-lantern560x678.jpg
 news_image_alt: Halloween Jack-o-lanterns
 article_lead: Vote by 2 p.m. Oct. 31
@@ -13,7 +13,7 @@ press_release: false
 
 Be sure to check out the Halloween competitors either by stopping by their offices or by coming back to the KCC News page to view their photos. All voting is by electronic ballot, for accessibility and convenience.
 
-This year’s competitors for Best Theme are:
+This year’s competitors for Best Theme:
 
 * Welcome Center (Room D110)
 * North Extension Center
