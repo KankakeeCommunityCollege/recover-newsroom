@@ -19,7 +19,7 @@ Guest speakers will be Eric Peterson (at left), CEO and Founder of [Project Head
 
 **Peterson** is a 2012 graduate of KCC who also served six years with the Illinois Army National Guard, two years with the State Department, and one year with the Department of Defense. He completed three rotations in Iraq and two rotations in Afghanistan as a private security detail medic.
 
-**![](/uploads/2022/veterans-presenters-kristen-rubio-brad-stosiek-and-michael-totten.jpg){: width="682" height="314"}Rubio** served in the U.S. Marine Corps in both Iraq and Afghanistan on multiple tours from 2005-12. She is a small business owner and a mother of four children. She will share her mission to inspire veterans to seek mental health and overcome daily inner battles.
+**![](/uploads/2022/veterans-presenters-kristen-rubio-brad-stosiek-and-michael-totten.jpg){: .center-image width="682" height="314"}Rubio** served in the U.S. Marine Corps in both Iraq and Afghanistan on multiple tours from 2005-12. She is a small business owner and a mother of four children. She will share her mission to inspire veterans to seek mental health and overcome daily inner battles.
 
 **Stosiek** served in the U.S. Marine Corps from 2011-16 in Okinawa, Japan. He will share how Project Headspace and Timing has helped him overcome extreme personal obstacles to achieve his goal of starting the “I’m Fine Podcast.”
 
