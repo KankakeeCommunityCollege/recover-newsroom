@@ -29,7 +29,7 @@ This year’s competitors for Best Theme:
 
 ![](/uploads/2022/halloween-2022-trio-3.jpg){: width="815" height="268"}
 
-![](/uploads/2022/halloween-2022-student-success-center.jpg){: width="549" height="261"}
+![](/uploads/2022/halloween-2022-student-success-center3.jpg){: width="823" height="219"}
 
 To submit your electronic vote, fill out [the ballot](https://docs.google.com/forms/d/e/1FAIpQLScG00KIEJYos-oEXlLMGrAGj_h39dIlHt_rzeGLNOpfGSE7Yw/viewform?usp=sf_link){: target="_blank" rel="noopener"}. One ballot per person.
 
