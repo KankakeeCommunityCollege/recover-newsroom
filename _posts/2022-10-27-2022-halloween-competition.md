@@ -21,10 +21,12 @@ This year’s competitors for Best Theme:
 * TRiO SSS (Room L327)
 * Student Success Center (Room L150)
 
+![](/uploads/2022/halloween-2022-nec-250tall.jpg){: width="352" height="255"}
+
 To submit your electronic vote, fill out [the ballot](https://docs.google.com/forms/d/e/1FAIpQLScG00KIEJYos-oEXlLMGrAGj_h39dIlHt_rzeGLNOpfGSE7Yw/viewform?usp=sf_link){: target="_blank" rel="noopener"}. One ballot per person.
 
 Thanks for participating\! Have a safe and Happy Halloween\!
 
 &nbsp;
 
-Photo by [Ross Sneddon](https://unsplash.com/@rosssneddon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/halloween-background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+Main article photo by [Ross Sneddon](https://unsplash.com/@rosssneddon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/halloween-background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
