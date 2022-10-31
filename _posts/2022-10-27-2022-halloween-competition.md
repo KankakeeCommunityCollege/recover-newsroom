@@ -9,9 +9,9 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/halloween-jack-o-lantern200x242.jpg){: .float-image-right width="200" height="242"}On Monday, Oct. 31, from 8 a.m. - 2 p.m., various KCC faculty, staff, and offices will be competing for your votes for this year’s Best Theme and Best Individual Costume.
+On Monday, Oct. 31, from 8 a.m. - 2 p.m., various KCC faculty, staff, and offices will be competing for your votes for this year’s Best Theme and Best Individual Costume.
 
-Be sure to check out the Halloween competitors either by stopping by their offices or by coming back to the KCC News page to view their photos. All voting is by electronic ballot, for accessibility and convenience.
+Be sure to check out the Halloween competitors either by stopping by their offices or by coming back to the KCC News page after 11 a.m. to view their photos. All voting is by [electronic ballot](https://docs.google.com/forms/d/e/1FAIpQLScG00KIEJYos-oEXlLMGrAGj_h39dIlHt_rzeGLNOpfGSE7Yw/viewform?usp=sf_link), for accessibility and convenience.
 
 This year’s competitors for Best Theme:
 
@@ -21,7 +21,7 @@ This year’s competitors for Best Theme:
 * TRiO SSS (Room L327)
 * Student Success Center (Room L150)
 
-To submit your electronic vote, fill out the ballot (ballot link will be active from 8 a.m. - 2 p.m. Oct. 31). One ballot per person.
+To submit your electronic vote, fill out [the ballot](https://docs.google.com/forms/d/e/1FAIpQLScG00KIEJYos-oEXlLMGrAGj_h39dIlHt_rzeGLNOpfGSE7Yw/viewform?usp=sf_link){: target="_blank" rel="noopener"}. One ballot per person.
 
 Thanks for participating\! Have a safe and Happy Halloween\!
 
