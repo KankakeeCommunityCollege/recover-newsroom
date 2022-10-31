@@ -17,7 +17,7 @@ The Mario Bros.-themed area featured a castle, clouds, mushrooms, coins and – 
 
 Other departments made it a close one – with each area getting votes. Other areas in the competition were: The Welcome Center - Pirates; Student Success Center - Ghostbusters; the North Extension Center - 80s; and TRIO Student Support Services - Carnival.
 
-The votes for individuals were spread among many options. Davis Testerman was the top vote-getter for being the Stay Puft Marshmellow Man.
+![](/uploads/2022/halloween-stay-puft2022-220x646.jpg){: .float-image-left width="220" height="646"}The votes for individuals were spread among many options. Davis Testerman was the top vote-getter for being the Stay Puft Marshmellow Man.
 
 Others with multiple votes were: Kendra Souligne, Jason Rodriguez, Breanna Heimberger, Deb Denson, Erica Billington, Mary Posing, Diane Soltis and Darc Stomberg. Honorable mention in the costume contest goes to whoever voted for "That one pirate."&nbsp;
 
