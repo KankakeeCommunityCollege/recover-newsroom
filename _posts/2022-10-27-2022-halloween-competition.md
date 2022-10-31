@@ -23,6 +23,14 @@ This year’s competitors for Best Theme:
 
 ![](/uploads/2022/halloween-2022-nec-250tall.jpg){: width="352" height="255"}
 
+![](/uploads/2022/halloween-welcome-center-2022-300.jpg){: width="913" height="300"}
+
+![](/uploads/2022/halloween-2022-financial-aid-3.jpg){: width="857" height="280"}
+
+![](/uploads/2022/halloween-2022-trio-3.jpg){: width="815" height="268"}
+
+![](/uploads/2022/halloween-2022-student-success-center.jpg){: width="549" height="261"}
+
 To submit your electronic vote, fill out [the ballot](https://docs.google.com/forms/d/e/1FAIpQLScG00KIEJYos-oEXlLMGrAGj_h39dIlHt_rzeGLNOpfGSE7Yw/viewform?usp=sf_link){: target="_blank" rel="noopener"}. One ballot per person.
 
 Thanks for participating\! Have a safe and Happy Halloween\!
