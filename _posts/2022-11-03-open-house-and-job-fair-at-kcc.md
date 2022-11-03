@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/ece-350x233.JPG){: .float-image-right width="350" height="233"}The Early Childhood Education program at Kankakee Community College will have an Open House and Job Fair from 6:30-8 p.m. on Thursday, Nov. 17 in the KCC Iroquois Room.
+![Students in the Infant/Toddler Care class at KCC](/uploads/2022/ece-350x233.JPG "Students in the Infant/Toddler Care class at KCC"){: .float-image-right width="350" height="233"}The Early Childhood Education program at Kankakee Community College will have an Open House and Job Fair from 6:30-8 p.m. on Thursday, Nov. 17 in the KCC Iroquois Room.
 
 Program staff will be at the Open House to talk about classes and careers in Early Childhood Education. Tours of classrooms will be available.
 
