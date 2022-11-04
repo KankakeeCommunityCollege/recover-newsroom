@@ -82,8 +82,6 @@ exclude:
   - "postcss.config.js"
 
 uploads_dir: "/uploads/2022"
-paths:
-  uploads: /uploads/2022
 
 _comments:
   layout: Do NOT modify layouts. It may break things.
