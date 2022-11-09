@@ -1,10 +1,10 @@
 ---
-title: Title of the post
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
+title: Toy Drive underway
+date: 2022-11-09 00:00:00 -0600
+expire_date: 2022-12-02 00:00:00 -0600
 image: /uploads/2022/toys-bear589x790.jpg
 news_image_alt: Stuffed holiday bear holding a gift
-article_lead: A short lead for the article
+article_lead: Donations accepted at 3 locations
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
