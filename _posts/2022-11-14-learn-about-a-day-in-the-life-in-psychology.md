@@ -1,14 +1,18 @@
 ---
-title: Learn about a "Day in the Life" in Psychology
+title: Psychology Careers event
 date: 2022-11-14 00:00:00 -0600
 expire_date: 2022-11-17 00:00:00 -0600
 image: /uploads/2022/ditlpsych-580x580.jpg
-news_image_alt: Add descriptive text for the post's image
-article_lead: Hosted by TRIO and Psych Club
+news_image_alt: Day in the Life of Psychology Careers graphic
+article_lead: Take part in "A Day in the Life..."
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-TRIO and KCC's Psych Club are hosting event "[Day in the Life of Psychology Careers](/uploads/2022/pdf/Day-in-the-Life-of-Psychology-Careers.pdf)" in Room L321 on Thursday, Nov. 17.
+TRIO Student Support Services and KCC's Psychology Club are hosting an event called "[Day in the Life of Psychology Careers](/uploads/2022/pdf/Day-in-the-Life-of-Psychology-Careers.pdf)" in Room L321 on Thursday, Nov. 17.
 
-Careers in Behavioral psychology, Counseling psychology, Social Work and Forensic psychology will be discussed. Topics include a day in the life, pros vs. cons and the steps needed to get the degree.
+Careers in behavioral psychology, counseling psychology, social work and forensic psychology will be discussed. Topics include a day in the life, pros vs. cons and the steps needed to get the degree.
+
+This is a free event, and reservations are not required.
+
+KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee. Directions to KCC are at&nbsp;[www.kcc.edu/about/\#riverfront-campus](http://www.kcc.edu/about/#riverfront-campus).
