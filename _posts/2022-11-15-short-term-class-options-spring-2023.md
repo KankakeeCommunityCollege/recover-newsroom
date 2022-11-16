@@ -9,9 +9,9 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-For the spring 2023 semester, Kankakee Community College will offer a range of short-term classes -- including five transferrable classes that are just four weeks long.&nbsp;
+For the spring 2023 semester, Kankakee Community College will offer a range of short-term classes – including six transferrable classes that are just four weeks long.&nbsp;
 
-"The addition of four-week classes in Liberal Arts and Sciences will allow students to design schedules that respect their life-school balance," said aid Jennifer Hays Huggins, KCC's dean of Humanities and Social Sciences. "Taking one class every four weeks in the 16-week semester equates to full-time enrollment, which gets students that much closer to reaching their academic goals, particularly students who only had the time previously to attend part-time."
+"The addition of four-week classes in Liberal Arts and Sciences will allow students to design schedules that respect their life-school balance," said Jennifer Hays Huggins, KCC's dean of Liberal Arts and Sciences. "Taking one class every four weeks in the 16-week semester equates to full-time enrollment, which gets students that much closer to reaching their academic goals, particularly students who only had the time previously to attend part-time."
 
 ![](/uploads/2022/kcc-student-danny-sorich256x171.jpg){: .float-image-right width="256" height="171"}Spring 2023 classes are offered between Jan. 9 and May 5. The four-week courses being offered are all online, and can be taken back-to-back. They are:
 
@@ -19,6 +19,7 @@ For the spring 2023 semester, Kankakee Community College will offer a range of s
 * **English II** - Feb. 6 to March 3, course number ENGL 1623.W06
 * **Introductory Speech** - Feb. 6 to March 3, course number COMM 1553.W06
 * **American Government** - March 13 to April 7, course number PLSC 1513.W06
+* **Lifespan Developmental Psychology -&nbsp;**March 13 to April 7, course number PSYC 2553.W06
 * **Introduction to Humanities** - April 10 to May 5, course number HUMS 1513.W06
 
 In addition to the four-week online classes, KCC is also offering a variety of other short-term options, including classes that meet for 8-weeks and 12-weeks.&nbsp;
