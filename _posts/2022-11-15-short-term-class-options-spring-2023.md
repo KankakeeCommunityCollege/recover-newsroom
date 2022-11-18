@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-For the spring 2023 semester, Kankakee Community College will offer a range of short-term classes – including six transferrable classes that are just four weeks long.&nbsp;
+For the spring 2023 semester, Kankakee Community College will offer a range of [short-term classes](/uploads/2022/short-term-classes-Sp23.pdf) – including six transferrable classes that are just four weeks long.&nbsp;
 
 "The addition of four-week classes in Liberal Arts and Sciences will allow students to design schedules that respect their life-school balance," said Jennifer Hays Huggins, KCC's dean of Liberal Arts and Sciences. "Taking one class every four weeks in the 16-week semester equates to full-time enrollment, which gets students that much closer to reaching their academic goals, particularly students who only had the time previously to attend part-time."
 
