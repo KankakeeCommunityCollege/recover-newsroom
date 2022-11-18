@@ -30,7 +30,7 @@ Returning students can use the My KCC portal at&nbsp;[<u>my.kcc.edu</u>](https:/
 
 All students are encouraged to register early for the best selection of classes.&nbsp;
 
-College offices will be closed for Thanksgiving Break from 5 p.m. Nov. 23 until Nov. 27. The college also will be closed for winter break from noon Dec. 21 until Jan. 1.
+College offices will be closed for Thanksgiving Break from 5 p.m. Nov. 23 until Nov. 27. KCC's winter break is from noon Dec. 21 until Jan. 2.
 
 KCC’s Riverfront Campus in Kankakee is located at 100 College Drive, south of downtown Kankakee. Directions to KCC are at&nbsp;[<u>www.kcc.edu/about/#riverfront-campus</u>](https://news.kcc.edu/www.kcc.edu/about/%22%20%5Cl%20%22riverfront-campus).
 
