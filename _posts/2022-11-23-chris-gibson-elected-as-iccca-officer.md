@@ -3,13 +3,13 @@ title: Chris Gibson elected as ICCCA officer
 date: 2022-11-23 00:00:00 -0600
 expire_date: 2022-12-20 00:00:00 -0600
 image: /uploads/2022/chrisgibson-580x580.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Chris Gibson
 article_lead: Serving second term as secretary
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/icccalogo-400x205.jpg){: .float-image-left width="400" height="205"}Chris Gibson, the dean of health careers at Kankakee Community College, was elected as secretary of the Illinois Council of Community College Administrators at its annual conference last week.&nbsp;
+![](/uploads/2022/icccalogo-400x205.jpg){: .float-image-left width="400" height="205"}Chris Gibson, the dean of health careers at Kankakee Community College, was elected as secretary of the [Illinois Council of Community College Administrators](https://iccca.org/){: target="_blank" rel="noopener"} at its annual conference last week.&nbsp;
 
 There were 230 administrators and faculty who attended the two-day conference in Champaign. This is Gibson’s second term as secretary of this state-wide organization. He is one of five ICCCA officers.
 
