@@ -13,23 +13,15 @@ press_release: false
 
 Phi Theta Kappa is an international academic honor society for community college students. KCC students who recently joined are:
 
-**Beecher:** Brianna Villareal.**![PTK inductee Yecenia Serna-Flores](/uploads/2022/yeceniasernaflores-250x312.jpg "PTK inductee Yecenia Serna-Flores"){: .float-image-right width="250" height="312"}**
-
-**Bourbonnais:** Kylie Orvis and Paul Williams.
-
-**Chebanse:** Bryce Walters.
-
-**Grant Park:** Jessica Schmitt and Lillian Segert.
-
-**Kankakee:** June Osborn, Natalie Seaton and Yecenia Serna-Flores.
-
-**Manteno:** Rebecca Pijus, Brooke Savoie, Lucas Schmidt, Andrew Snider and Davis Testerman.
-
-**![PTK inductee Lucas Schmidt](/uploads/2022/lucasschmidt-350x233.JPG "PTK inductee Lucas Schmidt"){: .float-image-left width="350" height="233"}Minooka:** Nicole White.
-
-**Momence:** Kaliegh Yohnka.
-
-**Sheldon:** Kristi Yamaoka.
+* **Beecher:** Brianna Villareal.**![PTK inductee Yecenia Serna-Flores](/uploads/2022/yeceniasernaflores-250x312.jpg "PTK inductee Yecenia Serna-Flores"){: .float-image-right width="250" height="312"}**
+* **Bourbonnais:** Kylie Orvis and Paul Williams.
+* **Chebanse:** Bryce Walters.
+* **Grant Park:** Jessica Schmitt and Lillian Segert.
+* **Kankakee:** June Osborn, Natalie Seaton and Yecenia Serna-Flores.
+* **Manteno:** Rebecca Pijus, Brooke Savoie, Lucas Schmidt, Andrew Snider and Davis Testerman.
+* **![PTK inductee Lucas Schmidt](/uploads/2022/lucasschmidt-350x233.JPG "PTK inductee Lucas Schmidt"){: .float-image-left width="350" height="233"}Minooka:** Nicole White.
+* **Momence:** Kaliegh Yohnka.
+* **Sheldon:** Kristi Yamaoka.
 
 KCC holds induction ceremonies for new [Phi Theta Kappa](https://www.kcc.edu/student-resources/clubs/#phi-theta-kappa) members each fall and spring semester. This fall’s event was Nov. 4.
 
@@ -38,3 +30,7 @@ KCC holds induction ceremonies for new [Phi Theta Kappa](https://www.kcc.edu/stu
 The society offers opportunities for scholarships, intellectual enrichment, and personal development through programs![PTK inductee Nicole White](/uploads/2022/nicolewhite-250x313.JPG "PTK inductee Nicole White"){: .float-image-right width="250" height="313"} based on the society’s hallmarks of scholarship, leadership, service, and fellowship. To be eligible for membership, students must have a 3.5 grade point average or better on a 4.0 scale.
 
 For more information on the Alpha Delta Eta chapter at KCC, contact a chapter adviser, Jaclyn Cruz or Frances Hebert, at [jcruz@kcc.edu](mailto:jcruz@kcc.edu) or [fhebert@kcc.edu](mailto:fhebert@kcc.edu).
+
+&nbsp;
+
+**Photos, from top to bottom:** June Osborn, Yecenia Serna-Flores, Lucas Schmidt, Paul Williams and Nicole White.
