@@ -1,5 +1,5 @@
 ---
-title: GED prep classes opening at KCC
+title: GED prep classes offered at KCC
 date: 2022-12-02 00:00:00 -0600
 expire_date: 2023-01-06 00:00:00 -0600
 image: /uploads/2022/gedclasses-580x580.jpg
