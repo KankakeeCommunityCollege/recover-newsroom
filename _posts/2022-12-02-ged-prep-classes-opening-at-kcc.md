@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-For Spring 2023, Kankakee Community College will offer GED&reg; high school diploma preparation classes in Kankakee, Bradley and Watseka.
+![](/uploads/2022/gedclasses-350x526.jpg){: .float-image-right width="350" height="526"}For Spring 2023, Kankakee Community College will offer GED&reg; high school diploma preparation classes in Kankakee, Bradley and Watseka.
 
 The free GED classes are offered at the KCC Riverfront Campus, the KCC North Extension Center in Bradley, the KCC South Extension Center in Watseka, and online. There is no cost to the student.
 
