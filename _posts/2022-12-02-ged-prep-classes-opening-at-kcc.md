@@ -3,7 +3,7 @@ title: GED prep classes offered at KCC
 date: 2022-12-02 00:00:00 -0600
 expire_date: 2023-01-06 00:00:00 -0600
 image: /uploads/2022/gedclasses-580x580.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: GED graduate and another person after 2022 ceremony.
 article_lead: Many class options available
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
@@ -21,9 +21,11 @@ Classes are designed for students at least 16 years of age who have not complete
 
 Course locations and meeting times are:
 
-* Kankakee Community College, 100 College Drive, off River Road, in Kankakee, Rooms L30A and L30B. Morning and evening sessions are offered.
-* KCC Miner South Extension Center, 1488 E. Walnut St., Watseka. Evening sessions are offered.
-* KCC North Extension Center, 450 N. Kinzie Ave., Kankakee. Evening sessions are offered.
-* Online: email [GED@kcc.edu](mailto:GED@kcc.edu) for information.
+* **KCC**, 100 College Drive, off River Road, in Kankakee, Rooms L30A and L30B. Morning and evening sessions are offered.
+* **KCC Miner South Extension Center**, 1488 E. Walnut St., Watseka. Evening sessions are offered.
+* **KCC North Extension Center**, 450 N. Kinzie Ave., Kankakee. Evening sessions are offered.
+* **Online**\: email [GED@kcc.edu](mailto:GED@kcc.edu) for information.
 
 For more information about preparing for a high school diploma at KCC, visit [adulted.kcc.edu](mailto:adulted.kcc.edu); email the program coordinator, Charlotte Kramer at [ckramer@kcc.edu](mailto:ckramer@kcc.edu)<u>,</u> or phone 815-802-8302.
+
+*Included photos are from the GED Completion Ceremony held in May 2022.*
