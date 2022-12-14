@@ -1,10 +1,10 @@
 ---
-title: Temporary locations for several departments
+title: Temporary Location for several departments
 date: 2022-12-14 00:00:00 -0600
 expire_date: 2023-01-07 00:00:00 -0600
 image: /uploads/2022/progress-construction-580x636.jpg
-news_image_alt: Important construction announcement
-article_lead: A short lead for the article
+news_image_alt: Construction image with horse and cones
+article_lead: Go to Welcome Center during construction
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
