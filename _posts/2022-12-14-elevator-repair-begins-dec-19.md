@@ -19,8 +19,6 @@ Here are a few other notes regarding this project:
 * You won't be able to pass through the hallway by the west staircase (next to west elevator). That staircase will be accessible from the south (Health Careers/M Building side).
 * The entrance that faces the west elevator will be closed. The entrance to Arts & Sciences (R Building) a few feet away will be open.
 
-We apologize for any inconvenience.&nbsp;
-
-&nbsp;
+We apologize for any inconvenience.
 
 Photo by Robin Britt: https://www.pexels.com
