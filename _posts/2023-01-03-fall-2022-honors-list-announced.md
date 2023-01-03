@@ -21,11 +21,11 @@ To be named to the Honors List, a student must maintain a grade point average be
 
 **Beecher:** Alaina Grutzius and Yolanda Williams.
 
-**Bonfield:** Allison Huizenga, Lee Jackson, Bryce Overacker and John Pitkin.![Gianna Basile of Bourbonnais](/uploads/2022/giannabasile-350x525.jpg "Gianna Basile of Bourbonnais"){: .float-image-right width="350" height="525"}
+**Bonfield:** Allison Huizenga, Lee Jackson, Bryce Overacker and John Pitkin.
 
 **Bourbonnais:** Nicholas Baker, Brooklynn Baptist, Gianna Basile, Alejandra Basulto Velasquez, Lucas Bateman, Adam Bennett, Brooklyn Billings, Chloe Blakey, William Bodemer, Hailey Brady, Brooklyn Brian, Jemuel Burke, Narily Calderon-Phillips, Rosalinda Chavez, Andrew Chmielewski, Carson Cole, Emmalee Dove, Sophia Dubravec, Mya Eason, Karen Evett, Jakira Ferguson, Mitchell Ferreira, Robert Fetterer, Brittin Fischer, Andrea Gallardo, Rylan George, Hailey Greenfield, Cassidy Holderman, Damien Hughes, Andrew Jasmin, Emily Jezowski, Jamisyn Johnston, Hailey Keast, Taylor Kietzman, Ashley Kiger, Payton Kohl, Shawnee Kozuch, Brooke Laakson, Joseph Lamb, Karlee Lamprecht, Rubin Logan, Chase Longtin, Logan Mallard, Monique Martinez, Nicholas Meisberger, Luis Meza, Elizabeth Minard, Takoda Morris, Braedyn Mulcahy, Sheleza Mungal, Alexis Nguyen, Thao Nguyen, Madison Norvell, Camryn Nuesse, Sydney O’Dell, Riley Patterson, Mackenzie Pfeiffer, Mallory Randles, Izabella Rauch, Lucas Spencer, Kendal Stanek, Grace Stark, Elizabeth Stevens, Sean Storer, Molly Sutter, Skyler Tieri, Tessa VanNatta, Lucas Verkler, Gevon Wesley and Ashtyn Wischnowski.
 
-![Nathaniel Brown of Bradley](/uploads/2022/nathanielbrown-350x525.jpg "Nathaniel Brown of Bradley"){: .float-image-left width="350" height="525"}**Bradley:** Andrew Bretveld, Nathaniel Brown, Malachai Daniel, Kerrigan Denson, Makayla Dudley, McKenna Dudley, Adrian Duncan, Elizabeth Elliott, Kaylee Fahnestock, Ashley Hill-Rice, Brice Ingram, Alexis Johnson, Ethan Long, Franchesca Lopez, Sydney Montoya, Danielle Moore, Sophie O’Brien, Benjamin Paraday, Samantha Porras, Marc Robertson, Madison Rogers, Alexandra Romero, Tariq Singh and Monty Solis.
+**Bradley:** Andrew Bretveld, Nathaniel Brown, Malachai Daniel, Kerrigan Denson, Makayla Dudley, McKenna Dudley, Adrian Duncan, Elizabeth Elliott, Kaylee Fahnestock, Ashley Hill-Rice, Brice Ingram, Alexis Johnson, Ethan Long, Franchesca Lopez, Sydney Montoya, Danielle Moore, Sophie O’Brien, Benjamin Paraday, Samantha Porras, Marc Robertson, Madison Rogers, Alexandra Romero, Tariq Singh and Monty Solis.
 
 **Buckingham:** Ryan Fairfield and Michelle Winkel.
 
@@ -35,7 +35,7 @@ To be named to the Honors List, a student must maintain a grade point average be
 
 **Clifton:** Adriana Lowery-Garcia, Alyson Massey, Riley Meier, Ilana Van Hoveln, Emily Vega, Kaylie Warpet, Hope Wilken, Jon Woolever and Peyton Zeedyk.
 
-**Crescent City:** Conner Bell.![Anna Hagan of Sheldon](/uploads/2022/annahagan-350x525.jpg "Anna Hagan of Sheldon"){: .float-image-right width="350" height="525"}
+**Crescent City:** Conner Bell.
 
 **Danforth:** Mason Conrad.
 
