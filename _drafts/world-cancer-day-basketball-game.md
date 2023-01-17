@@ -11,7 +11,7 @@ press_release: false
 ---
 World Cancer Day is Saturday, Feb. 4, 2023.
 
-KCC women's basketball head coach Meister and the Cavaliers will host a World Cancer Game on Saturday, Feb. 4 at 1 p.m. vs. Sauk Valley Community College. The KCC men will have a game at 3 p.m., also against Sauk Valley.
+![](/uploads/2022/world-cancer-basketball-200x200.jpg){: .float-image-right width="200" height="200"}KCC women's basketball head coach Meister and the Cavaliers will host a World Cancer Game on Saturday, Feb. 4 at 1 p.m. vs. Sauk Valley Community College. The KCC men will have a game at 3 p.m., also against Sauk Valley.
 
 Meister and her family recently lost a brother-in-law and wonderful uncle, Jeff Hanson, to cancer. "Jeff was a true sports fan who loved and supported all sports, both men and women’s," Meister said.
 
