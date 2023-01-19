@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/morganfischer280x350.jpg){: .float-image-left width="280" height="350"}Each year, one student is selected as the Student Trustee for KCC, and represents students on the KCC Board of Trustees.
+![Morgan Fischer of Kankakee](/uploads/2022/morganfischer280x350.jpg "Morgan Fischer of Kankakee"){: .float-image-left width="280" height="350"}Each year, one student is selected as the Student Trustee for KCC, and represents students on the KCC Board of Trustees.
 
 If you would like to lead assigned projects, serve as an active member of KCC’s Student Advisory Council and take part in various college events and ceremonies this is the opportunity for you.
 
