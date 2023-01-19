@@ -15,6 +15,6 @@ If you would like to lead assigned projects, serve as an active member of KCC’
 
 "Students in this prestigious position have an advantage when competing for scholarships and employment opportunities," said Maurice Sullivan, KCC coordinator of student life.
 
-Complete information and application are&nbsp;[available online](https://form.jotform.com/200476436597161). Application deadline is 5 p.m. on Friday, February 24.&nbsp;
+Complete information and application are&nbsp;[available online](https://form.jotform.com/200476436597161){: target="_blank" rel="noopener"}. Application deadline is 5 p.m. on Friday, February 24.&nbsp;
 
 Pictured: Morgan Fischer of Kankakee, the 2022-2023 student trustee.
