@@ -1,9 +1,9 @@
 ---
 title: Pack the Place Feb. 9
 date: 2023-01-25 00:00:00 -0600
-expire_date: 2023-02-10 00:00:00 -0600
+expire_date: 2023-02-09 00:00:00 -0600
 image: /uploads/2022/athletics-465x538.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Athletics logo
 article_lead: Cheer on our Cavaliers basketball teams!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
@@ -14,7 +14,7 @@ press_release: false
 * Women's basketball vs. Triton College at 5:30 p.m.
 * Men's basketball vs. Triton College at 7:30 p.m.
 
-Show your school pride and support our Cavaliers as they compete. Admission is free. Don't miss the action packed fun! The&nbsp;[KCC Foundation](https://foundation.kcc.edu/){: target="_blank"}&nbsp;is also providing free hot dogs and popcorn at both games while supplies last.
+Show your school pride and support our Cavaliers as they compete. Admission is free. Don't miss the action-packed fun! The&nbsp;[KCC Foundation](https://foundation.kcc.edu/){: target="_blank"}&nbsp;is also providing free hot dogs and popcorn at both games while supplies last.
 
 Anyone who can't attend can watch the games stream live for free. Go to&nbsp;[athletics.kcc.edu](https://athletics.kcc.edu/){: target="_blank"}&nbsp;for streaming.
 
