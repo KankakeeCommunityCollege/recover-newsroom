@@ -4,8 +4,8 @@ date: 2023-01-19 00:00:00 -0600
 expire_date: 2023-02-24 00:00:00 -0600
 image: /uploads/2022/studenttrusteesign-580x580.jpg
 news_image_alt: >-
-  The search is on for the 2023-24 KCC student trustee and advisory council
-  officers
+  The search is on for the 2023-24 KCC Student Trustee and Advisory Council
+  Officers
 article_lead: Applications now open for student trustee
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
