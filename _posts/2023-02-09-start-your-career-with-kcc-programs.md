@@ -1,19 +1,19 @@
 ---
 title: Start your career with KCC programs
 date: 2023-02-09 00:00:00 -0600
-expire_date: 2023-02-28 00:00:00 -0600
-image: /uploads/2022/cte-580x580.jpg
-news_image_alt: Kankakee Community College
+expire_date: 2023-03-03 00:00:00 -0600
+image: /uploads/2022/ctearticle-485x.jpg
+news_image_alt: Students in a Computer Graphic Design class at KCC
 article_lead: Career and Technical Education Month
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/cte-350x233.jpg){: .float-image-left width="350" height="233"}February is a special month for Career and Technical Education (CTE) programs at Illinois community colleges.
+February is a special month for Career and Technical Education (CTE) programs at Illinois community colleges.
 
 Kankakee Community College is among those celebrating the role of community colleges in preparing students for in-demand jobs through CTE programs. These programs offer hands-on training and real-world experience in industries like healthcare, manufacturing, and technology.
 
-According to the National Skills Coalition, many middle-skill jobs, which require education beyond high school but not a four-year college degree, are in CTE fields such as healthcare, advanced manufacturing, and Information Technology. These fields are projected to be among the fastest-growing occupations through 2029.
+![](/uploads/2022/ctearticle-200x200.jpg){: .float-image-left width="200" height="200"}According to the National Skills Coalition, many middle-skill jobs, which require education beyond high school but not a four-year college degree, are in CTE fields such as healthcare, advanced manufacturing, and Information Technology. These fields are projected to be among the fastest-growing occupations through 2029.
 
 “KCC’s CTE programs have a proven track record over the years, in assisting new students fulfill a dream skill set for job entry, as well as our returning students that want to gain additional skills for their current employment situation,” said Paul Carlson, dean of KCC’s Business, Technology and Human Services Division. “Our close relationships with area employers creates a team approach to curriculum enhancement as well as employment opportunities, which provides a win for both employees and employers.”
 
@@ -32,6 +32,16 @@ Some KCC highlights:
 * Seven health careers programs at KCC have 100% job placement.
 
 KCC graduates with an Associate in Applied Science or Advanced Certificate have a high rate of return on investment, with an extra $740,000 earned over a 40-year career, according to a 2021 study from the Center for Governmental Studies at Northern Illinois University. Additionally, the NIU study found that 85.3% of KCC grads are working in a career related to their degree within one year, and 91.3% are working in a job related to their career within 10 years.
+
+For more information about career and technical education options at KCC, visit [info.kcc.edu](https://info.kcc.edu/), chat at [www.kcc.edu](http://www.kcc.edu), or phone 815-802-8500.
+
+## Two grads share their KCC experiences
+
+![](/uploads/2022/diego-gonzalez200x250.jpg){: .float-image-right width="200" height="250"}"The KCC PTA program has done an amazing job at preparing me for my career. Before I left the program, I already had already accepted a job offer before I graduated and another additional offer. What sets this program apart is standards, the bar is set high, and it makes us stand out in our clinical rotation having constant positive feedback that this program consistently sending out high quality students as we become clinicians." - Diego Gonzalez, 2022 Physical Therapist Assistant Graduate
+
+![](/uploads/2022/lydia-salgado200x250.jpg){: .float-image-right width="200" height="250"}"KCC was a wonderful choice for me. As a respiratory therapist you can start out in the medical field making a very livable age with room for growth. After two short years, you will have the start to a very rewarding career. Also wanted to add the professors and the preceptors are also so wonderful. They truly care about the students success and make sure not only that we can pass our board exams but that we are well rounded therapists as we go into the work force. I also had a job lined up prior to graduation pending my boards." - Lydia Salgado, 2019 Respiratory Therapist Graduate
+
+## Additional information
 
 KCC Career and Technical Education (CTE) Programs award one or more of these degrees: Associate in Applied Science, Advanced Certificate, Certificate.
 
@@ -67,5 +77,3 @@ KCC Career and Technical Education (CTE) Programs award one or more of these deg
 * Physical Therapist Assistant
 * Radiography
 * Respiratory Therapist
-
-For more information about career and technical education options at KCC, visit [info.kcc.edu](https://info.kcc.edu/), chat at [www.kcc.edu](http://www.kcc.edu), or phone 815-802-8500.
