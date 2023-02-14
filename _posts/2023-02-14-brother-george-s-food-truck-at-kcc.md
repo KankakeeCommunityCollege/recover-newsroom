@@ -2,7 +2,7 @@
 title: Brother George's Food Truck at KCC
 date: 2023-02-14 00:00:00 -0600
 expire_date: 2023-02-17 00:00:00 -0600
-image: /uploads/2022/brothergeorgesbbq-580x436.jpg
+image: /uploads/2022/brothergeorgesbbq.jpg
 news_image_alt: Kankakee Community College
 article_lead: Enjoy local BBQ at KCC this Friday
 video_content: false
