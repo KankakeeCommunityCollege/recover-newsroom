@@ -2,7 +2,7 @@
 title: Grant available for manufacturing-related careers
 date: 2023-03-03 00:00:00 -0600
 expire_date: 2023-03-31 00:00:00 -0500
-image: /uploads/2022/caic-presentation-600x400.jpg
+image: /uploads/2022/caic-presentation-700x467.jpg
 news_image_alt: CAIC with Dr. Michael Boyd
 article_lead: CAIC awards grant program to KCC
 video_content: false
