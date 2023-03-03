@@ -2,14 +2,14 @@
 title: Grant available for manufacturing-related careers
 date: 2023-03-03 00:00:00 -0600
 expire_date: 2023-03-31 00:00:00 -0500
-image: /uploads/2022/caic-presentation-492x532.jpg
+image: /uploads/2022/caic-presentation-600x400.jpg
 news_image_alt: CAIC with Dr. Michael Boyd
 article_lead: CAIC awards grant program to KCC
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/caic-presentation-400x267.jpg){: .float-image-right width="250" height="167"}At Kankakee Community College, there are 82 students currently taking advantage of a grant program designed to get unemployed and underemployed people into manufacturing-related careers.
+![Calumet Area Industrial Commission with KCC president Dr. Michael Boyd](/uploads/2022/caic-presentation-450x300.jpg "Calumet Area Industrial Commission with KCC president Dr. Michael Boyd"){: .float-image-left width="450" height="300"}At Kankakee Community College, there are 82 students currently taking advantage of a grant program designed to get unemployed and underemployed people into manufacturing-related careers.
 
 The One Workforce grant program covers tuition, textbooks, fees, hand tools, materials, and personal protective equipment for students enrolled in programs which can lead to employment in a field related to manufacturing. Grant students are enrolled in KCC manufacturing-based certificates and associate degrees such as: welding, machine tool, industrial maintenance, electrical technology, and manufacturing technology.
 
