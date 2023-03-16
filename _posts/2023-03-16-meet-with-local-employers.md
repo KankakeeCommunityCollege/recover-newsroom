@@ -2,14 +2,14 @@
 title: Meet with local employers
 date: 2023-03-16 00:00:00 -0500
 expire_date: 2023-04-14 00:00:00 -0500
-image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
+image: /uploads/2022/jobfair-580x517.jpg
 news_image_alt: Add descriptive text for the post's image
 article_lead: Spring Job Fair at KCC
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-On Thursday, April 13, Kankakee Community College will host a Spring Job Fair from 9 a.m. - noon in the KCC College Center.
+![KCC Continuing Education and Career Services](/uploads/2022/conedlogo.jpg "KCC Continuing Education and Career Services"){: .center-image width="700" height="200"}On Thursday, April 13, Kankakee Community College will host a Spring Job Fair from 9 a.m. - noon in the KCC College Center.
 
 The event is open to the public and Veterans are encouraged to attend as well. Members of the media are also invited to attend the event. Photographs will be welcome. Admission is free to all who attend. Employers will conduct on site, pre-screening interviews for full and part-time positions.
 
