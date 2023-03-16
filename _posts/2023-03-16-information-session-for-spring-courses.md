@@ -1,10 +1,10 @@
 ---
-title: Information session for Spring courses
+title: Courses for the love of learning
 date: 2023-03-16 00:00:00 -0500
 expire_date: 2023-03-31 00:00:00 -0500
 image: /uploads/2022/LLI-Lifelong-Learning466x516.png
-news_image_alt: Add descriptive text for the post's image
-article_lead: Lifelong Learning Institute returns
+news_image_alt: Lifelong Learning Institute logo
+article_lead: Spring information session
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
