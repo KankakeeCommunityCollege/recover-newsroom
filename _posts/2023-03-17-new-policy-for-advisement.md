@@ -15,6 +15,6 @@ Effective March 23, an advisement appointment will be required for all current a
 
 Advisement hours for most of the year are 8 a.m. - 5 p.m. Monday - Friday. The college is closed most Fridays in May, June and July.
 
-To make an appointment: visit [www.kccadvising.setmore.com](www.kccadvising.setmore.com){: target="_blank" rel="noopener"} or phone&nbsp; 815-802-8500
+To make an appointment: visit [kccadvising.setmore.com](https://kccadvising.setmore.com/){: target="_blank" rel="noopener"}&nbsp;or phone&nbsp; 815-802-8500
 
 Wednesdays will be "Walk in Wednesdays.” All advisement on Wednesdays will be on a first-come, first-served basis.&nbsp;
