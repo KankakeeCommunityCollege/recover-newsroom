@@ -9,8 +9,8 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Some good news: the west elevator, which was undergoing repairs, is now fully operational again.
+Some good news: the west elevator, which was undergoing repairs, is now fully operational again. Students and staff can use it again.
 
-Students and staff can use it again. Before being re-opened for public use, the&nbsp; elevator successfully passed an operation inspection conducted by the state fire marshall.
+Before being re-opened for public use, the&nbsp; elevator successfully passed an operation inspection conducted by the state fire marshall.
 
 We appreciate everyone's patience and understanding while the elevator was being updated.
