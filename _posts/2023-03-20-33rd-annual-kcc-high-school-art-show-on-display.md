@@ -1,5 +1,5 @@
 ---
-title: 33rd annual KCC high school art show on display
+title: 33rd annual high school art show on display
 date: 2023-03-20 00:00:00 -0500
 expire_date: 2023-03-29 00:00:00 -0500
 image: /uploads/2022/artshow-twins-580x422.jpeg
