@@ -9,6 +9,8 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+Article image: "Twins" by Lillian Sacks, a student at Bradley-Bourbonnais Community High School.
+
 Students from 14 local schools have original artwork on display for the 33rd annual Kankakee Community College High School Juried Art Exhibition.
 
 The show runs until March 29 in the lower level of the Miner Memorial Library at KCC. Hours are 8 a.m. - 5 p.m. Monday through Thursday and 8 a.m. - 1 p.m. Fridays.
@@ -19,4 +21,4 @@ A reception, awards presentation and juror’s critique will be on the final eve
 
 High schools participating in the exhibit are Bishop McNamara Catholic High School, Bradley-Bourbonnais Community High School, Central of Clifton High School, Dwight High School, Grant Park High School, Livingston Area Career Center, Iroquois West High School, Kankakee High School, Manteno High School, Manteno High School, Momence High School, Pontiac Township High School, St. Anne Community High School, and Watseka High School.
 
-The exhibit is sponsored by KCC's Visual Arts Department.
+The exhibit is sponsored by KCC's Visual Arts Department.&nbsp;
