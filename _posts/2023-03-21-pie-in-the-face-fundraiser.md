@@ -27,4 +27,4 @@ This year’s nominees are:
 * Amy Porter
 * Ken West
 
-It's now March 21, and after one day of voting, Ken West is leading! We will update this information each day.
+It's now March 23, and after three days of voting, Mike Caparula is leading! The voting will continue until 1 p.m. today.
