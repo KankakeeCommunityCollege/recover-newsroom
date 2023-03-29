@@ -9,12 +9,4 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-This is my wonderful article content:
-
-* Isn't it great?
-* List item
-* Another list item
-* A fourth unordered list item
-
-## Hello, World!
-{: .h2}
+Article content here
