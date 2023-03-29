@@ -80,6 +80,7 @@ exclude:
   - "webpack.config.js"
   - "buildtools/"
   - "postcss.config.js"
+  - "process-archive-files.mjs"
 
 uploads_dir: "/uploads/2022"
 
