@@ -1,5 +1,5 @@
 ---
-title: Bookstore closed April 7-14
+title: Bookstore closure April 7-14
 date: 2023-03-30 00:00:00 -0500
 expire_date: 2023-04-18 00:00:00 -0500
 image: /uploads/2022/hammes-bookstore-542x619.jpg
