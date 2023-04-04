@@ -1,14 +1,16 @@
 ---
-title: Elevator renovations to be completed
+title: Elevator renovation almost complete
 date: 2023-04-04 00:00:00 -0500
 expire_date: 2023-04-15 00:00:00 -0500
-image: /uploads/2022/elevator-buttons-580x821-1.jpg
-news_image_alt: Elevator buttons for up and down travel are displayed
-article_lead: The west elevator is temporarily closing
+image: /uploads/2022/out-of-order-580x702.jpg
+news_image_alt: Out of order for repairs sign
+article_lead: Temporarily closing - April 12-14
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-​The west end elevator will be temporarily closed beginning on April 12th -&nbsp; April 14th to complete the interior renovations of the cab.&nbsp; Due to supply chain issues the interior components were delayed, but they are here and ready to go!&nbsp;
+​The west end elevator at KCC will be temporarily closed from April 12-14 to complete interior renovations.
 
-If you have any questions, please contact Rob Kenney at [rkenney@kcc.edu](mailto:rkenney@kcc.edu).&nbsp;
+All other elevators will be open, and all staircases will be open.
+
+We apologize for any inconvenience.
