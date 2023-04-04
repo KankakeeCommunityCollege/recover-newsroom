@@ -11,4 +11,4 @@ press_release: false
 ---
 ​The west end elevator will be temporarily closed beginning on April 12th -&nbsp; April 14th to complete the interior renovations of the cab.&nbsp; Due to supply chain issues the interior components were delayed, but they are here and ready to go!&nbsp;
 
-If you have any questions, please contact Rob Kenney at rkenney@kcc.edu.&nbsp;
+If you have any questions, please contact Rob Kenney at [rkenney@kcc.edu](mailto:rkenney@kcc.edu).&nbsp;
