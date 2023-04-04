@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-​The west end elevator at KCC will be temporarily closed from April 12-14 to complete interior renovations.
+​The west end elevator at KCC's Riverfront Campus will be temporarily closed from April 12-14 to complete interior renovations.
 
 All other elevators will be open, and all staircases will be open.
 
