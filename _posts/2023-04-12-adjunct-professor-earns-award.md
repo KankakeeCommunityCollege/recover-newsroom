@@ -1,0 +1,16 @@
+---
+title: Adjunct professor earns award
+date: 2023-04-12 00:00:00 -0500
+expire_date: 2023-04-28 00:00:00 -0500
+image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
+news_image_alt: KCC logo
+article_lead: Congratulations, Det. Hart!
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+KCC Law Enforcement program adjunct professor Joni Hart also is a Kankakee County sheriff’s detective and task force officer in the US Marshal’s Service Great Lakes Fugitive Apprehension Unit.
+
+According to a Facebook post by the Kankakee County Sheriff's Office, Detective Hart was this year’s Task Force Officer of the Year. She was awarded the recognition by the Central District’s US Marshal, Brendan Heffner.
+
+<div><div>Hart has taught Law Enforcement classes at KCC for 11 years. Congratulations!</div></div>
