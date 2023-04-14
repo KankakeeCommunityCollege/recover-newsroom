@@ -3,7 +3,7 @@ title: Hours effective April 24
 date: 2023-04-14 00:00:00 -0500
 expire_date: 2023-05-01 00:00:00 -0500
 image: /uploads/2022/importantsquare.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: A lightbulb post-it note for important information
 article_lead: Food service hours changing
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
