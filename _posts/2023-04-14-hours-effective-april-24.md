@@ -1,0 +1,16 @@
+---
+title: ' Food service hours changing'
+date: 2023-04-14 00:00:00 -0500
+expire_date: 2023-05-01 00:00:00 -0500
+image: /uploads/2022/importantsquare.jpg
+news_image_alt: A lightbulb post-it note for important information
+article_lead: Hours effective April 24
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+Beginning April 24, the KCC cafeteria hours will be as follows:
+
+Monday - Thursday: 8 a.m. - 3 p.m.<br>Fridays:&nbsp; 9 a.m. - 1 p.m. (when the college is open)
+
+The [cafeteria website](https://www.kcc.edu/student-resources/food-services/){: target="_blank" rel="noopener"} has additional information about dining choices, services and mobile ordering.
