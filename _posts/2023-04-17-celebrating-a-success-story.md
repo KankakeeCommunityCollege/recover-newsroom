@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Providing a warm meal or blanket and caring for those in need are examples of how Tocarra Eldridge-Robinson leads by example. She shows others that despite the circumstances we may go through, we need to keep moving forward and giving back to the community.
+![](/uploads/2022/teldridge-robinson-and-arobinson-220x146.jpg){: .float-image-right width="220" height="146"}Providing a warm meal or blanket and caring for those in need are examples of how Tocarra Eldridge-Robinson leads by example. She shows others that despite the circumstances we may go through, we need to keep moving forward and giving back to the community.
 
 A 2003 graduate of Kankakee Community College, Eldridge-Robinson received the [John Fulton Distinguished Alumnus Award](https://foundation.kcc.edu/alumni/distinguished-alumni-award/){: target="_blank" rel="noopener"} on April 13. She has also been nominated by the KCC Foundation for the 2023 Illinois Community College Trustees Association Distinguished Alumni award.
 
