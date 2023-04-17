@@ -1,8 +1,8 @@
 ---
 title: Celebrating a success story
-date: 2020-12-01 00:00:00 -0600
-expire_date: 2021-01-01 00:00:00 -0600
-image: /uploads/2022/teldridge-robinson-580x668-1.jpg
+date: 2023-04-17 00:00:00 -0500
+expire_date: 2023-05-26 00:00:00 -0500
+image: /uploads/2022/teldridge-robinson-580x668.jpg
 news_image_alt: Tocarra Eldridge-Robinson holding the Alumnus Award
 article_lead: 2023 Distinguished Alumnus Award
 video_content: false
