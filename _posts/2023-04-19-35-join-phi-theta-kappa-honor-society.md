@@ -4,7 +4,7 @@ date: 2023-04-19 00:00:00 -0500
 expire_date: 2023-05-01 00:00:00 -0500
 image: /uploads/2022/ptk-logo-580x580.jpg
 news_image_alt: Phi Theta Kappa Honor Society logo
-article_lead: Spring induction was March 31
+article_lead: New students joined in March
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
