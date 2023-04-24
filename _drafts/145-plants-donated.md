@@ -17,6 +17,6 @@ The "seed was planted" for the donation when Katelynn Ohrt, director of the KCC 
 
 "Bailey Nurseries was kind enough to send a variety of plant material,"<br>&nbsp;Mateja said. "We appreciate the donation."
 
-Mateja, along with Charles Griner of the grounds crew, moved the donated plants&nbsp; into pots on April 20.&nbsp;
+Mateja, along with Charles Riner of the grounds crew, moved the donated plants&nbsp; into pots on April 20.&nbsp;
 
 They will be ready to go in the ground this fall. Students in Agriculture/Horticulture classes will take care of them until they are planted. The plants will be used at KCC's Riverfront Campus, North Extension Center in Bradley, near the sign at the intersection of Rout 45-52 and River Road.
