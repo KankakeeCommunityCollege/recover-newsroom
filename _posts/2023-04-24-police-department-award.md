@@ -1,7 +1,7 @@
 ---
 title: Police Department Award
 date: 2023-04-24 00:00:00 -0500
-expire_date: 2023-04-24 00:00:00 -0500
+expire_date: 2023-05-12 00:00:00 -0500
 image: /uploads/2023/police-award-2022.jpg
 news_image_alt: 2022 Lexipol Award for Kankakee Community College's Police Department.
 article_lead: Gold-level recognition earned
