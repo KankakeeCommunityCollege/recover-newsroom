@@ -9,9 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/police-award-2022.jpg){: .float-image-right width="300" height="200"}&nbsp;
-
-The Kankakee Community College [Police Department](https://www.kcc.edu/about/police-and-safety/){: target="_blank" rel="noopener noreferrer"} has achieved the highest recognition level for policy management from Lexipol, a police/public safety and training provider.
+![](/uploads/2023/police-award-2022.jpg){: .float-image-right width="300" height="200"}The Kankakee Community College [Police Department](https://www.kcc.edu/about/police-and-safety/){: target="_blank" rel="noopener noreferrer"} has achieved the highest recognition level for policy management from Lexipol, a police/public safety and training provider.
 
 To earn [Lexipol Connect gold-level recognition](https://www.lexipol.com/connect-recognition-program/){: target="_blank" rel="noopener noreferrer"}, the KCC department submitted its policies, which were reviewed by Lexipol to assure performance met targeted levels. The evaluation included policies such as elements of arrest, civil rights, and how legal updates are reviewed. The review also included criteria for daily training bulletins, which each officer completed successfully during the review period of Jan. 1 to Dec. 31, 2022.
 
