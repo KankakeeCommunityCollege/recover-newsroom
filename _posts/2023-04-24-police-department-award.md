@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/police-award-2022.jpg){: .float-image-right width="300" height="200"}&nbsp;
+[2022 Lexipol Award for Kankakee Community College's Police Department](/uploads/2023/police-award-2022.jpg){: .float-image-right width="300" height="200"}&nbsp;
 
 The Kankakee Community College [Police Department](https://www.kcc.edu/about/police-and-safety/){: target="_blank" rel="noopener noreferrer"} has achieved the highest recognition level for policy management from Lexipol, a police/public safety and training provider.
 
