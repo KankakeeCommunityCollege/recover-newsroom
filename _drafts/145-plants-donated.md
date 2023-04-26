@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/man-planting-plant.jpg){: .float-image-right width="250" height="167"}On April 19, Bailey Nurseries donated 145 assorted plants to KCC.
+![](/uploads/2023/man-planting-plant.jpg){: .float-image-right width="250" height="167"}On April 19, [Bailey Nurseries](https://www.baileynurseries.com/){: target="_blank" rel="noopener"} donated 145 assorted plants to KCC.
 
 They included buttonbush, dogwood, hibiscus, hydrangeas, lemon meringue potentilla, spiraea, candy coralberry, shinning sensation weigela, and thuja planet earth.
 
