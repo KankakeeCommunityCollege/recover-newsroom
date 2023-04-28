@@ -20,3 +20,5 @@ They included buttonbush, dogwood, hibiscus, hydrangeas, lemon meringue potentil
 Mateja, along with Charles Riner of the grounds crew, moved the donated plants&nbsp; into pots on April 20.&nbsp;
 
 ![](/uploads/2023/two-men-with-tree-roots.JPG){: .float-image-right width="250" height="167"}They will be ready to go in the ground this fall. Students in Agriculture/Horticulture classes will take care of them until they are planted. The plants will be used at KCC's Riverfront Campus, North Extension Center in Bradley, near the sign at the intersection of Rout 45-52 and River Road.
+
+Photos by Julia Hilgeman, marketing intern.
