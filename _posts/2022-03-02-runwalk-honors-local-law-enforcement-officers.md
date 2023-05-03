@@ -21,8 +21,4 @@ All proceeds from this event will be used to fund two KCC Law Enforcement Schola
 
 [Click here to register](https://runsignup.com/Race/IL/Bourbonnais/IGotYourSix){: target="_blank" rel="noopener"}.&nbsp;<br>[Click here to make a donation](https://runsignup.com/Race/Donate/IL/Bourbonnais/IGotYourSix){: target="_blank" rel="noopener"}.<br>Get full details at [igotyoursix5k.com](http://www.igotyoursix5k.com){: target="_blank" rel="noopener"}.
 
-&nbsp;
-
-&nbsp;
-
 Photo by&nbsp;**[Darwis Alwan](https://www.pexels.com/@darwisalwan?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)**&nbsp;from&nbsp;**[Pexels](https://www.pexels.com/photo/man-and-woman-walking-on-road-2292101/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)**
