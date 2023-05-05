@@ -1,12 +1,12 @@
 ---
-title: KCC is a 2023 Military Friendly® School
+title: Benefits and support for veterans available
 date: 2023-05-05 00:00:00 -0500
 expire_date: 2023-05-31 00:00:00 -0500
 image: /uploads/2022/sva-580x549.jpg
 news_image_alt: >-
   3 KCC students and 1 staff member attend the 2023 Student Veterans of America
   conference
-article_lead: Benefits and support for veterans
+article_lead: KCC is a 2023 Military Friendly® School
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
