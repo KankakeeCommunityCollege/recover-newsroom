@@ -2,7 +2,7 @@
 title: Congratulations graduates!
 date: 2023-05-05 00:00:00 -0500
 expire_date: 2023-05-14 00:00:00 -0500
-image: /uploads/2022/grad-580x685.jpg
+image: /uploads/2022/grad-580x822.jpg
 news_image_alt: A graduate poses with their diploma and balloons
 article_lead: Commencement ceremony will be Saturday, May 13
 video_content: false
