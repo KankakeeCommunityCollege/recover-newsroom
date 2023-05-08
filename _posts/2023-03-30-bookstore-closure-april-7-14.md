@@ -13,6 +13,6 @@ press_release: false
 
 To make a smooth transition, the&nbsp;[Bookstore](https://books.kcc.edu){: target="_blank" rel="noopener"} will be closed Friday, April 7 to Friday, April 14. We apologize for the inconvenience, but know that the new site will be worth the wait.
 
-The bookstore will re-open at 8:30 a.m. on Monday, April 17 -- and you'll find a more modern and comfortable shopping environment in the new location.
+The bookstore will re-open at 8:30 a.m. on Monday, April 17 – and you'll find a more modern and comfortable shopping environment in the new location.
 
 ![](/uploads/2022/new-bookstore.jpg){: width="467" height="235"}
