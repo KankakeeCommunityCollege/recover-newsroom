@@ -19,7 +19,7 @@ Emerson completed an Associate in Science in December 2022, and has completed a 
 
 “I just turned 50 last year, and to finally be graduating from college is a dream come true,” said Laretta Graves, who will receive an Associate in Arts transfer degree.
 
-“This has been one of the most challenging and rewarding experiences of my life,” Graves said. “I plan to continue with my goals and dreams by attending GSU![Noah Stack, 2023 KCC graduate](/uploads/2022/noah-stack250x313.jpg "Noah Stack, 2023 KCC graduate"){: .float-image-right width="250" height="313"} (Governors State University) in the fall, majoring in pre-clinical psychology with a minor in philosophy. I will miss KCC, though, as it has become a place where I have further empowered myself and grown. Here's ![Adlene Noble, 2023 KCC graduate](/uploads/2022/adlene-noble250x333.jpg "Adlene Noble, 2023 KCC graduate"){: .float-image-left width="249" height="333"}to 50 more years!”
+“This has been one of the most challenging and rewarding experiences of my life,” Graves said. “I plan to continue with my goals and dreams by attending GSU![Noah Stack, 2023 KCC graduate](/uploads/2022/noah-stack250x313.jpg "Noah Stack, 2023 KCC graduate"){: .float-image-right width="250" height="313"} (Governors State University) in the fall, majoring in pre-clinical psychology with a minor in philosophy. I ![Adlene Noble, 2023 KCC graduate](/uploads/2022/adlene-noble250x333.jpg "Adlene Noble, 2023 KCC graduate"){: .float-image-left width="249" height="333"}will miss KCC, though, as it has become a place where I have further empowered myself and grown. Here's to 50 more years!”
 
 A first-generation college student, Noah Stack has a simple message for his mom, “I’d like to give a special thank you to my mother, Jeanne Stack, for her continued support, encouragement, and strength as a solo-mother for the past three years.”
 
@@ -31,7 +31,7 @@ Stack will receive an Associate in Applied Science degree in Agri-Hort Technolog
 
 After receiving an Associate in General Studies degree, Noble plans to continue at KCC, first by applying to the Licensed Practical Nursing program, and eventually completing the![Eric Peterson, 2023 KCC commencement speaker](/uploads/2022/eric-peterson-grad-speaker-2023-250x313.jpg "Eric Peterson, 2023 KCC commencement speaker"){: .float-image-right width="250" height="313"} Registered Nursing degree.
 
-The speaker at KCC’s ceremony will be a 2012 graduate, Eric Peterson. Peterson is chief executive officer and founder at Project Headspace and Timing, a non-profit that ![Julie Anco, 2023 Illinois All-Academic Team member](/uploads/2022/julie-anco250x313.jpg "Julie Anco, 2023 Illinois All-Academic Team member"){: .float-image-left width="250" height="313"}assists veterans. He is a U.S. military veteran who served in Afghanistan with the Illinois Army National Guard. Peterson also has worked as a paramedic and a private investigator.
+The speaker at KCC’s ceremony will be a 2012 graduate, Eric Peterson. Peterson is chief executive ![Julie Anco, 2023 Illinois All-Academic Team member](/uploads/2022/julie-anco250x313.jpg "Julie Anco, 2023 Illinois All-Academic Team member"){: .float-image-left width="250" height="313"}officer and founder at Project Headspace and Timing, a non-profit that assists veterans. He is a U.S. military veteran who served in Afghanistan with the Illinois Army National Guard. Peterson also has worked as a paramedic and a private investigator.
 
 Three students will be honored as members of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. They are Julie Anco of Frankfort, Halie Kohl of Herscher and Thomas Daily of St. Anne.
 
@@ -39,9 +39,9 @@ The KCC Outstanding Faculty Member Awards for 2023 will be presented to Kristine
 
 The recipient of the John M. Fulton Distinguished Alumni Award is Tocarra Eldridge-Robinson, a 2003 KCC graduate who is founder and executive director of Still I Rise, a nonprofit organization founded in 2014.
 
-The ceremony will stream live on [commencement.kcc.edu](https://commencement.kcc.edu/). Social media users can use \#KCCgrad2023 to congratulate graduates.
+The ceremony will stream live on ![Halie Kohl, 2023 Illinois All-Academic Team member](/uploads/2022/halie-kohl250x313.jpg "Halie Kohl, 2023 Illinois All-Academic Team member"){: .float-image-left width="250" height="313"}[commencement.kcc.edu](https://commencement.kcc.edu/). Social media users can use \#KCCgrad2023 to congratulate graduates.
 
-![Halie Kohl, 2023 Illinois All-Academic Team member](/uploads/2022/halie-kohl250x313.jpg "Halie Kohl, 2023 Illinois All-Academic Team member"){: .float-image-left width="250" height="313"}The ceremony will last about 90 minutes.
+The ceremony will last about 90 minutes.
 
 For guests needing assistance or special accommodations, entry will begin at 8:45 a.m. General seating will take place from 9-9:55 a.m. Guests are asked not to bring balloons and other large items that could obstruct the view of others. The college also will have an overflow room where the ceremony will be streamed live.
 
