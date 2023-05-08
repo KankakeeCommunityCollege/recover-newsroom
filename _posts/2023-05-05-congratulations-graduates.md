@@ -6,7 +6,7 @@ image: /uploads/2022/2023commencement-580x634.jpg
 news_image_alt: >-
   A graduation cap with a 2023 tassel with "Congratulations Graduates" text on
   bottom of images
-article_lead: Commencement ceremony will be Saturday, May 13
+article_lead: 2023 Commencement information
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
