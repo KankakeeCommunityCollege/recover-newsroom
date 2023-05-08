@@ -1,5 +1,5 @@
 ---
-title: KCCs  commitment to veterans continues
+title: KCC's  commitment to veterans continues
 date: 2023-05-05 00:00:00 -0500
 expire_date: 2023-05-31 00:00:00 -0500
 image: /uploads/2022/sva-580x549.jpg
