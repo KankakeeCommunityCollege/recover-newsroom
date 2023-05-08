@@ -11,7 +11,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/military-friendly-mfs23-24-gold-300x300.png){: .float-image-left width="300" height="300"}Kankakee Community College is one of 28 small community colleges across the nation with a gold ranking in the 2023 Guide to Military Friendly® Schools, published in conjunction with “G.I. Jobs” magazine.
+![Military Friendly School logo, KCC designated for 2023](/uploads/2022/military-friendly-mfs23-24-gold-300x300.png "Military Friendly School logo, KCC designated for 2023"){: .float-image-left width="300" height="300"}Kankakee Community College is one of 28 small community colleges across the nation with a gold ranking in the 2023 Guide to Military Friendly® Schools, published in conjunction with “G.I. Jobs” magazine.
 
 Typically, KCC has about 60 veterans who enroll each year, according to the college’s Office of Financial Aid. Among veterans, there are 35 KCC student veterans currently utilizing VA Education benefits.
 
@@ -21,11 +21,11 @@ Throughout Illinois, there are only 14 community colleges which achieved a Milit
 
 According to **[militaryfriendly.com](http://www.militaryfriendly.com/schools/){: target="_blank" rel="noopener"},** “The data we evaluate to determine Military Friendly® designations and awards are sourced from three categories, which we call the three Ps: Public data sources, Proprietary data from our survey and Personal data from surveys of veterans themselves. Our Military Friendly Advisory Council then gives guidance including diverse perspective on methodology. Data is then pushed through a pre-determined algorithm as per our methodology. Results are audited by EY (Ernst & Young).” Measurements included “ability to meet thresholds for retention, graduation, job placement, repayment, persistence, and loan default rates for all students and specifically, for student veterans,” according to the site.
 
-The 2023-24 Military Friendly® Schools list is published in the May 2023 issue of G.I. Jobs magazine and can be found at [www.militaryfriendly.com/schools](http://www.militaryfriendly.com/schools/).![](/uploads/2022/sva-650x520.jpg){: .float-image-right width="650" height="520"}
+The 2023-24 Military Friendly® Schools list is published in the May 2023 issue of G.I. Jobs magazine and can be found at [www.militaryfriendly.com/schools](http://www.militaryfriendly.com/schools/).
 
 “Military Friendly® Schools strive towards and succeed in the areas that matter most in helping veterans make the transition from the military to school and, ultimately, satisfying careers in the civilian world,” according to militaryfriendly.com.
 
-More information about KCC’s educational benefits for military veterans, spouses and dependents, is at [kcc.edu/veterans](mailto:kcc.edu/veterans). Community members and prospective students can request information at [veterans.kcc.edu](http://veterans.kcc.edu), email [finaid@kcc.edu](mailto:finaid@kcc.edu)<u>,</u> or phone 815-802-8550.
+More information about KCC’s educational benefits for military veterans, spouses and dependents, is at [kcc.edu/veterans](mailto:kcc.edu/veterans). Community members and prospective students can request information at [veterans.kcc.edu](http://veterans.kcc.edu), email [finaid@kcc.edu](mailto:finaid@kcc.edu)<u>,</u> or phone 815-802-8550.![Veterans Mark Cross, Juan Perez, Rodolfo Leal and Cesar Avalos attend the 2023 Student Veterans of America conference](/uploads/2022/sva-650x520.jpg "Veterans Mark Cross, Juan Perez, Rodolfo Leal and Cesar Avalos attend the 2023 Student Veterans of America conference"){: .float-image-right width="650" height="520"}
 
 In January, four veterans represented KCC at the 2023 Student Veterans of America conference—the largest gathering of student veterans in the country. KCC students who participated are Mark Cross of Watseka, Juan Perez of St. Anne, and Rodolfo Leal of Bradley. Cesar Avalos, KCC’s coordinator for workforce opportunities & career services, also attended.
 
