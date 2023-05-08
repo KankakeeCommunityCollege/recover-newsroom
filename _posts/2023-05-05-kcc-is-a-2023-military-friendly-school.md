@@ -1,5 +1,5 @@
 ---
-title: Benefits and support for veterans available
+title: KCCs  commitment to veterans continues
 date: 2023-05-05 00:00:00 -0500
 expire_date: 2023-05-31 00:00:00 -0500
 image: /uploads/2022/sva-580x549.jpg
@@ -19,7 +19,7 @@ Typically, KCC has about 60 veterans who enroll each year, according to the coll
 
 Throughout Illinois, there are only 14 community colleges which achieved a Military Friendly® designation this year.
 
-According to **[militaryfriendly.com](http://www.militaryfriendly.com/schools/){: target="_blank" rel="noopener"},** “The data we evaluate to determine Military Friendly® designations and awards are sourced from three categories, which we call the three Ps: Public data sources, Proprietary data from our survey and Personal data from surveys of veterans themselves. Our Military Friendly Advisory Council then gives guidance including diverse perspective on methodology. Data is then pushed through a pre-determined algorithm as per our methodology. Results are audited by EY (Ernst & Young).” Measurements included “ability to meet thresholds for retention, graduation, job placement, repayment, persistence, and loan default rates for all students and specifically, for student veterans,” according to the site.
+According to **[militaryfriendly.com](http://www.militaryfriendly.com/schools/){: target="_blank" rel="noopener"},** “The data we evaluate to determine Military Friendly® designations and awards are sourced from three categories, which we call the three P's: Public data sources, Proprietary data from our survey and Personal data from surveys of veterans themselves. Our Military Friendly Advisory Council then gives guidance including diverse perspective on methodology. Data is then pushed through a pre-determined algorithm as per our methodology. Results are audited by EY (Ernst & Young).” Measurements included “ability to meet thresholds for retention, graduation, job placement, repayment, persistence, and loan default rates for all students and specifically, for student veterans,” according to the site.
 
 The 2023-24 Military Friendly® Schools list is published in the May 2023 issue of G.I. Jobs magazine and can be found at [www.militaryfriendly.com/schools](http://www.militaryfriendly.com/schools/).
 
@@ -35,7 +35,8 @@ In January, four veterans represented KCC at the 2023 Student Veterans of Americ
 
 “We definitely brought back some ideas … that we can incorporate to our program to make it that much better. Being new to the environment in higher education, it is exciting to know that there is a way that I can continue to assist and have an impact on student veterans.”
 
-**Military-friendly attributes of Kankakee Community College**
+## **Military-friendly attributes of Kankakee Community College**
+{: .h2}
 
 * Full-time advisers on staff, including career advising
 * Priority registration
@@ -52,4 +53,7 @@ In January, four veterans represented KCC at the 2023 Student Veterans of Americ
 * Disability Services
 * Tutoring Services
 
-About Military Friendly® Schools: The Military Friendly® Schools list is created each year based on extensive research using public data sources from more than 8,800 schools nationwide, input from student veterans, and responses to the proprietary, data-driven Military Friendly® Schools survey from participating institutions. The survey questions, methodology, criteria and weighting were developed with the assistance of an independent research firm and an advisory council of educators and employers. The survey is administered for free and is open to all postsecondary schools that wish to participate. Criteria for consideration can be found at [www.militaryfriendly.com](file:///C:/Users/spizzoferrato/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/SHQSB2DF/www.militaryfriendly.com).
+## **About Military Friendly® Schools**
+{: .h2}
+
+The Military Friendly® Schools list is created each year based on extensive research using public data sources from more than 8,800 schools nationwide, input from student veterans, and responses to the proprietary, data-driven Military Friendly® Schools survey from participating institutions. The survey questions, methodology, criteria and weighting were developed with the assistance of an independent research firm and an advisory council of educators and employers. The survey is administered for free and is open to all postsecondary schools that wish to participate. Criteria for consideration can be found at [www.militaryfriendly.com](file:///C:/Users/spizzoferrato/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/SHQSB2DF/www.militaryfriendly.com).
