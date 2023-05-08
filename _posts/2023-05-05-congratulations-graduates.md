@@ -1,7 +1,7 @@
 ---
 title: Congratulations graduates!
 date: 2023-05-05 00:00:00 -0500
-expire_date: 2023-05-14 00:00:00 -0500
+expire_date: 2023-05-26 00:00:00 -0500
 image: /uploads/2022/2023commencement-580x634.jpg
 news_image_alt: >-
   A graduation cap with a 2023 tassel with "Congratulations Graduates" text on
@@ -33,7 +33,7 @@ After receiving an Associate in General Studies degree, Noble plans to continue 
 
 The speaker at KCC’s ceremony will be a 2012 graduate, Eric Peterson. Peterson is chief executive officer and founder at Project Headspace and Timing, a non-profit that assists veterans. He is a U.S. military veteran who served in Afghanistan with the Illinois Army National Guard. Peterson also has worked as a paramedic and a private investigator.
 
-Three students will be honored as members of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. They are Julie Anco of Frankfort, Halie Kohl of Herscher and![Kristine Salmons, 2023 KCC Outstanding Faculty Winner](/uploads/2022/kristine-salmons250x313-1.jpg "Kristine Salmons, 2023 KCC Outstanding Faculty Winner"){: .float-image-right width="250" height="313"} Thomas Daily of St. Anne.
+![](/uploads/2022/thomas-daily250x313.jpg){: .float-image-right width="250" height="313"}Three students will be honored as members of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. They are Julie Anco of Frankfort, Halie Kohl of Herscher and![Kristine Salmons, 2023 KCC Outstanding Faculty Winner](/uploads/2022/kristine-salmons250x313-1.jpg "Kristine Salmons, 2023 KCC Outstanding Faculty Winner"){: .float-image-right width="250" height="313"} Thomas Daily of St. Anne.
 
 ![Halie Kohl, 2023 Illinois All-Academic Team member](/uploads/2022/halie-kohl250x313.jpg "Halie Kohl, 2023 Illinois All-Academic Team member"){: .float-image-left width="250" height="313"}The KCC Outstanding Faculty Member Awards for 2023 will be presented to Kristine Salmons, professor for the Electrical Engineering Technology Program; and Dana Corlett-Bryant, adjunct professor for English and speech programs.
 
@@ -47,7 +47,7 @@ For guests needing assistance or special accommodations, entry will begin at 8:4
 
 KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee.
 
-In her words: Meghann Rosemary Miller<br>![Thomas Daily, 2023 Illinois All-Academic Team member](/uploads/2022/thomas-daily250x313.jpg "Thomas Daily, 2023 Illinois All-Academic Team member"){: .float-image-left width="250" height="313"}Associate in Arts transfer degree
+**In her words: Meghann Rosemary Miller<br>Associate in Arts transfer degree**
 
 “I began this journey after high school in 2003, with a class here and there. I have taken several breaks. In 2016, I decided to begin again, this time I became pregnant with my first born and through a rough pregnancy I managed my first semester. My husband received his degree from KCC 2016. One of my first classes back was one of his last. Restarting the journey with him pushed me to follow through. I slowly went through courses while working full-time and being a new mom. I was set to graduate in 2020 when I had to take a medical leave when I became pregnant with my second child. He was born in 2020 during the lockdown. After two years, I decided to go back to work, and they actually encouraged me to go back to school. I realized that after those two classes, I really only needed one more to![Tocarra Eldridge-Robinson, 2023 KCC John M. Fulton Distinguished Alumni Award Winner](/uploads/2022/tocarra-eldridge-robinson250x313.jpg "Tocarra Eldridge-Robinson, 2023 KCC John M. Fulton Distinguished Alumni Award Winner"){: .float-image-right width="250" height="313"} graduate. So finally, after 20 years, I have a degree and can make my children proud and let them know to never give up and with enough dedication and hard work anything is possible.”
 
