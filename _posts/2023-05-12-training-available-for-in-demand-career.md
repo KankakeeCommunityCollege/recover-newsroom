@@ -3,7 +3,7 @@ title: Training available for in-demand career
 date: 2023-05-12 00:00:00 -0500
 expire_date: 2023-06-30 00:00:00 -0500
 image: /uploads/2022/dieseltech-580x720.jpg
-news_image_alt:
+news_image_alt: A man works on repairing a vehicle engine
 article_lead: Diesel Tech Program begins at KCC
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
