@@ -75,7 +75,7 @@ To be named to the President’s List, a student must maintain a grade point ave
 
 **Monee:** Adetolashe Akande and Kristina Simpson.
 
-**![](/uploads/2022/evelynbarbosa-350x293.jpg){: .float-image-left width="350" height="293"}Morris:** Jaelyn Wiers.
+**![Evelyn Barbosa of Onarga](/uploads/2022/evelynbarbosa-350x293.jpg "Evelyn Barbosa of Onarga"){: .float-image-left width="350" height="293"}Morris:** Jaelyn Wiers.
 
 **New Lenox:** Deidre Dalton and McKayla Kuznieski.
 
