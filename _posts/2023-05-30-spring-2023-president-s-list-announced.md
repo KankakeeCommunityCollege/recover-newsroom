@@ -65,7 +65,7 @@ To be named to the President’s List, a student must maintain a grade point ave
 
 **Kankakee:** Blair Alderson, Emily Blanchette, Katelyn Borschnack, Albert Boudreau, Anthony Boudreau, Xavier Boudreau, Avery Chandler, Keegan Cogswell, Alyssa Copeland, Patricia Cossie, Keith Cross, Paige DePatis, Donald Devine, Meredith Drake, Lavern Eldridge, Delanie Fay, Sophia Gall, Dario Garcia, Ava Gardner, Jacob Godin, Jacob Grant, Juan Guzman, Lacethia Harris, Leah Harris, Abigail Haut, Dominique Hayes, Courtney Held, Rachel Johnson, Gwendolyn Jones, Justin Jones, Courtney Keen, Heather Keene, Mitchell Krizan, Elise Kukuck, Reese Kuwitzky, Myllena Lima De Sousa, Jada Mabins, Tyler Macak, Dante Marin, Elizabeth Martinez, Nicole Mauritzen, Aisha Maxwell, Krystal Medina, Maryely Medina, Dylan Mill, Maria Molina, Macey Moore, Quiana Morris, Connor O’Malley, Guadalupe Orozco, Yisek Perez Varela, Michael Perley, Gavin Phillips, Amber Porter, Millia Riley, Amy Saurer, Lily Schultz, Tameeka Sexton, Maria Shelton, Isabelle Spiese, Suzanna Stipp, Kamryn Trammell, Lauren Uftring, Ryan Uftring, Liliana Velazquez, McShun Walls, Rachel White, Denica Williamson, Leah Wilson, Samuel Yohnka and Katie Young.
 
-**Manteno:** Amanda Boeschel, Brandon Breazeale, Sataria Calhoun, Savannah Chose, Tyson Creek, Steven Doig, Makayla Drew, Gavin Eck, Allison Fraser, Danielle Georgelos, Adeline Graffeo, Michael Heaney, Danielle Horan, Edward Horath, Drew Hosselton, Sophia Iaconi, Hailey Johns, Elizabeth Kirkpatrick, Emily LeBeau, Gabrielle Leer, Emma Masterson, Claire Meegan, Gabriella Monterastelli, Diana Motel, Lauren Murray, Jack Palicki, Jeremy Roach, Mia Robbins, Chadwick Rutter, Rayna Schulteis, Sidney Stauffenberg and Carter Watkins.
+**Manteno:** Amanda Boeschel, Brandon Breazeale, Sataria Calhoun, Savannah Chose, Tyson Creek, Steven Doig, Makayla Drew, Gavin Eck, Allison Fraser, Danielle Georgelos, Adeline Graffeo, Michael Heaney, Danielle Horan, Edward Horath, Drew Hosselton, Sophia Iaconi (above right), Hailey Johns, Elizabeth Kirkpatrick, Emily LeBeau, Gabrielle Leer, Emma Masterson, Claire Meegan, Gabriella Monterastelli, Diana Motel, Lauren Murray, Jack Palicki, Jeremy Roach, Mia Robbins, Chadwick Rutter, Rayna Schulteis, Sidney Stauffenberg and Carter Watkins.
 
 **Martinton:** Kloie Cole and Ethan McManaway.
 
@@ -79,7 +79,7 @@ To be named to the President’s List, a student must maintain a grade point ave
 
 **New Lenox:** Deidre Dalton and McKayla Kuznieski.
 
-**Onarga:** Evelyn Barbosa and Summer Matthews.
+**Onarga:** Evelyn Barbosa (at left) and Summer Matthews.
 
 **Pembroke Township:** Melanie Aleman, Kenice James, Kentrice James and Karina Rodriguez.
 
@@ -101,12 +101,10 @@ To be named to the President’s List, a student must maintain a grade point ave
 
 **![Moises Ruiz Rodriguez of Watseka](/uploads/2022/moisesruizrodriguez-350x525.jpg "Moises Ruiz Rodriguez of Watseka"){: .float-image-left width="350" height="525"}Urbana:** Brooke Russell.
 
-**Watseka:** Zakkary Clark, Addison Edwards, Emily Hall, Katelyn Hanford-Hatch, Dorothy Harms, Zachary Hickman, Katelyn Kissack, Dane Martin, Kinzie Parsons, Thomas Poe, Lia Rudisill, Moises Ruiz Rodriguez, Kaitlynn Stephens and Courtney Zumwalt.
+**Watseka:** Zakkary Clark, Addison Edwards, Emily Hall, Katelyn Hanford-Hatch, Dorothy Harms, Zachary Hickman, Katelyn Kissack, Dane Martin, Kinzie Parsons, Thomas Poe, Lia Rudisill, Moises Ruiz Rodriguez (at left), Kaitlynn Stephens and Courtney Zumwalt.
 
 **Wilmington:** Mac Kenzie Collier, Rikki Damaschke and Peter Runions.
 
 **Woodland:** Nolan Courville and Noah Morales.
 
 **Portage, Ind.:** Daniel Puplava.
-
-Article content here
