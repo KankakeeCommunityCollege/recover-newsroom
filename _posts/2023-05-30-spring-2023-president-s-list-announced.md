@@ -79,7 +79,7 @@ To be named to the President’s List, a student must maintain a grade point ave
 
 **New Lenox:** Deidre Dalton and McKayla Kuznieski.
 
-**Onarga:** Evelyn Barbosa and Summer Matthews.
+**Onarga:** Evelyn Barbosa (at left) and Summer Matthews.
 
 **Pembroke Township:** Melanie Aleman, Kenice James, Kentrice James and Karina Rodriguez.
 
@@ -101,12 +101,10 @@ To be named to the President’s List, a student must maintain a grade point ave
 
 **![Moises Ruiz Rodriguez of Watseka](/uploads/2022/moisesruizrodriguez-350x525.jpg "Moises Ruiz Rodriguez of Watseka"){: .float-image-left width="350" height="525"}Urbana:** Brooke Russell.
 
-**Watseka:** Zakkary Clark, Addison Edwards, Emily Hall, Katelyn Hanford-Hatch, Dorothy Harms, Zachary Hickman, Katelyn Kissack, Dane Martin, Kinzie Parsons, Thomas Poe, Lia Rudisill, Moises Ruiz Rodriguez, Kaitlynn Stephens and Courtney Zumwalt.
+**Watseka:** Zakkary Clark, Addison Edwards, Emily Hall, Katelyn Hanford-Hatch, Dorothy Harms, Zachary Hickman, Katelyn Kissack, Dane Martin, Kinzie Parsons, Thomas Poe, Lia Rudisill, Moises Ruiz Rodriguez (at left), Kaitlynn Stephens and Courtney Zumwalt.
 
 **Wilmington:** Mac Kenzie Collier, Rikki Damaschke and Peter Runions.
 
 **Woodland:** Nolan Courville and Noah Morales.
 
 **Portage, Ind.:** Daniel Puplava.
-
-Article content here
