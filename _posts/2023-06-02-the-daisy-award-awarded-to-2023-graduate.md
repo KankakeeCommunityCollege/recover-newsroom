@@ -1,10 +1,10 @@
 ---
-title: The Daisy Award® awarded to 2023 graduate
+title: Award recognizes Extraordinary Nursing Students
 date: 2023-06-02 00:00:00 -0500
 expire_date: 2023-06-30 00:00:00 -0500
 image: /uploads/2022/kristiyamaoka-580x725.jpg
 news_image_alt: Kristi Yamaoka, 2023 The Daisy Award® winner
-article_lead: Award honors Extraordinary Nursing Students
+article_lead: The Daisy Award® awarded to 2023 graduate
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
