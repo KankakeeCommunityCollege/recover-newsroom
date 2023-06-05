@@ -1,9 +1,9 @@
 ---
-title: Spring 2023  Daisy Award®
+title: Spring 2023  Daisy Award
 date: 2023-06-02 00:00:00 -0500
 expire_date: 2023-06-30 00:00:00 -0500
 image: /uploads/2022/kristiyamaoka-580x725.jpg
-news_image_alt: Kristi Yamaoka, 2023 The Daisy Award® winner
+news_image_alt: Kristi Yamaoka, 2023 The Daisy Award recipient
 article_lead: Congratulations, Kristi Yamaoka!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
