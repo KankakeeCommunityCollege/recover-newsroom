@@ -1,5 +1,5 @@
 ---
-title: Spring 2023  Daisy Award
+title: Spring 2023 Daisy Award
 date: 2023-06-02 00:00:00 -0500
 expire_date: 2023-06-30 00:00:00 -0500
 image: /uploads/2022/kristiyamaoka-580x725.jpg
