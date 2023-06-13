@@ -28,6 +28,12 @@ collections:
     output: false
   contacts:
     output: false
+  posts:
+    _inputs:
+      date:
+        instance_value: NOW
+      expire_date:
+        instance_value: NOW
 defaults:
   - scope:
       path: ''
@@ -82,7 +88,7 @@ exclude:
   - "postcss.config.js"
   - "process-archive-files.mjs"
 
-uploads_dir: "/uploads/2022"
+uploads_dir: "/uploads/2023"
 
 _comments:
   layout: Do NOT modify layouts. It may break things.
