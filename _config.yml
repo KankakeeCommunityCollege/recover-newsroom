@@ -28,6 +28,12 @@ collections:
     output: false
   contacts:
     output: false
+  posts:
+    _inputs:
+      date:
+        instance_value: NOW
+      expire_date:
+        instance_value: NOW
 defaults:
   - scope:
       path: ''
