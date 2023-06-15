@@ -21,7 +21,7 @@ Each player will receive a camp shirt, peanut-free snacks, evaluation and the op
 
 The KCC Cavaliers Women’s Basketball Camp is directed by Meister along with KCC Assistant Coach Jennifer Coronelli, and current players.
 
-A registration form is at [bit.ly/KCCGirlsBBallCamp23](bit.ly/KCCGirlsBBallCamp23){: target="_blank"}.&nbsp;
+A registration form is at [bit.ly/KCCGirlsBBallCamp23](){: target="_blank"}.&nbsp;
 
 Cost is $75 per person.&nbsp;Camp fee can be made by Venmo to @jennifer-coronelli. Checks can be mailed to&nbsp;Casey Meister, KCC Athletics; 100 College Drive; Kankakee, IL 60901.&nbsp;Make checks payable to: KCC Women's Basketball. Payment must be made by July 11 to guarantee a camp T-shirt.
 
