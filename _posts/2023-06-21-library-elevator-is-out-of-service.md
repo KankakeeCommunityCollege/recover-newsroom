@@ -1,10 +1,10 @@
 ---
-title: Sorry for any inconvenience
+title: Library elevator is out-of-service
 date: 2023-06-21 13:10:00 -0500
 expire_date: 2023-07-14 00:00:00 -0500
 image: /uploads/2022/out-of-order-580x702.jpg
 news_image_alt: '"Out of Order for Repairs"  sign'
-article_lead: Library elevator out-of-order
+article_lead: Sorry for any inconvenience
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
