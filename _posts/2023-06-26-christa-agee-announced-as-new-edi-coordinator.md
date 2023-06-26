@@ -2,7 +2,7 @@
 title: New equity, diversity, inclusion coordinator
 date: 2023-06-26 14:00:00 -0500
 expire_date: 2023-07-31 00:00:00 -0500
-image: /uploads/2023/christa-agee-580x870.jpg
+image: /uploads/2023/christa-agee-580x717.jpg
 news_image_alt: Christa Agee
 article_lead: Meet Christa Agee
 video_content: false
