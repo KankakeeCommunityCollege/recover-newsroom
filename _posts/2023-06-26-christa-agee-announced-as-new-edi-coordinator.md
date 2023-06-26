@@ -1,15 +1,15 @@
 ---
-title: Christa Agee announced as new EDI coordinator
+title: New equity, diversity, inclusion coordinator
 date: 2023-06-26 14:00:00 -0500
 expire_date: 2023-07-31 00:00:00 -0500
-image: /uploads/2023/christa-agee.jpg
-news_image_alt: Christa Agee, new EDI coordinator at KCC
-article_lead: Assistance and resources available for underrepresented students
+image: ''
+news_image_alt: Christa Agee
+article_lead: Meet Christa Agee
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Christa Agee](/uploads/2023/christa-agee-2.jpg "Christa Agee"){: .float-image-right width="350" height="525"}The new coordinator of equity, diversity, and inclusion at Kankakee Community College is Christa Agee.
+The new coordinator of equity, diversity, and inclusion at Kankakee Community College is Christa Agee.
 
 “Christa is passionate about education and student advocacy,” said Kendra Souligne, KCC director of financial aid and student engagement. “She will strive for not only the representation of all students, but to also foster an environment in which students feel welcome to be actively involved.”
 
