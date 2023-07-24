@@ -1,10 +1,10 @@
 ---
-title: Sessions begin Sept. 18
+title: Gap Year Program returns
 date: 2023-07-24 16:18:00 -0500
 expire_date: 2023-09-11 00:00:00 -0500
 image: /uploads/2023/gapyear-580x650.jpg
-news_image_alt: Add descriptive text for the post's image
-article_lead: Gap Year Program returns
+news_image_alt: KCC Gap Year program wordmark
+article_lead: Free program. Sessions begin Sept. 18.
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
