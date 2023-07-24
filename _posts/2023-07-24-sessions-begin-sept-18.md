@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/gapyearbanner-350x197.jpg){: .float-image-right width="350" height="197"}A program for those who are taking a break from college will return this fall at Kankakee Community College.
+![](/uploads/2023/gapyearbanner-350x197-1.jpg){: .float-image-left width="350" height="197"}A program for those who are taking a break from college will return this fall at Kankakee Community College.
 
 The Gap Year Program offers career exploration and activities in a low-pressure, no homework environment.
 
