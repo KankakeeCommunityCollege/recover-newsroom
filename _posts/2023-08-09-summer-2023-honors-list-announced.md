@@ -35,7 +35,7 @@ To be named to the Honors List, a student must maintain a grade point average be
 
 **Kankakee:** Amber Bibbs, Jennifer Bustos, Bryan Cintora Zavala, Rhiannon Clark, Jose Diaz Gonzalez, Jacob Godin, Benjamin Hale, Courtney Keen, Isaiah Lindsey-Dean, Wendy Lopez, Arely Manzur Cruz, Nicole Mauritzen, Lacey McCann, Jilyan Miner, Donna Mitchell-Morrow, Quiana Morris, Connor O’Malley, Curinthian Smith and Diance Smith.
 
-**![](/uploads/2023/ethanjenningshonors-325x486.jpg){: .float-image-left width="325" height="486"}Manteno:** Savanah Baeza, Lily Bona, Lisa Cintora, Danielle Horan, Ethan Jennings, Ashlyn Mitchell, Erik Phelps, Korteney Prather and Jeremy Zimmer.
+**![Ethan Jennings of Manteno](/uploads/2023/ethanjenningshonors-325x486.jpg "Ethan Jennings of Manteno"){: .float-image-left width="325" height="486"}Manteno:** Savanah Baeza, Lily Bona, Lisa Cintora, Danielle Horan, Ethan Jennings, Ashlyn Mitchell, Erik Phelps, Korteney Prather and Jeremy Zimmer.
 
 **Momence:** David Crispen, Amanda Deutscher, Adyson Duran, Andrea Fierros, Haidee Gonzalez and Nanci Ramirez.
 
