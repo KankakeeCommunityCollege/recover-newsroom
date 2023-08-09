@@ -29,7 +29,7 @@ To be named to the President’s List, a student must maintain a grade point ave
 
 **Chebanse:** Jathniel Blaylock, Teagan Emme, Diego Gutierrez, Luke McGinnis, Casey Peters and Jessica Villagomez.
 
-**Clifton:** Matthew Kent, Noah Lundmark and Alyson Massey.
+**![Benjamin Elzinga of Herscher](/uploads/2023/benjaminelzingapreslist-325x450.jpg "Benjamin Elzinga of Herscher"){: .float-image-left width="325" height="450"}Clifton:** Matthew Kent, Noah Lundmark and Alyson Massey.
 
 **Collinsville:** Melanie Peters.
 
@@ -41,15 +41,15 @@ To be named to the President’s List, a student must maintain a grade point ave
 
 **Gilman:** Antonio Diaz and Shannon McGrath.
 
-**![Benjamin Elzinga of Herscher](/uploads/2023/benjaminelzingapreslist-325x450.jpg "Benjamin Elzinga of Herscher"){: .float-image-left width="325" height="450"}Grant Park:** Gabriel Estby, Alexandria Heinberg, Ian Herz and Dustin Parmer.
+**Grant Park:** Gabriel Estby, Alexandria Heinberg, Ian Herz and Dustin Parmer.
 
 **Herscher:** Amber Bauer, Benjamin Elzinga and Chase Elzinga.
 
 **Joliet:** Michael Bertolotti.
 
-**Kankakee:** Brianna Borkine-Hancock, Shannon Brouette, Avery Chandler, Patricia Cossie, Renee Crews, Kylie Followell, David Gutierrez, Brianna Hanners, Lacethia Harris, Dana James, Nathan Lagesse, LeighAnn McCasland, Jessica Merrill, Dylan Mill, Maria Molina, Molly Moss, Adam Nagel, Ava Nagel, LeAnn Nanos, Trent Owens, Emily Pena, Mary Pruitt, Alyxandria Rink, Sierra Russell, Yecenia Serna-Flores, Zoe Sprimont, Lily Stevens, Leslie Taylor, Elizabeth Villagomez and Brisa Zermeno.
+**Kankakee:** Brianna Borkine-Hancock, Shannon Brouette, Avery Chandler, Patricia Cossie, Renee Crews, Kylie Followell, David Gutierrez, Brianna Hanners, Lacethia Harris, Dana James, Nathan Lagesse, LeighAnn McCasland, Jessica Merrill, Dylan Mill,![Yecenia Serna-Flores of Kankakee](/uploads/2023/yeceniasernaflorespreslist-325x388.jpg "Yecenia Serna-Flores of Kankakee"){: .float-image-right width="325" height="488"} Maria Molina, Molly Moss, Adam Nagel, Ava Nagel, LeAnn Nanos, Trent Owens, Emily Pena, Mary Pruitt, Alyxandria Rink, Sierra Russell, Yecenia Serna-Flores, Zoe Sprimont, Lily Stevens, Leslie Taylor, Elizabeth Villagomez and Brisa Zermeno.
 
-**Manteno:** Brandon Breazeale, Jarod Howard, Melanie Mulholland, Lauren Murray, Emma Novoryta, Jack Palicki, Makailey Shaykin, Selena Tierney and Alexa Willis.![Yecenia Serna-Flores of Kankakee](/uploads/2023/yeceniasernaflorespreslist-325x388.jpg "Yecenia Serna-Flores of Kankakee"){: .float-image-right width="325" height="488"}
+**Manteno:** Brandon Breazeale, Jarod Howard, Melanie Mulholland, Lauren Murray, Emma Novoryta, Jack Palicki, Makailey Shaykin, Selena Tierney and Alexa Willis.
 
 **Milford:** Cole Podis, Brooklyn Santana and Stacie Trumann.
 
