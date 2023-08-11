@@ -1,7 +1,7 @@
 ---
 title: Student receives Coca-Cola scholarship
 date: 2023-08-11 14:52:58 -0500
-expire_date: 2023-08-31 00:00:00 -0500
+expire_date: 2023-09-08 00:00:00 -0500
 image: /uploads/2022/ptk-logo-580x580.jpg
 news_image_alt: Phi Theta Kappa Honor Society logo
 article_lead: Congratulations, Allie Kohl!
