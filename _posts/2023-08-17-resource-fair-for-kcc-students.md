@@ -2,7 +2,7 @@
 title: Resource Fair for KCC Students
 date: 2023-08-17 10:59:06 -0500
 expire_date: 2023-08-31 00:00:00 -0500
-image: /uploads/2023/powerofcommunity-580x650.jpg
+image: /uploads/2023/resourcefair-580x650.jpg
 news_image_alt: Logo for KCC - The Power of Community
 article_lead: Learn about resources in the community and at KCC
 video_content: false
