@@ -17,4 +17,4 @@ For over 60 years, Hodak Motors was a staple of the Kankakee community, providin
 
 Registration is encouraged by phoning 815-802-8206 or visit&nbsp;[bit.ly/KCCHodakMotors](https://www.enrole.com/kcc/jsp/session.jsp?sessionId=2023FA.LLLI-9968.001&amp;courseId=LLLI-9968&amp;categoryId=BF777290){: target="_blank"}. You must create an account to register online.
 
-KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee. This event is presented by KCC's Office of Continuing Education and Business Partnerships. . It does not award college credit.
+KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee. This event is presented by [KCC's Office of Continuing Education and Business Partnerships](http://continuinged.kcc.edu){: target="_blank" rel="noopener"}. It does not award college credit.
