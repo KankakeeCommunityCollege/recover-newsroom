@@ -1,7 +1,7 @@
 ---
 title: Journey through local auto history
 date: 2023-08-24 08:17:09 -0500
-expire_date: 2023-08-24 08:17:09 -0500
+expire_date: 2023-09-08 00:00:00 -0500
 image: /uploads/2023/hodak-motors-589x723.jpg
 news_image_alt: Outside Hodak Motors in 1950
 article_lead: FREE event highlights Hodak Motors
