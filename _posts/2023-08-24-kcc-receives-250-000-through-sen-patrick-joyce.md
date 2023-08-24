@@ -1,12 +1,12 @@
 ---
-title: KCC receives $250,000 through Sen. Patrick Joyce
+title: KCC receives $250,000 for STEM and manufacturing programs
 date: 2023-08-24 14:20:08 -0500
-expire_date: 2023-09-08 00:00:00 -0500
+expire_date: 2023-09-24 00:00:00 -0500
 image: /uploads/2023/checkpresentation-580x650.jpg
 news_image_alt: >-
   Dr. Michael Boyd and Sen. Patrick Joyce shake hands in front of the presented
   check
-article_lead: Resources for Workforce Development
+article_lead: Sen. Patrick Joyce advocates for workforce development
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
