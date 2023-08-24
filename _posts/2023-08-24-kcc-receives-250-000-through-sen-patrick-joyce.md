@@ -1,12 +1,12 @@
 ---
-title: KCC receives $250,000 for STEM and manufacturing programs
+title: KCC receives $250,000
 date: 2023-08-24 14:20:08 -0500
 expire_date: 2023-09-24 00:00:00 -0500
 image: /uploads/2023/checkpresentation-580x650.jpg
 news_image_alt: >-
   Dr. Michael Boyd and Sen. Patrick Joyce shake hands in front of the presented
   check
-article_lead: Sen. Patrick Joyce advocates for workforce development
+article_lead: STEM & workforce programming will get a boost
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -24,3 +24,7 @@ KCC offers, 11 STEM-related programs, including Engineering, Biological Sciences
 "Dr. Boyd stands as a dedicated advocate for collaboration between academia and local manufacturing, and the perfect partner in this endeavor is undoubtedly KCC,” Joyce said. “Our ongoing dialogues with local employers like CSL Behring only reinforce the importance of this partnership. Through engagement with high schools and KCC on STEM programs, we're setting the foundation for a skilled workforce. At KCC, one can stride towards further education or seamlessly transition into the workforce – a testament to our commitment to shaping a prosperous future.
 
 “Kankakee County is now&nbsp;[ranked third for manufacturing hubs (small)](https://businessfacilities.com/business-facilities-2023-metro-rankings-report/)&nbsp;in the United States,” Joyce continued. “As we lay the groundwork for expansive manufacturing facilities locally, with its promise of numerous well-paying jobs, it becomes imperative to align our efforts.”
+
+Top photo: (Left to right) KCC board members Pat Martin and Cathy Boicken, Joyce, Boyd.
+
+Bottom photo: (Left to right) KCC student Joshua Imig, professors Dr. Jessica Kawa and Michael Caparula, Joyce, KCC students Noah&nbsp; Cleveland and Morgan Fischer.
