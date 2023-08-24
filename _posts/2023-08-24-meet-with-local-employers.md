@@ -2,7 +2,7 @@
 title: Meet with local employers
 date: 2023-08-24 14:01:44 -0500
 expire_date: 2023-09-21 00:00:00 -0500
-image: /uploads/2023/jobfair-580x750.jpg
+image: /uploads/2023/jobfair-580x750-1.jpg
 news_image_alt: Group of people who work in various professions
 article_lead: Fall Job Fair at KCC
 video_content: false
