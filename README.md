@@ -2,11 +2,11 @@
 
 [![Build Status](https://travis-ci.org/KankakeeCommunityCollege/newsroom.svg?branch=publish)](https://travis-ci.org/KankakeeCommunityCollege/newsroom)
 
-#### Jekyll + Gulp + Sass + JS-YAML + Yargs + requireDir() + BrowserSync + ...
+#### Jekyll + Webpack + Sass + Autoprefixer + BrowserSync + etc...
 
-##### Modular Gulp tasks using requireDir(), Gulp config with JS-YAML, minified/uglified assets on --production flag using Yargs. 
+This project's version of Ruby: `ruby-3.1.3`.
 
-Development of the new KCC Newsroom site based off of design-mockups
+-----
 
 ## Requirements
 - RVM (<https://rvm.io/>) using ruby version 2.5.0 `$ rvm use default ruby-2.5.0`
