@@ -21,7 +21,7 @@ The public is invited to the opening and to view the exhibit during its stay at 
 
 2023 marks the 20<sup>th</sup> anniversary of the beginning of the war in Iraq, Quinn noted. The exhibit includes the portrait of Marine Capt. Ryan Beaupre, a St. Anne native and Bishop McNamara High School graduate, who was the first serviceperson to be killed in action during the war.
 
-Guests to the *Portrait of a&nbsp;Soldier*&nbsp;exhibit are invited to write letters of thanks and draw pictures for deployed troops, veterans, wounded soldiers and caregivers. They will be delivered via Operation Gratitude.
+Guests to the *Portrait of a Soldier*&nbsp;exhibit are invited to write letters of thanks and draw pictures for deployed troops, veterans, wounded soldiers and caregivers. They will be delivered via Operation Gratitude.
 
 The artists are Cameron Schilling of Mattoon and Donal Jeremiah of Streamwood. Schilling drew the first portrait in August 2004, after Army Spc. Charles Neeley, also of Mattoon, was killed in Iraq. Schilling gave the sketch to Spc. Neeley’s parents to convey his sympathy. In October 2005, while a student at Eastern Illinois University, Schilling decided to draw a portrait of every Illinois service member who has fallen during the Global War on Terror.
 
