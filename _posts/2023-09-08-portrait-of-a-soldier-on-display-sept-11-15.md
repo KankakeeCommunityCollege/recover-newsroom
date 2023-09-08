@@ -1,10 +1,10 @@
 ---
-title: '"Portrait of a Soldier" on display Sept. 11-15'
+title: '"Portrait of a Soldier" - Sept. 11-15'
 date: 2023-09-08 11:28:05 -0500
 expire_date: 2023-09-15 00:00:00 -0500
 image: /uploads/2023/americanflag-580x860.jpg
 news_image_alt: United States of America flag displayed on pole
-article_lead: Memorial exhibition honors fallen service members
+article_lead: Exhibit honors fallen service members
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
