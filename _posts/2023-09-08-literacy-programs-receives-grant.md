@@ -1,0 +1,32 @@
+---
+title: Literacy programs receives grant
+date: 2023-09-08 11:54:06 -0500
+expire_date: 2023-09-29 00:00:00 -0500
+image: /uploads/2023/alivegrant-580x700.jpg
+news_image_alt: >-
+  Illinois Secretary of State Alexi Giannoulias and KCC ALIVE Literacy Program
+  coordinator Shannan Carrell
+article_lead: $68,000 from Illinois State Library grant programs
+video_content: false
+video_link: https://youtu.be/4d2LkGjg5bM
+press_release: false
+---
+Kankakee Community College's ALIVE literacy program has received a grant from the office of Alexi Giannoulias, Illinois Secretary of State and State Librarian.
+
+The $68,108 grant comes from Illinois State Library Grant program, and is earmarked to "enhance community literacy, improve library services and upgrade current technology" according to a release from the senator's office.
+
+"We are profoundly grateful for the support of the Illinois Secretary of State, who shares our dedication to literacy and education," said Shannan Carrell, coordinator for the ALIVE Literacy Program. "This grant will enable us to broaden our reach, offering personalized instruction, and a nurturing environment to adults from all walks of life."
+
+This is a competitive grant offered through the Secretary of State's Literacy Office, Carrell said. It provides funding and support to various literacy programs and initiatives aimed at improving literacy skills among residents. In this area, the grant gives adults in Kankakee and Iroquois counties the opportunity to improve their literacy skills and, by extension, their quality of life, Carrell said.&nbsp;
+
+“Through their generous support, we are one step closer to our vision of a more literate, and empowered community,” she added.
+
+“We are pleased to continue this important work in the community,” said Gregg Beglau, KCC director of adult and community education. “As champions of community literacy, Shannan and dozens of program volunteers have grown and cultivated this program, providing assistance to thousands of individuals who have needed help. They are bridging the gap of literacy, succeeding on the GED test, in the workplace, and in their pursuit of higher education. As a colleague, I am proud of Shannan and the work she has done, and proud to be associated with KCC’s ALIVE Literacy Program!"
+
+[State Sen. Patrick Joyce](http://www.senatorpatrickjoyce.com/news/9-press-releases/349-joyce-applauds-funding-for-four-local-libraries) also supported the funding. Within the 40th District, which Joyce represents, a total of $169,531 was awarded. Other programs in the district receiving funds were Prairie State College in Chicago Heights, the Bradley Public Library and the Bourbonnais Public Library. According to a [release from Giannoulias’ office](https://ltgov.illinois.gov/news/press-release.26948.html#:~:text=In%20support%20of%20libraries%2C%20education,more%20than%20140%20Illinois%20recipients.), there are “over $21.4 million in grants for library services and over $5.7 million in adult literacy grants for local literacy programs to more than 140 Illinois recipients” statewide.
+
+"As state librarian, it's a privilege to provide these resources to support and enhance local library services and adult literacy programs across Illinois," Giannoulias said in the announcement.
+
+The ALIVE literacy program at KCC has volunteers who work with two populations. One responsibility is providing accessible, quality education to adults ages 16 and older who need help with their literacy skills and who are not enrolled in school. KCC ALIVE volunteers also give out books to the parents of newborns through the "Baby Talk" program.
+
+In addition to the Secretary of State Literacy Office, funding is also provided through United Way of Kankakee and Iroquois Counties. More information is at [https://adulted.kcc.edu/programs/community-literacy](https://adulted.kcc.edu/programs/community-literacy/)&nbsp;or by contacting Carrell [scarrell@kcc.edu](mailto:scarrell@kcc.edu) or 815-802-8307.
