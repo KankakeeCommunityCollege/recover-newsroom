@@ -1,5 +1,5 @@
 ---
-title: Literacy programs receives grant
+title: Literacy program receives grant
 date: 2023-09-08 11:54:06 -0500
 expire_date: 2023-09-29 00:00:00 -0500
 image: /uploads/2023/alivegrant-580x700.jpg

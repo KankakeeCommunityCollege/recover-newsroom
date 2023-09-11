@@ -1,21 +1,21 @@
 ---
-title: '"Portrait of a Soldier" on display Sept. 11-15'
+title: '"Portrait of a Soldier" - Sept. 11-15'
 date: 2023-09-08 11:28:05 -0500
 expire_date: 2023-09-15 00:00:00 -0500
 image: /uploads/2023/americanflag-580x860.jpg
 news_image_alt: United States of America flag displayed on pole
-article_lead: Memorial exhibition honors fallen service members
+article_lead: Exhibit honors fallen service members
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-A memorial exhibition showing 291 hand-drawn soldiers’ portraits will be on display at Kankakee Community College from Sept. 11 to 15.
+A memorial exhibition showing 291 hand-drawn soldiers’ portraits will be on display at Kankakee Community College from 5:30 p.m. Sept. 11 to Friday, Sept. 15.
 
 “Portrait of a Soldier” has portraits of the men and women who have died serving our country since Sept. 11, 2001. It will be on display in KCC’s Arts & Sciences Building art gallery space.
 
 Former Illinois Gov. Pat Quinn will host an opening reception on Sept. 11 at 5:30 p.m. at the gallery location. Families of fallen service members are invited to attend as honored guests.
 
-The public is invited to the opening and to view the exhibit during its stay at KCC. It will be open 7:45 a.m. - 10 p.m. Sept. 11 to 14; and 7:45 a.m. - 5 p.m. Sept. 15.
+The public is invited to the opening and to view the exhibit during its stay at KCC. It will be open 7:45 a.m. - 10 p.m. Sept. 12 to 14; and 7:45 a.m. - 5 p.m. Sept. 15.
 
 “The Portrait of a Soldier memorial is a moving tribute to the men and women who have given their last full measure of devotion to our democracy,” Quinn said. “I encourage everyone to come see the Portrait of a Soldier tribute and honor the memory of these fallen heroes.”
 
