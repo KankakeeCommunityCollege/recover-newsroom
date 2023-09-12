@@ -9,9 +9,9 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/hortclub-2.jpg){: .center-image width="816" height="424"}
+![Kankakee Community College's Horticulture Club](/uploads/2023/hortclub-2.jpg "Kankakee Community College's Horticulture Club"){: .center-image width="816" height="424"}
 
-This summer the KCC Horticulture Club and Grounds Crew partnered to beautify the ![Plant identification tags on Kankakee Community College Riverfront Campus](/uploads/2023/hortclub-350x240.jpg "Plant identification tags on Kankakee Community College Riverfront Campus"){: .float-image-left}Riverfront Campus one project at a time!
+![Plant identification tags on Kankakee Community College Riverfront Campus](/uploads/2023/hortclub-350x240.jpg "Plant identification tags on Kankakee Community College Riverfront Campus"){: .float-image-left}This summer the KCC Horticulture Club and Grounds Crew partnered to beautify the Riverfront Campus one project at a time!
 
 Have you seen the plant identification tags around campus? At the beginning of summer, the Hort Club made plant identification tags to be placed by the Grounds Crew in landscapes around campus. With these tags, visitors can learn the botanical names and common names of the plant material beautifying campus.![Tree nursery sign at Kankakee Community College Riverfront Campus](/uploads/2023/hortclub-350x253.jpg "Tree nursery sign at Kankakee Community College Riverfront Campus"){: .float-image-right}
 
