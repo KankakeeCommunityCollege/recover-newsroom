@@ -1,7 +1,7 @@
 ---
 title: Community survey underway
-date: 2023-09-11 12:30:00 -0500
-expire_date: 2023-09-12 00:00:00 -0500
+date: 2023-09-13 12:30:00 -0500
+expire_date: 2023-10-02 00:00:00 -0500
 image: /uploads/2023/flowers-front-walkway-kcc-vertical580.jpg
 news_image_alt: Flowers in KCC's front courtyard, and a KCC banner on a lightpole.
 article_lead: Please share your opinions about KCC
