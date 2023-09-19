@@ -11,7 +11,7 @@ press_release: false
 ---
 ![](/uploads/2023/mitc-square250x250.jpg){: .float-image-right width="250" height="250"}Manufacturers are invited to Kankakee Community College's Manufacturing and Industrial Technology Center on Thursday, Sept. 21 for "Bettering Your Business: Continuous Improvement Roundtable Discussion."
 
-[View an event flier](../uploads/2023/Bettering-Your-Business-Sept2023.pdf)
+[View an event flier](/uploads/2023/Bettering-Your-Business-Sept2023.pdf){: target='_blank' rel='noopener noreferrer' }
 
 The agenda:&nbsp;
 
