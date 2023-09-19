@@ -23,6 +23,6 @@ Participants will discover invaluable insights from fellow manufacturers who hav
 
 Everyone will be invited to take an exclusive tour of the cutting-edge KCC Manufacturing & Industrial Technology Center.
 
-THE KCC Manufacturing & Industrial Technology Center is at at 2580 S. Route 45/52, Kankakee. More event details are on the [IMEC website](https://www.imec.org/event/bettering-your-business-continuous-improvement-roundtable-discussion-092123/){: target="_blank" rel="noopener"}.
+The KCC Manufacturing & Industrial Technology Center is at at 2580 S. Route 45/52, Kankakee. More event details are on the [IMEC website](https://www.imec.org/event/bettering-your-business-continuous-improvement-roundtable-discussion-092123/){: target="_blank" rel="noopener"}.
 
 Event sponsors: IMEC, Economic Alliance of Kankakee County and KCC.
