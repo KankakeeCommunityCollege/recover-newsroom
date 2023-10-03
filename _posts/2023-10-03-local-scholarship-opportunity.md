@@ -1,5 +1,5 @@
 ---
-title: Local Scholarship opportunity
+title: Local scholarship opportunity
 date: 2023-10-03 14:17:36 -0500
 expire_date: 2023-10-20 00:00:00 -0500
 image: /uploads/2023/women-in-networking33.jpg
