@@ -15,8 +15,8 @@ The scholarship was established to provide needed funds to working women to reta
 
 * Live or work in Kankakee County;
 * Attend an institution of higher learning withing the state of Illinois; and
-* Submit the complete [application packet](https://drive.google.com/file/d/16WdKtUCZt-lB7ogcF_zUnQhedGKxZlJc/view){: target="_blank" rel="noopener"}.
+* Submit the completed&nbsp;[application packet](https://drive.google.com/file/d/16WdKtUCZt-lB7ogcF_zUnQhedGKxZlJc/view){: target="_blank" rel="noopener"}&nbsp;by the Oct. 20 deadline.
 
-Full details are on the [Kankakee Chamber of Commerce website](https://www.kankakeecountychamber.com/win/){: target="_blank" rel="noopener"}. The [application](https://drive.google.com/file/d/16WdKtUCZt-lB7ogcF_zUnQhedGKxZlJc/view){: target="_blank" rel="noopener"} deadline is Oct. 20, 2023.
+Full details are on the [Kankakee Chamber of Commerce website](https://www.kankakeecountychamber.com/win/){: target="_blank" rel="noopener"}.
 
 This message is being posted as a community service. The scholarship is not offered by KCC.
