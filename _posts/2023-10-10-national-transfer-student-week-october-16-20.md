@@ -17,7 +17,7 @@ October 17: "Transfer Spirit Wear Day" - Show off your transfer pride by sportin
 
 October 18: "Transferring to GSU or EIU 101" - Sharita Walker from Governors State University will be in Room L150 to learn about the Dual Degree Program and the steps for transferring to GSU. Jackie Janesku from Eastern Illinois University will be in the College Center to learn about transferring to EIU.
 
-October 19: "The Amazing Race" - Build a team to compete in The Amazing Race: KCC Edition to win a prize. The race will begin at 11:30am in Advising. Staff and faculty ![](/uploads/2023/transferweekqr-250x250.jpg){: .float-image-left width="250" height="250"}are welcome to join in! Email&nbsp;[transfer@kcc.edu&nbsp;](mailto:transfer@kcc.edu)to register your team.
+October 19: "The Amazing Race" - Build a team to compete in The Amazing Race: ![](/uploads/2023/transferweekqr-250x250.jpg){: .float-image-left width="250" height="250"}KCC Edition to win a prize. The race will begin at 11:30am in Advising. Staff and faculty are welcome to join in! Email&nbsp;[transfer@kcc.edu&nbsp;](mailto:transfer@kcc.edu)to register your team.
 
 Students are also invited to participate in our Transfer Spotlight! Simply complete a Transfer Spotlight form using the displayed QR code, in Advising, or by emailing [transfer@kcc.edu](mailto:transfer@kcc.edu). If you are a TRIO SSS student, you may fill out the form in the TRIO Office (Room L327).&nbsp;
 
