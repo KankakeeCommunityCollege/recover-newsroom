@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/horror-talk-202x250.jpg){: .float-image-right width="202" height="250"}**Let's "creep it real"!**
+![](blob:https://app.cloudcannon.com/f30b2174-6d5f-4130-85d2-505652d2e039){: .float-image-right width="202" height="250"}**Let's "creep it real"!**
 
 KCC students and the community are invited to "Let's Talk Horror!" from 1:30-2:30 p.m. Wednesday, Oct. 25 at KCC in Room L355.
 
