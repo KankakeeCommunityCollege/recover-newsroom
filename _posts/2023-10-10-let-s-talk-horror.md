@@ -1,5 +1,5 @@
 ---
-title: Let's Talk Horror
+title: Let's Talk Horror!
 date: 2023-10-10 16:26:09 -0500
 expire_date: 2023-10-25 00:00:00 -0500
 image: /uploads/2023/horror-talk-470x580.jpg
@@ -18,9 +18,5 @@ KCC students and the community are invited to "Let's Talk Horror!" from 1:30-2:3
 KCC’s Psych Club and English Department will lead the discussion on the appeal of horror in literature and film!
 
 Topics will include&nbsp; the psychological aspects of "scary things" as well as common elements and tropes found in horror movies and books.
-
-
-
-
 
 Photo credit: Russell Ferrer on Unsplash.
