@@ -11,7 +11,7 @@ press_release: false
 ---
 [KCC Transfer Services](https://www.kcc.edu/student-resources/transfer){: target="_blank" rel="noopener"} will be hosting events on campus throughout the week of Oct. 16-20, 2023 to assist students with the transfer process.&nbsp;
 
-[A flier with all events is here.](./uploads/2023/kcc-transferweek-350x453.jpg){: target="_blank" rel="noopener"}
+[A flier with all events is here.](/uploads/2023/kcc-transferweek-350x453.jpg){: target="_blank" rel="noopener"}
 
 The events:
 
