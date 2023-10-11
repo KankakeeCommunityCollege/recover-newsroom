@@ -1,18 +1,16 @@
 ---
 title: Let's Talk Horror
 date: 2023-10-10 16:26:09 -0500
-expire_date: 2023-10-10 16:26:09 -0500
-image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
+expire_date: 2023-10-25 00:00:00 -0500
+image: /uploads/2023/horror-talk-470x580.jpg
 news_image_alt: Add descriptive text for the post's image
-article_lead: 'We''ll ''Creep it Real'' '
+article_lead: '''Creep it Real'' on Oct. 25'
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-KCC faculty members will lead a discussion&nbsp;
+Let's "creep it real"!
 
-Please join KCC’s Psych Club and English Department in discussing the appeal of horror in literature and film! We’ll talk about the psychological aspects of "scary things" as well as common elements and tropes found in horror movies and books.
+KCC students and the community are invited to "Let's Talk Horror!" from&nbsp;**1:30-2:30 p.m. Wednesday, Oct. 25 at KCC in**&nbsp;Room L355.
 
-**When: 1:30-2:30 PM on Wednesday, October 25**
-
-Where: Room L355
+KCC’s Psych Club and English Department will lead the discussion on the appeal of horror in literature and film! Topics will include the psychological aspects of "scary things" as well as common elements and tropes found in horror movies and books.
