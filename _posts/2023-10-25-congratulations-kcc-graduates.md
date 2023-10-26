@@ -1,16 +1,42 @@
 ---
-title: Congratulations, KCC graduates!
+title: 4 students use 'DDP' to transfer
 date: 2023-10-25 14:31:20 -0500
 expire_date: 2023-11-30 00:00:00 -0600
 image: /uploads/2023/gsucordingceremony-580x750.jpg
-news_image_alt: A group photo of students from the GSU Dual Degree program
-article_lead: GSU Dual Degree program honors KCC alumni
+news_image_alt: A group photo of students at the GSU Dual Degree program
+article_lead: Cording ceremony welcomes students to GSU
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![KCC graduate Rodolfo Leal at GSU Cording Ceremony](/uploads/2023/gsu-rodolfoleal-250x377.jpg "KCC graduate Rodolfo Leal at GSU Cording Ceremony"){: .float-image-left}As part of National Transfer Student Week, our![KCC graduate Heather Keene at GSU Cording Ceremony](/uploads/2023/gsu-heatherkeene-250x330.jpg "KCC graduate Heather Keene at GSU Cording Ceremony"){: .float-image-right} Student Success Advisors, Morgan Langer and Pamala Stanley, recently attended the "Welcome Cording Ceremony" of Governors State University's Dual Degree Program. It was a heartwarming event celebrating the hard work and dedication of DDP students who completed their associate degrees at community colleges and transferred to Governors State University.
+A "Welcome Cording Ceremony" was held the week of Oct. 16 at Governors State University.
 
-We're thrilled to announce that 10 of our KCC students have transferred through the DDP program to GOVST in the 2023 Fall semester. A big applause to Thomas Daily, Laretta Graves, Kelsie Hiatt, Zierra Hill, Edward Horathm, Heather Keene, Rodolfo Leal, Vanessa Moss, Andrew Snider, and Arika Stanley. We couldn't be prouder of them! And let's not forget to congratulate our very own Thomas, Heather, and Rodolfo, who were recipients of the DDP Scholarships.
+"It was a heartwarming event celebrating the hard work and dedication of DDP (Dual Degree Program) students who completed their associate degrees at community colleges and transferred to Governors State University," said Morgan Langer, a transfer adviser at Kankakee Community College.&nbsp;&nbsp;
 
-If you are interested in learning more about the Dual Degree Program, please reach out ![KCC graduate Thomas Daily at GSU Cording Ceremony](/uploads/2023/gsu-thomasdaily-250x350.jpg "KCC graduate Thomas Daily at GSU Cording Ceremony"){: .float-image-left}to&nbsp;[transfer@kcc.edu](mailto:transfer@kcc.edu).![KCC graduate Arika Stanley at GSU Cording Ceremony](/uploads/2023/gsu-arikastanley-250x361.jpg "KCC graduate Arika Stanley at GSU Cording Ceremony"){: .float-image-right}
+Another of KCC's transfer advisers, Pamala Stanley, also attended the ceremony.
+
+Ten KCC graduates transferred through the DDP program to Governors State for the Fall 2023 semester.&nbsp; They are:
+
+Thomas Daily of St. Anne, who earned a KCC Associate in Science transfer degree. He also recieved a Dual Degree Program scholarship.
+
+Laretta Graves of St. Anne, who earned a KCC Associate in Arts transfer degree
+
+Kelsie Hiatt of Bourbonnais, who earned a KCC Associate in Arts transfer degree
+
+Zierra Hill of Kankakee, who earned a KCC Associate in General Studies degree.
+
+Edward Horath of Manteno, who earned a KCC Associate in Science transfer degree.&nbsp;
+
+Heather Keene of Kankakee, who earned both a KCC Associate in Arts transfer degree and the General Education Core Credential.
+
+Rodolfo Leal of Bradley, who earned a KCC Associate in Arts transfer degree.
+
+Vanessa Moss of Momence, who earned both a KCC Associate in Arts transfer degree and the General Education Core Credential.
+
+Andrew Snider of Kankakee, who earned both a KCC Associate in Arts transfer degree and the General Education Core Credential.
+
+Arika Stanley of Watseka, who earned a KCC Associate in Arts transfer degree.
+
+We couldn't be prouder of them! And let's not forget to congratulate our very own Thomas, Heather, and Rodolfo, who were recipients of the DDP Scholarships.
+
+If you are interested in learning more about the Dual Degree Program, please reach out to&nbsp;[transfer@kcc.edu](mailto:transfer@kcc.edu).
