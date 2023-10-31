@@ -9,11 +9,9 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2022/vetceremony400x225.jpg){: .center-image}
-
 On Thursday, Nov. 9, Kankakee Community College will commemorate Veterans Day with a reception and recognition ceremony.
 
-The day will begin with a reception from 11:30 a.m. - 1 p.m. in the KCC Cavalier Room. A ceremony honoring veterans will be at 1 p.m. in the college’s auditorium. Both events are free and the public is invited.
+![](/uploads/2022/vetceremony400x225.jpg){: .float-image-left}The day will begin with a reception from 11:30 a.m. - 1 p.m. in the KCC Cavalier Room. A ceremony honoring veterans will be at 1 p.m. in the college’s auditorium. Both events are free and the public is invited.
 
 Posting of the colors will be from the Marine Corps League Detachment 1253.
 
