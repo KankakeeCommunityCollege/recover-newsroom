@@ -25,6 +25,6 @@ KCC Veterans Association officers for 2023-24 are: Jieun Loney, Navy veteran, pr
 
 An update will also be shared about the Mark Rodriguez Memorial Scholarship during the event. Rodriguez, a Marine Corps veteran who attended KCC from 2015-2018, helped found the KCC Veterans Resource Center and was an influential officer amongst the Veterans Association members. He passed away in February 2018, and KCC awarded him an honorary degree in May 2018. A $500 annual scholarship is now offered in his honor.
 
-The Veterans Association at KCC is open to KCC students and staff who are military veterans, members of the military community, and supporters. It is an approved chapter of Student Veterans of America and SALUTE Veterans National Honor Society​.
+The [Veterans Association at KCC](https://www.kcc.edu/student-resources/clubs/#veterans-association){: target="_blank" rel="noopener"} is open to KCC students and staff who are military veterans, members of the military community, and supporters. It is an approved chapter of Student Veterans of America and SALUTE Veterans National Honor Society​.
 
 For more information, contact Souligne, at [ksouligne@kcc.edu](mailto:ksouligne@kcc.edu) or phone 815-802-8556. KCC is located at 100 College Drive, Kankakee.
