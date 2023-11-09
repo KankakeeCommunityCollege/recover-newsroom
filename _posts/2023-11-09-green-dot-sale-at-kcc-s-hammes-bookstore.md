@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/bookstore-350x233.jpg){: .float-image-right width="350" height="233"}
+![](/uploads/2023/bookstoresale250x240.jpg){: .float-image-right width="240" height="250"}
 
 The KCC Hammes Bookstore is having a “Green Dot” sale until Thanksgiving break (5 p.m. Nov. 22).
 
