@@ -21,7 +21,7 @@ Phi Theta Kappa is an international academic honor society for community college
 
 **Bonfield:** Teresa Dahn.
 
-**Bourbonnais:** Rocio Aquillon Navarete, Hailey Keast, Joseph Lamb, Gabriella Longtin,![Daniel Sorrich of Bourbonnais](/uploads/2023/danielsorrich-350x233.jpg "Daniel Sorrich of Bourbonnais"){: .float-image-right width="350" height="233"} Emma Miller, Sydney O’Dell, Mya Ramdoo and Daniel Sorich.
+**Bourbonnais:** Rocio Aquillon Navarete, Hailey Keast, Joseph Lamb, Gabriella Longtin,![Daniel Sorich of Bourbonnais](/uploads/2023/danielsorrich-350x233.jpg "Daniel Sorich of Bourbonnais"){: .float-image-right width="350" height="233"} Emma Miller, Sydney O’Dell, Mya Ramdoo and Daniel Sorich.
 
 **Bradley:** Shaylin Fann, Tess Wallace, Chloe Krause, Samantha Porras, Marc Robertson and Jordan Smith.
 
