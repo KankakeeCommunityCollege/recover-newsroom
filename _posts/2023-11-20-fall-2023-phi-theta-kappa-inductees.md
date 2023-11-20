@@ -13,35 +13,21 @@ Thirty-eight Kankakee Community College students were inducted into Phi Theta Ka
 
 Phi Theta Kappa is an international academic honor society for community college students. KCC students who recently joined are:
 
-**Alsip:** Arianna Harrison.
-
-**Ashkum:** Veronica Medina.
-
-**Beaverville:** Dalton Anderson.
-
-**Bonfield:** Teresa Dahn.
-
-**Bourbonnais:** Rocio Aquillon Navarete, Hailey Keast, Joseph Lamb, Gabriella Longtin,![Daniel Sorich of Bourbonnais](/uploads/2023/danielsorrich-350x233.jpg "Daniel Sorich of Bourbonnais"){: .float-image-right width="350" height="233"} Emma Miller, Sydney O’Dell, Mya Ramdoo and Daniel Sorich.
-
-**Bradley:** Shaylin Fann, Tess Wallace, Chloe Krause, Samantha Porras, Marc Robertson and Jordan Smith.
-
-**Cissna Park:** Thomas Henrichs.
-
-**Danvers:** Hayden Stork.
-
-**Dwight:** Megan Ochoa.
-
-**Essex:** Alayna Valone.
-
-**Gilman:** Antonio Diaz.
-
-**![Avery Chandler of Kankakee](/uploads/2023/averychandler-300x375.jpg "Avery Chandler of Kankakee"){: .float-image-left width="300" height="375"}Kankakee:** Avery Chandler, Meredith Drake, Myllena Lima De Sousa, Delanie Fay, Nicole Mauritzen and Leann A. Nanos.
-
-**Manteno:** Joshua Imig, Diana Motel and Mia Robbins.
-
-**Momence:** Adyson Duran.
-
-**Watseka:** Makayla Hartlep, Haven Maple, Kelsey Gioja, Kylee Shoemaker and Baler Rigsby.
+* **Alsip:** Arianna Harrison.
+* **Ashkum:** Veronica Medina.
+* **Beaverville:** Dalton Anderson.
+* **Bonfield:** Teresa Dahn.
+* **Bourbonnais:** Rocio Aquillon Navarete, Hailey Keast, Joseph Lamb, Gabriella Longtin,![Daniel Sorich of Bourbonnais](/uploads/2023/danielsorrich-350x233.jpg "Daniel Sorich of Bourbonnais"){: .float-image-right width="350" height="233"} Emma Miller, Sydney O’Dell, Mya Ramdoo and Daniel Sorich (pictured).
+* **Bradley:** Shaylin Fann, Tess Wallace, Chloe Krause, Samantha Porras, Marc Robertson and Jordan Smith.
+* **Cissna Park:** Thomas Henrichs.
+* **Danvers:** Hayden Stork.
+* **Dwight:** Megan Ochoa.
+* **Essex:** Alayna Valone.
+* **Gilman:** Antonio Diaz.
+* **![Avery Chandler of Kankakee](/uploads/2023/averychandler-300x375.jpg "Avery Chandler of Kankakee"){: .float-image-right width="300" height="375"}Kankakee:** Avery Chandler (pictured), Meredith Drake, Myllena Lima De Sousa, Delanie Fay, Nicole Mauritzen and Leann A. Nanos.
+* **Manteno:** Joshua Imig, Diana Motel and Mia Robbins.
+* **Momence:** Adyson Duran.
+* **Watseka:** Makayla Hartlep, Haven Maple, Kelsey Gioja, Kylee Shoemaker and Baler Rigsby.
 
 KCC holds induction ceremonies for new [Phi Theta Kappa](https://www.kcc.edu/student-resources/clubs/#phi-theta-kappa) members each fall and spring semester. This fall’s event was Oct. 27.
 
