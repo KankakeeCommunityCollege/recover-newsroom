@@ -1,10 +1,10 @@
 ---
-title: Enter to win two Bears tickets!
+title: KCC's Veterans Association hosting raffle
 date: 2023-12-01 11:31:57 -0600
 expire_date: 2023-12-14 00:00:00 -0600
 image: /uploads/2023/football-580x725.jpg
 news_image_alt: A football placed on a field
-article_lead: KCC's Veterans Association hosting raffle
+article_lead: Enter to win two Bears tickets!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
