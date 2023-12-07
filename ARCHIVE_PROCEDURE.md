@@ -4,82 +4,101 @@
 
 ---
 
-## Part 1
+To archive a past year's posts use the following steps:
+1. Switch the post layout to `post-for-archive`.
+2. Run a local build.
+3. Copy that years folder from `_site/` and paste into `archive/`.
+4. In `_site/archive/index.html`, copy the HTML for that year's list of articles and paste into `archive.html`:
+   1. Adjust the URL for each post.
+5. Delete that year's posts from the `_posts/` folder.
+6. Revert the post layout to `post`.
 
-#### *Copying the static html post pages into the `archive/` directory.*
+-----
 
----
+## Switch post layout to `post-for-archive`
 
-In a typical jekyll site, the jekyll project's site is built into the `_site/` directory
+In the site's `_config.yml` file adjust the post layout to be `post-for-archive`:
 
-```
-.
-├── _drafts/
-├── _includes/
-├── _layouts/
-├── _posts/
-├── _site/
-├── _archive/
-├── assets/
-|   |── css/
-|   |── img/
-|   |── js/
-|   └── scss/
-├── _config.yml
-├── archive.html
-└── index.html
+```yaml
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post-for-archive ## Normal value is "post"
 ```
 
----
+-----
 
-Inside the `_site/` dir, posts are built out into a `year/month/day/post.md` folder structure:
+## Run a local build
 
-```
-./_site/
-|   |── 2018/
-|   |   |── 11/
-|   |   |   └── 26/*.md
-|   |   |   └── 30/*.md
-|   |   └── 12/
-|   |       └── 11/*.md
-|   |       └── 17/*.md
-|   |       └── 20/*.md
-|   └── 2019/
-|       └── 1/
-|           |── 6/*.md
-|           └── 11/*.md
+Run a production build locally using:
+
+```bash
+npm run production
 ```
 
-First copy the entire `year/month/day/post.md` folder structure into newsroom's `archive/` dir.  Any items and folders in a jekyll project that are not the default jekyll dir structure, or not included in the `_config.yml` file get copied, as-is, into the `_site/` dir.
+-----
 
-Instead of jekyll processing and iterating over all the old posts, it can instead copy it like any other asset.  Grabbing the posts out of the `_site/` dir gives us the built-out static html pages, ready for web-display, in a "pretty permalink" directory style.
+## Copy that years folder from `_site/` and paste into `archive/`
 
----
+Copy the folder, and everything in it, corresponding to that years posts from the `_site` folder and paste into `archive/` folder. For example, copy `_site/2022/*` and paste into `archive/2022/*`.
 
-## Part 2
+## Copy the HTML for that year's list of articles
 
-#### *Copy the generated archive list*
-
----
+Find the file `_site/archive/index.html` and copy the HTML for that year's unordered list of posts (and the year heading):
 
 ```html
-./archive.html
+<h2>2022</h2>
+<ul class="archive__list">
+  <li><a
+      href="/2022/12/14/temporary-locations-for-several-departments.html"
+      class="archive__link-item"
+    ><span class="archive__post-meta">December 14, 2022</span> - Temporary location for several departments</a></li>
+  <li><a
+      href="/2022/12/14/elevator-repair-begins-dec-19.html"
+      class="archive__link-item"
+    ><span class="archive__post-meta">December 14, 2022</span> - Elevator repair begins Dec. 19</a></li>
+  <!-- ...remaining list items omitted... -->
+</ul>
+```
 
-{% comment %}
+Find the file `archive.html` and paste the HTML in the appropriate location.
+
+### Adjust the URL for each post
+
+Next, adjust the URL for each post to point to the new archive location — prefix with `{{ page.baseurl }}`.
+Be sure to remove the `.html` extension and replace with `/`:
+```html
 <div class="row">
-    <div class="col">
-          {% for post in site.posts %}
-          {% assign currentDate = post.date | date: "%Y" %}
-          {% if currentDate != myDate %}
-              {% unless forloop.first %}</ul>{% endunless %}
-              <h2>{{ currentDate }}</h2>
-              <ul class="archive__list">
-              {% assign myDate = currentDate %}
-          {% endif %}
-          <li><a href="{{ post.url }}" class="archive__link-item"><span class="archive__post-meta">{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
-          {% if forloop.last %}</ul>{% endif %}
-      {% endfor %}
-    </div>
-  </div>
-  {% endcomment %}
+  <div class="col">
+    <h2>2022</h2>
+    <ul class="archive__list">
+      <li><a
+          href="{{ page.baseurl }}archive/2022/12/14/temporary-locations-for-several-departments/"
+          class="archive__link-item"
+        ><span class="archive__post-meta">December 14, 2022</span> - Temporary location for several departments</a></li>
+      <li><a
+          href="{{ page.baseurl }}archive/2022/12/14/elevator-repair-begins-dec-19/"
+          class="archive__link-item"
+        ><span class="archive__post-meta">December 14, 2022</span> - Elevator repair begins Dec. 19</a></li>
+        <!-- ...remaining list items omitted... -->
+    </ul>
+```
+
+## Delete that year's posts from the `_posts/` folder
+
+Delete all the posts for the year you are archiving from the `_posts/` folder.
+
+## Revert the post layout to `post`
+
+In `_config.yml` adjust the post layout back to `post`:
+
+```yaml
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
 ```
