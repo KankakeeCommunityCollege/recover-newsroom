@@ -5,13 +5,14 @@
 ---
 
 To archive a past year's posts use the following steps:
-1. Switch the post layout to `post-for-archive`.
-2. Run a local build.
-3. Copy that years folder from `_site/` and paste into `archive/`.
-4. In `_site/archive/index.html`, copy the HTML for that year's list of articles and paste into `archive.html`:
-   1. Adjust the URL for each post.
-5. Delete that year's posts from the `_posts/` folder.
-6. Revert the post layout to `post`.
+<!-- no toc -->
+1. [Switch the post layout to `post-for-archive`](#switch-post-layout-to-post-for-archive)
+2. [Run a local build](#run-a-local-build)
+3. [Copy that years folder from `_site/` and paste into `archive/`](#copy-that-years-folder-from-_site-and-paste-into-archive)
+4. [Copy the HTML for that year's list of articles](#copy-the-html-for-that-years-list-of-articles):
+   1. [Adjust the URL for each post](#adjust-the-url-for-each-post)
+5. [Delete that year's posts from the `_posts/` folder](#delete-that-years-posts-from-the-_posts-folder)
+6. [Revert the post layout to `post`](#revert-the-post-layout-to-post)
 
 -----
 
