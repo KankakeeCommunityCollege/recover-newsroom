@@ -1,10 +1,10 @@
 ---
-title: Title of the post
+title: 'Where we are with COVID-19 '
 date: 2023-11-27 16:10:33 -0600
 expire_date: 2023-11-27 16:10:33 -0600
 image: https://cdn.kcc.edu/newsroom/reverse-logo-in-circle.png
 news_image_alt: Add descriptive text for the post's image
-article_lead: A short lead for the article
+article_lead: Winter 2024 updates
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -28,4 +28,4 @@ This information is being shared in hopes that it helps answer frequent question
 * **Can I get free COVID tests mailed to my home?**
   * Yes, every U.S. household can place an order to receive four (4) COVID rapid tests delivered to your home. You can order online at [www.covid.gov/tests](https://www.covid.gov/tests){: target="_blank" rel="noopener"}, or call 1-800-232-0233. &nbsp;
 
-If you have any questions, please feel free to email [studentaffairs@kcc.edu](mailto:studentaffairs@kcc.edu).<br>
+If you have any questions, please feel free to email [studentaffairs@kcc.edu](mailto:studentaffairs@kcc.edu).
