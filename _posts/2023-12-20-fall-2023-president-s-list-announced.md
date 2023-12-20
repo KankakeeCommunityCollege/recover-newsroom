@@ -28,7 +28,7 @@ To be named to the President’s List, a student must maintain a grade point ave
 * **Danforth:** Kristen Emerson, Jessica Nephew and Madisyn Shambrook.
 * **Donovan:** Weston Lareau and Connor Stahlschmidt.
 * **Dwight:** Kelsey Christensen and Megan Ochoa.
-* **Effingham:** Tori Budde. \*\* \*\*
+* **Effingham:** Tori Budde.
 * **Essex:** Ivette Flores and Alayna Valone.
 * **Frankfort:** Julie Anco.
 * **Gilman:** Antonio Diaz and Elia Diaz Varela.
@@ -39,8 +39,8 @@ To be named to the President’s List, a student must maintain a grade point ave
 * **Manteno:** Nolan Aicher, Savanah Baeza, Dakota Barnes, Hannah Barrera, Alexander Carmack, Jessica DeMark, Steven Doig, Madisen Hall, Colton Hartman, Natalie Hatalla, Jarod Howard, Sophia Iaconi, Elizabeth Kirkpatrick, Tayler Kressin, Michael LaMore, Mason Marshall, Emma Masterson, Shannon Meaney, Claire Meegan, Melanie Mulholland, Lauren Murray, Makayla Myrick, Emma Novoryta, Clara Nugent, Lydia Nugent, Madison Ortman, Abigail Purcell, Isaac Ravesloot, Mia Robbins, Miranda Rogers, Wayne Rybak, Danielle Sannito, Lucas Schmidt, Emma Talamonti, Davis Testerman, Nicole Varvel and Gage Velasquez.
 * **Martinton:** Meadow Sala.
 * **Milford:** Kaydence Kuester, Charles Pries, Benjamin Storm and Stacie Trumann.
-* **Minooka:** Nicole White. \*\* \*\*
-* **Momence:** Ignacio Duran, Avery Halpin, Alan Lopez, Megan Minor, Josie Newberry, Alicia Sharkey and David Workman. \*\* \*\*
+* **Minooka:** Nicole White.
+* **Momence:** Ignacio Duran, Avery Halpin, Alan Lopez, Megan Minor, Josie Newberry, Alicia Sharkey and David Workman.
 * **Onarga:** Anahi Ramirez, Evan Seggebruch and Aubrey Wagner.
 * **Pembroke Township:** Martin Anthony.
 * **Plainfield:** Rufus Hines.
