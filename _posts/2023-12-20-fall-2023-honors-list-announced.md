@@ -21,11 +21,11 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Buckingham:** Eden Healy.
 * **Chebanse:** Jathniel Blaylock, Shelby Bowsher, Evan Donnelly, Maxwell Forquer, Diego Gutierrez, Cristina O’Connor, Caleb Pickering and Ella White.
 * **Clifton:** Danyelle Campbell.
-* **Cullom:** John Bennett and Brandon Evans. ** **
+* **Cullom:** John Bennett and Brandon Evans.
 * **Danforth:** Kiernan Tammen.
-* **Decatur:** Jaida Taylor. ** **
+* **Decatur:** Jaida Taylor.
 * **Donovan:** Kenzie Faupel and Kylee Faupel.
-* **Effingham:** Anna Faber. ** **
+* **Effingham:** Anna Faber.
 * **Essex:** Joseph Leadingham.
 * **Gilman:** Brittany Dahlman-Bull, Brian Diaz, Lucas Frank, Clarissa Garcia, Morgan Jones, Mason Manzke, Eduardo Ramirez and Ryan Ritzma.
 * **Grant Park:** Owen Bramer, Jasper Cansler, Ester Carrillo, Chloe Davis, Natalia Figueroa Santiago, Katharina Frahm, Alexandria Heinberg, Delaney Malkowski, Catherine Olczak, Emilio Sandoval and Paige Vause.
@@ -35,16 +35,16 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Kempton:** Kaden Weber.
 * **Manteno:** Damian Alsup, Jacob Bishop, Brandon Breazeale, Savannah Chose, Lisa Cintora, Gavin Eck, Daniel Gavin, Danielle Georgelos, Brandy Grove, Autumn Hambrick, Kendra Harvell, Michael Heaney, Drew Hosselton, Catherine Hovey, Ethan Jackson, Emily Jacobsen, Ethan Jennings, Hailey Johns, Linda Lawlor, Bryanna Martin, Morgan Mazeika, Madison McKee, Gavin Mulholland, Eve Myers, Hope Pieritz, Korteney Prather, Sarah Roles, Mason Swanson, Madisyn Vangilder and Chloe Vlach. &nbsp;
 * **Martinton:** Magen Hoffner.
-* **Milford:** Allison Banta, Mikayla Hand and Melissa Stimson. ** **
-* **Momence:** Alyssa Blackburn, Amanda Deutscher, Chase DeYoung, Mason Duran, Kaitlyn Engelland, Luke Ford, Louis Fuller, Haidee Gonzalez, Ladeja Harris, Laela Lopez, Devin Newberry, Tanya Poulin and Nanci Ramirez. ** **
-* **Monee:** Gissel Najera. ** **
-* **Olympia Fields:** Tonya Exum. ** **
-* **Onarga:** Genesis Carino Crespo, Ella Rhodes and Margaret Thorne. ** **
-* **Orland Park:** Alexis Zeznanski. ** **
-* **Ottawa:** Payton Knoll. ** **
-* **Papineau:** Kaitlin Brown. ** **
-* **Peotone:** Jonathan Estrada and Justin Tierney. ** **
-* **Piper City:** Emma Creek. ** **
+* **Milford:** Allison Banta, Mikayla Hand and Melissa Stimson.
+* **Momence:** Alyssa Blackburn, Amanda Deutscher, Chase DeYoung, Mason Duran, Kaitlyn Engelland, Luke Ford, Louis Fuller, Haidee Gonzalez, Ladeja Harris, Laela Lopez, Devin Newberry, Tanya Poulin and Nanci Ramirez.
+* **Monee:** Gissel Najera.
+* **Olympia Fields:** Tonya Exum.
+* **Onarga:** Genesis Carino Crespo, Ella Rhodes and Margaret Thorne.
+* **Orland Park:** Alexis Zeznanski.
+* **Ottawa:** Payton Knoll.
+* **Papineau:** Kaitlin Brown.
+* **Peotone:** Jonathan Estrada and Justin Tierney.
+* **Piper City:** Emma Creek.
 * **Plainfield:** Christopher Suchoski.
 * **Saint Anne:** Maile Bessette, Tyler Bowen, Christina Cooper, Macy DeMik, Selena Fandrey, Kylie Glogowski, Santoria Griffin, Chloe Kearney, Jacqueline Landers, Christina Monroe, Kelly Newman and Hanna Sparenberg.
 * **Saunemin:** Addisyn Mauser.
@@ -53,17 +53,17 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Sun River Terrace:** Jalen Williams.
 * **Watseka:** Haven Barrett, Gabriel Coley, Mark Cross, Emma Donaldson, Addison Edwards, Jazmin Esquivel, Melody Goodman, Zachary Hickman, Ryan Kunce, Haven Maple, Paiton McKinney-Allie, Heidi Parlich, Kylee Shoemaker and Brennen Spracklin.
 * **Windsor:** Graham Kasey.
-* **Chandler, Ariz.:** Gavin Noreus. ** **
-* **Cedar Lake, Ind.:** Brittany Treacy. ** **
-* **Crown Point, Ind.:** Brett Cook. ** **
+* **Chandler, Ariz.:** Gavin Noreus.
+* **Cedar Lake, Ind.:** Brittany Treacy.
+* **Crown Point, Ind.:** Brett Cook.
 * **Fort Wayne, Ind.:** Eve Shultz.
 * **Kentland, Ind.:** Hayden Davidson.
 * **Merrillville, Ind.:** Dylan Coty.
-* **New Haven, Ind.:** Leroy Lepper.&nbsp;&nbsp; **&nbsp;&nbsp; **&nbsp;&nbsp;
+* **New Haven, Ind.:** Leroy Lepper.
 * **Louisville, Ky.:** Cha’vaz Woods.
-* **Humble, Texas:** Noah Mason. ** **
-* **Texas City, Texas:** Lucas Burton. ** **
+* **Humble, Texas:** Noah Mason.
+* **Texas City, Texas:** Lucas Burton.
 * **Roanoke, Va.:** Jamonte Smith.
-* **Lindsay, Ontario, Canada:** Nathan King. ** **
-* **London, Ontario, Canada:** Nolan McCrossin. ** **
-* **Saskatoon, Saskatchewan, Canada:** Dylann Rambally. ** **
+* **Lindsay, Ontario, Canada:** Nathan King.
+* **London, Ontario, Canada:** Nolan McCrossin.
+* **Saskatoon, Saskatchewan, Canada:** Dylann Rambally.
