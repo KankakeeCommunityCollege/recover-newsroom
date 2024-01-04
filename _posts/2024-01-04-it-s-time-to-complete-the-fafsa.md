@@ -26,7 +26,3 @@ Here are helpful links and some additional information.&nbsp;
 Returning MAP Recipients have a Feb. 1 priority deadline date. Returning MAP recipients are those who received MAP funds during the 2023-24 academic year and continue to meet all [eligibility requirements](https://www.isac.org/isac-gift-assistance-programs/map/map-eligibility-requirements/index.html){: target="_blank" rel="noopener"}. Submitting the 2024-25 FAFSA or Alternative Application by Feb. 1 will give you priority access to appropriated MAP funds.
 
 Please contact the KCC Office of Financial Aid with questions: finaid@kcc.edu or phone 815-802-8550.
-
-
-
-<br>
