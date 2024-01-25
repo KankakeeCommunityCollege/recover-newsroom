@@ -21,3 +21,7 @@ A&nbsp; panel of Kankakee Community College faculty members will dive into this 
 KCC faculty panelists will be Ken West, Jenny Pecora, Keith Stevenson and Cari Stevenson. Each will explore the topics from their disciplines of philosophy, English and psychology.
 
 Students, faculty, staff, and community members are all welcome to attend and join the discussion. The event is in Room L355 on KCC's Riverfront Campus, 100 College Drive in Kankakee.
+
+
+
+Photo by Tim Mossholder on Unsplash.
