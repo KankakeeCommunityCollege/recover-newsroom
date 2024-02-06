@@ -13,8 +13,8 @@ On Saturday, Feb. 10, Gotion, Inc. will hold a job fair to recruit workers for t
 
 The event will be 10:30 a.m. - 2:30 p.m., Saturday, Feb. 10 in the Iroquois Room, Room D152, at Kankakee Community College's Riverfront Campus, 100 College Drive in Kankakee.
 
-* **[Gotion job descriptions and application](https://boards.greenhouse.io/gotion/jobs/7104511002){: target="_blank" rel="noopener"}**&nbsp;<br>The&nbsp;**&nbsp;**&nbsp;job descriptions shown are the most critical at this stage of hiring, said Annie Quach a member of the Gotion Recruiting Team.
-* **Gotion hiring event flier**
+* **[Gotion job descriptions and application](https://boards.greenhouse.io/gotion/jobs/7104511002){: target="_blank" rel="noopener"}**&nbsp;<br>The&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;job descriptions shown are the most critical at this stage of hiring, said Annie Quach a member of the Gotion Recruiting Team.
+* [**Gotion hiring event flier**](/uploads/2023/Gotion-KCC-Hiring-Event-Flyer-02102024.pdf)
 
 On Feb. 10, Gotion representatives will accept resumes, and briefly talk with each candidate. Additionally, those in attendance will be asked to fill out an information sheet so the recruiting team can reach out to qualified candidates for full interviews at a later date.&nbsp;
 
