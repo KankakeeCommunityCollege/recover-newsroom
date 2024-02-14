@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/child-sleeping-200x250.jpg){: .float-image-right width="200" height="250"}![](/uploads/2023/child-sleeping-in-bed-200x250.jpg){: .float-image-right width="200" height="250"}The KCC Student Nurses Association is collecting twin-sized sheets to donate to local children who need them.
+![](/uploads/2023/child-sleeping-in-bed-200x250.jpg){: .float-image-right width="200" height="250"}The KCC Student Nurses Association is collecting twin-sized sheets to donate to local children who need them.
 
 * The sheets should be new.
 * They will be given to [Sleep in Heavenly Peace](https://shpbeds.org/chapter/il-kankakee-area/){: target="_blank" rel="noopener"} for their next event where they build beds for area kids.

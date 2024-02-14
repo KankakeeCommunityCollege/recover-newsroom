@@ -29,6 +29,7 @@
 @import '3-layout/positioning';
 @import '3-layout/post';
 @import '3-layout/infographic-post';
+@import '3-layout/content'; // Styles used in CloudCannon but must also be compiled to the main stylesheet
 
 // Page specific styling
 // @import "4-pages/...";
