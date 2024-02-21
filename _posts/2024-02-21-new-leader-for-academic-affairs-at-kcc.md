@@ -4,7 +4,7 @@ date: 2024-02-21 08:59:50 -0600
 expire_date: 2024-05-20 00:00:00 -0500
 image: /uploads/2023/quincyrosesewell-580x725.jpg
 news_image_alt: Dr. Quincy Rose-Sewell, new vice president for academic affairs at KCC
-article_lead: Dr. Quincy Rose-Sewell selected as vice president
+article_lead: Rose-Sewell selected as vice president
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
