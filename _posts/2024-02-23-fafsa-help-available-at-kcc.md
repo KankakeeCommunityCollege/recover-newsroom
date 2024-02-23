@@ -26,4 +26,4 @@ Please contact the KCC Office of Financial Aid with questions: [finaid@kcc.edu](
 
 * [Fill out FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa){: target="_blank" rel="noopener"}
 * Summary and video about FAFSA changes for 2024-25 - on the&nbsp;[KCC website](https://www.kcc.edu/tuition-and-aid/financial-aid/?utm_medium=newsroom&amp;utm_campaign=available-fafsa-24-25){: target="_blank" rel="noopener"}
-* KCC's federal school code is: 007690
+* KCC's federal school code: 007690
