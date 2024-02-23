@@ -1,10 +1,10 @@
 ---
-title: Dr. King Center donates scholarship
+title: Dr. King Education Center makes donation
 date: 2024-02-23 09:39:00 -0600
 expire_date: 2024-03-09 00:00:00 -0600
 image: /uploads/2023/mlkscholarship-580x725.jpg
 news_image_alt: Dr. King Education Center board members present scholarship check at KCC
-article_lead: Dr. Martin Luther King, Jr. Memorial Scholarship established
+article_lead: New scholarship established
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -27,6 +27,10 @@ Established in 1968, the Dr. King Education Center collaborated closely with KCC
 
 KCC’s Department of Adult and Community Education offers classes for area adults who are ready to complete grade school or high school requirements. There are no costs to enroll or for books. The programs are open to anyone age 17 and older who is no longer attending high school. They also are for adults who do not speak English as their first language and want to improve their English to obtain employment or improve employment opportunities. Basic literacy courses are also offered at KCC. For information on all Adult Education programs at KCC, visit&nbsp;[adulted.kcc.edu](https://adulted.kcc.edu/){: target="_blank"}&nbsp;or phone 815-802-8300.
 
-To apply for the Martin Luther King, Jr. Memorial Scholarship, as well as all KCC Foundation scholarships, visit [foundation.kcc.edu/scholarships](https://foundation.kcc.edu/scholarships){: target="_blank" rel="noopener"}. The deadline to apply for 2024-25 scholarships is May 1, 2024.
+To apply for the Martin Luther King Jr. Memorial Scholarship, as well as all KCC Foundation scholarships, visit [foundation.kcc.edu/scholarships](https://foundation.kcc.edu/scholarships){: target="_blank" rel="noopener"}. The deadline to apply for 2024-25 scholarships is May 1, 2024.
 
-To donate to the Dr. Martin Luther King, Jr. Memorial Scholarship, visit [foundation.kcc.edu/give](https://foundation.kcc.edu/give){: target="_blank" rel="noopener"}, or phone the KCC Foundation office at 815-802-8252.
+To donate to the Dr. Martin Luther King Jr. Memorial Scholarship, visit [foundation.kcc.edu/give](https://foundation.kcc.edu/give){: target="_blank" rel="noopener"}, or phone the KCC Foundation office at 815-802-8252.
+
+
+
+Shown in the photo are: (L-R) Kari Nugent, Louise Bigott, Dr. Willie Davis, Steve Hunter, Dr. Brad Thomas and Dr. Michael Boyd.
