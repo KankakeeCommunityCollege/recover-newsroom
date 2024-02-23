@@ -1,5 +1,5 @@
 ---
-title: Dr. King Center donates scholarship to KCC Foundation
+title: Dr. King Center donates scholarship
 date: 2024-02-23 09:39:00 -0600
 expire_date: 2024-03-09 00:00:00 -0600
 image: /uploads/2023/mlkscholarship-580x725.jpg
