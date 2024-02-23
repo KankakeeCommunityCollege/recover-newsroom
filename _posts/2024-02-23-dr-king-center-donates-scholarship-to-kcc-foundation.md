@@ -17,7 +17,7 @@ For over 30 years, the Dr. King Education Center stood as a beacon of hope and o
 
 “By supporting KCC, we continue the legacy of providing hope and opportunity to future generations,” said Davis. “Today, we honor Judy Thomas's memory along with the countless individuals whose lives were touched by the center's transformative work.”
 
-Thomas was the long-time Dr. King Education Center business manager. She passed away in 2014. Her son, Brad Thomas, attended the ceremonial check presentation.
+Thomas was the long-time Dr. King Education Center business manager. She passed away in 2014. Her son, Dr. Brad Thomas, attended the ceremonial check presentation.
 
 “Judy embodied the center's compassionate ethos, and her generous spirit continues to inspire and guide our efforts,” Bigott said. “Her dedication and tireless advocacy for individuals seeking education and support left an impact on the community. We are very grateful to have her son Brad with us to commemorate this gift.”
 
@@ -27,4 +27,4 @@ Established in 1968, the Dr. King Education Center collaborated closely with KCC
 
 KCC’s Department of Adult and Community Education offers classes for area adults who are ready to complete grade school or high school requirements. There are no costs to enroll or for books. The programs are open to anyone age 17 and older who is no longer attending high school. They also are for adults who do not speak English as their first language and want to improve their English to obtain employment or improve employment opportunities. Basic literacy courses are also offered at KCC. For information on all Adult Education programs at KCC, visit&nbsp;[adulted.kcc.edu](https://adulted.kcc.edu/){: target="_blank"}&nbsp;or phone 815-802-8300.
 
-To apply for the Martin Luther King, Jr. Memorial Scholarship, as well as all KCC Foundation scholarships, visit foundation.kcc.edu/scholarships. The deadline to apply for 2024-25 scholarships is May 1, 2024.
+To apply for the Martin Luther King, Jr. Memorial Scholarship, as well as all KCC Foundation scholarships, visit [foundation.kcc.edu/scholarships](https://foundation.kcc.edu/scholarships){: target="_blank" rel="noopener"}. The deadline to apply for 2024-25 scholarships is May 1, 2024.
