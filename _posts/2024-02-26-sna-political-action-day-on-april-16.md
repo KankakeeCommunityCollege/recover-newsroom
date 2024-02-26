@@ -6,7 +6,7 @@ image: /uploads/2023/sarahquick-580x750.jpg
 news_image_alt: >-
   Sarah Quick, KCC RN student and president of Illinois Student Nursing
   Association
-article_lead: RN student to represent Illinois in Springfield
+article_lead: RN student to represent Illinois
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
