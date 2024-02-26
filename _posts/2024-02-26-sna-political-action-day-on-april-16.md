@@ -1,12 +1,12 @@
 ---
-title: SNA Political Action Day on April 16
+title: Getting ready for Student Nurse Political Action Day
 date: 2024-02-26 10:37:00 -0600
 expire_date: 2024-04-17 00:00:00 -0500
 image: /uploads/2023/sarahquick-580x750.jpg
 news_image_alt: >-
   Sarah Quick, KCC RN student and president of Illinois Student Nursing
   Association
-article_lead: RN student to represent Illinois
+article_lead: Quick serves as statewide representative
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
