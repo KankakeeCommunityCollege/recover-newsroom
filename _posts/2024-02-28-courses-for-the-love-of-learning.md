@@ -4,7 +4,7 @@ date: 2024-02-28 14:30:39 -0600
 expire_date: 2024-03-22 00:00:00 -0500
 image: /uploads/2023/lli-580x675.jpg
 news_image_alt: Lifelong Learning Institute logo
-article_lead: Spring information session
+article_lead: Spring info session for people age 50+
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
