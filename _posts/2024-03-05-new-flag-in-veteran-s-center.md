@@ -1,7 +1,7 @@
 ---
 title: New flag in Veteran's Center
 date: 2024-03-05 14:45:43 -0600
-expire_date: 2024-03-05 14:45:43 -0600
+expire_date: 2024-03-19 14:45:43 -0600
 image: /uploads/2023/spaceforceflag-580x850.jpg
 news_image_alt: Add descriptive text for the post's image
 article_lead: Space Force Flag donated to KCC
