@@ -15,12 +15,12 @@ The application period for the 2024 Congressional Black Caucus Foundation Educat
 
 Here are fliers about different opportunities:
 
-* [CBCF 2024 Scholarship Opportunities](/uploads/2023/CBCF-2024--Scholarship-Opportunities.pdf)
-* [CBC Spouses Essay Contest](/uploads/2023/CBC-Spouses-Essay.pdf)
-* [CBC Spouses Education Scholarship](/uploads/2023/CBCF-2024-Spouse_Education-Scholarship.pdf)
-* [Ally Financial Law Scholars Scholarship](/uploads/2023/Ally-Financial--Law-Scholarship.pdf)
-* [Ally Financial Public Policy Scholars Scholarship](/uploads/2023/Ally-Financial--Public-Policy-Scholarship.pdf)
-* [The Tracking Foundation Scholarship Program](/uploads/2023/CBCF-2024-Tracking--Foundation-scholarships.pdf)
+* [CBCF 2024 Scholarship Opportunities](/uploads/2023/CBCF-2024--Scholarship-Opportunities.pdf){: target="_blank" rel="noopener"}
+* [CBC Spouses Essay Contest](/uploads/2023/CBC-Spouses-Essay.pdf){: target="_blank" rel="noopener"}
+* [CBC Spouses Education Scholarship](/uploads/2023/CBCF-2024-Spouse_Education-Scholarship.pdf){: target="_blank" rel="noopener"}
+* [Ally Financial Law Scholars Scholarship](/uploads/2023/Ally-Financial--Law-Scholarship.pdf){: target="_blank" rel="noopener"}
+* [Ally Financial Public Policy Scholars Scholarship](/uploads/2023/Ally-Financial--Public-Policy-Scholarship.pdf){: target="_blank" rel="noopener"}
+* [The Tracking Foundation Scholarship Program](/uploads/2023/CBCF-2024-Tracking--Foundation-scholarships.pdf){: target="_blank" rel="noopener"}
 
 KCC students and family members are welcome to explore the CBCF opportunities at please visit [cbcfinc.org/programs/scholarships](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2f%2f%2fcbcfinc.org%2fprograms%2fscholarships&amp;c=E,1,MWnzFwlFTkx1gVPrNQcE2ElyH-J6iCdbFm1I0Pa2dyGALGNdNysgUSXIVNIfpVEKgwDgH-Zrdq-HOWLbDBzM5HclNvSacHKEYALNKhTFbXRJ5elX&amp;typo=1&amp;ancr_add=1).
 
