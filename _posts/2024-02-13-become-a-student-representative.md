@@ -17,4 +17,4 @@ If you would like to lead assigned projects, serve as an active member of KCC’
 
 "Students in this prestigious position have an advantage when competing for scholarships and employment opportunities," said Maurice Sullivan, KCC coordinator of student life.
 
-Information and an application are available [here](https://bit.ly/3GJy6ByStudentTrusteeApp){: target="_blank" rel="noopener"}. The application deadline is 5 p.m. on Monday, March 18.
+Information and an application are available [here](https://form.jotform.com/200476436597161 "Student Trustee Declaration of Candidacy"){: target="_blank" rel="noopener"}. The application deadline is 5 p.m. on Monday, March 18.
