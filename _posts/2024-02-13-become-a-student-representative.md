@@ -11,7 +11,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![](/uploads/2023/studenttrustee2024-350x350.jpg){: .float-image-right}Each year, one student is selected as the Student Trustee for KCC to represent students on the KCC Board of Trustees.
+Each year, one student is selected as the Student Trustee for KCC to represent students on the KCC Board of Trustees.
 
 If you would like to lead assigned projects, serve as an active member of KCC’s Student Advisory Council and take part in various college events and ceremonies: this is the opportunity for you. Additionally, the trustee will receive a $1,500 scholarship courtesy of the KCC Foundation.
 
