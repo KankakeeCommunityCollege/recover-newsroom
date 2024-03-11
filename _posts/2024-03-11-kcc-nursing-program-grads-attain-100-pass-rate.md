@@ -11,13 +11,17 @@ press_release: false
 ---
 The most recent Kankakee Community College nursing program graduates have attained a 100% pass rate on the *National Council Licensure Examination*.
 
-![KCC nursing program students during health simulation](/uploads/2023/nursingstudents-300x216.jpg "KCC nursing program students during health simulation")All of KCC’s May 2023 and December 2023 Registered Nursing graduates passed the NCLEX-RN*. All of KCC’s July 2023 Practical Nursing graduates passed the NCLEX-PN. The practical nursing program has one group of graduates each year, while registered nursing has two groups graduate each year.*
+![KCC nursing program students during health simulation](/uploads/2023/nursingstudents-300x216.jpg "KCC nursing program students during health simulation")
+
+All of KCC’s May 2023 and December 2023 Registered Nursing graduates passed the NCLEX-RN*. All of KCC’s July 2023 Practical Nursing graduates passed the NCLEX-PN. The practical nursing program has one group of graduates each year, while registered nursing has two groups graduate each year.*
 
 “The students work very hard, and deserve recognition for their efforts to become professional nurses,” said Kellee Hayes, MSN, RN, CNE, director of nursing programs at KCC. “Our faculty also should be credited for delivering a curriculum that conveys important information to students so they can succeed on the exam and into their careers.”
 
+![KCC nursing program students during health simulation](/uploads/2023/nursingstudents-300x271.jpg "KCC nursing program students during health simulation")
+
 Hayes noted that the college also bolstered its registered nursing program in 2015 by obtaining accreditation from the [Accreditation Commission for Education in Nursing](http://www.acenursing.org/). The practical nursing program became ACEN accredited in 2019.
 
-At KCC, registered nursing graduates take the [NCLEX](https://www.nclex.com/index.page)\-RN exam upon completion of the two-year associate degree program. Graduates of the one-year advanced certificate in practical nursing take the NCLEX-PN exam. In addition to graduating![KCC nursing program students during health simulation](/uploads/2023/nursingstudents-300x271.jpg "KCC nursing program students during health simulation") from an approved program, all nurses in the U.S. and Canada must pass the appropriate NCLEX exam to be licensed.
+At KCC, registered nursing graduates take the [NCLEX](https://www.nclex.com/index.page)\-RN exam upon completion of the two-year associate degree program. Graduates of the one-year advanced certificate in practical nursing take the NCLEX-PN exam. In addition to graduating from an approved program, all nurses in the U.S. and Canada must pass the appropriate NCLEX exam to be licensed.
 
 Across the nation, the pass rates for 2023 were 89% for the NCLEX-RN and 87% for the NCLEX-PN. In Illinois, the pass rates were 85% for the NCLEX-RN and 88% for the NCLEX-PN
 
