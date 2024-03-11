@@ -12,12 +12,14 @@ press_release: false
 The most recent Kankakee Community College nursing program graduates have attained a 100% pass rate on the *National Council Licensure Examination*.
 
 ![KCC nursing program students during health simulation](/uploads/2023/nursingstudents-300x216.jpg "KCC nursing program students during health simulation")
+{: .center-this-text}
 
 All of KCC’s May 2023 and December 2023 Registered Nursing graduates passed the NCLEX-RN*. All of KCC’s July 2023 Practical Nursing graduates passed the NCLEX-PN. The practical nursing program has one group of graduates each year, while registered nursing has two groups graduate each year.*
 
 “The students work very hard, and deserve recognition for their efforts to become professional nurses,” said Kellee Hayes, MSN, RN, CNE, director of nursing programs at KCC. “Our faculty also should be credited for delivering a curriculum that conveys important information to students so they can succeed on the exam and into their careers.”
 
 ![KCC nursing program students during health simulation](/uploads/2023/nursingstudents-300x271.jpg "KCC nursing program students during health simulation")
+{: .center-this-text}
 
 Hayes noted that the college also bolstered its registered nursing program in 2015 by obtaining accreditation from the [Accreditation Commission for Education in Nursing](http://www.acenursing.org/). The practical nursing program became ACEN accredited in 2019.
 
