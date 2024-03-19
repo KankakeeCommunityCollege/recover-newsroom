@@ -14,6 +14,7 @@ press_release: false
 Students from 10 local schools will display their original artwork during the 35th annual Kankakee Community College High School Juried Art Exhibition in March.
 
 ![&quot;The Light Reflecting Us&quot; by Bradley-Bourbonnais Community High School student Chloe Coddens](/uploads/2023/2024-hsartshow-200x276.jpg "&quot;The Light Reflecting Us&quot; by Bradley-Bourbonnais Community High School student Chloe Coddens")
+{: .center-this-text}
 
 The show runs March 11 to March 20 in the art wing and Miner Memorial Library of Kankakee Community College. Hours are 8 a.m. - 5 p.m. Monday through Thursday and 8 a.m. - 1 p.m. Friday.
 
