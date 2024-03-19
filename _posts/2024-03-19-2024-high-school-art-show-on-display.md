@@ -22,8 +22,19 @@ A reception, awards presentation and juror's critique will be held on the final 
 
 "The High School Art Show is always an inspiring event. Visitors will find the works full of passionate effort and imagination," said Chelise Slowik, a KCC art professor. "Overall, it is a beautiful display of our future local artists. Plan to come out, experience our beautiful gallery space, and enjoy the event!"
 
-High schools participating in the exhibit are Bishop McNamara Catholic High School, Bradley-Bourbonnais Community High School, Grace Christian Academy, Grant Park High School, Herscher High School, Manteno High School, Momence High School, Pontiac High School, St. Anne Community High School, and Watseka Community High School.
+High schools participating in the exhibit are
+
+* Bishop McNamara Catholic High School,
+* Bradley-Bourbonnais Community High School,
+* Grace Christian Academy,
+* Grant Park High School,
+* Herscher High School,
+* Manteno High School,
+* Momence High School,
+* Pontiac High School,
+* St. Anne Community High School, and
+* Watseka Community High School.
 
 The exhibit is sponsored by KCC's Visual Arts Department.
 
-Article image: "The Light Reflecting Us" by Chloe Coddens, a student at Bradley-Bourbonnais Community High School.
+Article image: *The Light Reflecting Us* by Chloe Coddens, a student at Bradley-Bourbonnais Community High School.
