@@ -1,7 +1,7 @@
 ---
 title: Become a student representative
-date: 2024-02-13 14:56:34 -0600
-expire_date: 2024-03-05 00:00:00 -0600
+date: 2024-03-11 14:56:00 -0500
+expire_date: 2024-03-18 00:00:00 -0500
 image: /uploads/2023/studenttrustee2024-580x656.jpg
 news_image_alt: >-
   The search is on for the 2024-25 KCC Student Trustee and Advisory Council
@@ -17,4 +17,4 @@ If you would like to lead assigned projects, serve as an active member of KCC’
 
 "Students in this prestigious position have an advantage when competing for scholarships and employment opportunities," said Maurice Sullivan, KCC coordinator of student life.
 
-Information and an application are available [here](https://bit.ly/3GJy6ByStudentTrusteeApp){: target="_blank" rel="noopener"}. The application deadline is 5 p.m. on Tuesday, March 5.
+Information and an application are available [here](https://form.jotform.com/200476436597161 "Student Trustee Declaration of Candidacy"){: target="_blank" rel="noopener"}. The application deadline is 5 p.m. on Monday, March 18.

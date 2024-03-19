@@ -11,13 +11,13 @@ press_release: false
 ---
 It's time to raise money for a good cause and shove pie in the face of a professor.
 
-![](/uploads/2022/pie-in-face250x250.jpg){: .float-image-right width="250" height="250"}The [STEM Club](https://www.kcc.edu/student-resources/clubs/#stem-club){: target="_blank" rel="noopener"} (Science, Technology, Engineering & Math Club) is having its annual "Pie-In-Your-Face Fundraiser this week.&nbsp;
+![](/uploads/2022/pie-in-face250x250.jpg){: .float-image-right width="250" height="250"}The [STEM Club](https://www.kcc.edu/student-resources/clubs/#stem-club){: target="_blank" rel="noopener"} (Science, Technology, Engineering & Math Club) is having its annual "Pie-In-Your-Face Fundraiser this week.
 
 The money raised with go to Türkiye/Syria Earthquake relief efforts.
 
-Please make a donation and vote for a professor to get a pie-in-the-face between 11 a.m. - 1 p.m. in the College Center March 21, 22 & 23.&nbsp;
+Please make a donation and vote for a professor to get a pie-in-the-face between 11 a.m. - 1 p.m. in the College Center March 21, 22 & 23.
 
-The pie will be semi-gently placed on a face on Thursday at 1 p.m. in the College Center.&nbsp;
+The pie will be semi-gently placed on a face on Thursday at 1 p.m. in the College Center.
 
 This year’s nominees are:
 
