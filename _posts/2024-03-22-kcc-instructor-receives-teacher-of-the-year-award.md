@@ -14,7 +14,7 @@ For her passion and commitment to students, Jennifer Mulligan has received the [
 ![Jennifer Mulligan, recipient of IACEA Teacher of the Year Award](/uploads/2023/jennifermulligan-289x400.jpg "Jennifer Mulligan, recipient of IACEA Teacher of the Year Award")
 {: .center-this-text}
 
-**“**My teacher Ms. Jennifer deserves the title Teacher of the Year and so much more,” said Tammara Gonzalez of Kankakee. “I have never had a teacher who was so interested in my pursuit of an education as well as genuinely invested in my well-being. She has been a great confidant in my times of need, as well as an encouraging educator.
+**“**My teacher, Ms. Jennifer deserves the title Teacher of the Year and so much more,” said Tammara Gonzalez of Kankakee. “I have never had a teacher who was so interested in my pursuit of an education as well as genuinely invested in my well-being. She has been a great confidant in my times of need, as well as an encouraging educator.
 
 “She has been such a great mentor as well as a friend. I would not have been as far in my education had I not been given such a patient and kind teacher. There have been times I didn’t believe I’d make it this far in my education but she pushes me to my full potential and I’ll forever be grateful.”
 
