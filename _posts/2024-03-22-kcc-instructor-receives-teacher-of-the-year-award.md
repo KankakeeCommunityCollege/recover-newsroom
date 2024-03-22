@@ -12,6 +12,7 @@ press_release: false
 For her passion and commitment to students, Jennifer Mulligan has received the [Illinois Adult and Continuing Educators Association](http://www.iacea.net/) Arthur J. Stejskal Teacher of the Year Award.
 
 ![Jennifer Mulligan, recipient of IACEA Teacher of the Year Award](/uploads/2023/jennifermulligan-289x400.jpg "Jennifer Mulligan, recipient of IACEA Teacher of the Year Award")
+{: .center-this-text}
 
 **“**My teacher Ms. Jennifer deserves the title Teacher of the Year and so much more,” said Tammara Gonzalez of Kankakee. “I have never had a teacher who was so interested in my pursuit of an education as well as genuinely invested in my well-being. She has been a great confidant in my times of need, as well as an encouraging educator.
 
