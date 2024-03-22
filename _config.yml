@@ -106,7 +106,7 @@ _comments:
   press_release: Check this box to display the press-release info at the bottom of the post.
   title: Do not use an ampersand ("&") unless surrounded by spaces (i.e. " & " is the only allowable use of an ampersand.)
 
-_options:
+_editables:
   content:
     format: p h2 h3 h4 h5 h6 pre address div
     bold: true
