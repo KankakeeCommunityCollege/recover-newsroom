@@ -18,10 +18,10 @@ For her passion and commitment to students, Jennifer Mulligan has received the [
 
 “She has been such a great mentor as well as a friend. I would not have been as far in my education had I not been given such a patient and kind teacher. There have been times I didn’t believe I’d make it this far in my education but she pushes me to my full potential and I’ll forever be grateful.”
 
-Mulligan teaches GED courses at Kankakee Community College. She received the award on Thursday, March 7 at the association’s conference in Springfield. Among other criteria, it recognizes a person who demonstrates commitment to the profession, accepts the uniqueness of learners, is supportive and fosters freedom of thought and expression.
+Mulligan teaches [GED courses](http://adulted.kcc.edu "KCC Adult Education"){: target="_blank" rel="noopener"} at Kankakee Community College. She received the award on Thursday, March 7 at the association’s conference in Springfield. Among other criteria, it recognizes a person who demonstrates commitment to the profession, accepts the uniqueness of learners, is supportive and fosters freedom of thought and expression.
 
 “Ms. Mulligan has been working diligently with my two adult sons for nearly a year,” said Brandi LaMie of Kankakee. “As a homeschool and special needs family, we were nearing the end of our curriculum and looking for a method of graduation. We were referred to your GED completion program through KCC, and came in contact with one of the most proactive people in our journey, Ms. Jennifer Mulligan.
 
 She and the team helped my sons progress leaps and bounds in sharpening their skills and preparing them to pass their tests.”
 
-It the fourth time in eight years that a KCC employee has received an the [Illinois Adult and Continuing Educators Association](http://www.iacea.net/) statewide award. Margaret Wolf was named Administrator of the Year in 2017; Donna Mann was Arthur J. Stejskal Teacher of the Year in 2018; and Gregg Beglau received the Support Staff of the Year Award in 2019.
+It is the fourth time in eight years that a KCC employee has received an the [Illinois Adult and Continuing Educators Association](http://www.iacea.net/) statewide award. Margaret Wolf was named Administrator of the Year in 2017; Donna Mann was Arthur J. Stejskal Teacher of the Year in 2018; and Gregg Beglau received the Support Staff of the Year Award in 2019.
