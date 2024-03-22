@@ -1,5 +1,5 @@
 ---
-title: KCC instructor receives Teacher of the Year Award
+title: Instructor named 'Teacher of the Year'
 date: 2024-03-22 10:06:17 -0500
 expire_date: 2024-04-01 00:00:00 -0500
 image: /uploads/2023/jennifermulligan-580x640.jpg
