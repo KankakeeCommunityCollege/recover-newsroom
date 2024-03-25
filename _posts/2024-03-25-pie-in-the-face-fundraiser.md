@@ -1,5 +1,5 @@
 ---
-title: Pie-in-the-face fundraiser
+title: Pie-In-The-Face Fundraiser
 date: 2024-03-25 10:56:09 -0500
 expire_date: 2024-03-29 00:00:00 -0500
 image: /uploads/2023/pieintheface-580x705.jpg
