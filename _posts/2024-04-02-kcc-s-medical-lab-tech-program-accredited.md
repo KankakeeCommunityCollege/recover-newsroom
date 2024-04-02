@@ -10,6 +10,7 @@ video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
 ![Medical Laboratory Technology program students and director](/uploads/2023/medlabtech-400x267.jpg "L-R: Director Lamanda Baade, students Roirie Bartucci and Dominique Schultz")
+{: .center-this-text}
 
 The National Accrediting Agency for Clinical Laboratory Sciences has awarded the Kankakee Community College Medical Laboratory Technician associate degree program continued accreditation until 2029.
 
@@ -17,11 +18,10 @@ Seeking accreditation is voluntary, but KCC’s MLT program has been accredited 
 
 To continue accreditation, the program provided documentation of established standards and showed continuous quality improvement over the past five years of the 10-year accreditation cycle. The Council for Higher Education Accreditation recognizes [NAACLS Accreditation](https://www.naacls.org/Home.aspx){: target="_blank" rel="noopener"}.
 
-&nbsp;
-
 Accreditation by NAACLS is highly esteemed within the field, said KCC’s medical laboratory technician program director, Lamanda Baade.
 
 ![Students work in KCC’s Medical Laboratory Technology lab](/uploads/2023/medlabtech2-400x267-1.jpg "L-R: Cherie Bolen, Debra Lucas and Adam Kunce")
+{: .center-this-text}
 
 “It signifies that a program has met rigorous standards of quality and excellence in education for laboratory professionals,” Baade said. “Being accredited by NAACLS reflects the dedication of our faculty in maintaining high educational standards. With this recognition, students and employers can be assured that the program exceeds national benchmarks for quality education. We are very proud of our graduates and the skills they bring to future employers.”
 
