@@ -1,9 +1,9 @@
 ---
-title: KCC's Medical Lab Tech program accredited
+title: Accreditation continues for Med Lab Tech program
 date: 2024-04-02 12:05:32 -0500
 expire_date: 2024-04-30 00:00:00 -0500
 image: /uploads/2023/medlabtech-580x710.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Two students in the Med Lab Tech lab
 article_lead: NAACLS accredited until 2029
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
@@ -27,7 +27,7 @@ Accreditation by NAACLS is highly esteemed within the field, said KCC’s medica
 
 A medical laboratory technician works behind the scenes to conduct lab tests, analyze specimens, and maintain equipment for patient care. Graduates of the program are also prepared to enter medical laboratory science bachelor’s degree programs at selected state universities with junior status.
 
-[Medical Laboratory Technology](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/medical-laboratory-technology-aas/) is a two-year associate degree program. Fifteen students can be admitted into the program each fall semester. Classroom and clinical experience prepare students for entry-level jobs performing general tests in all laboratory areas. The program has clinical affiliations with 20 Illinois hospitals.
+[Medical Laboratory Technology](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/medical-laboratory-technology-aas/?utm_medium=pr&amp;utm_campaign=accred "Medical Laboratory Technology program page"){: target="_blank" rel="noopener"} is a two-year associate degree program. Fifteen students can be admitted into the program each fall semester. Classroom and clinical experience prepare students for entry-level jobs performing general tests in all laboratory areas. The program has clinical affiliations with 20 Illinois hospitals.
 
 KCC’s graduates go on to work at hospitals, reference laboratories, clinics, research labs, public health facilities, business and industry, Baade said.
 
