@@ -7,6 +7,7 @@ port: 3000
 google-tag_key: GTM-T37TN4S
 url: "https://news.kcc.edu"
 public-url: "https://news.kcc.edu"
+canonical_baseurl: "https://news.kcc.edu"
 theme: "kcc-gem-theme"
 nav_links:
   - link_text: Home
