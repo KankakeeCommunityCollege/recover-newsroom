@@ -50,3 +50,31 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.position__offset-fixed-nav-video {
+  margin-top: 110px;
+}
+
+@media screen and (min-width: 360px) {
+  .position__offset-fixed-nav-video {
+    margin-top: 118px;
+  }
+}
+
+@media screen and (min-width: 400px) {
+  .position__offset-fixed-nav-video {
+    margin-top: 120px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .position__offset-fixed-nav-video {
+    margin-top: 126px;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .position__offset-fixed-nav-video {
+    margin-top: 131px;
+  }
+}
