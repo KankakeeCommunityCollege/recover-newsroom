@@ -15,6 +15,6 @@ On Monday, April 8, [STEM Club](https://www.kcc.edu/student-resources/clubs/#ste
 
 "We experienced four and a half minutes of totality!" said club advisor Michael Caparula.
 
-KCC students in the picture are (left to right), Morgan Krause, Amanda Paulauskis, Nigel Mills, Jaxon Miller, and Michael Miramontes.
+KCC students in the picture are (left to right), Morgan Krause, Amanda Paulauskis, Nigel Mills, Jaxon Miller, and Michael Miramontes..
 
 Photo credit: Caparula.
