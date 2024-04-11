@@ -9,7 +9,10 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Allie Kohl](/uploads/2023/alliekohl-400x600.jpg "Allie Kohl")For the second time, Allie Kohl of Herscher has been selected to receive a Coca-Cola academic scholarship.
+![Allie Kohl](/uploads/2023/alliekohl-350x436.jpg "Allie Kohl")
+{: .center-this-text}
+
+For the second time, Allie Kohl of Herscher has been selected to receive a Coca-Cola academic scholarship.
 
 In 2023, Kohl received a $1,000 Coca-Cola Leaders of Promise scholarship. This year, she has earned $1,500 as a Gold Scholar on Coca-Cola’s 2024 Academic Team. The award stems from Kohl’s score in the All-USA Academic Team competition.
 
