@@ -1,5 +1,5 @@
 ---
-title: Student receives second Coca-Cola scholarship
+title: Coca-Cola scholarship awarded
 date: 2024-04-11 15:51:55 -0500
 expire_date: 2024-05-11 00:00:00 -0500
 image: /uploads/2022/ptk-logo-580x580.jpg
