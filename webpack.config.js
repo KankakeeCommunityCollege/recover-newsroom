@@ -21,8 +21,7 @@ module.exports = {
   mode: devMode ? 'development' : 'production',
   plugins,
   entry: {
-    'main': './assets/js/src/all.js',
-    'slim': './assets/js/slim/slim.js'
+    'main': './assets/js/src/all.js'
   },
   output: {
     filename: '[name].[fullhash].bundle.js',

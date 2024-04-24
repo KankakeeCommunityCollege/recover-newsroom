@@ -1,4 +1,5 @@
 // CUSTOM JS FOR LATEST-NEWS-WIDGET
+
 function newsWidget() {
   $(document).ready(function () {
     var img1 =  $('#latestNewsImage1').attr('src');
@@ -184,6 +185,83 @@ function newsWidget() {
     });
 
   });
+
+  // ========================================================================================= //
+  // The commented-out code below was an attempt at converting the above jQuery to vanilla JS. //
+  // It still has issues that need to be worked out.                                           //
+  // Be sure to add a post with YouTube video when changing/testing this JS                    //
+  // ========================================================================================= //
+
+  // function toggleAriaHidden(visibleLink, visiblePreview, linkList) {
+  //   [...linkList].forEach(link => {
+  //     const preview = document.getElementById(link.id.replace('Tease', 'News'));
+
+  //     if (visibleLink == link) {
+  //       visibleLink.setAttribute('aria-hidden', 'false');
+  //       visiblePreview.setAttribute('aria-hidden', 'false');
+  //     } else {
+  //       link.setAttribute('aria-hidden', 'true');
+  //       preview.setAttribute('aria-hidden', 'true');
+  //     }
+  //   });
+  // }
+
+  // const featureHover = document.getElementById('featureHover');
+  // const linkList = document.querySelectorAll('.js-hp-latest-tease-link');
+  // const listElement = document.getElementById('jsTeaseList');
+  // const imgModList = document.querySelectorAll('.js-hp-feature--img-mod');
+  // const featureList = document.querySelectorAll('.js-hp-feature');
+  // const featureInner = document.querySelector('.latest-news-widget__feature-mod--inner');
+
+  // [...featureList].forEach(feature => feature.classList.add('topper-trans-in'));
+
+  // [...linkList].forEach(link => {
+  //   link.addEventListener('mouseenter', e => {
+  //     const preview = document.getElementById(e.target.id.replace('Tease', 'News'));
+  //     const img = e.target.dataset.image;
+      
+  //     // animate play icon if it exists
+  //     if (e.target.dataset.video) {
+  //       const playIcon = preview.querySelector('.js-play-icon');
+
+  //       playIcon.classList.remove('topper-trans-in');
+  //       playIcon.classList.add('topper-trans-out');
+  //     }
+  //     // animate the article preview image
+  //     preview.classList.remove('topper-trans-in');
+  //     preview.classList.add('topper-trans-out');
+  //     // change aria-hidden for visible items
+  //     toggleAriaHidden(e.target, preview, linkList);
+
+  //     [...listElement.querySelectorAll('.tease-is-active')]
+  //       .forEach(li => li.classList.remove('tease-is-active'));
+  //     e.target.classList.add('tease-is-active');
+
+  //     [...imgModList].forEach(div => div.setAttribute('style', `background-image: url('${img}')`));
+  //     [...featureList].forEach(a => a.setAttribute('href', e.target.getAttribute('href')));
+  //     featureInner.setAttribute('style', 'transform: translate3d(-75%, 0, 0);');
+  //   });
+  // });
+
+  // if (document.querySelector('.js-play-icon')) {
+  //   const playIconList = document.querySelectorAll('.js-play-icon');
+
+  //   [...playIconList].forEach(icon => icon.classList.add('topper-trans-in'));
+    
+  //   // animate play icon on mouse hover
+  //   featureHover.addEventListener('mouseenter', _e => {
+  //     [...playIconList].forEach(icon => {
+  //       icon.classList.remove('play-zoom-out');
+  //       icon.classList.add('play-zoom-in');
+  //     });
+  //   });
+  //   featureHover.addEventListener('mouseleave', _e => {
+  //     [...playIconList].forEach(icon => {
+  //       icon.classList.remove('play-zoom-in');
+  //       icon.classList.add('play-zoom-out');
+  //     });
+  //   });
+  // }
 
 }
 
