@@ -1,6 +1,8 @@
-// Play a YouTube embed when its modal is opened.
-// Stop it when its closed, too.
-
+// ====================================================== //
+// Play a YouTube embed on homepage (when used in latest  //
+//  news widget) when the post's modal is opened.         //
+// Stop it when its modal is closed, too.                 //
+// ====================================================== //
 function stopPlayingOnVideoClose(target) {
   target.addEventListener('hide.bs.modal', e => {
     const iframe = e.target.querySelector('iframe');

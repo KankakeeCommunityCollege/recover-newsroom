@@ -1,3 +1,7 @@
+// ======================================================== //
+// Fetch videos from a YouTube playlist and build them into //
+//  a video player using the YouTube API.                   //
+// ======================================================== //
 const API_KEY = 'AIzaSyCDtQhcIZrqG_uw3OAJvQ5zhtLYWvInZV4';
 const PLAYLIST_ID = 'PLEnNvZd4X-lVFQK8Ke8jkpr7NvdTSI5W9';
 

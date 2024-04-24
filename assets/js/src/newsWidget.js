@@ -1,5 +1,5 @@
 // CUSTOM JS FOR LATEST-NEWS-WIDGET
-
+// [TODO]: fix the vanilla JS version commented-out at the bottom
 function newsWidget() {
   $(document).ready(function () {
     var img1 =  $('#latestNewsImage1').attr('src');
