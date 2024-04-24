@@ -2,7 +2,7 @@
 title: Alumnus Eric Peterson honored for achievements
 date: 2024-04-24 13:33:57 -0500
 expire_date: 2024-05-31 00:00:00 -0500
-image: /uploads/2023/ericpetersondistalum-580x594.jpg
+image: /uploads/2023/ericpetersondistalum-580x750.jpg
 news_image_alt: >-
   Eric Peterson and wife Ashley Peterson hold the John M. Fulton Distinguished
   Alumni Award
