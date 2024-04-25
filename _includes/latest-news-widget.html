@@ -13,7 +13,7 @@
 
                 {% if forloop.first == true %}
                   {% if post.video_content == true %}
-                    <a data-frame="iframe" data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="newsHeader-video-link latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-bs-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aira-hidden="false">
+                    <a data-frame="iframe" data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="newsHeader-video-link latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-bs-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aria-hidden="false">
                       <div class="latest-news-widget__feature__tease__hgroup">
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                         <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
@@ -24,7 +24,7 @@
                       </div>
                     </a>
                   {% else %}
-                    <a data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="false">
+                    <a data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aria-hidden="false">
                       <div class="latest-news-widget__feature__tease__hgroup">
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                         <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
@@ -36,7 +36,7 @@
                   {% endif %}
                 {% else %}
                   {% if post.video_content == true %}
-                    <a data-frame="iframe" data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="newsHeader-video-link latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-bs-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aira-hidden="true">
+                    <a data-frame="iframe" data-video="https://www.youtube.com/embed/{{ post.video_link | remove: "https://youtu.be/" }}" data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="newsHeader-video-link latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" data-bs-target="#videoModal{{ forloop.index }}" href="#" tabindex="-1" aria-hidden="true">
                       <div class="latest-news-widget__feature__tease__hgroup">
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                         <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
@@ -47,7 +47,7 @@
                       </div>
                     </a>
                   {% else %}
-                    <a data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aira-hidden="true">
+                    <a data-bs-toggle="modal" id="jsNewsLink{{ forloop.index }}" class="latest-news-widget__feature latest-news-widget__feature--image latest-news-widget__feature--play-hover js-hp-feature" href="#modal{{ forloop.index }}" tabindex="-1" aria-hidden="true">
                       <div class="latest-news-widget__feature__tease__hgroup">
                         <span class="latest-news-widget__feature__tease__overline js-hp-feature-overline">{{ post.title }}</span>
                         <h3 class="latest-news-widget__feature__tease__h"><span class="latest-news-widget__hspan--word-break js-hp-feature-tease-link">{{ post.article_lead }}</span></h3>
