@@ -80,8 +80,12 @@ a > .yt-item > img {
   float: left;
   margin-right: 20px;
 }
-.yt-item:hover {
+a.video-link:hover .yt-item {
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+.yt-item * {
+  // Make sure children don't pick up click events
+  pointer-events: none;
 }
 div#channel_input {
   position: fixed;
