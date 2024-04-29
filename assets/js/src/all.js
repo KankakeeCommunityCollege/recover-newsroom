@@ -1,18 +1,23 @@
 import '../../scss/main.scss';
-import ieOnly from './ieOnly.js';
-import setDate from './date.js';
-import playModal from './playModal.js';
-import checkForPound from './jumpLink.js';
-import checkForContactsLink from './jumpLinkFix.js';
-import newsWidget from './newsWidget.js';
 
-checkForPound();
+window.addEventListener('load', () => {
+  if (document.getElementById('todaysDate')) {
+    import('./setDate')
+      .then(({ default: setDate }) => setDate());
+  }
+  if (window.location.pathname == '/') {
+    import('./newsWidget')
+      .then(({ default: newsWidget }) => newsWidget());
 
-document.addEventListener('DOMContentLoaded', function() {
-  ieOnly();
-  checkForContactsLink();
-  setDate();
-  newsWidget();
-  //newsHeader();
-  playModal();
+    import('./contactLinkFix')
+      .then(({ default: contactLinkFix }) => contactLinkFix())
+  }
+  if (document.getElementById('yt_list')) {
+    import('./playlist')
+      .then(({ default: playlist }) => playlist());
+  }
+  if (document.querySelector('a[data-video]')) {
+    import('./playModal')
+      .then(({ default: playModal }) => playModal());
+  }
 });
