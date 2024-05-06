@@ -9,7 +9,8 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Graduation cap with &quot;2024&quot; tassel next to a KCC diploma holder](/uploads/2023/2024commencement-400x267.jpg "Graduation cap with &quot;2024&quot; tassel next to a KCC diploma holder")
+![Graduation cap with &quot;2024&quot; tassel next to a KCC diploma holder](/uploads/2023/2024commencement-550x367.jpg "Graduation cap with &quot;2024&quot; tassel next to a KCC diploma holder")
+{: .center-this-text}
 
 Almost 450 degrees and certificates will be conferred at the 55th annual Kankakee Community College commencement ceremony at 10 a.m. Saturday, May 11 in the George H. Ryan Gymnasium in the college's Activities Building.
 
