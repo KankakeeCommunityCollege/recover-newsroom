@@ -16,7 +16,7 @@ Almost 450 degrees and certificates will be conferred at the 55th annual Kankake
 
 The speaker at KCC’s ceremony will be a 2012 graduate, Fawn Hendershott. Hendershott is executive director of UpliftedCare, a non-profit that provides care and comfort to individuals who struggle with serious illness. She earned a degree in Registered Nursing from KCC, and also held roles as a nurse case manager, CNA supervisor and clinical staff educator with UpliftedCare. Hendershott began her career at Riverside Healthcare in telemetry and post-acute care units.
 
-Two students will be honored as members of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. They are [Allie Kohl of Herscher and Connor O’Malley of Kankakee.]() Kohl is earning an Associate in Arts degree and will transfer to Olivet Nazarene University. O’Malley is earning an Associate in Science degree and will transfer to the University of Illinois at Urbana-Champaign.
+Two students will be honored as members of the All-Illinois Academic Team, a special recognition based on outstanding academic performance and service to the college and community. They are Allie Kohl of Herscher and Connor O’Malley of Kankakee. Kohl is earning an Associate in Arts degree and will transfer to Olivet Nazarene University. O’Malley is earning an Associate in Science degree and will transfer to the University of Illinois at Urbana-Champaign.
 
 The KCC Outstanding Faculty Member Awards for 2024 will be presented to Clay Sterling, professor for the Electrical Engineering Technology Program; and Randy Gerdes, adjunct professor for the Emergency Medical Technical program.
 
