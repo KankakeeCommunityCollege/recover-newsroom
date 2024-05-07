@@ -3,12 +3,14 @@ title: Professor presents research
 date: 2024-05-07 08:34:42 -0500
 expire_date: 2024-05-31 00:00:00 -0500
 image: /uploads/2023/regina-vandevelde-pta-poster443x580.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Poster presentation at Northwestern University
 article_lead: PTA clinical information study shared
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
+![Poster presentation at Northwestern University. Four presenters.](/uploads/2023/regina-vandevelde-pta-poster370x200.jpg "Poster presentation"){: width="370" height="200"}
+
 Regina VanDeVelde, coordinator for the Physical Therapist Assistant program at KCC, recently presented research a conference at Northwestern University in Evanston.
 
 VanDeVelde conducted the research in collaboration with Governors State University in University Park.
