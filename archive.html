@@ -11,18 +11,319 @@ baseurl: ../
           {%- for post in site.posts -%}
           {%- assign currentDate = post.date | date: "%Y" -%}
           {%- if currentDate != myDate -%}
-          {%- unless forloop.first -%}</ul>{%- endunless -%}
+          {% unless forloop.first -%}</ul>{% endunless -%}
           <h2>{{ currentDate }}</h2>
           <ul class="archive__list">
           {%- assign myDate = currentDate -%}
-          {%- endif -%}
+          {% endif -%}
             <li><a href="{{ post.url }}" class="archive__link-item"><span class="archive__post-meta">{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
-          {%- if forloop.last -%}</ul>{%- endif -%}
+          {% if forloop.last -%}</ul>{%- endif -%}
           {%- endfor -%}
         </div>
       </div>
         <div class="row">
           <div class="col">
+            <h2>2023</h2>
+            <ul class="archive__list">
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/12/20/fall-2023-president-s-list-announced"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">December 20, 2023</span> - Fall 2023 President's List Announced</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/12/20/fall-2023-honors-list-announced"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">December 20, 2023</span> - Fall 2023 Honors List Announced</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/12/07/workforce-grant-information-available"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">December 7, 2023</span> - Workforce Grant information available</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/12/01/enter-to-win-two-bears-tickets"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">December 1, 2023</span> - Veterans Association raffle</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/11/30/holiday-event-on-december-12"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">November 30, 2023</span> - Holiday event on December 12</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/11/20/fall-2023-phi-theta-kappa-inductees"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">November 20, 2023</span> - Fall 2023 Phi Theta Kappa inductees</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/11/15/for-every-student-for-every-community"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">November 15, 2023</span> - For Every Student, For Every Community</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/11/09/green-dot-sale-at-kcc-s-hammes-bookstore"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">November 9, 2023</span> - Bookstore "Green Dot" sale</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/11/08/kcc-s-president-featured-on-podcast"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">November 8, 2023</span> - KCC's president featured on podcast</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/11/08/invitation-to-tree-decorating-contest"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">November 8, 2023</span> - Invitation to tree decorating contest</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/11/07/fitness-center-expands-hours-in-2024"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">November 7, 2023</span> - Fitness Center expands hours in 2024</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/10/31/thriving-programs-see-double-digit-enrollment-jumps"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">October 31, 2023</span> - Thriving programs see double-digit enrollment jumps</a>
+              </li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/10/31/veterans-day-recognition-ceremony"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">October 31, 2023</span> - Veterans Day Recognition Ceremony</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/10/25/congratulations-kcc-graduates"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">October 25, 2023</span> - 10 students use 'DDP' to transfer</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/10/10/let-s-talk-horror"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">October 10, 2023</span> - Let's Talk Horror!</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/10/10/national-transfer-student-week-october-16-20"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">October 10, 2023</span> - National Transfer Student Week</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/10/05/summer-2023-daisy-award"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">October 5, 2023</span> - Summer 2023 DAISY Award®</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/10/03/local-scholarship-opportunity"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">October 3, 2023</span> - Local scholarship opportunity</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/09/27/learn-more-about-financial-aid"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">September 27, 2023</span> - Events discuss paying for college</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/09/20/sept-30-tour-of-renewable-energy-systems"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">September 20, 2023</span> - Sept. 30: Tour of renewable energy systems </a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/09/19/bettering-your-business-event"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">September 19, 2023</span> - Bettering Your Business event</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/09/13/community-survey-underway"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">September 13, 2023</span> - Community survey underway</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/09/12/kcc-s-horticulture-club-grounds-crew-partnered-for-summer-projects"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">September 12, 2023</span> - KCC's Horticulture Club & Grounds Crew partnered for
+                  summer projects</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/09/08/literacy-programs-receives-grant"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">September 8, 2023</span> - Literacy program receives grant</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/09/08/portrait-of-a-soldier-on-display-sept-11-15"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">September 8, 2023</span> - "Portrait of a Soldier" - Sept. 11-15</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/30/your-feedback-is-needed"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 30, 2023</span> - Your feedback is needed</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/24/meet-with-local-employers"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 24, 2023</span> - Meet with local employers</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/24/kcc-receives-250-000-through-sen-patrick-joyce"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 24, 2023</span> - KCC receives $250,000</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/24/journey-through-local-auto-history"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 24, 2023</span> - Journey through local auto history</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/17/resource-fair-for-kcc-students"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 17, 2023</span> - Resource Fair for KCC Students</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/11/ptk-student-at-kcc-awarded-coca-cola-scholarship"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 11, 2023</span> - Student receives Coca-Cola scholarship</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/11/five-kcc-athletic-teams-earn-njcaa-recognition"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 11, 2023</span> - Athletes & teams earn NJCAA recognition</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/09/summer-2023-president-s-list-announced"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 9, 2023</span> - Summer 2023 President's List</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/08/09/summer-2023-honors-list-announced"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">August 9, 2023</span> - Summer 2023 Honors List Announced</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/07/24/sessions-begin-sept-18"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">July 24, 2023</span> - Gap Year Program returns</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/06/26/christa-agee-announced-as-new-edi-coordinator"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">June 26, 2023</span> - New equity, diversity, inclusion coordinator</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/06/21/library-elevator-is-out-of-service"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">June 21, 2023</span> - Library elevator is out-of-service</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/06/15/girls-basketball-camp"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">June 15, 2023</span> - Girls Basketball Camp</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/06/02/the-daisy-award-awarded-to-2023-graduate"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">June 2, 2023</span> - Spring 2023 Daisy Award</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/05/30/spring-2023-president-s-list-announced"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">May 30, 2023</span> - Spring 2023 President's List Announced</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/05/30/spring-2023-honors-list-announced"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">May 30, 2023</span> - Spring 2023 Honors List Announced</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/05/30/library-and-tutoring-services-available"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">May 30, 2023</span> - Library and tutoring services available</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/05/30/training-available-for-in-demand-career"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">May 30, 2023</span> - Diesel Tech Program begins at KCC</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/05/05/kcc-is-a-2023-military-friendly-school"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">May 5, 2023</span> - KCC's commitment to veterans continues</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/05/05/congratulations-graduates"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">May 5, 2023</span> - Congratulations graduates!</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/05/03/run-walk-honors-rittmanic-and-bailey"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">May 3, 2023</span> - Run & walk honors Rittmanic and Bailey</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/25/145-plants-donated"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 25, 2023</span> - 145 plants donated</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/24/police-department-award"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 24, 2023</span> - Police Department Award</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/19/health-career-programs-open-for-applications"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 19, 2023</span> - Health career applications</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/19/35-join-phi-theta-kappa-honor-society"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 19, 2023</span> - 35 join Phi Theta Kappa Honor Society</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/18/discount-theater-tickets-for-students"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 18, 2023</span> - Discount theater tickets for students</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/17/celebrating-a-success-story"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 17, 2023</span> - Celebrating a success story</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/14/hours-effective-april-24"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 14, 2023</span> - Food service hours changing</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/12/adjunct-professor-earns-award"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 12, 2023</span> - Adjunct professor earns award</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/06/keep-track-of-testing-center-hours"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 6, 2023</span> - Keep track of Testing Center hours</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/04/04/elevator-renovations-to-be-completed"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">April 4, 2023</span> - Elevator renovation almost complete</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/30/bookstore-closure-april-7-14"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 30, 2023</span> - Bookstore closure April 7-14</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/28/play-ball"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 28, 2023</span> - Play Ball!</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/23/bookstore-moving-sale-while-supplies-last"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 23, 2023</span> - Get art supplies up to 70% off</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/21/pie-in-the-face-fundraiser"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 21, 2023</span> - Pie-in-the-face fundraiser</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/20/the-west-elevator-works"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 20, 2023</span> - The west elevator works</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/20/33rd-annual-kcc-high-school-art-show-on-display"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 20, 2023</span> - High school art show on display</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/17/new-policy-for-advisement"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 17, 2023</span> - New policy for advisement</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/16/meet-with-local-employers"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 16, 2023</span> - Meet with local employers</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/16/information-session-for-spring-courses"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 16, 2023</span> - Courses for the love of learning</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/03/03/grant-available-for-manufacturing-related-careers"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">March 3, 2023</span> - Grant available for manufacturing-related careers</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/02/14/brother-george-s-food-truck-at-kcc"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">February 14, 2023</span> - Brother George's Food Truck at KCC</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/02/09/start-your-career-with-kcc-programs"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">February 9, 2023</span> - Start your career with KCC programs</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/02/07/attend-an-explore-kcc-day"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">February 7, 2023</span> - Attend an Explore KCC Day</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/01/25/pack-the-place-feb-9"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">January 25, 2023</span> - Pack the Place Feb. 9</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/01/19/students-invited"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">January 19, 2023</span> - Become a student representative</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/01/17/world-cancer-day-basketball-game"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">January 17, 2023</span> - World Cancer Day basketball game</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/01/03/fall-2022-president-s-list-announced"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">January 3, 2023</span> - Fall 2022 President's List Announced</a></li>
+              <li><a
+                  href="{{ page.baseurl }}archive/2023/01/03/fall-2022-honors-list-announced"
+                  class="archive__link-item"
+                ><span class="archive__post-meta">January 3, 2023</span> - Fall 2022 Honors List Announced</a></li>
+            </ul>
             <h2>2022</h2>
             <ul class="archive__list">
               <li><a
