@@ -67,5 +67,5 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Roann, Ind.:** Kolton Floor.
 * **Louisville, Ky.:** Cha’vaz Woods.
 * **Murfreesboro, Tenn.:** Elijah Gerretse-Balek.
-* **Humble, Tex.:** Noah Mason.
+* **Humble, Texas:** Noah Mason.
 * **Lindsay, Ontario, Canada:** Nathan King.
