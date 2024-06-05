@@ -9,8 +9,10 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![KCC Board of Trustees 2023-2024 - Top row L-R: Student trustee Jennifer Bustos, KCC president Dr. Michael Boyd, board members Pat Martin, Jerry Hoekstra, Todd Widholm and Claire Chaplinski. Bottom row L-R: Bill Orr, board chair Cathy Boicken, Michael Proctor and Brad Hove.](/uploads/2023/jerryhoekstrabot-400x267.jpg "KCC Board of Trustees 2023-2024 - Top row L-R: Student trustee Jennifer Bustos, KCC president Dr. Michael Boyd, board members Pat Martin, Jerry Hoekstra, Todd Widholm and Claire Chaplinski. Bottom row L-R: Bill Orr, board chair Cathy Boicken, Michael Proctor and Brad Hove.")<br>Jerald Hoekstra has retired from Kankakee Community College’s board of trustees.
+![KCC Board of Trustees 2023-2024 - Top row L-R: Student trustee Jennifer Bustos, KCC president Dr. Michael Boyd, board members Pat Martin, Jerry Hoekstra, Todd Widholm and Claire Chaplinski. Bottom row L-R: Bill Orr, board chair Cathy Boicken, Michael Proctor and Brad Hove.](/uploads/2023/jerryhoekstrabot-400x267.jpg "KCC Board of Trustees 2023-2024 - Top row L-R: Student trustee Jennifer Bustos, KCC president Dr. Michael Boyd, board members Pat Martin, Jerry Hoekstra, Todd Widholm and Claire Chaplinski. Bottom row L-R: Bill Orr, board chair Cathy Boicken, Michael Proctor and Brad Hove.")
 {: .center-this-text}
+
+Jerald Hoekstra has retired from Kankakee Community College’s board of trustees.
 
 Hoekstra served on KCC’s board from November 1991 to May 2024, and was the board chair from 2014 to 2018.
 
