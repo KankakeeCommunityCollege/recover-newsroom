@@ -12,6 +12,7 @@ press_release: false
 Aidan Demarah, a 2024 graduate of the Registered Nursing program at Kankakee Community College, has been awarded The DAISY Award® for Extraordinary Nursing Students.
 
 ![Aidan Demarah, Spring 2024 The DAISY Award® recipient](/uploads/2023/aidandemarah-350x423.jpg "Aidan Demarah, Spring 2024 The DAISY Award® recipient")
+{: .center-this-text}
 
 The annual award is part of The DAISY Foundation's mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
 
