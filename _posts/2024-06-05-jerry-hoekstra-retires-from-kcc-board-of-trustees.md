@@ -1,10 +1,10 @@
 ---
-title: Jerry Hoekstra retires from board of trustees
+title: Jerry Hoekstra retires from KCC's board
 date: 2024-06-05 14:56:40 -0500
 expire_date: 2024-06-30 00:00:00 -0500
 image: /uploads/2023/jerryhoekstra-580x700.jpg
 news_image_alt: Jerry Hoekstra
-article_lead: Thank you for 33 years of service to KCC!
+article_lead: 33 years of service to KCC!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
