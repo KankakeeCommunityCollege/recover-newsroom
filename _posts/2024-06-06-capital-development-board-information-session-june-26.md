@@ -10,6 +10,7 @@ video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
 ![Logo for the Illinois Capital Development Board](/uploads/2023/capitaldevelopmentlogo-400x156.jpg "Logo for the Illinois Capital Development Board")
+{: .center-this-text}
 
 The [Capital Development Board](https://cdb.illinois.gov/) is holding a free informational outreach session at Kankakee Community College on Wednesday, June 26 from 9:30 a.m. - noon.
 
