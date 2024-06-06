@@ -1,10 +1,10 @@
 ---
-title: Capital Development Board information session June 26
+title: Capital Development Board info session
 date: 2024-06-06 15:12:01 -0500
 expire_date: 2024-06-26 00:00:00 -0500
 image: /uploads/2023/capitaldevelopmentlogo-580x603.jpg
 news_image_alt: Logo for the Illinois Capital Development Board
-article_lead: Event for local contractors and businesses at KCC
+article_lead: 'Event for contractors & businesses '
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
