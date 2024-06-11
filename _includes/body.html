@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="{{page.baseurl}}assets/css/content.css">
 </head>
 <body>
-{% if page.title == "Newsroom" or page.layout == "post" %}
+{% if page.url == "/" or page.layout == "post" %}
   {% include scripts/twitter-script.html %}
   {% include scripts/facebook-sdk.html %}
 {% endif %}
