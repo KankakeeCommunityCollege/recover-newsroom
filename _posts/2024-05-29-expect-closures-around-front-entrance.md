@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Major road repairs began May 28at the Riverfront Campus on College Drive.
+Major road repairs began May 28 at the Riverfront Campus on College Drive.
 
 The repairs will are directly in front of the flag poles. Please see the graphic below to see where repairs are taking place:
 
@@ -21,7 +21,9 @@ The repairs will are directly in front of the flag poles. Please see the graphic
 * Traffic flow around the front of the college and into parking lot P2 in front of the Workforce Development Center entrance.
 * Access to the courtyard from the parking lot side.
 
-**Open:** The parking lot. Detour signs are posted.
+  &nbsp;
+
+  **All parking lots are open.** Detour signs are posted.
 
 This work is expected to be completed by July 26.
 
