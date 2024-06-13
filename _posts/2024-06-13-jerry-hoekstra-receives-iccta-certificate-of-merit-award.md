@@ -4,7 +4,7 @@ date: 2024-06-13 15:26:37 -0500
 expire_date: 2024-07-13 00:00:00 -0500
 image: /uploads/2023/iccta-580x650.png
 news_image_alt: Illinois Community College Trustees Association logo
-article_lead: Hoekstra honored for career-long dedication
+article_lead: Hoekstra honored for dedication
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
