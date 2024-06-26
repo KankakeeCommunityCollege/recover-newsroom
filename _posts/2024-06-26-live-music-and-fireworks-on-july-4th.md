@@ -1,7 +1,7 @@
 ---
 title: Live music and fireworks on July 4th
 date: 2024-06-26 13:11:00 -0500
-expire_date: 2024-07-04 00:00:00 -0500
+expire_date: 2024-07-05 00:00:00 -0500
 image: /uploads/2023/4thofjuly-580x725.jpg
 news_image_alt: Fireworks show - photo by Darren Danks
 article_lead: Celebrate Independence Day at KCC
