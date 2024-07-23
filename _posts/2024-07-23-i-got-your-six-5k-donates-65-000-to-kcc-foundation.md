@@ -1,6 +1,6 @@
 ---
-title: '"I Got Your Six 5K" donates $65,000 to KCC Foundation'
-date: 2024-07-23 16:18:26 -0500
+title: I Got Your Six 5K Donates $65,000 to KCC Foundation
+date: 2024-07-23 16:31:02 -0500
 expire_date: 2024-08-23 00:00:00 -0500
 image: /uploads/2023/igotyoursix2024-580x700.jpg
 news_image_alt: >-
