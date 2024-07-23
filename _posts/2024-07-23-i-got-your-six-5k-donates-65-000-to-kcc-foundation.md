@@ -12,6 +12,7 @@ video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
 ![L-R: Dr. Michael Boyd, Chief Eric Springer, Sgt. Brandon Jensen, Dr. Melvina Calvin, Dr. Quincy Rose-Sewell, Kathy Rittmanic-Emme, Lyn Stua, and Kari Nugent](/uploads/2023/igotyoursixdonation-400x267-1.jpg "L-R: Dr. Michael Boyd, Chief Eric Springer, Sgt. Brandon Jensen, Dr. Melvina Calvin, Dr. Quincy Rose-Sewell, Kathy Rittmanic-Emme, Lyn Stua, and Kari Nugent")
+{: .center-this-text}
 
 On July 22, organizers of the “I Got Your Six 5K” made a $65,000 donation toward KCC scholarships in memory of Bradley Police Sgt. Marlene Rittmanic and honoring the resilience of Bradley Police Sgt. Tyler Bailey.
 
