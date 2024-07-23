@@ -11,7 +11,7 @@ press_release: false
 ---
 ![Park tree and bike](/uploads/2023/park-picture220x282.jpg "Park picture"){: width="220" height="282"}Members of the community are invited to join Duane Dean Behavioral Health Center in local parks on Wednesdays in July and early August.
 
-Please see the [attached flie](/uploads/2023/Duane--Dean-Reimagine-Kankakee-Parks2024.pdf "Duane Dean-Parks-Events-2024"){: target="_blank" rel="noopener"}r for dates and locations.  All are welcome.
+Please see the [attached flier](/uploads/2023/Duane-Dean-Reimagine-Kankakee-Parks2024.pdf "Duane Dean-Parks-Events-2024"){: target="_blank" rel="noopener"}r for dates and locations.  All are welcome.
 
 There will be family activities, games, food, music and more. Each event is from 11 a.m. - 2 p.m.
 
