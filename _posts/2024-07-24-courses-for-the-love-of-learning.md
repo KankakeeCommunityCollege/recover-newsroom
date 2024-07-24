@@ -15,7 +15,6 @@ The Lifelong Learning Institute at Kankakee Community College will have its fall
 {: .center-this-text}
 
 The special guest speaker on Aug. 30 will be James Stafford, KCC automotive technology faculty member. He will speak about electric vehicles.
-{: .center-this-text}
 
 Registration and course information will be available. The event is free and open to the public.
 
