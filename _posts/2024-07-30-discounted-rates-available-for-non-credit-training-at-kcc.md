@@ -1,5 +1,5 @@
 ---
-title: Discounted rates available for non-credit training at KCC
+title: Discounts available for non-credit training
 date: 2024-07-30 14:25:09 -0500
 expire_date: 2024-09-30 00:00:00 -0500
 image: /uploads/2023/beeil-580x650.png
