@@ -4,7 +4,7 @@ date: 2024-07-30 14:25:09 -0500
 expire_date: 2024-09-30 00:00:00 -0500
 image: /uploads/2023/beeil-580x650.png
 news_image_alt: Behind Every Employer Illinois logo
-article_lead: 'Many Continuing Education courses available '
+article_lead: Different business solutions are offered
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -28,7 +28,7 @@ Each year, an average of 1,500 people take part in non-credit workforce training
 
 Companies in Kankakee and Iroquois counties can learn more about utilizing KCC for training by contacting Greene at [ggreene@kcc.edu](mailto:ggreene@kcc.edu) or go to [www.kcc.edu/behindeveryemployerillinois](http://www.kcc.edu/behindeveryemployerillinois)*.* The statewide website is [https://behindeveryemployerillinois.org/](https://behindeveryemployerillinois.org/).
 
-**Behind Every Employer Illinois**
+## **Behind Every Employer Illinois**
 
 **4 key objectives**
 
