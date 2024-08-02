@@ -26,7 +26,7 @@ As a grant recipient, KCC can help employers train people in numerous continuing
 
 Each year, an average of 1,500 people take part in non-credit workforce training and professional development. Each year, there are 15 to 20 on-site workforce training sessions, Greene said.
 
-Companies in Kankakee and Iroquois counties can learn more about utilizing KCC for training by contacting Greene at [ggreene@kcc.edu](mailto:ggreene@kcc.edu) or go to [www.kcc.edu/behindeveryemployerillinois](http://www.kcc.edu/behindeveryemployerillinois)*.* The statewide website is [https://behindeveryemployerillinois.org/](https://behindeveryemployerillinois.org/).
+Companies in Kankakee and Iroquois counties can learn more about utilizing KCC for training by contacting Greene at [ggreene@kcc.edu](mailto:ggreene@kcc.edu) or visit [bit.ly/kcc-beei]().  The statewide website is [behindeveryemployerillinois.org](https://behindeveryemployerillinois.org/).
 
 ## **Behind Every Employer Illinois**
 
