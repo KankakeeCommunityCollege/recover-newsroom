@@ -1,15 +1,15 @@
 ---
-title: Title of the post
-date: 2024-08-02 13:05:00 -0500
-expire_date: 2024-08-02 13:05:35 -0500
+title: New ROTC partnership
+date: 2024-08-20 09:05:00 -0500
+expire_date: 2024-09-27 00:00:00 -0500
 image: /uploads/2023/army-rotc-356x493.jpg
 news_image_alt: Add descriptive text for the post's image
-article_lead: A short lead for the article
+article_lead: 'Dual enrollment: KCC & ONU'
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-*Editor's note: This press release from Olivet Nazarene University details a new partnership with KCC.*
+*Editor’s note: This press release from Olivet Nazarene University details a new partnership with KCC.*
 
 ![Leadership, Excellence Army ROTC emblem](/uploads/2023/army-rotc-logo219x300.jpg "Army ROTC Emblem"){: width="219" height="300"}Olivet Nazarene University is proud to announce a new partnership with Kankakee Community College to offer students an exceptional opportunity to pursue a commission as an Army officer through dual enrollment. This collaboration provides students with streamlined admission, coordinated course planning, and access to facilities and services from both KCC and ONU.
 
