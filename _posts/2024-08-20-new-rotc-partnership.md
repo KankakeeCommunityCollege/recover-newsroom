@@ -1,6 +1,6 @@
 ---
 title: New ROTC partnership
-date: 2024-08-20 08:05:00 -0500
+date: 2024-08-20 07:05:00 -0500
 expire_date: 2024-09-27 00:00:00 -0500
 image: /uploads/2023/army-rotc-356x493.jpg
 news_image_alt: Add descriptive text for the post's image
