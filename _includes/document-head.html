@@ -4,7 +4,11 @@
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    {% if page.layout == 'post' or page.layout == 'archived-post' %}
+    <title>{{ page.title }} - {{ page.date | date: "%-m/%-d/%Y" }} - KCC Newsroom</title>
+    {% else %}
     <title>{{page.title}} - {{site.title}}</title>
+    {% endif %}
     <meta name="description" content="{{page.description}}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {%- if site.canonical_baseurl %}
