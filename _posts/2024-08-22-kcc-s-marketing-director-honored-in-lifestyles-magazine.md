@@ -1,12 +1,12 @@
 ---
-title: Women in Business honoree
+title: Magazine celebrates Women in Business
 date: 2024-08-22 14:38:58 -0500
 expire_date: 2024-09-04 00:00:00 -0500
 image: /uploads/2023/ellenschmidt-580x700.jpg
 news_image_alt: >-
   Ellen Schmidt holds her award at the "Women in Business" luncheon on August
   22, 2024
-article_lead: 'KCC employee shares in recognition '
+article_lead: KCC employee included in 2024 edition
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
