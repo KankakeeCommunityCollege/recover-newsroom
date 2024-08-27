@@ -3,7 +3,7 @@ title: Summer 2024 DAISY Award®
 date: 2024-08-27 13:36:19 -0500
 expire_date: 2024-09-27 00:00:00 -0500
 image: /uploads/2023/victoriapardy-580x700.jpg
-news_image_alt: Victoria Pardy, Summer 2024 The DAISY Award® recipient
+news_image_alt: LPN grad Victoria Pardy
 article_lead: Congratulations, Victoria Pardy!
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
@@ -14,11 +14,11 @@ Victoria Pardy, a 2024 graduate of the licensed practical nursing program at Kan
 ![Victoria Pardy, Summer 2024 The DAISY Award® recipient](/uploads/2023/victoriapardydaisyaward-450x360.jpg "Victoria Pardy, Summer 2024 The DAISY Award® recipient"){: width="450" height="360"}
 {: .center-this-text}
 
-The annual award is part of the DAISY Foundation's mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
+The annual award is part of the DAISY Foundation’s mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
 
 Pardy, a Watseka resident, was nominated during her final semester at KCC by a patient she cared for while doing a clinical rotation at Riverside Medical Center.
 
-“It was nice to see Tori's smiling and familiar face come into my room,” the nominating patient said. “She reminded me that we had met at Riverside in Watseka when I was coming in for chemo. I never saw anything but a smile and concern for the patients. She went beyond just checking the vitals, making sure I was comfortable and pain free. If she couldn't help me herself, she would let the nurse know what was going on. Tori seems to have the capabilities with willingness to learn, show concern for the patient, and personality needed for being a good nurse.”
+“It was nice to see Tori’s smiling and familiar face come into my room,” the nominating patient said. “She reminded me that we had met at Riverside in Watseka when I was coming in for chemo. I never saw anything but a smile and concern for the patients. She went beyond just checking the vitals, making sure I was comfortable and pain free. If she couldn’t help me herself, she would let the nurse know what was going on. Tori seems to have the capabilities with willingness to learn, show concern for the patient, and personality needed for being a good nurse.”
 
 The nominator’s name is withheld to protect their privacy.
 
