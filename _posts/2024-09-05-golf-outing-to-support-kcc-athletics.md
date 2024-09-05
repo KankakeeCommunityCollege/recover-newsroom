@@ -14,6 +14,7 @@ press_release: false
 A day of golfing, camaraderie, and giving back is planned for the KCC Athletics Golf Outing on Saturday, Oct. 12 at the Kankakee Elks Country Club, 2283 Bittersweet Drive in St. Anne.
 
 ![KCC Athletics Golf Outing graphic](/uploads/2023/kccathleticsgolfouting-300x332.jpg "KCC Athletics Golf Outing graphic"){: width="300" height="322"}
+{: .center-this-text}
 
 The event begins with lunch at 11 a.m. and a shotgun start at noon. It includes lunch; 18 holes of golf; cart; on-course beverages; and prizes and games on the course.
 
