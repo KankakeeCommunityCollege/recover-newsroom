@@ -21,7 +21,7 @@ All of KCC’s May 2023 and December 2023 Registered Nursing graduates passed th
 ![KCC nursing program students during health simulation](/uploads/2023/nursingstudents-300x271.jpg "KCC nursing program students during health simulation")
 {: .center-this-text}
 
-Hayes noted that the college also bolstered its registered nursing program in 2015 by obtaining accreditation from the [Accreditation Commission for Education in Nursing](http://www.acenursing.org/). The practical nursing program became ACEN accredited in 2019.
+Hayes noted that the college also bolstered its registered nursing program in 2015 by obtaining accreditation from the [Accreditation Commission for Education in Nursing](https://www.acenursing.org/). The practical nursing program became ACEN accredited in 2019.
 
 At KCC, registered nursing graduates take the [NCLEX](https://www.nclex.com/index.page)\-RN exam upon completion of the two-year associate degree program. Graduates of the one-year advanced certificate in practical nursing take the NCLEX-PN exam. In addition to graduating from an approved program, all nurses in the U.S. and Canada must pass the appropriate NCLEX exam to be licensed.
 
@@ -31,4 +31,4 @@ KCC’s two-year [registered nursing program](https://www.kcc.edu/academics/#med
 
 KCC’s one-year [practical nursing program](https://www.kcc.edu/academics/#medical-professions) has a competitive entry process, and accepts new students each fall semester. It incorporates classroom lectures, clinical experiences and lab demonstrations to prepare students to become practical nurses working in many health care settings.
 
-For information about entry requirements, submit a request at [healthcareers.kcc.edu](http://healthcareers.kcc.edu), contact Hayes at [khayes@kcc.edu](mailto:khayes@kcc.edu) or phone 815-802-8828.
+For information about entry requirements, submit a request at [healthcareers.kcc.edu](https://healthcareers.kcc.edu), contact Hayes at [khayes@kcc.edu](mailto:khayes@kcc.edu) or phone 815-802-8828.
