@@ -1,16 +1,14 @@
 ---
-title: Golf outing to support KCC Athletics
+title: Golf outing Oct. 12
 date: 2024-09-05 11:48:27 -0500
 expire_date: 2024-10-12 00:00:00 -0500
 image: /uploads/2023/kccathleticsgolfouting-580x700.jpg
 news_image_alt: KCC Athletics Golf Outing graphic
-article_lead: KCC Athletics Golf Outing on Oct. 12
+article_lead: Support KCC Athletics
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-{: .center-this-text}
-
 A day of golfing, camaraderie, and giving back is planned for the KCC Athletics Golf Outing on Saturday, Oct. 12 at the Kankakee Elks Country Club, 2283 Bittersweet Drive in St. Anne.
 
 ![KCC Athletics Golf Outing graphic](/uploads/2023/kccathleticsgolfouting-300x332.jpg "KCC Athletics Golf Outing graphic"){: width="300" height="322"}
