@@ -15,8 +15,8 @@ The special guest speakers on March 22 will be Justin Caldwell and Jolene Boothe
 
 “Sweet Darren’s is an amazing organization that empowers people with disabilities,” said Deb Hoyer-Denson, KCC director of continuing education programs. “They spread happiness through mouthwatering treats and meaningful employment.”![](/uploads/2022/lli-lifelong-learning478x223.png){: .float-image-right}
 
-[The Lifelong Learning Institute](http://www.kcc.edu/lli){: target="_blank"}&nbsp;at KCC offers affordable, high-quality, non-credit classes that take place in an environment that fosters participation. Registration and course information will be available at the kickoff event. The event is free and open to the public. The classes are non-credit, continuing education, open to people ages 50 and older.
+[The Lifelong Learning Institute](https://www.kcc.edu/lli){: target="_blank"}&nbsp;at KCC offers affordable, high-quality, non-credit classes that take place in an environment that fosters participation. Registration and course information will be available at the kickoff event. The event is free and open to the public. The classes are non-credit, continuing education, open to people ages 50 and older.
 
 The classes focus on different intellectual and cultural topics, and vary from a few hours to several meetings. In-person and Live Webinar options are offered, and prices also vary. More than 20 classes for Spring 2024 are priced at $20 or less.
 
-For more information, or to find out the latest course offerings, visit&nbsp;[www.kcc.edu/lli](http://www.kcc.edu/lli){: target="_blank"}&nbsp;or phone 815-802-8206. To be added to the program mailing list, email&nbsp;[dhdenson@kcc.edu](mailto:dhdenson@kcc.edu)&nbsp;or phone 815-802-8206.
+For more information, or to find out the latest course offerings, visit&nbsp;[www.kcc.edu/lli](https://www.kcc.edu/lli){: target="_blank"}&nbsp;or phone 815-802-8206. To be added to the program mailing list, email&nbsp;[dhdenson@kcc.edu](mailto:dhdenson@kcc.edu)&nbsp;or phone 815-802-8206.
