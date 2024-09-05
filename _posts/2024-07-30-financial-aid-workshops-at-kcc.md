@@ -38,7 +38,7 @@ The workshops are provided as a public service and are open to students and pare
 
 “We recommend that all prospective students complete the FAFSA, even if you are still deciding on a school,” Souligne said. “Your financial aid package starts with submitting your FAFSA, and we are here to help guide you through this process.”
 
-For more information, visit [www.kcc.edu/finaid](http://www.kcc.edu/finaid), phone 815-802-8550 or email [finaid@kcc.edu](mailto:finaid@kcc.edu).
+For more information, visit [www.kcc.edu/finaid](https://www.kcc.edu/finaid), phone 815-802-8550 or email [finaid@kcc.edu](mailto:finaid@kcc.edu).
 
 &nbsp;
 

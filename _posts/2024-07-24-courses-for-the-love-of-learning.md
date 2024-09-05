@@ -25,6 +25,6 @@ Registration and course information will be available. The event is free and ope
 
 Classes focus on different intellectual and cultural topics and vary from a single session of a few hours to several meetings. In-person and live webinar options are offered, and prices vary. For Fall 2024, 35 classes are $25 or less, including nine free options.
 
-For more information or to find the latest course offerings, visit [www.kcc.edu/LLI](http://www.kcc.edu/LLI). To be added to the program mailing list, email [continuinged@kcc.edu](mailto:continuinged@kcc.edu) or phone 815-802-8206.
+For more information or to find the latest course offerings, visit [www.kcc.edu/LLI](https://www.kcc.edu/LLI). To be added to the program mailing list, email [continuinged@kcc.edu](mailto:continuinged@kcc.edu) or phone 815-802-8206.
 
 KCC is located at 100 College Drive in Kankakee, south of downtown Kankakee.
