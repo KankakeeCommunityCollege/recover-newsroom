@@ -13,7 +13,7 @@ press_release: false
 
 ![We need your input - Do you have 5 minutes to take a quick survey?](/uploads/2023/we-need-your-input250x250.jpg "Workforce Services &quot;we need your input&quot; graphic"){: width="250" height="250"}Your input matters!
 
-Kankakee Workforce Services strives to reach as many people as possible who could benefit from services that can help them achieve their career goals.
+Kankakee Workforce Services strives to reach as many people as possible who can benefit from services that can help them achieve their career goals.
 
 Workforce Services is conducting research to determine how to make outreach as successful as possible. Please complete an anonymous [online survey](https://www.surveymonkey.com/r/KankakeeWorkforceServices%20 "Kankakee Workforce Services survey"){: target="_blank" rel="noopener"} -- it should only take about 5 minutes.
 
