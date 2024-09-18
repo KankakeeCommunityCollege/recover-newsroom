@@ -1,6 +1,6 @@
 ---
 title: Archive
-layout: default
+layout: default-core
 baseurl: ../
 ---
 <section>
@@ -16,7 +16,7 @@ baseurl: ../
           <ul class="archive__list">
           {%- assign myDate = currentDate -%}
           {% endif -%}
-            <li><a href="{{ post.url }}" class="archive__link-item"><span class="archive__post-meta">{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
+            <li><a href="{{ page.baseurl }}{{ post.url | remove_first: '/' }}" class="archive__link-item"><span class="archive__post-meta">{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
           {% if forloop.last -%}</ul>{%- endif -%}
           {%- endfor -%}
         </div>

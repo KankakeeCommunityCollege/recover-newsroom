@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-core
 title: News
 baseurl: ../
 description: ''
@@ -26,7 +26,7 @@ description: ''
                 {% if forloop.first == true %}
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image latest-news-widget--rollup__latest__tease-width">
               <!--  Tease is active   -->
-                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="{{ post.url }}" data-image="{{ post.image }}"
+                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="{{ page.baseurl }}{{ post.url | remove_first: '/' }}" data-image="{{ post.image }}"
                       data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                       <div class="latest-news-widget__latest__tease__hgroup">
                         <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
@@ -42,7 +42,7 @@ description: ''
 
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image latest-news-widget--rollup__latest__tease-width">
               <!--  Tease is active   -->
-                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="{{ post.url }}" data-image="{{ post.image }}"
+                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="{{ page.baseurl }}{{ post.url | remove_first: '/' }}" data-image="{{ post.image }}"
                       data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                       <div class="latest-news-widget__latest__tease__hgroup">
                         <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
@@ -58,7 +58,7 @@ description: ''
                 {% if forloop.first == true %}
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image latest-news-widget--rollup__latest__tease-width">
               <!--  Tease is active   -->
-                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="{{ post.url }}" data-image="{{ post.image }}"
+                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link tease-is-active" href="{{ page.baseurl }}{{ post.url | remove_first: '/' }}" data-image="{{ post.image }}"
                       data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                       <div class="latest-news-widget__latest__tease__hgroup">
                         <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
@@ -74,7 +74,7 @@ description: ''
 
                   <li class="latest-news-widget__latest__tease latest-news-widget__latest__tease--default latest-news-widget__latest__tease--has-image latest-news-widget--rollup__latest__tease-width">
               <!--  Tease is active   -->
-                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="{{ post.url }}" data-image="{{ post.image }}"
+                    <a id="jsTeaseLink{{ forloop.index }}" class="latest-news-widget__latest__tease__link js-hp-latest-tease-link" href="{{ page.baseurl }}{{ post.url | remove_first: '/' }}" data-image="{{ post.image }}"
                       data-image-alt="" tabindex="0" data-tease-type="" data-index="{{ forloop.index0 }}" aria-hidden="true">
                       <div class="latest-news-widget__latest__tease__hgroup">
                         <h3 class="latest-news-widget__latest__tease__overline typography__latest-news-widget__rollup-list-h">
