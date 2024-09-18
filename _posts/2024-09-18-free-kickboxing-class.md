@@ -1,7 +1,7 @@
 ---
 title: FREE Kickboxing class
 date: 2024-09-18 13:10:47 -0500
-expire_date: 2024-09-18 13:10:47 -0500
+expire_date: 2024-10-02 00:00:00 -0500
 image: /uploads/2023/kickboxing460x580.jpg
 news_image_alt: Shadowy figure kickboxing
 article_lead: Students & staff invited on Oct. 2
