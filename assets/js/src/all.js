@@ -5,7 +5,7 @@ window.addEventListener('load', () => {
     import('./setDate')
       .then(({ default: setDate }) => setDate());
   }
-  if (window.location.pathname == '/') {
+  if (document.getElementById('featureHover')) {
     import('./newsWidget')
       .then(({ default: newsWidget }) => newsWidget());
 
