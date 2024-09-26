@@ -1,10 +1,10 @@
 ---
-title: Ceremony held to commemorate renewable energy installation
+title: Ceremony held to commemorate new installation
 date: 2024-09-26 16:17:29 -0500
 expire_date: 2024-10-25 00:00:00 -0500
 image: /uploads/2023/solararrayribboncutting-580x700.jpg
 news_image_alt: A ceremony is held to commemorate the solar array opening on Sept. 25, 2024
-article_lead: New solar array installed at KCC
+article_lead: Solar array installed at KCC
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -23,7 +23,7 @@ The array, which includes five rows of 540-watt solar panels, will produce over 
 
 KCC has no start-up or maintenance costs for this project because Pundaleeka generously financed the equipment, and will donate it after six years, said Rob Kenney, director of KCC’s Physical Plant Department. The solar array will immediately save KCC on energy costs, he said<s>.</s>
 
-This initiative aligns with the college's long-standing commitment to environmental stewardship and offers substantial educational and financial benefits, said Beth Nunley, vice president of KCC’s Business Affairs Division. It can immediately be used as a hands-on learning lab for students in KCC’s Renewable Energy Technology program.
+This initiative aligns with the college’s long-standing commitment to environmental stewardship and offers substantial educational and financial benefits, said Beth Nunley, vice president of KCC’s Business Affairs Division. It can immediately be used as a hands-on learning lab for students in KCC’s Renewable Energy Technology program.
 
 ![L-R: KCC trustee Patrick Martin, professor Patrick Klette, professor Clay Sterling, vice president for academic affairs Dr. Quincy Rose-Sewell, Physical Plant Department director Rob Kenney, vice president for business affairs Beth Nunley, Dr. Sarode Pundaleeka, KCC president Dr. Michael Boyd, REE associate director of operations Laron Hawkins, REE CEO Brian Maillet, and REE employee Justin Jones commemorating the opening of the solar array on Sept. 25, 2024](/uploads/2023/solararrayribboncutting1-400x267.jpg "L-R: KCC trustee Patrick Martin, professor Patrick Klette, professor Clay Sterling, vice president for academic affairs Dr. Quincy Rose-Sewell, Physical Plant Department director Rob Kenney, vice president for business affairs Beth Nunley, Dr. Sarode Pundaleeka, KCC president Dr. Michael Boyd, REE associate director of operations Laron Hawkins, REE CEO Brian Maillet, and REE employee Justin Jones commemorating the opening of the solar array on Sept. 25, 2024"){: width="400" height="267"}
 {: .center-this-text}
