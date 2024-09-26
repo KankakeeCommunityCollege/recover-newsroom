@@ -55,13 +55,10 @@ For the first six years the array is used, KCC will have a Power Purchase Agreem
 **KCC renewable energy programs**
 
 * Associate in Applied Science:<br>[Electrical Engineering Technology with a renewable energy track](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/electrical-engineering-technology-renewable-energy-technology)
-
-  &nbsp;
-
 * Certificates:
   * [Solar-Photovoltaic](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/electrical-engineering-technology-renewable-energy-technology/solar-photovoltaic-technology-certificate)
   * [Solar-thermal](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/electrical-engineering-technology-renewable-energy-technology/solar-thermal-technology-certificate/)
-  * [Small wind technology](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/electrical-engineering-technology-renewable-energy-technology/small-wind-technology-certificate/)<br>
+  * [Small wind technology](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/elect-engr-tech-and-renew-energy/electrical-engineering-technology-renewable-energy-technology/small-wind-technology-certificate/)
 * Renewable energy courses:
   * [Fundamentals of Electricity](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-1004/)
   * [Survey of Renewable Energy](https://kcc.smartcatalogiq.com/en/current/academic-catalog/courses/eltr-electrical-engineering-tech/eltr-1503/)
