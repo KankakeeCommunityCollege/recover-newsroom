@@ -11,9 +11,9 @@ press_release: false
 ---
 ![Vote button](/uploads/2023/vote250x250.jpg "Vote"){: width="250" height="250"}
 
-Do you need to register to vote? If so, visit https://vote.civicnation.org/register/whenweallvote/.
+Do you need to register to vote? If so, visit [https://vote.civicnation.org/register/whenweallvote](https://vote.civicnation.org/register/whenweallvote "Register to vote site"){: target="_blank" rel="noopener"}/.
 
-KCC students can also reach the voter's registration site through [**my.kcc.edu**](http://my.kcc.edu/?fbclid=IwZXh0bgNhZW0CMTAAAR0kbp1DTETRA1JKxrCrothk4oQfw_eabD35slHFaPEOqiW8ocRA69P-Cnc_aem_-KtPCqXJyfOg82ZZ-B_IfA){: target="_blank" rel="noreferrer nofollow noopener"}.
+KCC students can also reach the voter’s registration site through [**my.kcc.edu**](http://my.kcc.edu/?fbclid=IwZXh0bgNhZW0CMTAAAR0kbp1DTETRA1JKxrCrothk4oQfw_eabD35slHFaPEOqiW8ocRA69P-Cnc_aem_-KtPCqXJyfOg82ZZ-B_IfA){: target="_blank" rel="noreferrer nofollow noopener"}.
 
 &nbsp;
 
