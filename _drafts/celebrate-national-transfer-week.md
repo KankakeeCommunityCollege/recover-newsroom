@@ -11,7 +11,7 @@ press_release: false
 ---
 ![](/uploads/2023/transfer-week-2024-349x110.jpg){: width="349" height="110"}
 
-Celebrate National Transfer Student Week with us from Oct. 21-25, 2024!
+Celebrate National Transfer Student Week with KCC from Oct. 21-25, 2024!
 
 Here’s a schedule of events:
 
