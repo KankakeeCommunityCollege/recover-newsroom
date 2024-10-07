@@ -13,11 +13,13 @@ press_release: false
 
 Celebrate National Transfer Student Week with us from Oct. 21-25, 2024!
 
-Here's a schedule of events:
+Here’s a schedule of events:
 
 * **Monday, Oct. 21: Transfer Trivia** from 11:30 a.m. - 1 p.m. in the College Center.
 * **Tuesday, Oct. 22: Transfer University Spirit Day.**
 * **Wednesday, Oct. 23: Transfer Workshop** with Governors State University’s Dual Degree Program, 11:30 a.m. – 1 p.m. in the Miner Memorial Library, Room L150
 * **Thursday, Oct. 24**:
   * **Amazing Race** from 11:30 a.m. – 1 p.m. **Note:** Registration is required. Email [transfer@kcc.edu](mailto:transfer@kcc.edu) by Oct. 21 at noon to participate.
-  * **Olivet Nazarene University will be on KCC's Riverfront Campus** from 9 a.m. - 1 p.m. for “On-The-Spot Evaluation and Admissions." Email [transfer@kcc.edu](mailto:transfer@kcc.edu) for the registration link.
+  * **Olivet Nazarene University will be on KCC’s Riverfront Campus** from 9 a.m. - 1 p.m. for “On-The-Spot Evaluation and Admissions.” Email [transfer@kcc.edu](mailto:transfer@kcc.edu) for the registration link.
+
+Visit the [Transfer Services website](https://www.kcc.edu/student-resources/transfer/?utm_medium=nwsrm&amp;utm_campaign=article1072024 "Transfer Services website") for more information about Transfer Services at KCC.
