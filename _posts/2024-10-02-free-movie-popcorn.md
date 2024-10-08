@@ -11,12 +11,12 @@ press_release: false
 ---
 ![Frankenstein](/uploads/2023/frankenstein-450x450.jpg "Frankenstein"){: width="450" height="450"}
 
-KCC will show *Frankenstein*, the 1931 Boris Karloff movie classic, on Wednesday, Oct. 30 in the Conference Hall, Room D140.
+KCC will show *Frankenstein*, the 1931 Boris Karloff movie classic, on Wednesday, Oct. 30 at 6 p.m. in the Conference Hall, Room D140.
 
 In addition to being a **free movie**, **free popcorn** also will be available. The community is invited.
 
 A brief discussion will follow the movie.
 
-For Fall 2024, KCC professors Trisha Dandurand, Scott Kistler and Kenneth West have been interweaving the book, *Frankenstein*, by Mary Shelley into classes. *Frankenstein* is being used across seven individual course sections, including Introduction to Philosophy, Introduction to Literature, Western Civilization, Women's and Gender Studies, and English Composition.
+For Fall 2024, KCC professors Trisha Dandurand, Scott Kistler and Kenneth West have been interweaving the book, *Frankenstein*, by Mary Shelley into classes. *Frankenstein* is being used across seven individual course sections, including Introduction to Philosophy, Introduction to Literature, Western Civilization, Women’s and Gender Studies, and English Composition.
 
-KCC is located at 100 College Drive in Kankakee. The Conference Hall, Room D140, is in the Workforce Development Center. Enter the doors marked "Welcome Center."
+KCC is located at 100 College Drive in Kankakee. The Conference Hall, Room D140, is in the Workforce Development Center. Enter the doors marked “Welcome Center.”
