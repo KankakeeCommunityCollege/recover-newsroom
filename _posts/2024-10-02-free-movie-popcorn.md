@@ -11,7 +11,7 @@ press_release: false
 ---
 ![Frankenstein](/uploads/2023/frankenstein-450x450.jpg "Frankenstein"){: width="450" height="450"}
 
-KCC will show *Frankenstein*, the 1931 Boris Karloff movie classic, on Wednesday, Oct. 30 at 6:00 p.m. in the Conference Hall, Room D140.
+KCC will show *Frankenstein*, the 1931 Boris Karloff movie classic, on Wednesday, Oct. 30 at 6 p.m. in the Conference Hall, Room D140.
 
 In addition to being a **free movie**, **free popcorn** also will be available. The community is invited.
 
