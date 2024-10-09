@@ -2,4 +2,7 @@
 
 cd /usr/local/__site/src/
 
-npx reseed -s ./_site -d ./_site -b newsroom
+npx reseed -s ./_site -d ./site -b newsroom -e data-image -e data-src
+
+# Test locally:
+## npx reseed serve -s ./_site -d ./_site/newsroom -b newsroom -e data-image -e data-src
