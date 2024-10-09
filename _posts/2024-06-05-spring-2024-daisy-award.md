@@ -28,7 +28,7 @@ Demarah’s other nomination was from a KCC nursing professor, Pat Bukowski.
 
 Demarah has accepted a full-time job as a nurse in the intensive care unit at Riverside Medical Center in Kankakee.
 
-KCC’s two-year [registered nursing program](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/nursing-options/registered-nursing-aas/) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
+KCC’s two-year [registered nursing program](https://kcc.smartcatalogiq.com/en/2024-2025/academic-catalog/programs/nursing-options/registered-nursing-aas/) has a competitive entry process, and accepts new students each fall and spring semester. It incorporates classroom lectures, clinical experiences and lab demonstrations. The program is designed to prepare students for work in hospital departments, as well as in long-term care, home care, business and industry, outpatient clinics, public agencies, and physicians’ offices.
 
 For information about entry requirements, consult with a KCC advisor or contact the program director, Jennifer Rogers at [jrogers@kcc.edu](mailto:jrogers@kcc.edu) or phone 815-802-8828.
 
@@ -36,4 +36,4 @@ For information about entry requirements, consult with a KCC advisor or contact 
 
 The DAISY Foundation is a not-for-profit organization, established in memory of J. Patrick Barnes, by members of his family. Patrick died at the age of 33 in late 1999 from complications of Idiopathic Thrombocytopenic Purpura (ITP), a little known but not uncommon auto-immune disease. (DAISY is an acronym for Diseases Attacking the Immune System.) The care Patrick and his family received from Nurses while he was ill inspired the creation of The DAISY Award for Extraordinary Nurses, an evidenced-based means of providing nurse recognition and thanking nurses for making a profound difference in the lives of their patients and patient families.
 
-More information is available at [DAISYfoundation.org](http://DAISYfoundation.org).
+More information is available at [DAISYfoundation.org](https://DAISYfoundation.org).

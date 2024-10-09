@@ -14,7 +14,7 @@ press_release: false
 
 The tradition of celebrating Independence Day with live music followed by fireworks will continue Thursday, July 4 along the south banks of the Kankakee River.
 
-The event will include three live music performances. Kankakee Community College gates open at 4:30 p.m., and admission is $20 per carload. All proceeds benefit the [Kankakee Valley Symphony Orchestra](http://www.kvso.org). Food concessions will also be available beginning at 4:30 p.m. Vendors will be Jimmy Jo’s BBQ, Martinez Tacos, Oberweis Ice Cream and Kankakee Valley Youth Symphony Orchestra Concessions.
+The event will include three live music performances. Kankakee Community College gates open at 4:30 p.m., and admission is $20 per carload. All proceeds benefit the [Kankakee Valley Symphony Orchestra](https://www.kvso.org). Food concessions will also be available beginning at 4:30 p.m. Vendors will be Jimmy Jo’s BBQ, Martinez Tacos, Oberweis Ice Cream and Kankakee Valley Youth Symphony Orchestra Concessions.
 
 All groups will be performing American and patriotic music. The schedule of events includes the Kankakee Valley Youth Symphony Orchestra concert at 5:30 p.m.; the Kankakee Municipal Band at 6:30 p.m.; and the Kankakee Valley Symphony Orchestra concert at 7:30 p.m. The symphony concert will feature KCC President Dr. Michael Boyd narrating a special presentation of “Casey at the Bat.” Fireworks will begin at dusk, approximately 9 p.m.
 

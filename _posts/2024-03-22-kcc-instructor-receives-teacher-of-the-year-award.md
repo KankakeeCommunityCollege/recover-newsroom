@@ -9,7 +9,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-For her passion and commitment to students, Jennifer Mulligan has received the [Illinois Adult and Continuing Educators Association](http://www.iacea.net/) Arthur J. Stejskal Teacher of the Year Award.
+For her passion and commitment to students, Jennifer Mulligan has received the [Illinois Adult and Continuing Educators Association](https://www.iacea.net/) Arthur J. Stejskal Teacher of the Year Award.
 
 ![Jennifer Mulligan, recipient of IACEA Teacher of the Year Award](/uploads/2023/jennifermulligan-289x400.jpg "Jennifer Mulligan, recipient of IACEA Teacher of the Year Award")
 {: .center-this-text}
@@ -24,4 +24,4 @@ Mulligan teaches GED courses at Kankakee Community College. She received the awa
 
 She and the team helped my sons progress leaps and bounds in sharpening their skills and preparing them to pass their tests.”
 
-It the fourth time in eight years that a KCC employee has received an the [Illinois Adult and Continuing Educators Association](http://www.iacea.net/) statewide award. Margaret Wolf was named Administrator of the Year in 2017; Donna Mann was Arthur J. Stejskal Teacher of the Year in 2018; and Gregg Beglau received the Support Staff of the Year Award in 2019.
+It the fourth time in eight years that a KCC employee has received an the [Illinois Adult and Continuing Educators Association](https://www.iacea.net/) statewide award. Margaret Wolf was named Administrator of the Year in 2017; Donna Mann was Arthur J. Stejskal Teacher of the Year in 2018; and Gregg Beglau received the Support Staff of the Year Award in 2019.
