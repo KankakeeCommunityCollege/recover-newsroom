@@ -11,7 +11,7 @@ press_release: false
 ---
 It's time to raise money for a good cause and shove pie in the face of a professor or staff member!
 
-The [STEM Club](https://www.kcc.edu/student-resources/clubs/#stem-club){: target="_blank" rel="noopener"} (Science, Technology, Engineering & Math Club) is having its annual "Pie-In-The-Face Fundraiser". From Monday, March 25 through Thursday, March 28, STEM Club members will be in the College Center from 11:00 a.m. - 1:00 p.m. collecting donations via tickets to choose a KCC faculty or staff member to pie in the face. Each ticket costs $1 per ticket or 6 for $5.
+The [STEM Club](https://www.kcc.edu/student-resources/student-life/clubs/#stem-club){: target="_blank" rel="noopener"} (Science, Technology, Engineering & Math Club) is having its annual "Pie-In-The-Face Fundraiser". From Monday, March 25 through Thursday, March 28, STEM Club members will be in the College Center from 11:00 a.m. - 1:00 p.m. collecting donations via tickets to choose a KCC faculty or staff member to pie in the face. Each ticket costs $1 per ticket or 6 for $5.
 
 You can vote for the following faculty and staff this year:
 

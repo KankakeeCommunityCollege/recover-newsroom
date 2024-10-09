@@ -25,6 +25,6 @@ Army ROTC offers a variety of scholarship options, including two-year awards tha
 
 To begin the Army ROTC dual enrollment process, please contact a KCC academic advisor by emailing or by calling 815-802-8500.
 
-For more information about Olivet Nazarene University and its ROTC program, visit [www.olivet.edu]() or contact Olivet’s director of Military Science and Veterans’ Affairs at [ROTC@olivet.edu]() or 815-928-5496.
+For more information about Olivet Nazarene University and its ROTC program, visit [www.olivet.edu](https://www.olivet.edu) or contact Olivet’s director of Military Science and Veterans’ Affairs at [ROTC@olivet.edu](mailto:ROTC@olivet.edu) or 815-928-5496.
 
 &nbsp;
