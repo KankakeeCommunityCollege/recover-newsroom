@@ -13,7 +13,7 @@ press_release: false
 
 Celebrate National Transfer Student Week with us from Oct. 21-25, 2024!
 
-Here’s a schedule of events:
+Here’s a [schedule of events](/National-Transfer-Student-Week-2024.pdf "National Student Transfer Week 2024"){: target="_blank" rel="noopener"}:
 
 * **Monday, Oct. 21: Transfer Trivia** from 11:30 a.m. - 1 p.m. in the College Center.
 * **Tuesday, Oct. 22: Transfer University Spirit Day.**
