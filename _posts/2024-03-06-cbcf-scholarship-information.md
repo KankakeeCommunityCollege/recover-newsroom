@@ -22,7 +22,7 @@ Here are fliers about different opportunities:
 * [Ally Financial Public Policy Scholars Scholarship](/uploads/2023/Ally-Financial--Public-Policy-Scholarship.pdf){: target="_blank" rel="noopener"}
 * [The Tracking Foundation Scholarship Program](/uploads/2023/CBCF-2024-Tracking--Foundation-scholarships.pdf){: target="_blank" rel="noopener"}
 
-KCC students and family members are welcome to explore the CBCF opportunities. Please visit [cbcfinc.org/programs/scholarships](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2f%2f%2fcbcfinc.org%2fprograms%2fscholarships&amp;c=E,1,MWnzFwlFTkx1gVPrNQcE2ElyH-J6iCdbFm1I0Pa2dyGALGNdNysgUSXIVNIfpVEKgwDgH-Zrdq-HOWLbDBzM5HclNvSacHKEYALNKhTFbXRJ5elX&amp;typo=1&amp;ancr_add=1).
+KCC students and family members are welcome to explore the CBCF opportunities. Please visit [cbcfinc.org/programs/scholarships](https://www.cbcfinc.org/programs/scholarships/).
 
 
 

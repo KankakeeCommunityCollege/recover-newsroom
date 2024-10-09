@@ -27,4 +27,4 @@ You can also learn about resources available at KCC:
 
 Additional resource groups may also be in attendance.
 
-Find KCC and community resources any time at&nbsp;[www.kcc.edu/student-resources/support-resources](https://www.kcc.edu/student-resources/support-resources){: target="_blank"}.
+Find KCC and community resources any time at&nbsp;[www.kcc.edu/student-resources/support-resources/](https://www.kcc.edu/student-resources/support-resources/){: target="_blank"}.

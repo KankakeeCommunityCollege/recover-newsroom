@@ -11,7 +11,7 @@ press_release: false
 ---
 ![KCC students experience the eclipse in Vincennes, Indiana.](/uploads/2023/eclipse-4-9-2024-333x200.jpg "Eclipse view"){: width="333" height="200"}
 
-On Monday, April 8, [STEM Club](https://www.kcc.edu/student-resources/clubs/#stem-club "STEM Club"){: target="_blank" rel="noopener"} members traveled to Vincennes, Indiana, for the solar eclipse.
+On Monday, April 8, [STEM Club](https://www.kcc.edu/student-resources/student-life/clubs/#stem-club "STEM Club"){: target="_blank" rel="noopener"} members traveled to Vincennes, Indiana, for the solar eclipse.
 
 "We experienced four and a half minutes of totality!" said club advisor Michael Caparula.
 

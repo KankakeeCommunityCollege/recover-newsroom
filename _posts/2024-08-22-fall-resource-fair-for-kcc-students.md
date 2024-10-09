@@ -35,4 +35,4 @@ You can also learn about resources available at KCC:
 * Transformative Growth Counseling
 * Workforce Innovation and Opportunity Act
 
-Find KCC and community resources any time at [www.kcc.edu/student-resources/support-resources](https://www.kcc.edu/student-resources/support-resources){: target="_blank" rel="noopener"}.
+Find KCC and community resources any time at [www.kcc.edu/student-resources/support-resources](https://www.kcc.edu/student-resources/support-resources/){: target="_blank" rel="noopener"}.
