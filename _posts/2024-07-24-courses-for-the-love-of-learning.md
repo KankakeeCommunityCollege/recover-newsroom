@@ -18,7 +18,7 @@ The special guest speaker on Aug. 30 will be James Stafford, KCC automotive tech
 
 Registration and course information will be available. The event is free and open to the public.
 
-[The Lifelong Learning Institute](https://continuinged.kcc.edu/){: target="_blank" rel="noopener"} offers affordable, high-quality, non-credit classes to people ages 50 and older. Sessions take place in an environment that fosters participation.
+[The Lifelong Learning Institute](https://www.kcc.edu/continuinged/){: target="_blank" rel="noopener"} offers affordable, high-quality, non-credit classes to people ages 50 and older. Sessions take place in an environment that fosters participation.
 
 ![KCC Lifelong Learning Institute Movies &amp; Music luncheon](/uploads/2023/llimusicluncheon-500x307.jpg "KCC Lifelong Learning Institute Movies &amp; Music luncheon")
 {: .center-this-text}
