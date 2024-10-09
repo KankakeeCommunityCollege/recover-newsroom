@@ -36,12 +36,24 @@ collections:
         instance_value: NOW
       expire_date:
         instance_value: NOW
+        context:
+          open: true
+          title: Help
+          icon: help
+          content: |
+            Attaching a PDF? - Don't upload files into the root; PDF files should go into "/uploads/pdf/"
   drafts:
     _inputs:
       date:
         instance_value: NOW
       expire_date:
         instance_value: NOW
+        context:
+          open: true
+          title: Help
+          icon: help
+          content: |
+            Attaching a PDF? - Don't upload files into the root; PDF files should go into "/uploads/pdf/"
 defaults:
   - scope:
       path: ''
