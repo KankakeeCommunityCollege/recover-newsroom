@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /usr/local/__site/src/
+
+npx reseed -s ./_site -d ./_site -b newsroom
