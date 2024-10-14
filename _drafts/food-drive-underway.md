@@ -3,7 +3,7 @@ title: Food drive underway
 date: 2024-10-14 12:20:19 -0500
 expire_date: 2024-11-30 00:00:00 -0600
 image: /uploads/2023/feed-the-need-580x684.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Feed the Need logo
 article_lead: '''Feed the Need'' runs until Nov. 30'
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
