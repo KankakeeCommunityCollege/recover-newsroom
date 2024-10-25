@@ -4,7 +4,7 @@ date: 2024-10-25 13:18:52 -0500
 expire_date: 2024-11-29 00:00:00 -0600
 image: /uploads/2023/important-580x656.jpg
 news_image_alt: Note indicating an important post
-article_lead: Food Service closed Nov. 25-Nov. 29
+article_lead: Closed Nov. 25-Nov. 29
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
