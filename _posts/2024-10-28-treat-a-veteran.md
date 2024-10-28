@@ -1,7 +1,7 @@
 ---
 title: Treat a Veteran
 date: 2024-10-28 14:46:00 -0500
-expire_date: 2024-10-08 00:00:00 -0500
+expire_date: 2024-11-08 00:00:00 -0600
 image: /uploads/2023/treat-a-veteran2.jpg
 news_image_alt: Flag with words above "Treat a Veteran"
 article_lead: Food donation drive until 11/8
