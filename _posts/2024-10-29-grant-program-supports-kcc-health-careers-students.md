@@ -18,15 +18,15 @@ The Pipeline for the Advancement of the Healthcare Workforce (PATH) is a grant p
 
 PATH is a statewide grant program that creates, supports, and expands opportunities for individuals studying nursing and other select healthcare pathways in Illinois. Through PATH, Illinois community colleges are expanding access to healthcare training opportunities, allowing more students to obtain credentials and degrees that allow them to enter and/or advance in their careers in the healthcare industry.
 
-"PATH opens doors to healthcare careers for students who may not have had the opportunity," said Jenna Sambrooks, the health careers navigator at KCC. Sambrooks connects students to internal and external supports including mental health services, financial aid, scholarships, and financial literacy.
+“PATH opens doors to healthcare careers for students who may not have had the opportunity,” said Jenna Sambrooks, the health careers navigator at KCC. Sambrooks connects students to internal and external supports including mental health services, financial aid, scholarships, and financial literacy.
 
 “I have seen firsthand, time and time again, PATH make immediate and effective difference in the lives of the students and consequently, their families and the community,” Sambrooks said. “PATH is an invaluable resource, not just for short term assistance, but for the long-term success of the students.”
 
 The target populations for PATH funding are incumbent workers; new students with an identified need for support and an intention to continue their employment in Illinois; and low-income, first generation, and minority students.
 
-"They want to see you be successful and the PATH program has helped me maintain my class work while also helping financially," said Brandy Grove of Manteno, who received PATH funding while working toward becoming a registered nurse. “It has helped me stay where I need to be so that I can be successful and finish my degree. The program has also helped with building a better budget and better skills to handle finances.”
+“They want to see you be successful and the PATH program has helped me maintain my class work while also helping financially,” said Brandy Grove of Manteno, who received PATH funding while working toward becoming a registered nurse. “It has helped me stay where I need to be so that I can be successful and finish my degree. The program has also helped with building a better budget and better skills to handle finances.”
 
-"I came out strong. It made me want to be a better person in helping others, including myself," said Gwyneaetta Ford of Bourbonnais, who completed KCC's Certified Nursing Assistant class. "The program motivated me ... from the encouragement from teachers and classmates. You have to put in the work and effort into what you want, it will not be given to you, but the help is there.”
+“I came out strong. It made me want to be a better person in helping others, including myself,” said Gwyneaetta Ford of Bourbonnais, who completed KCC’s Certified Nursing Assistant class. “The program motivated me ... from the encouragement from teachers and classmates. You have to put in the work and effort into what you want, it will not be given to you, but the help is there.”
 
 ![KCC health careers students participate in a Physical Therapy Assistant simulation exercise on Oct. 16](/uploads/2023/healthcareerssimulation-400x267.jpg "KCC health careers students participate in a Physical Therapy Assistant simulation exercise on Oct. 16"){: width="400" height="267"}
 {: .center-this-text}
