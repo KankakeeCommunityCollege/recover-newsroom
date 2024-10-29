@@ -1,12 +1,12 @@
 ---
-title: Grant program supports KCC health careers students
+title: PATH supports health careers students
 date: 2024-10-29 13:39:08 -0500
 expire_date: 2024-11-29 00:00:00 -0600
 image: /uploads/2023/healthcareerssimulation-580x703.jpg
 news_image_alt: >-
   KCC health careers students participate in a Physical Therapy Assistant
   simulation exercise on Oct. 16
-article_lead: Resources available through PATH grant
+article_lead: Statewide grant makes a difference
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -31,7 +31,7 @@ The target populations for PATH funding are incumbent workers; new students with
 ![KCC health careers students participate in a Physical Therapy Assistant simulation exercise on Oct. 16](/uploads/2023/healthcareerssimulation-400x267.jpg "KCC health careers students participate in a Physical Therapy Assistant simulation exercise on Oct. 16"){: width="400" height="267"}
 {: .center-this-text}
 
-KCC offers health careers associate degrees and certificates in six areas: *nursing, paramedic, respiratory therapist, physical therapist assistant, radiography and medical laboratory technology.*
+KCC offers health careers associate degrees and certificates in six areas: [nursing](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/nursing-options/ "Nursing"){: target="_blank" rel="noopener"}, [paramedic](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/paramedic-emt-options/ "paramedic"){: target="_blank" rel="noopener"}, [respiratory therapist](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/respiratory-therapist/ "respiratory therapist"){: target="_blank" rel="noopener"}, [physical therapist assistant](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/physical-therapist-assistant-aas/ "physical therapist assistant"){: target="_blank" rel="noopener"}, [radiography](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/radiography-aas/ "radiography"){: target="_blank" rel="noopener"} and [medical laboratory technology](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/medical-laboratory-technology-aas/ "medical laboratory technology"){: target="_blank" rel="noopener"}.
 
 **PATH Grant Impact**
 
