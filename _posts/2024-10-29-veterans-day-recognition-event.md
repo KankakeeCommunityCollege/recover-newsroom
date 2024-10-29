@@ -9,11 +9,11 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-**Editor’s note:** Members of the media are invited to attend the event. Photographs will be welcome.
-
 On Thursday, Nov. 7, Kankakee Community College will commemorate Veterans Day with a reception and recognition ceremony.
 
 The day will begin with a reception from 11:30 a.m. - 1 p.m. in the KCC Art Gallery, on the first floor of the Arts and Sciences Building. A ceremony honoring veterans will be at 1 p.m. in the lower level of the Miner Memorial Library. The public is invited.
+
+![Marine Corps League Detachment 1253 In November 2023 at KCC](/uploads/2023/marine-corps-league-detach-1253-nov-2023-238x357-1.jpg "Marine-Corps-League-Detach-1253-Nov-2023-238x357"){: width="238" height="357"}
 
 Posting of the colors will be from the Marine Corps League Detachment 1253. The detachment will also be recognized during the ceremony.
 
@@ -25,7 +25,7 @@ In 2017, the Marine Corps League Detachment 1253 started a scholarship at KCC.
 
 At the ceremony, an update will be shared about the Mark Rodriguez Memorial Scholarship. Rodriguez, a Marine Corps veteran who attended KCC from 2015-18, helped found the KCC Veterans Resource Center and was an influential officer for the KCC Veterans Association. He passed away in February 2018. KCC awarded him an honorary degree in May 2018. A $500 annual scholarship is offered in his honor.
 
-The KCC Veterans Association is open to KCC students and staff who are military veterans, members of the military community, and supporters. It is an approved chapter of Student Veterans of America and SALUTE Veterans National Honor Society​.
+The [KCC Veterans Association](https://www.kcc.edu/student-resources/student-life/clubs/#veterans-association "KCC Veterans Association") is open to KCC students and staff who are military veterans, members of the military community, and supporters. It is an approved chapter of Student Veterans of America and SALUTE Veterans National Honor Society​.
 
 For more information, contact Souligne, at [ksouligne@kcc.edu](mailto:ksouligne@kcc.edu) or phone 815-802-8556. KCC is located at 100 College Drive, Kankakee.
 
