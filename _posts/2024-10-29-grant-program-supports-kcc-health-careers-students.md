@@ -52,7 +52,7 @@ Source: KCC records.
 
 **About this article**
 
-The Fall 2024 information series is sharing information ** ** about programs offered at Illinois community colleges, where community support can expand access to higher education and foster a skilled workforce.
+The Fall 2024 information series highlights programs offered at Illinois community colleges, where community support can expand access to higher education and foster a skilled workforce.
 
 **Week of Nov. 4:** Dual Credit - The community colleges of Illinois, including KCC, are leading the way as the primary providers of dual credit. Dual credit programs provide high school students the opportunity to earn credits towards their diploma and college degree while in high school.
 
