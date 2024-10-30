@@ -1,3 +1,5 @@
+@use '../0-tools/vars' as *;
+
 .page-heading { // This class is applied to h1 level headings
   color: $sub-nav-heading;
   font-family: $secondaryfont-stack;

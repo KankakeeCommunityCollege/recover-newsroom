@@ -1,3 +1,5 @@
+@use '../0-tools/vars' as *;
+
 .figures figcaption {
   color: $grey-1;
   font-family: $basefont-stack;
