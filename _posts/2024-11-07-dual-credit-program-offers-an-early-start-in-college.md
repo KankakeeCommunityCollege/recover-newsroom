@@ -4,7 +4,7 @@ date: 2024-11-07 16:40:42 -0600
 expire_date: 2024-12-07 00:00:00 -0600
 image: /uploads/2023/dualcredit-580x750.jpg
 news_image_alt: Local high school students in dual credit programs at KCC
-article_lead: Courses at KCC available for Illinois high school students
+article_lead: Illinois high school students can earn credits at KCC
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -25,7 +25,6 @@ Following are local and statewide statistics from Fiscal Year 2023 showing stude
 
 * Illinois community colleges offered a total of 14,638 dual credit courses.
 * More than 82,600 high school students enrolled in one or more community college dual credit courses during that time.
-
 * [High school students who take dual credit courses have substantially higher community college graduation rates and advancement rates than those students who did not enroll in dual credit coursework.]()
 * Through the dual credit program, KCC has estimated to save students more than $548,000 of tuition in Fiscal Year 2023.
 * KCC had 656 dual credit students from August 2022 to June 2023. They completed 3,754 credits. Of them, more than 150 students earned seven or more college credits.
