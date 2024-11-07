@@ -4,7 +4,7 @@ date: 2024-11-07 16:40:42 -0600
 expire_date: 2024-12-07 00:00:00 -0600
 image: /uploads/2023/dualcredit-580x750.jpg
 news_image_alt: Local high school students in dual credit programs at KCC
-article_lead: Illinois high school students can earn credits at KCC
+article_lead: High school students can earn credits at KCC
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
