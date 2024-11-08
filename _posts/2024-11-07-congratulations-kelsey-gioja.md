@@ -1,5 +1,5 @@
 ---
-title: 2024 KCC graduate receives PTK scholarship and award
+title: KCC grad receives PTK scholarship
 date: 2024-11-07 16:05:09 -0600
 expire_date: 2024-12-07 00:00:00 -0600
 image: /uploads/2023/kelseygioja-580x785.jpg
