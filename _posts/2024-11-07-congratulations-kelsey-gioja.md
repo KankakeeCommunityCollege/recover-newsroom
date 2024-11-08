@@ -1,5 +1,5 @@
 ---
-title: 2024 KCC graduate receives PTK scholarship and award
+title: KCC grad receives PTK scholarship
 date: 2024-11-07 16:05:09 -0600
 expire_date: 2024-12-07 00:00:00 -0600
 image: /uploads/2023/kelseygioja-580x785.jpg
@@ -29,6 +29,6 @@ Gioja now attends Taylor University, in Upland, Indiana.
 
 &nbsp;
 
-**Sidebar: About Phi Theta Kappa**
+**About Phi Theta Kappa**
 
 Phi Theta Kappa is the premier honor society recognizing the academic achievement of students at associate degree-granting colleges and helping them to grow as scholars and leaders. The honor society has more than 3.8 million members and nearly 1,300 chapters in 11 countries, with approximately 220,000 active members in the nation’s colleges. Learn more at [www.kcc.edu/student-resources/clubs/#phi-theta-kappa](http://www.kcc.edu/student-resources/clubs/#phi-theta-kappa).
