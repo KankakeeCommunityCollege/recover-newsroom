@@ -23,7 +23,7 @@ Kelsey Gioja, a 2024 KCC graduate from Watseka, earned the Reynolds Scholarship,
 
 The Nota Bene literary competition accepts entries from PTK members in the following categories: Poetry, Short stories, Essays, Drama, and Visual arts. Award recipients also have their works included in the **“**Nota Bene” anthology. Nota Bene is Latin for “note well.”
 
-The 30th edition of *Nota Bene* will be published later this fall. It will also be online at [www.ptk.org/nota-bene.](http://www.ptk.org/nota-bene.)
+The 30th edition of *Nota Bene* will be published later this fall. It will also be online at [www.ptk.org/nota-bene.](https://www.ptk.org/nota-bene.)
 
 Gioja now attends Taylor University, in Upland, Indiana.
 
@@ -31,4 +31,4 @@ Gioja now attends Taylor University, in Upland, Indiana.
 
 **About Phi Theta Kappa**
 
-Phi Theta Kappa is the premier honor society recognizing the academic achievement of students at associate degree-granting colleges and helping them to grow as scholars and leaders. The honor society has more than 3.8 million members and nearly 1,300 chapters in 11 countries, with approximately 220,000 active members in the nation’s colleges. Learn more at [www.kcc.edu/student-resources/clubs/#phi-theta-kappa](http://www.kcc.edu/student-resources/clubs/#phi-theta-kappa).
+Phi Theta Kappa is the premier honor society recognizing the academic achievement of students at associate degree-granting colleges and helping them to grow as scholars and leaders. The honor society has more than 3.8 million members and nearly 1,300 chapters in 11 countries, with approximately 220,000 active members in the nation’s colleges. Learn more at [www.kcc.edu/student-resources/clubs/#phi-theta-kappa](https://www.kcc.edu/student-resources/clubs/#phi-theta-kappa).
