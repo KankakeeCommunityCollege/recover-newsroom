@@ -36,7 +36,7 @@ In addition to Dual Credit, KCC also offers high school students opportunities t
 
 According to KCC information, some of the programs are not offered at all schools. Participating students must meet their school’s criteria for participating and receiving college credit. In addition, there might also be an application, documentation requirement and/or test fees depending on the program and the school’s policies.
 
-More information is at [www.kcc.edu/admissions/high-school/](http://www.kcc.edu/admissions/high-school/).
+More information is at [www.kcc.edu/admissions/high-school/](https://www.kcc.edu/admissions/high-school/).
 
 &nbsp;
 
