@@ -1,10 +1,10 @@
 ---
-title: Workforce Equity Initiative bridges workforce gaps in Illinois
+title: WEI bridges workforce gaps in Illinois
 date: 2024-11-12 16:56:51 -0600
 expire_date: 2024-12-12 00:00:00 -0600
 image: /uploads/2023/illinoiscommunitycollegelogo-580x650.png
-news_image_alt: For every student, for every community logo
-article_lead: Short-term training available for in-demand fields
+news_image_alt: For every student for every community logo
+article_lead: Training available for in-demand fields
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
