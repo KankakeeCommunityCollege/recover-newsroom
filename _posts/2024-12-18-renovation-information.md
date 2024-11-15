@@ -11,14 +11,14 @@ press_release: false
 ---
 A renovation project from December 2024 to June 2025 will affect first floor hallways on the northeast side of the Riverfront Campus.
 
-The renovation will update flooring and change KCC's former bookstore into a training room.
+The renovation will update flooring and change KCC’s former bookstore into a training room.
 
 One elevator, two staircases and one exterior doorway will be inaccessible.
 
 The alternate elevators closest to the one which is closed are:
 
 * Near the Welcome Center entrance of the Workforce Development Center (no access to the third floor)
-* \- In the center hallway of Workforce Development Center.
+* In the center hallway of Workforce Development Center.
 
 The alternate stairs closest to the ones which are closed are:
 
