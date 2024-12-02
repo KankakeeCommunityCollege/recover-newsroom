@@ -11,7 +11,7 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-![Image with a bird and the words &quot;The early bird gets the $$$ - FAFSA now available&quot;](/uploads/2023/fafsaearlybird-400x225-1.jpg "Image with a bird and the words &quot;The early bird gets the $$$ - FAFSA now available&quot;"){: width="400" height="225"}
+![](/uploads/2023/fafsaearlybird-400x225-2.jpg){: width="400" height="225"}
 {: .center-this-text}
 
 The [FAFSA Application Form](https://studentaid.gov/h/apply-for-aid/fafsa "FAFSA website"){: target="_blank" rel="noopener"} for 2025-2026 is now available!
