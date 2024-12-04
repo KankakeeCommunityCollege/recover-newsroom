@@ -3,7 +3,7 @@ title: Police Care Package Project a success
 date: 2024-12-04 15:43:19 -0600
 expire_date: 2025-01-01 00:00:00 -0600
 image: /uploads/2023/policecarepackages-580x700.jpg
-news_image_alt: Add descriptive text for the post's image
+news_image_alt: Volunteers pose with packed care packages for police officers
 article_lead: 450 boxes packed for police officers
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
