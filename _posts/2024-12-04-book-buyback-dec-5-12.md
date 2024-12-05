@@ -9,8 +9,10 @@ video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-The Hammes Bookstore will purchasing used books from KCC students Dec. 5 to Dec. 12.
+The Hammes Bookstore will purchase used books from KCC students Dec. 5 to Dec. 12.
 
 Cash will be given on the spot for eligible titles!
 
 Student ID is required.
+
+The Hammes Bookstore is on the first floor of the Riverfront Campus in Kankakee.
