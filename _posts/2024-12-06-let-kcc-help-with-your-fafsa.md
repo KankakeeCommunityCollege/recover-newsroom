@@ -1,7 +1,7 @@
 ---
 title: Let KCC help with your FAFSA
 date: 2024-12-06 10:33:34 -0600
-expire_date: 2024-12-06 10:33:34 -0600
+expire_date: 2025-02-19 00:00:00 -0600
 image: /uploads/2023/piggy-bank580x720.jpg
 news_image_alt: Piggy bank with a coin going in the slo
 article_lead: Free workshops!
