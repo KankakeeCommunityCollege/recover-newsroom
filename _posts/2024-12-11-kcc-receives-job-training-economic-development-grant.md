@@ -35,7 +35,7 @@ Boyd said KCC is committed to making sure participants can continue their educat
 
 For more information, or to apply for grant funds, visit [www.kcc.edu/workforceservices/wioa-scholarship/](http://www.kcc.edu/workforceservices/wioa-scholarship/).
 
-&nbsp;Sidebar:
+Sidebar:
 
 **CompTIA certifications**
 
