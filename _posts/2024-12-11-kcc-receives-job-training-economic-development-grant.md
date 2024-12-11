@@ -4,7 +4,7 @@ date: 2024-12-11 16:42:52 -0600
 expire_date: 2025-01-10 00:00:00 -0600
 image: /uploads/2023/manufacturing-580x730.jpg
 news_image_alt: A man working in the manufacturing industry
-article_lead: Resources for students in high-demand programs
+article_lead: Get started in programs for in-demand fields
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
@@ -35,9 +35,7 @@ Boyd said KCC is committed to making sure participants can continue their educat
 
 For more information, or to apply for grant funds, visit [www.kcc.edu/workforceservices/wioa-scholarship/](http://www.kcc.edu/workforceservices/wioa-scholarship/).
 
-&nbsp;
-
-Sidebar:
+&nbsp;Sidebar:
 
 **CompTIA certifications**
 
