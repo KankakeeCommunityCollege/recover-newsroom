@@ -13,7 +13,7 @@ Kankakee Community College has received a $390,000 Job Training Economic Develop
 
 The Illinois Department of Commerce and Economic Opportunity grant funds students’ tuition, fees, books and supplies, and assists with other expenses. It is available to students enrolled in manufacturing and information technology programs, industries where there are not enough local workers. Recipients must be between 18-24 years old.
 
-"This development grant invests in the future of our community," said Dr. Michael Boyd, KCC’s president. "By aligning our training programs with the needs of local employers and providing robust support services, we’re empowering our residents to build better futures for themselves and their families.”
+“This development grant invests in the future of our community,” said Dr. Michael Boyd, KCC’s president. “By aligning our training programs with the needs of local employers and providing robust support services, we’re empowering our residents to build better futures for themselves and their families.”
 
 KCC received the JTED grant because the college serves three communities—Kankakee, Hopkins Park and Pembroke—identified as part of the Illinois Restore, Reinvest, Renew initiative. Another factor for eligibility was having a workforce which could benefit from learning the skills needed to fill family-sustaining jobs in emerging sectors.
 
@@ -25,7 +25,7 @@ Carlson added that the program adds value because it allows students “to offse
 
 Programs eligible for funding include advanced manufacturing, information technology support, web development, and welding. KCC’s has options for industry-recognized credentials in PC support, Java software development, manufacturing production, and welding.
 
-Grant recipients will receive personalized career planning and assessments. Services will include financial literacy education, digital literacy, job search assistance, transportation, and childcare support. Students will work with KCC's career planners to outline their goals, identify necessary training, and develop strategies for overcoming obstacles to employment.
+Grant recipients will receive personalized career planning and assessments. Services will include financial literacy education, digital literacy, job search assistance, transportation, and childcare support. Students will work with KCC’s career planners to outline their goals, identify necessary training, and develop strategies for overcoming obstacles to employment.
 
 **“**The JTED grant aligns with KCC’s long-standing mission to serve as an anchor institution for economic development in the region,” Boyd said. “The college is committed to addressing educational disparities and supporting the local workforce in adapting to a rapidly changing job market.”
 
@@ -51,3 +51,5 @@ Kankakee Community College offers training and certification exams from CompTIA�
 In-person and online/self-paced options are available. All students have 12-month access to CompTIA online content.
 
 New students can get started at [https://itcert.kcc.edu/](https://itcert.kcc.edu/).
+
+Photo by [Danial Abdullah](https://www.pexels.com/photo/man-welding-on-gray-metal-sheet-2480481/){: target="_blank" rel="noopener"} on [Pexels](https://www.pexels.com){: target="_blank" rel="noopener"}.
