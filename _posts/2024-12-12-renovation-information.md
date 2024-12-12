@@ -1,7 +1,7 @@
 ---
 title: Renovation information
 date: 2024-12-12 15:04:29 -0600
-expire_date: 2024-12-12 15:04:29 -0600
+expire_date: 2025-06-27 00:00:00 -0500
 image: /uploads/2023/construction-progress-580x726.jpg
 news_image_alt: Construction graphic
 article_lead: Projects underway until July 2025
@@ -24,12 +24,12 @@ To see affected areas on the first floor, [view the map](https://www.kcc.edu/abo
 * The stairs and elevator are available for travel between the second and third floors. Nearby alternates:
 
   **2nd floor access – Nearby alternates**
-  * Elevator/stairs near the Welcome Center entrance of the Workforce Development Center.
-  * Elevator/stairs in the center hallway of Workforce Development Center.
+  \* Elevator/stairs near the Welcome Center entrance of the Workforce Development Center.
+  \* Elevator/stairs in the center hallway of Workforce Development Center.
 
   **3rd floor access – Nearby alternates**
-  * Elevator/stairs in the center hallway of Workforce Development Center.
-  * Stairs next to the College Center, near the north end of the Workforce Development Center.
+  \* Elevator/stairs in the center hallway of Workforce Development Center.
+  \* Stairs next to the College Center, near the north end of the Workforce Development Center.
 
 **L Building, 3rd floor**
 
