@@ -1,6 +1,6 @@
 ---
 title: Funds available for career training
-date: 2024-12-11 16:42:52 -0600
+date: 2024-12-11 04:42:00 -0600
 expire_date: 2025-02-28 00:00:00 -0600
 image: /uploads/2023/welding-580x725.jpg
 news_image_alt: Welder
