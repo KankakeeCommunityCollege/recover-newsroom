@@ -1,15 +1,15 @@
 ---
-title: KCC receives Job Training Economic Development grant
+title: Funds available for career training
 date: 2024-12-11 16:42:52 -0600
-expire_date: 2025-01-10 00:00:00 -0600
-image: /uploads/2023/manufacturing-580x730.jpg
-news_image_alt: A man working in the manufacturing industry
-article_lead: Get started in programs for in-demand fields
+expire_date: 2025-02-28 00:00:00 -0600
+image: /uploads/2023/welding-580x725.jpg
+news_image_alt: Welder
+article_lead: Grants available for in-demand fields
 video_content: false
 video_link: https://youtu.be/4d2LkGjg5bM
 press_release: false
 ---
-Kankakee Community College has received a $390,000 Job Training Economic Development (JTED) grant for students in its manufacturing, information technology and welding programs.
+![welder](/uploads/2023/weld206x258.jpg "Welder"){: width="206" height="258"}Kankakee Community College has received a $390,000 Job Training Economic Development (JTED) grant for students in its manufacturing, information technology and welding programs.
 
 The Illinois Department of Commerce and Economic Opportunity grant funds students’ tuition, fees, books and supplies, and assists with other expenses. It is available to students enrolled in manufacturing and information technology programs, industries where there are not enough local workers. Recipients must be between 18-24 years old.
 
@@ -35,11 +35,9 @@ Boyd said KCC is committed to making sure participants can continue their educat
 
 For more information, or to apply for grant funds, visit [www.kcc.edu/workforceservices/wioa-scholarship/](http://www.kcc.edu/workforceservices/wioa-scholarship/).
 
-Sidebar:
+**CompTIA certifications at KCC**
 
-**CompTIA certifications**
-
-Kankakee Community College offers training and certification exams from CompTIA®. It’s the starting point for a career in information technology. Students can progress through several options:
+KCC offers training and certification exams from CompTIA®. It’s the starting point for a career in information technology. Students can progress through several options:
 
 * CompTIA Tech+
 * CompTIA A+ Core 1
@@ -49,5 +47,3 @@ Kankakee Community College offers training and certification exams from CompTIA�
 In-person and online/self-paced options are available. All students have 12-month access to CompTIA online content.
 
 New students can get started at [https://itcert.kcc.edu/](https://itcert.kcc.edu/).
-
-Photo by [Danial Abdullah](https://www.pexels.com/photo/man-welding-on-gray-metal-sheet-2480481/){: target="_blank" rel="noopener"} on [Pexels](https://www.pexels.com){: target="_blank" rel="noopener"}.
