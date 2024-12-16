@@ -23,13 +23,9 @@ To see affected areas on the first floor, [view the map](https://www.kcc.edu/abo
 * One elevator, two staircases and one exterior doorway will be closed on the first floor.
 * The stairs and elevator are available for travel between the second and third floors. Nearby alternates:
 
-  **2nd floor access – Nearby alternates**
-  \* Elevator/stairs near the Welcome Center entrance of the Workforce Development Center.
-  \* Elevator/stairs in the center hallway of Workforce Development Center.
+  **2nd floor access – Nearby alternates** \* Elevator/stairs near the Welcome Center entrance of the Workforce Development Center. \* Elevator/stairs in the center hallway of Workforce Development Center.
 
-  **3rd floor access – Nearby alternates**
-  \* Elevator/stairs in the center hallway of Workforce Development Center.
-  \* Stairs next to the College Center, near the north end of the Workforce Development Center.
+  **3rd floor access – Nearby alternates** \* Elevator/stairs in the center hallway of Workforce Development Center. \* Stairs next to the College Center, near the north end of the Workforce Development Center.
 
 **L Building, 3rd floor**
 
@@ -42,6 +38,6 @@ To see affected areas on the first floor, [view the map](https://www.kcc.edu/abo
 * The first floor hallway will remain open.
 * Other second floor classrooms will not be affected.
 
-We appreciate for your patience and understanding during this construction project.
+We appreciate your patience and understanding during this construction project.
 
 &nbsp;
