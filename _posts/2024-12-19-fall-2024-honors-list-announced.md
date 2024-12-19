@@ -20,7 +20,7 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Bourbonnais:** Evan Aarns, Olivia Alejandro, Paul Allegro, Giovanni Andrade, Mark Argyelan, Cooper Austiff, Daniel Bagg, Lillian Betourne, Tiana Binion, Jackson Binner, Trey Blanchette, Daisy Broling, Marguerite Brown, Yajaira Bryan, Cynthia Burgess, Pierce Cailteux, Benjamin Carlile, Chloe Coddens, Justino Cortez, Ashlynn Dahl, Drake DeYoung, Claire Drake, Aidan Exton, Gianna Fasanoyoung, Luis Ferreira, Robert Fetterer, Cara Fletcher, Alexis Garcia, Daniel Garcia, Isabelle Garcia, Addyson Goselin, William Heil, Josephine Hodak, Chloe Hofer, Nicholas Hubert, Kaiden Hunt, Ashley Jensen, Madesyn Jimenez, Micah Jones, Hailey Keast, Keegan Klipp, Luke Laney, Sydney Laue, Keira Lawrence, Addison Lombardi, Carson Long, Addison McCrary, Benjamin Minor, Michael Miramontes, Gwendolyn Moran, Ava Mossop, Cal Mulder, Vivian Myrick, Gabrielle Neely, Jonah Nichols, Kaitlin Palinski, Krystal Patti-Tezak, Ethan Peterson, Julissa Pizano-Calderon, Isabelle Prendergast, Logan Rattin, Darionna Ross, Lillian Sacks, Madison Scalise, Weston Sendra, Samuel Shimmin, Boston Soucy, Abigail Spencer, Sean Storer, Jori Studer, Trevor Syer, Kailie Thomson, Ethan Turner, Easton Urban, Benjamin Verrill, Ryan Wehrle, Cayla Wheeler, Sydney Wilkey, Whitney Williams and Jarret Woolman.
 * **Bradley:** Jeremiah Bennett, Jessica DeMark, Jeffery Ford, Maxwell Fortin, Zeiri Garduno, Isaac Hendrix, Domonique Joyner, Jolie Keith, Ethan Long, Holden McMullen, Kassidy Mickler, McKenna Mullins, Reigan Muniz, Mason Neal, Emilia Ordaz, Dalton Pearson, Katelyn Pierandozzi, Andrea Pineda Caballero, Isabel Quiroz, Alyxandria Rivera, Robert Sylvester, Bradley Wendling and Morgan Workman.
 
-![KCC student Emilia Ordaz](/uploads/2023/fa24honors-emiliaordaz-400x267.jpg "KCC student Emilia Ordaz"){: width="400" height="267"}
+![KCC student Emilia Ordaz of Bradley](/uploads/2023/fa24honors-emiliaordaz-400x267.jpg "KCC student Emilia Ordaz of Bradley"){: width="400" height="267"}
 {: .center-this-text}
 
 * **Brimfield:** Ava Simpson.
@@ -48,7 +48,7 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Martinton:** Kendahl Carlson, Joshua Gladu, McKenna Meli and Carter Ponton.
 * **Milford:** Jace Boyer, Mikayla Hand, Caleb Henning, Mattison Johnson, Kaydence Kuester and Genevieve Woods.
 
-![KCC student Robert Rogers](/uploads/2023/fa24honors-robertrogers-400x266.jpg "KCC student Robert Rogers"){: width="400" height="266"}
+![KCC student Robert Rogers of Momence](/uploads/2023/fa24honors-robertrogers-400x266.jpg "KCC student Robert Rogers of Momence"){: width="400" height="266"}
 {: .center-this-text}
 
 * **Momence:** LaShandra Adams, Maria Berrones, Lauren Bishir, Jessica Hoffmann, Alexander Jaramillo, Alan Lopez, Laela Lopez, LaParis Rodgers, Robert-John Rogers, Keegan Thompson and Kaylee VanSwol.
