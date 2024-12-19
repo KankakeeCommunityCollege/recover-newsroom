@@ -58,14 +58,14 @@ To be named to the Honors List, a student must maintain a grade point average be
 * **Sun River Terrace:** Andrea Thompson.
 * **Union Hill:** Amy Grady.
 * **Watseka:** Brandon Adams, Valeria Avalos, Desiray Benson, Natalee Bruens, Skyla Buwalda, Caden Curtis, Jazmin Esquivel, Kaylie Lange, Jason Maldonado, Haven Maple, Shiloh Marsh, Haylie Peck, Abby Quick, Siara Sansone, Joel Walker and Gracie-Ann Yates.
-* **Naples, Fla.:** Gerkoby Christopher.
-* **Mableton, Ga.:** Khylan McKennie.
-* **Stockbridge, Ga.:** Jeremiah Edwards.
-* **Cedar Lake, Ind.:** Brittany Treacy.
-* **Hebron, Ind.:** Jackson Peeler.
-* **Indianapolis, Ind.:** John Calmes.
-* **Roann, Ind.:** Kolton Floor.
-* **Las Vegas, Nev.:** Christian Martin-Johnson.
-* **Roanoke, Va.:** Jamonte Smith.
-* **Beloit, Wis.:** Mariya Balilius.
+* **Naples, Florida.:** Gerkoby Christopher.
+* **Mableton, Georgia:** Khylan McKennie.
+* **Stockbridge, Georgia:** Jeremiah Edwards.
+* **Cedar Lake, Indiana:** Brittany Treacy.
+* **Hebron, Indiana:** Jackson Peeler.
+* **Indianapolis, Indiana:** John Calmes.
+* **Roann, Indiana:** Kolton Floor.
+* **Las Vegas, Nevada.:** Christian Martin-Johnson.
+* **Roanoke, Virginia.:** Jamonte Smith.
+* **Beloit, Wisconsin:** Mariya Balilius.
 * **Saskatoon, Saskatchewan, Canada:** Dylann Rambally.
