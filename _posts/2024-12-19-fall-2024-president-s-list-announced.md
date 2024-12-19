@@ -33,6 +33,10 @@ To be named to the President’s List, a student must maintain a grade point ave
 * **Gilman:** Antonio Diaz, Elia Diaz Varela, Noah Manning and Luke Witvoet.
 * **Grant Park:** Owen Bramer, Grace Fick and Leticia Leon.
 * **Herscher:** Kennedi Huston, Riya Patel, Brooke Siedentop and Justin Wagner.
+
+![KCC student Javier Perez of Kankakee](/uploads/2023/fa24preslist-javierperez-400x267.jpg "KCC student Javier Perez of Kankakee"){: width="400" height="267"}
+{: .center-this-text}
+
 * **Kankakee:** Guadalupe Almanza, Guadalupe Alvarado, Brandon Archer, Robert Archer, Karen Arenas-Cintora, Elizabeth Avalos, Laura Bell, Jacqueline Bonds, Albert Boudreau, Devin Bradford, Kayla Bretveld, Emily Campos Camargo, Ahmarai Chavez, Meredith Cortes Reynoso, Christopher Cox, Kyle Dams, Donald Devine, Bryant Edwards, Delanie Fay, Aidan Fields, Gabriella Fuentes, Andrea Gallardo, Gerardo Galvez, Aidan Gray, Marley Green, Ivan Guerrero, Paiton Hatch, Emma Haugen, Claire Howard, Madisyn Jacobs, Rachel Johnson, Riley Jones, Preston King, Aislee Klups, Aaron Knupp, Ashley Koenig, Elijah LaMie, Isaac LaMie, Jonathan Lang, LaLayla Lee, Abrianna Lewis-Britton, Gladys Luna, Maya Mackey, Brianna Malone, Laney McCue, Jessica Merrill, Hugo Miguel Palacios, Yolanda Miguel-Palacios, Dylan Miller, Faviola Moreno, Stuart Morlan, Trent Owens, Charli Palmateer, Ashley Perez, Javier Perez, Mailla Phillips-Lawrence, Lesli Pizano, Magen Planeta, Payton Provost, Fabiana Ramirez Hurtado, Rebecca Reiniche, Roberto Reyes, Brenda Rubi Robert Obil, Conner Robinson, Bianca Rodriguez, Micaela Ryan, Lexi Salazar, Logan Schejbal, Dominique Schultz, Brandaya Spencer, William Spiese, Jessica Stano, Kewanda Steele, Darcy Stomberg, John Strange, Nataysia Tanzie, Vicki Taylor, Renee Turrell, Patricia Tymec, Guadalupe Valdez Cruz, Heather Versetto, Dominique Wells, Camryn Westfall, Christopher Williams, Katie Young and Leslie Zavala Gonzalez.
 * **Manteno:** Nolan Aicher, Steven Doig, Trent Goad, Madisen Hall, Jeffrey Hannah, Michael Heaney, Ryan Heppe, Drew Hosselton, Haley Kazlauskas, Charles Kehoe, Elizabeth Kirkpatrick, Maci Kramerich, Tayler Kressin, Kaleb Lanoue, Marina Leanos, Emma Masterson, Shannon Meaney, Lydia Nugent, Meghan Price, Abigail Purcell, Luis Quiles, Salomon Rodriguez, Miranda Rogers, Joshua Rose, Grant Smith, Jacob Smithson, Remington Stewart and Christopher Ziegle.
 * **Martinton:** Yahir Andrade Lopez and Meadow Sala.
@@ -44,6 +48,10 @@ To be named to the President’s List, a student must maintain a grade point ave
 * **Peotone:** Cassidy Novak.
 * **Piper City:** Akeishia Odette and Allison Schuette.
 * **Saint Anne:** Gianna Beaupre, Tyler Bowen, Logan Chase, Abraham Daily, Taylor DeYoung, Jennifer Garrett, Kylie Maas, Nigel Mills, Michael Savoie, Katelyn Torstrick and Lauren VanDrunen.
+
+![KCC student Gladys Dixon-Hampton of Pembroke Township](/uploads/2023/fa24preslist-gladysdixonhampton-400x267.jpg "KCC student Gladys Dixon-Hampton of Pembroke Township"){: width="400" height="267"}
+{: .center-this-text}
+
 * **Sheldon:** Madison DeMarse, Gerard Gonzales and Jennifer Pierce.
 * **Steger:** Allison Perez.
 * **Sun River Terrace:** Blake Mack.
