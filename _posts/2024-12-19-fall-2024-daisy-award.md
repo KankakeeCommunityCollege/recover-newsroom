@@ -14,7 +14,7 @@ Bryana Novoa, a 2024 graduate of the registered nursing program at Kankakee Comm
 ![Fall 2024 DAISY Award® recipient Bryana Novoa](/uploads/2023/bryananovoa-350x437.jpg "Fall 2024 DAISY Award® recipient Bryana Novoa"){: width="350" height="437"}
 {: .center-this-text}
 
-The annual award is part of the DAISY Foundation's mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
+The annual award is part of the DAISY Foundation’s mission to express gratitude to nurses with programs that recognize them for the extraordinary, compassionate and skillful care they provide patients and families.
 
 Novoa, a Bourbonnais resident, was nominated by her clinical instructor, Pat Bukowski, then chosen by a committee at KCC. The award was presented on Dec. 12 at KCC’s Registered Nursing program pinning ceremony.
 
