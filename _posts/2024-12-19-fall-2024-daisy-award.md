@@ -34,8 +34,6 @@ LPNs also can apply for advanced placement into KCC’s registered nursing progr
 
 For information about entry requirements, consult with a KCC advisor or contact the program director, Jennifer Rogers at [jrogers@kcc.edu](mailto:jrogers@kcc.edu) or phone 815-802-8828.
 
-**Sidebar:**
-
 **About The DAISY Foundation**
 
 The DAISY Foundation is a not-for-profit organization, established in memory of J. Patrick Barnes, by members of his family. Patrick died at the age of 33 in late 1999 from complications of Idiopathic Thrombocytopenic Purpura (ITP), a little known but not uncommon auto-immune disease. (DAISY is an acronym for Diseases Attacking the Immune System.) The care Patrick and his family received from Nurses while he was ill inspired the creation of The DAISY Award for Extraordinary Nurses, an evidenced-based means of providing nurse recognition and thanking nurses for making a profound difference in the lives of their patients and patient families.
