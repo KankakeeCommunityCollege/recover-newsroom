@@ -17,8 +17,8 @@ KCC is offering workshops for students and their parents to get assistance filli
 * [Tuesday, Jan. 21](https://tockify.com/kankakeecc/detail/1746/1737504000000 "Jan. 21 event"){: target="_blank" rel="noopener"}, KCC Room M120
 * [Thursday, Jan. 23](https://tockify.com/kankakeecc/detail/1748/1737676800000 "Jan. 23 event"){: target="_blank" rel="noopener"}, KCC South Extension Center in Watseka
 * [Tuesday, Feb. 18](https://tockify.com/kankakeecc/detail/1747/1739923200000 "Feb. 18 event"){: target="_blank" rel="noopener"}, KCC Room M120
-* Jueves 20 de febrero de 6-8 p.m., salon de clase numero D122 (en español)
-* Jueves 20 de marzo de 6-8 p.m., salon de clase numero D122 (en español)
+* [Jueves 20 de febrero](https://tockify.com/kankakeecc/detail/1788/1740096000000 "KCC ofrece ayuda financiera"){: target="_blank" rel="noopener"} de 6-8 p.m., salon de clase numero D122 (en español)
+* [Jueves 20 de marzo](https://tockify.com/kankakeecc/detail/1789/1742511600000 "KCC ofrece ayuda financiera"){: target="_blank" rel="noopener"} de 6-8 p.m., salon de clase numero D122 (en español)
 
 Experts from KCC’s Office of Financial Aid will help people get their FAFSA done at the event.
 
