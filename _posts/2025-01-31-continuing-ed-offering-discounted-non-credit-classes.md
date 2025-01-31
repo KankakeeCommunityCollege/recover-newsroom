@@ -1,5 +1,5 @@
 ---
-title: Continuing Ed. offering discounted non-credit classes
+title: Discounted continuing education classes
 date: 2025-01-31 11:34:54 -0600
 expire_date: 2025-04-30 00:00:00 -0500
 image: /uploads/2023/conedlogo-580x700.png
